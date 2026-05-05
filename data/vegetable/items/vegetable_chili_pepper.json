@@ -1,0 +1,90 @@
+{
+  "id": "vegetable_chili_pepper",
+  "sku_id": "card_vegetable_chili_pepper",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_red",
+      "pepper_vegetable"
+    ],
+    "secondary": [
+      "spicy",
+      "long",
+      "crisp"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "red"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "spicy"
+    ],
+    "grow_location": [
+      "on_plant"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "细尖椒",
+      "aloud": "xì jiān jiāo",
+      "words": "chili pepper",
+      "intro": "细尖椒是一种红红的蔬菜，长长的，味道辣辣的。它长在辣椒苗上，可以用来炒菜哦。",
+      "story": {
+        "title": "🌶️小辣椒红红",
+        "body": "菜园里住着一根小辣椒，名字叫红红。红红每天晒太阳，变得越来越红，越来越精神。有一天，一只小鸟飞过来，问红红：“你愿不愿意跟我去看看外面的世界呀？”红红高兴地跳上小鸟的背。小鸟带着红红飞过田野，飞过小河，最后来到一座大房子前。房子里有个小哥哥，正在帮妈妈做饭。小鸟把红红放到厨房窗台上，小哥哥看到了，惊呼：“好红的小辣椒呀！”妈妈笑着说：“它很辣哦，长大了才能吃。”红红听了，骄傲地挺起腰，它知道有一天会成为一盘香喷喷的菜。晚上，红红在窗台上数星星，想着远方的菜园，心里暖暖的。"
+      },
+      "knowledge": {
+        "title": "辣椒辣辣的，有什么好处？",
+        "body": "辣椒里有很多维生素，能让我们的身体更健康。不过辣椒很辣，小朋友的嘴巴还受不了，要等长大一点再慢慢尝试哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_chili_pepper_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_chili_pepper_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Chili Pepper",
+      "aloud": "/ˈtʃɪli ˈpɛpər/",
+      "words": "",
+      "intro": "A chili pepper is a red vegetable that is long and tastes spicy. It grows on a plant and is often used in cooking.",
+      "story": {
+        "title": "🌶️Red the Little Chili",
+        "body": "In the garden lived a little chili pepper named Red. Every day, Red bathed in the sun, growing redder and more lively. One day, a bird flew by and asked, 'Would you like to see the world with me?' Red happily hopped onto the bird's back. The bird flew over fields and rivers until they reached a big house. Inside, a little boy was helping his mom cook. The bird set Red on the kitchen windowsill, and the boy exclaimed, 'What a red chili!' His mom smiled and said, 'It's very spicy — you can try it when you're older.' Red stood tall with pride, knowing one day it would be part of a delicious dish. That night, Red counted stars on the windowsill, thinking of the faraway garden, feeling warm inside."
+      },
+      "knowledge": {
+        "title": "Why is chili pepper good even if it's spicy?",
+        "body": "Chili peppers have lots of vitamins that help keep our bodies healthy. But they are very spicy, so little ones should wait until they are older to try them!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_chili_pepper_intro.mp3",
+        "story": "../item-audio/en/vegetable_chili_pepper_story.mp3"
+      }
+    }
+  }
+}

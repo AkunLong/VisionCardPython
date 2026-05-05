@@ -1,0 +1,89 @@
+{
+  "id": "object_glass",
+  "sku_id": "card_object_glass",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "tableware",
+      "color_white"
+    ],
+    "secondary": [
+      "at_home",
+      "at_table",
+      "round"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "white"
+    ],
+    "shape": [
+      "round"
+    ],
+    "material": [
+      "glass"
+    ],
+    "scenes": [
+      "home",
+      "kitchen",
+      "table"
+    ],
+    "function": [
+      "hold_liquid"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "玻璃杯",
+      "aloud": "bō li bēi",
+      "words": "glass",
+      "intro": "玻璃杯是透明的杯子，我们可以用它喝水、喝牛奶。它很光滑，要小心拿好，不要摔碎哦。",
+      "story": {
+        "title": "🥛小玻璃杯的第一次",
+        "body": "小玻璃杯一直住在厨房的柜子里，它好想出去看看。一天早上，妈妈打开柜门，把它拿到阳光下。小玻璃杯亮闪闪的，像宝石一样。妈妈把它放在宝宝的小餐桌上。宝宝看到它，高兴地拍手：‘哇，好漂亮！’妈妈倒进热乎乎的牛奶，小玻璃杯的肚子变得暖暖的。宝宝小心地捧起它，喝了一口，嘴巴上沾了一圈白胡子，大家都笑了。小玻璃杯觉得好幸福。可是牛奶喝完后，宝宝想自己放回去，却不小心碰倒了它。小玻璃杯在桌上滚起来，差点摔到地上。妈妈赶忙扶住，轻声说：‘玻璃杯很脆，我们要轻轻地放下它。’宝宝点点头，学会了。以后每次，宝宝都小心地拿，轻轻地放。小玻璃杯再也没摔过，它最喜欢和宝宝一起的早餐时光了。看着宝宝的笑脸，小玻璃杯心里甜甜的，它觉得能够被温柔地使用，真是一件幸福的事。"
+      },
+      "knowledge": {
+        "title": "玻璃杯是用什么做的？",
+        "body": "玻璃杯是用玻璃做的，玻璃是透明的，所以能看见里面的水。它很光滑，但容易打碎，所以拿的时候要特别小心。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_glass_intro.mp3",
+        "story": "../item-audio/zh-CN/object_glass_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Glass",
+      "aloud": "/ɡlæs/",
+      "words": "",
+      "intro": "A glass is a clear cup. We can use it to drink water and milk. It is smooth, so hold it carefully.",
+      "story": {
+        "title": "🥛Little Glass's First Day",
+        "body": "Little Glass had always lived in the kitchen cupboard, and it wanted to see the world. One morning, Mommy opened the cupboard and took it out into the sunlight. Little Glass sparkled like a jewel. Mommy placed it on the baby's small dining table. The baby saw it and clapped happily, 'Wow, so pretty!' Mommy poured warm milk inside, and Little Glass's tummy felt cozy. The baby held it carefully, took a sip, and got a white milk mustache—everyone laughed. Little Glass felt so happy. But after the milk was gone, the baby tried to put it back and accidentally knocked it over. Little Glass rolled on the table and nearly fell to the floor. Mommy quickly caught it and said softly, 'Glass is fragile, we must put it down gently.' The baby nodded and learned. From then on, the baby always held it carefully and put it down softly. Little Glass never fell again, and it loved breakfast time with the baby most of all. Seeing the baby's smiling face, Little Glass felt sweet inside. It thought being used so gently was truly a happy thing."
+      },
+      "knowledge": {
+        "title": "What is a glass made of?",
+        "body": "A glass cup is made of glass. Glass is clear, so you can see the liquid inside. It is smooth but breaks easily, so always hold it carefully."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_glass_intro.mp3",
+        "story": "../item-audio/en/object_glass_story.mp3"
+      }
+    }
+  }
+}

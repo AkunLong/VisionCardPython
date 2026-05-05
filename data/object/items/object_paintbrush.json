@@ -1,0 +1,92 @@
+{
+  "id": "object_paintbrush",
+  "sku_id": "card_object_paintbrush",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "study_item",
+      "long"
+    ],
+    "secondary": [
+      "can_draw",
+      "safe",
+      "at_home"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "brown",
+      "multicolor"
+    ],
+    "shape": [
+      "long",
+      "slender"
+    ],
+    "material": [
+      "wood",
+      "bristle"
+    ],
+    "scenes": [
+      "home",
+      "school"
+    ],
+    "function": [
+      "draw",
+      "paint"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "画笔",
+      "aloud": "huà bǐ",
+      "words": "paintbrush",
+      "intro": "画笔是画画的好帮手，它有长长的笔杆和软软的刷毛，蘸上颜料就能画出五颜六色的图画。",
+      "story": {
+        "title": "小画笔的梦想",
+        "body": "小画笔躺在笔筒里，看着窗外的小鸟用翅膀在天空中画画，心里可羡慕了。它想：“要是我也能画出美丽的图画，那该多好呀！”有一天，小朋友小明走进房间，拿起它，轻轻蘸了蘸红红的颜料。小画笔在纸上跳起舞来，一个又大又圆的太阳就出现了！它又蘸了蓝色，画出了蓝蓝的天空；蘸了绿色，画出了嫩嫩的小草；蘸了黄色、粉色、紫色，画出了五彩缤纷的花园。小明拍手笑道：“小画笔，你太厉害啦！我们一起画的画真漂亮。”小画笔开心地说：“原来和大家合作，梦想就能成真！”从那天起，小画笔再也不孤单了，它每天都和小明一起创造新的图画，生活充满了色彩和欢笑。"
+      },
+      "knowledge": {
+        "title": "画笔的刷毛是用什么做的？",
+        "body": "画笔的刷毛通常用动物毛（如羊毛）或人造纤维制成。动物毛柔软，能吸很多颜料；人造纤维有弹性，耐用。刷毛让颜料均匀铺开，画出平滑的线条和美丽的颜色。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_paintbrush_intro.mp3",
+        "story": "../item-audio/zh-CN/object_paintbrush_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Paintbrush",
+      "aloud": "/ˈpeɪnt.brʌʃ/",
+      "words": "",
+      "intro": "A paintbrush is a tool for painting. It has a long handle and soft bristles that can hold paint and make colorful pictures.",
+      "story": {
+        "title": "The Little Paintbrush's Dream",
+        "body": "Once there was a little paintbrush who lived in a pencil holder. He watched the birds painting the sky with their wings and wished he could paint something beautiful too. One day, a boy named Tom picked him up. He dipped into red paint and made a big, bright sun on the paper. The paintbrush was so happy! Then he dipped into blue and painted the sky, green for the grass, and many colors for a garden full of flowers. Tom clapped and said, \"Little paintbrush, you are wonderful! Look at the lovely picture we made together.\" The paintbrush smiled and thought, \"Dreams come true when we work together!\" From then on, the little paintbrush and Tom painted every day, filling their world with color and joy."
+      },
+      "knowledge": {
+        "title": "What are the bristles of a paintbrush made of?",
+        "body": "The bristles of a paintbrush are usually made from animal hair, like goat or pony hair, or from synthetic fibers. Animal hair is soft and holds plenty of paint, while synthetic fibers are springy and long-lasting. The bristles help spread the paint smoothly and create nice lines and colors."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_paintbrush_intro.mp3",
+        "story": "../item-audio/en/object_paintbrush_story.mp3"
+      }
+    }
+  }
+}

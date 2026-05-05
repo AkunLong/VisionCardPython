@@ -1,0 +1,94 @@
+{
+  "id": "transport_school_bus",
+  "sku_id": "card_transport_school_bus",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "special_vehicle",
+      "road_vehicle"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_carry_people",
+      "color_yellow"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "school_bus"
+    ],
+    "color": [
+      "yellow"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "road",
+      "school",
+      "neighborhood"
+    ],
+    "fuel": [
+      "diesel"
+    ],
+    "features": [
+      "many_seats",
+      "wheels",
+      "stop_sign"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "校车",
+      "aloud": "xiào chē",
+      "words": "school bus",
+      "intro": "校车是一辆特别的车，每天接送小朋友上下学。它穿着亮黄色的衣服，开在路上大家都能看见它，很安全。",
+      "story": {
+        "title": "🚌小黄校车的一天",
+        "body": "早上，小黄校车出发去接小朋友。第一站接小明，他妈妈挥手再见。第二站接小花，她带着小熊玩偶。第三站接小刚，他今天带了新书包。校车一路唱歌，开到了幼儿园。老师在校门口迎接，小朋友们开心地跑下车。下午放学，小黄校车又把小朋友们送回家。到家后，小黄校车说：今天又安全接送了小朋友们，真开心！然后它停在车库，等着明天。"
+      },
+      "knowledge": {
+        "title": "为什么要坐校车？",
+        "body": "校车专门接送小朋友，很安全。它亮黄色的车身和停牌让其他车注意，这样小朋友上下车时不会发生危险。而且小朋友们一起坐校车，路上可以唱歌聊天，特别开心。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_school_bus_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_school_bus_story.mp3"
+      }
+    },
+    "en": {
+      "name": "School Bus",
+      "aloud": "/ˈskuːl bʌs/",
+      "words": "",
+      "intro": "A school bus is a special bus that takes children to and from school. It is bright yellow and very safe. It stops for children and other cars wait when its red lights flash.",
+      "story": {
+        "title": "🚌The Little Yellow School Bus's Day",
+        "body": "Early in the morning, the little yellow school bus set off. At the first stop, it picked up Ming. His mom waved goodbye. At the second stop, it picked up Hua, who brought her teddy bear. At the third stop, it picked up Gang, who had a new backpack. The bus drove along, singing all the way to the kindergarten. The teacher waited at the gate, and the children ran off happily. In the afternoon, the bus took them back home. After finishing, the little school bus said, 'Today I took the children safely again. What a happy day!' Then it parked in the garage, waiting for tomorrow."
+      },
+      "knowledge": {
+        "title": "Why do we ride the school bus?",
+        "body": "The school bus is made just for children, so it's very safe. Its bright yellow color and stop sign let other cars know to be careful. When the red lights flash, all cars must stop so children can get on and off safely. And riding together is fun — you can sing songs and chat with friends!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_school_bus_intro.mp3",
+        "story": "../item-audio/en/transport_school_bus_story.mp3"
+      }
+    }
+  }
+}

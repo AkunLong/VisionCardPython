@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_lettuce",
+  "sku_id": "card_vegetable_lettuce",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "leafy_vegetable"
+    ],
+    "secondary": [
+      "crisp",
+      "healthy",
+      "in_garden"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "crisp",
+      "sweet"
+    ],
+    "grow_location": [
+      "ground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "生菜",
+      "aloud": "shēng cài",
+      "words": "lettuce",
+      "intro": "生菜是一种绿色的蔬菜，叶子脆脆的，吃起来有点甜。它长在地面上，像一朵绿色的大花。",
+      "story": {
+        "title": "🥬小兔子的生菜沙拉",
+        "body": "小兔子在菜园里种了一排生菜。每天浇水，生菜长得绿油油的，像一朵朵大花。一天，小兔子摘了几片叶子，放在篮子里。它想做沙拉。小兔子把生菜洗得干干净净，撕成小块，放进大碗里。小松鼠来了，问：“你在做什么呀？”小兔子说：“我在做生菜沙拉，可好吃了！”小松鼠也想吃，它们一起加了番茄和黄瓜，拌上沙拉酱。啊呜一口，又脆又甜！小松鼠说：“生菜真好吃，我也要种！”小兔子开心极了，两个好朋友一起在菜园里种了更多生菜。"
+      },
+      "knowledge": {
+        "title": "吃生菜有什么好处？",
+        "body": "生菜有很多水分和维生素，吃了能让身体更有力气，还能帮助消化。而且生菜可以生吃、炒着吃，怎么做都清爽好吃！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_lettuce_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_lettuce_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Lettuce",
+      "aloud": "/ˈletɪs/",
+      "words": "",
+      "intro": "Lettuce is a green vegetable with crisp leaves and a slightly sweet taste. It grows on the ground, looking like a big green flower.",
+      "story": {
+        "title": "🥬Little Rabbit's Lettuce Salad",
+        "body": "The little rabbit planted a row of lettuce in the garden. Every day it watered them, and the lettuce grew green and lush, like big flowers. One day, the rabbit picked some leaves and put them in a basket. It wanted to make a salad. The rabbit washed the lettuce clean, tore it into small pieces, and put them in a big bowl. The little squirrel came and asked, 'What are you making?' The rabbit said, 'I'm making a lettuce salad, it's so yummy!' The squirrel wanted to try too, so they added tomatoes and cucumbers, then mixed in some dressing. Mmm, crunchy and sweet! The squirrel said, 'Lettuce is so good, I want to grow some too!' The rabbit was very happy, and the two friends planted more lettuce together in the garden."
+      },
+      "knowledge": {
+        "title": "Why is eating lettuce good for you?",
+        "body": "Lettuce has lots of water and vitamins, which help make your body strong and aid digestion. You can eat it raw or cooked—it’s refreshing and delicious either way!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_lettuce_intro.mp3",
+        "story": "../item-audio/en/vegetable_lettuce_story.mp3"
+      }
+    }
+  }
+}

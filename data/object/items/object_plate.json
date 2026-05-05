@@ -1,0 +1,90 @@
+{
+  "id": "object_plate",
+  "sku_id": "card_object_plate",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "tableware",
+      "color_white"
+    ],
+    "secondary": [
+      "at_home",
+      "round",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "white"
+    ],
+    "shape": [
+      "round"
+    ],
+    "material": [
+      "ceramic",
+      "plastic"
+    ],
+    "scenes": [
+      "home",
+      "kitchen",
+      "table"
+    ],
+    "function": [
+      "hold_food"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "盘子",
+      "aloud": "pán zi",
+      "words": "plate",
+      "intro": "盘子是我们吃饭时用的好朋友。它圆圆的，可以装下好吃的饭菜，让我们的桌子干干净净。",
+      "story": {
+        "title": "🍽️小盘子的快乐一天",
+        "body": "小盘子住在厨房的柜子里，它最喜欢吃饭时间。每天，妈妈会把热腾腾的饭菜放在它怀里，它小心地捧着，不让汤汁洒出来。小主人用勺子轻轻舀饭，小盘子觉得痒痒的，咯咯笑。有一天，小主人想自己端盘子，可是一滑，盘子差点掉地上！幸好爸爸接住了。小盘子说：谢谢爸爸！小主人说：盘子对不起，我下次一定两只手端稳。从此，小盘子和小主人成了最好的朋友，每天一起享用美味。"
+      },
+      "knowledge": {
+        "title": "盘子用什么材料做的？",
+        "body": "盘子大多用陶瓷、玻璃或塑料制成。陶瓷盘子很光滑，不容易沾油；塑料盘子轻巧不易碎，适合小朋友使用。我们吃饭时，盘子帮我们盛放食物，保持桌面整洁。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_plate_intro.mp3",
+        "story": "../item-audio/zh-CN/object_plate_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Plate",
+      "aloud": "/pleɪt/",
+      "words": "",
+      "intro": "A plate is a good friend at mealtime. It is round and can hold yummy food, keeping our table clean and tidy.",
+      "story": {
+        "title": "🍽️The Happy Day of Little Plate",
+        "body": "Little Plate lived in the kitchen cabinet. It loved mealtime the most. Every day, Mom put hot dishes into its arms, and it held them carefully, not letting a drop spill. Its little master scooped rice with a spoon, and Little Plate felt ticklish and giggled. One day, the little master wanted to carry the plate by himself, but it slipped, and the plate almost fell! Luckily, Dad caught it. Little Plate said, Thank you, Dad! The little master said, Plate, I'm sorry, I will hold you with both hands next time. From then on, Little Plate and the little master became best friends, enjoying delicious food together every day."
+      },
+      "knowledge": {
+        "title": "What are plates made of?",
+        "body": "Plates are often made of ceramic, glass, or plastic. Ceramic plates are smooth and easy to clean. Plastic plates are light and not easy to break, great for kids. Plates help us hold food and keep the table tidy."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_plate_intro.mp3",
+        "story": "../item-audio/en/object_plate_story.mp3"
+      }
+    }
+  }
+}

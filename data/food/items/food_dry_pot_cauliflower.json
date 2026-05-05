@@ -1,0 +1,89 @@
+{
+  "id": "food_dry_pot_cauliflower",
+  "sku_id": "card_food_dry_pot_cauliflower",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "dish",
+      "color_white",
+      "edible"
+    ],
+    "secondary": [
+      "crispy",
+      "hot_food",
+      "at_meal"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dish"
+    ],
+    "color": [
+      "white"
+    ],
+    "taste": [
+      "salty",
+      "spicy"
+    ],
+    "temperature": [
+      "hot"
+    ],
+    "scenes": [
+      "home",
+      "restaurant"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "干锅花菜",
+      "aloud": "gān guō huā cài",
+      "words": "dry pot cauliflower",
+      "intro": "干锅花菜是一道香香的菜，花菜脆脆的，带着一点点辣味。妈妈会把它放在小锅里，热乎乎的，配米饭吃特别棒。",
+      "story": {
+        "title": "🥘小花菜的奇妙旅行",
+        "body": "今天，妈妈买回来一朵白白的花菜。小花菜问妈妈：“我们要去哪里呀？”妈妈笑着说：“去做干锅花菜，给你一个惊喜！”妈妈把花菜掰成小朵，洗得干干净净。锅里放油，加入蒜片和一点点辣椒，炒出香味。花菜跳进锅里，和它们一起跳舞。小火慢慢炒呀炒，花菜变得有一点点焦黄，香气飘满了厨房。最后，妈妈把花菜盛在一个小干锅里，下面还点着小火，发出滋滋的声音。宝宝尝了一口，花菜脆脆的，咸香可口，还有一丝丝辣味，宝宝说：“太好吃了！我喜欢干锅花菜！”从此，小花菜成了宝宝最喜欢的蔬菜之一。"
+      },
+      "knowledge": {
+        "title": "干锅花菜是什么？",
+        "body": "干锅花菜是把花菜切成小朵，先炒香蒜和辣椒，再放入花菜慢慢炒熟。炒的时候不加水，花菜会变得边缘焦脆，中间软嫩，味道很香。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_dry_pot_cauliflower_intro.mp3",
+        "story": "../item-audio/zh-CN/food_dry_pot_cauliflower_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Dry Pot Cauliflower",
+      "aloud": "/draɪ pɑːt ˈkɑːlɪflaʊər/",
+      "words": "",
+      "intro": "Dry Pot Cauliflower is a fragrant dish. The cauliflower is crispy with a little spicy hint. Mommy serves it in a hot pot, and it goes perfectly with rice.",
+      "story": {
+        "title": "🥘The Little Cauliflower's Wonderful Journey",
+        "body": "Today, Mommy brought home a white cauliflower. The little cauliflower asked, 'Where are we going?' Mommy smiled and said, 'To make Dry Pot Cauliflower, a surprise for you!' Mommy broke the cauliflower into small florets and washed them clean. She heated oil in the pan, added garlic slices and just a tiny bit of chili, frying until fragrant. The cauliflower jumped into the pan and danced with them. Over low heat, they sizzled and stirred until the cauliflower got a little golden at the edges, filling the kitchen with a yummy smell. Finally, Mommy placed the cauliflower in a little dry pot with a small flame underneath, making a sizzling sound. Baby took a bite — the cauliflower was crispy, savory, and just a tiny bit spicy. Baby said, 'Yummy! I love Dry Pot Cauliflower!' From then on, little cauliflower became one of baby's favorite veggies."
+      },
+      "knowledge": {
+        "title": "What is Dry Pot Cauliflower?",
+        "body": "Dry Pot Cauliflower is made by cutting cauliflower into florets. First, fry garlic and chili until fragrant, then add the cauliflower and cook without water. It gets crispy edges and a soft inside, with a delicious savory taste."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_dry_pot_cauliflower_intro.mp3",
+        "story": "../item-audio/en/food_dry_pot_cauliflower_story.mp3"
+      }
+    }
+  }
+}

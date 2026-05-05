@@ -1,0 +1,89 @@
+{
+  "id": "flower_crabapple",
+  "sku_id": "card_flower_crabapple",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_pink",
+      "on_tree"
+    ],
+    "secondary": [
+      "small_flower",
+      "spring_flower",
+      "fragrant"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "pink"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "tree"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "fragrant"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "海棠花",
+      "aloud": "hǎi táng huā",
+      "words": "crabapple",
+      "intro": "海棠花是春天开的花，花瓣粉粉的，像小朋友的脸蛋。它香香的，长在树上，一朵一朵的，特别好看。",
+      "story": {
+        "title": "🌸海棠花的春天舞会",
+        "body": "春天来了，花园里的海棠树醒了。树上冒出许多粉红色的小花苞，像害羞的小姑娘。暖暖的春风吹过，小花苞一个个咧开了嘴，露出粉嫩的花瓣。一朵海棠花轻轻地说：“春天真美，我想和朋友们一起跳舞！”许多小蜜蜂飞来了，它们嗡嗡嗡地唱起歌。海棠花们手拉手，在枝头摇啊摇，跳起了春天的舞会。太阳公公看见了，笑眯眯地说：“你们是春天里最香的小仙子！”"
+      },
+      "knowledge": {
+        "title": "海棠花为什么香香的？",
+        "body": "因为它的花瓣里有小小的香腺，能放出好闻的气味。这样就能吸引小蜜蜂来采蜜，帮它传播花粉，结出小果子。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_crabapple_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_crabapple_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Crabapple",
+      "aloud": "/ˈkræbˌæpəl/",
+      "words": "",
+      "intro": "Crabapple is a spring flower with soft pink petals that look like a little blush. It grows on trees, smells sweet, and blooms in lovely clusters.",
+      "story": {
+        "title": "🌸The Crabapple's Spring Dance",
+        "body": "Spring arrived, and the crabapple tree in the garden woke up. Many pink little buds appeared on the branches, like shy little girls. A warm breeze blew, and the buds smiled open, showing their soft pink petals. One crabapple flower said softly, \"Spring is so beautiful! I want to dance with my friends!\" Many little bees came buzzing, humming a sweet song. The crabapple flowers held hands and swayed on the branches, dancing in the spring ball. Mr. Sun looked down and said with a smile, \"You are the sweetest little fairies of spring!\""
+      },
+      "knowledge": {
+        "title": "Why are crabapple flowers fragrant?",
+        "body": "Because they have tiny scent glands in their petals that release a sweet smell. This attracts bees to help pollinate the flowers, so they can grow little fruits."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_crabapple_intro.mp3",
+        "story": "../item-audio/en/flower_crabapple_story.mp3"
+      }
+    }
+  }
+}

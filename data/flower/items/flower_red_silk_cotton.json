@@ -1,0 +1,89 @@
+{
+  "id": "flower_red_silk_cotton",
+  "sku_id": "card_flower_red_silk_cotton",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_red",
+      "on_tree"
+    ],
+    "secondary": [
+      "big_flower",
+      "spring_flower",
+      "tree_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "red"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "park",
+      "street",
+      "garden"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "木棉花",
+      "aloud": "mù mián huā",
+      "words": "kapok",
+      "intro": "木棉花是红红的大花，长在高高的树上。它的花瓣厚厚的，像小杯子一样，春天的时候开满一树，特别好看。",
+      "story": {
+        "title": "🌺小木棉去旅行",
+        "body": "公园里有一棵木棉树，开满了红红的花。风姐姐轻轻吹过，一朵小木棉花掉了下来。小木棉飘呀飘，落在草丛里。小蚂蚁爬过来问：你是谁呀？小木棉说：我是木棉花，我要去旅行！风姐姐又来了，带着小木棉飞过滑梯，飞过秋千。小蝴蝶看见了，说：你的红色裙子真漂亮！小木棉开心地笑了。最后，小木棉落在一片软软的土地上，它要在这里睡一觉，等到明年春天，变成一棵新的小木棉树。"
+      },
+      "knowledge": {
+        "title": "木棉花什么时候开？",
+        "body": "木棉花在春天开放，通常是三月到四月。花先开，等花落了才长出叶子。木棉树的种子藏在白白的棉絮里，会乘着风到处飞。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_red_silk_cotton_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_red_silk_cotton_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Kapok",
+      "aloud": "/ˈkeɪpɒk/",
+      "words": "",
+      "intro": "Kapok is a big red flower that grows on tall trees. Its petals are thick, like little cups. In spring, the whole tree is covered with red blossoms, very beautiful.",
+      "story": {
+        "title": "🌺Little Kapok Goes Traveling",
+        "body": "In the park, there was a kapok tree full of red flowers. Sister Wind blew gently, and a little kapok flower fell down. It floated and floated, landing in the grass. A little ant came over and asked, Who are you? The little kapok said, I'm a kapok flower, and I'm going traveling! Sister Wind came again and carried the little kapok past the slide and past the swing. A little butterfly saw it and said, Your red dress is so pretty! The little kapok smiled happily. Finally, it landed on a soft patch of earth. It would sleep there and wait until next spring to become a new little kapok tree."
+      },
+      "knowledge": {
+        "title": "When do kapok trees bloom?",
+        "body": "Kapok trees bloom in spring, usually from March to April. The flowers appear first, and after they fall, the leaves grow. The seeds are hidden in white cotton fluff and fly with the wind."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_red_silk_cotton_intro.mp3",
+        "story": "../item-audio/en/flower_red_silk_cotton_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "transport_electric_bike",
+  "sku_id": "card_transport_electric_bike",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "on_road",
+      "can_ride"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_carry_people",
+      "small"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "electric_bike"
+    ],
+    "color": [
+      "black",
+      "white",
+      "blue"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "road",
+      "park",
+      "city"
+    ],
+    "fuel": [
+      "electricity"
+    ],
+    "features": [
+      "wheels",
+      "electric_motor"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "电瓶车",
+      "aloud": "diàn píng chē",
+      "words": "electric bike",
+      "intro": "电瓶车是一种小巧的车，有两个轮子，用电就能跑。你可以骑着它去公园、去超市，又方便又好玩。",
+      "story": {
+        "title": "🛵小电驴嘟嘟的一天",
+        "body": "一大早，主人把小电驴嘟嘟推出车库，太阳照得它亮闪闪的。主人骑上来，轻轻一拧把手，嘟嘟就安安静静地出发了。它经过公园，看见好多小朋友在滑滑梯；经过面包店，闻到甜甜的香味。红灯亮了，嘟嘟乖乖停下，等绿灯再走。送了主人上班，嘟嘟停在车棚下，看着白云慢慢飘。傍晚，主人回来了，嘟嘟载着主人回家。晚风吹在脸上，真舒服呀！回到家，主人给嘟嘟充上电，嘟嘟安安静静地休息，准备明天再出发。"
+      },
+      "knowledge": {
+        "title": "电瓶车为什么很环保？",
+        "body": "电瓶车用电，不会排出黑黑的尾气，空气更干净。它小小的，不容易堵车，停车也方便。骑电瓶车省钱又环保，真棒！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_electric_bike_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_electric_bike_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Electric Bike",
+      "aloud": "/ɪˈlek.trɪk baɪk/",
+      "words": "",
+      "intro": "An electric bike is a small vehicle with two wheels. It runs on electricity. You can ride it to the park or the supermarket. It is convenient and fun!",
+      "story": {
+        "title": "🛵 Little E-bike's Day",
+        "body": "In the morning, the owner pushed the little e-bike out of the garage. The sunshine made it shine brightly. The owner got on, gently twisted the throttle, and the e-bike rolled quietly down the road. It passed a park where children were playing on the slide, and a bakery with a yummy smell. At the red light, the e-bike stopped patiently. After dropping the owner at work, it rested under a shelter, watching the clouds float by. In the evening, it carried the owner home. The evening breeze felt so nice. At home, the owner plugged it in to charge. The little e-bike rested quietly, ready for another day."
+      },
+      "knowledge": {
+        "title": "Why are e-bikes good for the environment?",
+        "body": "E-bikes use electricity, so they don't produce dirty exhaust. The air stays cleaner. They are small, so they don't cause traffic jams and are easy to park. Riding an e-bike saves money and helps the Earth. How cool!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_electric_bike_intro.mp3",
+        "story": "../item-audio/en/transport_electric_bike_story.mp3"
+      }
+    }
+  }
+}

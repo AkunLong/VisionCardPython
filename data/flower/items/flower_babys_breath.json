@@ -1,0 +1,89 @@
+{
+  "id": "flower_babys_breath",
+  "sku_id": "card_flower_babys_breath",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_white",
+      "small_flower"
+    ],
+    "secondary": [
+      "decorative",
+      "summer_flower",
+      "star_shape"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "garden",
+      "home",
+      "balcony"
+    ],
+    "season": [
+      "summer"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "满天星",
+      "aloud": "mǎn tiān xīng",
+      "words": "baby's breath",
+      "intro": "满天星是一种有很多白色小花的花。它们小小的，像天空中的星星。人们喜欢用它来打扮房间，让它看起来很温柔。",
+      "story": {
+        "title": "✨天上的星星落下来",
+        "body": "在一个小花园里，长着一丛满天星。它的花小小的，白白的，像好多小星星。每天，小蜜蜂都会飞来和它们玩。一天，一个小女孩走过，她抬起头说：“你们是天上的星星吗？”满天星们在风中轻轻摇动，一个小花朵说：“不是，我们是地上的星星，可以每天陪着你。”女孩开心地笑了，她小心地摘下一小束，带回家放在窗边的花瓶里。晚上，满天星们看着月亮，发出淡淡的香。女孩躺在床上，看着它们，觉得就像天上的星星在身边。她闭上眼睛，做了一个甜甜的梦，梦见自己和小星星一起跳舞。"
+      },
+      "knowledge": {
+        "title": "为什么叫满天星？",
+        "body": "满天星每一朵小花都有五个花瓣，散开来就像一颗颗小星星。因为花很小，很多朵长在一起，远远看去就像满天的繁星，所以叫满天星。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_babys_breath_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_babys_breath_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Baby's Breath",
+      "aloud": "/ˈbeɪbiz brɛθ/",
+      "words": "",
+      "intro": "Baby's breath is a flower with many tiny white blossoms. They look like little stars in the sky. People love to use them to decorate homes and make everything look gentle.",
+      "story": {
+        "title": "✨Stars Falling from the Sky",
+        "body": "In a little garden grew a bunch of baby's breath. Its flowers were tiny and white, just like many little stars. Every day, a little bee would come to play with them. One day, a little girl walked by and asked, \"Are you stars from the sky?\" The baby's breath gently danced in the wind, and one little flower said, \"No, we are stars from the ground. We can stay with you every day.\" The girl smiled happily and carefully picked a small bunch. She brought it home and put it in a vase by the window. At night, the baby's breath looked at the moon and gave off a light sweet scent. The girl lay in bed, watching them, and felt like the sky stars were nearby. She closed her eyes and had a sweet dream, dreaming of dancing with the little stars."
+      },
+      "knowledge": {
+        "title": "Why is it called baby's breath?",
+        "body": "Each tiny flower of baby's breath has five petals that spread out like a star. Because so many small flowers grow together, from a distance they look like a sky full of stars, so it is called baby's breath."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_babys_breath_intro.mp3",
+        "story": "../item-audio/en/flower_babys_breath_story.mp3"
+      }
+    }
+  }
+}

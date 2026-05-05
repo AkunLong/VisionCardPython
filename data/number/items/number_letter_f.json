@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_f",
+  "sku_id": "card_number_letter_f",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "easy_level",
+      "first_learning",
+      "can_say"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": "F",
+    "is_even": false,
+    "is_prime": false,
+    "ordinal": "6th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母F",
+      "aloud": "fō",
+      "words": "f",
+      "intro": "字母F是第六个英文字母，样子像一面小旗子。我们一起认识它吧！",
+      "story": {
+        "title": "🇫 小旗子 F",
+        "body": "字母F像一个旗杆，上面飘着小旗子。大风车吱呀吱悠悠地转，风吹起来，旗子飘飘扬扬。F是风（fēng）的第一个字母，也是飞（fēi）的第一个字母。小蝴蝶飞飞飞，小蜜蜂嗡嗡嗡，它们都会飞呢。小朋友们，你们能想到哪些F开头的东西吗？飞机、风筝、风车，还有我们爱吃的米饭（fàn）！F字母真好玩，我们一起来画一画：一竖，再画两个小横杠，像不像旗杆呀？每天都能看到的东西里，藏着好多F，快和爸爸妈妈一起找找看吧！"
+      },
+      "knowledge": {
+        "title": "F 有什么小知识？",
+        "body": "F是英文字母表中的第六个字母，发音是/f/。很多单词以F开头，比如fish（鱼）、frog（青蛙）。F看起来像一面旗帜，我们可以想象旗子在风中飘扬。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_f_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_f_story.mp3"
+      }
+    },
+    "en": {
+      "name": "F",
+      "aloud": "/ef/",
+      "words": "",
+      "intro": "F is the sixth letter of the alphabet. It looks like a little flag. Let's learn about F together!",
+      "story": {
+        "title": "🇫 The Flag Letter F",
+        "body": "The letter F looks like a flagpole with a little flag waving on top. When the wind blows, the flag flutters happily. F is the first letter of fun words like fish, frog, and flower. The fish swims fast, the frog jumps far, and the flower smells fragrant. Can you find things that start with F? A fan, a feather, or your friend's face! Let's trace the letter F: one straight line down, then two little lines across. It's so easy and fun. Everywhere you look, F is hiding, waiting for you to discover it with a smile!"
+      },
+      "knowledge": {
+        "title": "Fun Fact about F",
+        "body": "F is the sixth letter in the English alphabet and makes the /f/ sound. Many words begin with F, like fish and frog. F looks like a flag, reminding us of flagpoles fluttering in the breeze."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_f_intro.mp3",
+        "story": "../item-audio/en/number_letter_f_story.mp3"
+      }
+    }
+  }
+}

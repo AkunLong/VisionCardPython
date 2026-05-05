@@ -1,0 +1,89 @@
+{
+  "id": "flower_orchid",
+  "sku_id": "card_flower_orchid",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_pink",
+      "potted_flower"
+    ],
+    "secondary": [
+      "fragrant",
+      "big_flower",
+      "spring_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "pink"
+    ],
+    "size": [
+      "medium"
+    ],
+    "scenes": [
+      "indoor",
+      "balcony",
+      "garden"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "蝴蝶兰",
+      "aloud": "hú dié lán",
+      "words": "orchid",
+      "intro": "蝴蝶兰是一种美丽的花，花瓣大大的，像小蝴蝶的翅膀。它有粉色、白色，常常种在花盆里，放在家里很漂亮，还有淡淡的香味呢。",
+      "story": {
+        "title": "🦋小蝴蝶找朋友",
+        "body": "花园里有一盆蝴蝶兰，开着粉色的花。有一天，一只小蝴蝶飞过来，停在花瓣上，它问：“你是蝴蝶吗？”蝴蝶兰轻轻摇摇花瓣，好像在点头。小蝴蝶好开心，说：“我们做朋友吧！”从此，小蝴蝶每天都来看蝴蝶兰，还带来其他小蝴蝶。蝴蝶兰也开出了更多花，像一群蝴蝶停在枝头。风一吹，它们一起轻轻跳舞，真美呀！"
+      },
+      "knowledge": {
+        "title": "蝴蝶兰为什么像蝴蝶？",
+        "body": "蝴蝶兰的花瓣宽宽的，颜色鲜艳，看起来就像一只只蝴蝶停在花枝上。所以人们叫它蝴蝶兰，它是过年时很受欢迎的花。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_orchid_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_orchid_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Orchid",
+      "aloud": "/ˈɔːrkɪd/",
+      "words": "",
+      "intro": "An orchid is a beautiful flower with big petals that look like butterfly wings. It comes in pink and white, and it is often planted in pots to decorate homes. It has a gentle sweet scent.",
+      "story": {
+        "title": "🦋A Little Butterfly Finds a Friend",
+        "body": "In the garden, there was a pot of orchids with pink flowers. One day, a little butterfly flew over and landed on a petal. It asked, \"Are you a butterfly?\" The orchid gently shook its petals, as if nodding. The little butterfly was so happy and said, \"Let's be friends!\" From then on, the butterfly visited the orchid every day and brought other little butterflies. The orchid bloomed more flowers, looking like a group of butterflies resting on the branches. When the wind blew, they all danced together gently. How beautiful it was!"
+      },
+      "knowledge": {
+        "title": "Why do orchids look like butterflies?",
+        "body": "The petals of an orchid are wide and brightly colored, making them look just like butterflies perching on a stem. That is why it is called a moth orchid. It is a very popular flower during the Spring Festival."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_orchid_intro.mp3",
+        "story": "../item-audio/en/flower_orchid_story.mp3"
+      }
+    }
+  }
+}

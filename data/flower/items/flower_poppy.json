@@ -1,0 +1,89 @@
+{
+  "id": "flower_poppy",
+  "sku_id": "card_flower_poppy",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_red",
+      "in_garden"
+    ],
+    "secondary": [
+      "spring_flower",
+      "many_petals",
+      "decorative"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "red"
+    ],
+    "size": [
+      "tall"
+    ],
+    "scenes": [
+      "garden",
+      "field",
+      "balcony"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "none"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "虞美人",
+      "aloud": "yú měi rén",
+      "words": "poppy",
+      "intro": "虞美人是一种美丽的花，花瓣薄薄的、红红的，像小裙子一样。风一吹，它就轻轻跳舞。",
+      "story": {
+        "title": "🌸虞美人的红裙子",
+        "body": "春天来了，小花园里冒出一株虞美人。它长着细细的茎，穿着绿色的小外套。一天一天，虞美人越长越高，头上鼓起了花苞。花苞裂开了，露出红红的花瓣，像一条漂亮的红裙子。小蝴蝶飞过来，说：“你的裙子真好看！”虞美人害羞了，在风里摇啊摇。小蜜蜂也来了，绕着它嗡嗡唱歌。虞美人每天都穿着红裙子，和蝴蝶、蜜蜂一起玩。阳光照在花瓣上，红彤彤的，小花园也变得亮晶晶的。小朋友走过，都停下来说：“哇，好美的花呀！”虞美人开心极了，它觉得自己是世界上最幸福的小花。"
+      },
+      "knowledge": {
+        "title": "虞美人的小秘密",
+        "body": "虞美人的花瓣很薄，像纸一样，所以风一吹就会飘动。它的种子藏在花心的小房子里，等花瓣掉了，种子就会散开，明年春天又会长出新的虞美人。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_poppy_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_poppy_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Poppy",
+      "aloud": "/ˈpɑːpi/",
+      "words": "",
+      "intro": "A poppy is a beautiful flower with thin, red petals that look like a little skirt. When the wind blows, it dances gently.",
+      "story": {
+        "title": "🌸The Poppy’s Red Dress",
+        "body": "Spring came, and a little poppy sprouted in the garden. It had a slender stem and wore a small green coat. Day by day, the poppy grew taller, and a bud appeared on its head. The bud opened, revealing red petals, just like a pretty red dress. A little butterfly flew by and said, “What a beautiful dress you have!” The poppy felt shy and swayed in the wind. A little bee also came, humming around it. Every day, the poppy wore its red dress and played with the butterfly and bee. Sunlight shone on the petals, making them bright red, and the garden sparkled. Children passing by would stop and say, “Wow, such a lovely flower!” The poppy was so happy—it felt like the luckiest little flower in the world."
+      },
+      "knowledge": {
+        "title": "Little Secret of Poppies",
+        "body": "Poppy petals are very thin, like paper, so they flutter in the wind. The seeds hide in a little house at the center of the flower. After the petals fall, the seeds scatter, and new poppies will grow next spring."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_poppy_intro.mp3",
+        "story": "../item-audio/en/flower_poppy_story.mp3"
+      }
+    }
+  }
+}

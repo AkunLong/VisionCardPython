@@ -1,0 +1,498 @@
+[
+  {
+    "id": "number_letter",
+    "type": "category",
+    "icon": "badge-a",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "数字字母",
+        "audio_url": "audio/tags-audio/zh-CN/number_number_letter.mp3"
+      },
+      "en": {
+        "name": "Numbers & Letters",
+        "audio_url": "audio/tags-audio/en/number_number_letter.mp3"
+      }
+    }
+  },
+  {
+    "id": "number",
+    "type": "category",
+    "icon": "hash",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "数字",
+        "audio_url": "audio/tags-audio/zh-CN/number_number.mp3"
+      },
+      "en": {
+        "name": "Number",
+        "audio_url": "audio/tags-audio/en/number_number.mp3"
+      }
+    }
+  },
+  {
+    "id": "letter",
+    "type": "category",
+    "icon": "letter-text",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "字母",
+        "audio_url": "audio/tags-audio/zh-CN/number_letter.mp3"
+      },
+      "en": {
+        "name": "Letter",
+        "audio_url": "audio/tags-audio/en/number_letter.mp3"
+      }
+    }
+  },
+  {
+    "id": "zero",
+    "type": "number_type",
+    "icon": "circle",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "数字0",
+        "audio_url": "audio/tags-audio/zh-CN/number_zero.mp3"
+      },
+      "en": {
+        "name": "Zero",
+        "audio_url": "audio/tags-audio/en/number_zero.mp3"
+      }
+    }
+  },
+  {
+    "id": "single_digit",
+    "type": "number_type",
+    "icon": "badge-1",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "一位数",
+        "audio_url": "audio/tags-audio/zh-CN/number_single_digit.mp3"
+      },
+      "en": {
+        "name": "Single digit",
+        "audio_url": "audio/tags-audio/en/number_single_digit.mp3"
+      }
+    }
+  },
+  {
+    "id": "two_digit",
+    "type": "number_type",
+    "icon": "badge-10",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "两位数",
+        "audio_url": "audio/tags-audio/zh-CN/number_two_digit.mp3"
+      },
+      "en": {
+        "name": "Two-digit number",
+        "audio_url": "audio/tags-audio/en/number_two_digit.mp3"
+      }
+    }
+  },
+  {
+    "id": "counting_number",
+    "type": "number_type",
+    "icon": "list-ordered",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "可以数数",
+        "audio_url": "audio/tags-audio/zh-CN/number_counting_number.mp3"
+      },
+      "en": {
+        "name": "For counting",
+        "audio_url": "audio/tags-audio/en/number_counting_number.mp3"
+      }
+    }
+  },
+  {
+    "id": "even_number",
+    "type": "number_type",
+    "icon": "divide",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "偶数",
+        "audio_url": "audio/tags-audio/zh-CN/number_even_number.mp3"
+      },
+      "en": {
+        "name": "Even number",
+        "audio_url": "audio/tags-audio/en/number_even_number.mp3"
+      }
+    }
+  },
+  {
+    "id": "odd_number",
+    "type": "number_type",
+    "icon": "circle-dot",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "奇数",
+        "audio_url": "audio/tags-audio/zh-CN/number_odd_number.mp3"
+      },
+      "en": {
+        "name": "Odd number",
+        "audio_url": "audio/tags-audio/en/number_odd_number.mp3"
+      }
+    }
+  },
+  {
+    "id": "uppercase_letter",
+    "type": "letter_type",
+    "icon": "case-upper",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "大写字母",
+        "audio_url": "audio/tags-audio/zh-CN/number_uppercase_letter.mp3"
+      },
+      "en": {
+        "name": "Uppercase letter",
+        "audio_url": "audio/tags-audio/en/number_uppercase_letter.mp3"
+      }
+    }
+  },
+  {
+    "id": "vowel_letter",
+    "type": "letter_type",
+    "icon": "volume-2",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "元音字母",
+        "audio_url": "audio/tags-audio/zh-CN/number_vowel_letter.mp3"
+      },
+      "en": {
+        "name": "Vowel letter",
+        "audio_url": "audio/tags-audio/en/number_vowel_letter.mp3"
+      }
+    }
+  },
+  {
+    "id": "consonant_letter",
+    "type": "letter_type",
+    "icon": "message-circle",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "辅音字母",
+        "audio_url": "audio/tags-audio/zh-CN/number_consonant_letter.mp3"
+      },
+      "en": {
+        "name": "Consonant letter",
+        "audio_url": "audio/tags-audio/en/number_consonant_letter.mp3"
+      }
+    }
+  },
+  {
+    "id": "alphabet_order",
+    "type": "letter_type",
+    "icon": "arrow-down-a-z",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "字母顺序",
+        "audio_url": "audio/tags-audio/zh-CN/number_alphabet_order.mp3"
+      },
+      "en": {
+        "name": "Alphabet order",
+        "audio_url": "audio/tags-audio/en/number_alphabet_order.mp3"
+      }
+    }
+  },
+  {
+    "id": "shape_straight",
+    "type": "shape",
+    "icon": "minus",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "有直线",
+        "audio_url": "audio/tags-audio/zh-CN/number_shape_straight.mp3"
+      },
+      "en": {
+        "name": "Has straight lines",
+        "audio_url": "audio/tags-audio/en/number_shape_straight.mp3"
+      }
+    }
+  },
+  {
+    "id": "shape_curve",
+    "type": "shape",
+    "icon": "circle",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "有弧线",
+        "audio_url": "audio/tags-audio/zh-CN/number_shape_curve.mp3"
+      },
+      "en": {
+        "name": "Has curves",
+        "audio_url": "audio/tags-audio/en/number_shape_curve.mp3"
+      }
+    }
+  },
+  {
+    "id": "shape_round",
+    "type": "shape",
+    "icon": "circle",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "圆圆的",
+        "audio_url": "audio/tags-audio/zh-CN/number_shape_round.mp3"
+      },
+      "en": {
+        "name": "Round",
+        "audio_url": "audio/tags-audio/en/number_shape_round.mp3"
+      }
+    }
+  },
+  {
+    "id": "shape_triangle_like",
+    "type": "shape",
+    "icon": "triangle",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "像三角形",
+        "audio_url": "audio/tags-audio/zh-CN/number_shape_triangle_like.mp3"
+      },
+      "en": {
+        "name": "Triangle-like",
+        "audio_url": "audio/tags-audio/en/number_shape_triangle_like.mp3"
+      }
+    }
+  },
+  {
+    "id": "shape_cross_like",
+    "type": "shape",
+    "icon": "x",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "交叉形",
+        "audio_url": "audio/tags-audio/zh-CN/number_shape_cross_like.mp3"
+      },
+      "en": {
+        "name": "Cross-like",
+        "audio_url": "audio/tags-audio/en/number_shape_cross_like.mp3"
+      }
+    }
+  },
+  {
+    "id": "shape_has_hole",
+    "type": "shape",
+    "icon": "circle-dot",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "中间有洞",
+        "audio_url": "audio/tags-audio/zh-CN/number_shape_has_hole.mp3"
+      },
+      "en": {
+        "name": "Has a hole",
+        "audio_url": "audio/tags-audio/en/number_shape_has_hole.mp3"
+      }
+    }
+  },
+  {
+    "id": "easy_level",
+    "type": "difficulty",
+    "icon": "smile",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "容易认识",
+        "audio_url": "audio/tags-audio/zh-CN/number_easy_level.mp3"
+      },
+      "en": {
+        "name": "Easy to learn",
+        "audio_url": "audio/tags-audio/en/number_easy_level.mp3"
+      }
+    }
+  },
+  {
+    "id": "medium_level",
+    "type": "difficulty",
+    "icon": "sparkles",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "进阶认识",
+        "audio_url": "audio/tags-audio/zh-CN/number_medium_level.mp3"
+      },
+      "en": {
+        "name": "Next level",
+        "audio_url": "audio/tags-audio/en/number_medium_level.mp3"
+      }
+    }
+  },
+  {
+    "id": "first_learning",
+    "type": "learning_stage",
+    "icon": "baby",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "启蒙认知",
+        "audio_url": "audio/tags-audio/zh-CN/number_first_learning.mp3"
+      },
+      "en": {
+        "name": "First learning",
+        "audio_url": "audio/tags-audio/en/number_first_learning.mp3"
+      }
+    }
+  },
+  {
+    "id": "counting_stage",
+    "type": "learning_stage",
+    "icon": "hand",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "数数练习",
+        "audio_url": "audio/tags-audio/zh-CN/number_counting_stage.mp3"
+      },
+      "en": {
+        "name": "Counting practice",
+        "audio_url": "audio/tags-audio/en/number_counting_stage.mp3"
+      }
+    }
+  },
+  {
+    "id": "letter_stage",
+    "type": "learning_stage",
+    "icon": "book-a",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "字母启蒙",
+        "audio_url": "audio/tags-audio/zh-CN/number_letter_stage.mp3"
+      },
+      "en": {
+        "name": "Letter learning",
+        "audio_url": "audio/tags-audio/en/number_letter_stage.mp3"
+      }
+    }
+  },
+  {
+    "id": "pronunciation_stage",
+    "type": "learning_stage",
+    "icon": "volume-2",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "发音练习",
+        "audio_url": "audio/tags-audio/zh-CN/number_pronunciation_stage.mp3"
+      },
+      "en": {
+        "name": "Pronunciation practice",
+        "audio_url": "audio/tags-audio/en/number_pronunciation_stage.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_read",
+    "type": "function",
+    "icon": "book-open",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "可以认读",
+        "audio_url": "audio/tags-audio/zh-CN/number_can_read.mp3"
+      },
+      "en": {
+        "name": "Can read",
+        "audio_url": "audio/tags-audio/en/number_can_read.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_count",
+    "type": "function",
+    "icon": "list-ordered",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "可以数数",
+        "audio_url": "audio/tags-audio/zh-CN/number_can_count.mp3"
+      },
+      "en": {
+        "name": "Can count",
+        "audio_url": "audio/tags-audio/en/number_can_count.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_say",
+    "type": "function",
+    "icon": "volume-2",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "可以朗读",
+        "audio_url": "audio/tags-audio/zh-CN/number_can_say.mp3"
+      },
+      "en": {
+        "name": "Can say aloud",
+        "audio_url": "audio/tags-audio/en/number_can_say.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_trace",
+    "type": "function",
+    "icon": "pencil",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "可以描一描",
+        "audio_url": "audio/tags-audio/zh-CN/number_can_trace.mp3"
+      },
+      "en": {
+        "name": "Can trace",
+        "audio_url": "audio/tags-audio/en/number_can_trace.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_match",
+    "type": "function",
+    "icon": "scan-search",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "可以配对",
+        "audio_url": "audio/tags-audio/zh-CN/number_can_match.mp3"
+      },
+      "en": {
+        "name": "Can match",
+        "audio_url": "audio/tags-audio/en/number_can_match.mp3"
+      }
+    }
+  },
+  {
+    "id": "colorful_card",
+    "type": "feature",
+    "icon": "palette",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "彩色卡片",
+        "audio_url": "audio/tags-audio/zh-CN/number_colorful_card.mp3"
+      },
+      "en": {
+        "name": "Colorful card",
+        "audio_url": "audio/tags-audio/en/number_colorful_card.mp3"
+      }
+    }
+  }
+]

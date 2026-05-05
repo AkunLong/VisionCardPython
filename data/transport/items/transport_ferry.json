@@ -1,0 +1,96 @@
+{
+  "id": "transport_ferry",
+  "sku_id": "card_transport_ferry",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "water_transport",
+      "public_transport"
+    ],
+    "secondary": [
+      "can_float",
+      "can_carry_people",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "ferry"
+    ],
+    "color": [
+      "white",
+      "blue",
+      "yellow"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "water",
+      "dock",
+      "river"
+    ],
+    "fuel": [
+      "diesel"
+    ],
+    "features": [
+      "floats",
+      "carries_people",
+      "engine"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "摆渡船",
+      "aloud": "bǎi dù chuán",
+      "words": "ferry",
+      "intro": "摆渡船是一种在水上开的船，可以载着人和汽车过河或过海。它稳稳地在水上走，把大家安全送到对岸。",
+      "story": {
+        "title": "⛴️小渡船的一天",
+        "body": "早晨，太阳刚刚升起，小渡船就从码头出发了。第一趟，来了一辆红色小汽车和一位叔叔，小渡船稳稳地载着它们过河。第二趟，上来一群小朋友，他们要去对岸的公园玩，小渡船开得平平稳稳，小朋友们开心地看水花。第三趟，一位阿姨推着满满的菜篮子，小渡船慢慢开，不让菜掉下来。一整天，小渡船一趟又一趟，把好多人和车都安全送到对岸。天黑了，小渡船靠在码头休息，它想：虽然有点累，但帮助了这么多人，真高兴！说完，它安安静静地进入了梦乡，准备明天再工作。"
+      },
+      "knowledge": {
+        "title": "摆渡船有什么用？",
+        "body": "摆渡船连接着河两岸，让汽车和行人不用绕远路就能过河。这样既节省时间，又减少道路拥堵。摆渡船是一种方便又环保的水上交通工具。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_ferry_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_ferry_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Ferry",
+      "aloud": "/ˈfer.i/",
+      "words": "",
+      "intro": "A ferry is a boat that travels on water and can carry people and cars across rivers or seas. It moves steadily and brings everyone safely to the other side.",
+      "story": {
+        "title": "⛴️A Day of the Little Ferry",
+        "body": "In the morning, the little ferry set off from the dock. For the first trip, a red car and a driver came aboard. The ferry carried them smoothly across the river. For the second trip, a group of children hopped on. They were going to a park on the other side. The ferry sailed gently, and the children laughed as they watched the splashing water. For the third trip, a woman with a big basket of vegetables got on. The ferry drove slowly so nothing would fall. All day long, the little ferry went back and forth, carrying people and cars safely to the other side. When the sun set, the ferry rested at the dock. It thought, 'I'm a bit tired, but I helped so many people today. What a happy day!' Then it quietly fell asleep, ready for tomorrow's work."
+      },
+      "knowledge": {
+        "title": "What is a ferry for?",
+        "body": "A ferry connects the two sides of a river, so cars and people don't have to go a long way around. It saves time and reduces traffic on roads. A ferry is a convenient and clean way to travel on water."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_ferry_intro.mp3",
+        "story": "../item-audio/en/transport_ferry_story.mp3"
+      }
+    }
+  }
+}

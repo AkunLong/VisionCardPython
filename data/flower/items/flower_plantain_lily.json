@@ -1,0 +1,89 @@
+{
+  "id": "flower_plantain_lily",
+  "sku_id": "card_flower_plantain_lily",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_purple",
+      "in_garden"
+    ],
+    "secondary": [
+      "big_flower",
+      "round_flower",
+      "summer_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "purple"
+    ],
+    "size": [
+      "tall"
+    ],
+    "scenes": [
+      "garden",
+      "field",
+      "balcony"
+    ],
+    "season": [
+      "summer"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "大花葱",
+      "aloud": "dà huā cōng",
+      "words": "allium",
+      "intro": "大花葱是一种高高的花，它开出一个紫色的大花球，像一颗大大的糖果，又像烟花一样漂亮。它喜欢在夏天开花，长在花园里，吸引了好多小蝴蝶。",
+      "story": {
+        "title": "🌸大花葱的紫色花球",
+        "body": "春天，花园里冒出一棵小苗，它细细的，叶子长长的。小苗一天天长大，越来越高。夏天到了，小苗顶端长出一个圆圆的小花苞。花苞慢慢鼓起来，像一个小皮球。一天清晨，花苞突然打开了，变成一个大大的紫色花球！小蜜蜂飞来，围着她转圈圈，惊喜地说：“哇，好美的大花球呀！我可以来采蜜吗？”大花葱笑着说：“来吧，我这里有一千朵小花，每一朵都装着甜甜的花蜜。”小蝴蝶也来了，小瓢虫也来了，大家都在紫色花球上跳舞。大花葱站在阳光下，紫色的花瓣闪闪发光，整个花园都变得像童话一样。"
+      },
+      "knowledge": {
+        "title": "大花葱为什么像一个大花球？",
+        "body": "大花葱的花球是由成百上千朵小花聚在一起长成的。每一朵小花都有六片花瓣，像一颗小星星。它们紧紧挨在一起，就形成了一个圆圆的大花球。大花葱只在夏天开花，花谢以后会长出小种子。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_plantain_lily_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_plantain_lily_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Giant Allium",
+      "aloud": "/ˈdʒaɪənt ˈæliəm/",
+      "words": "",
+      "intro": "The Giant Allium is a tall flower with a big round purple bloom. It looks like a giant lollipop or a firework. It blooms in summer and loves to grow in gardens.",
+      "story": {
+        "title": "🌸The Giant Purple Flower Ball",
+        "body": "In the garden, a tiny sprout grew taller and taller. It had long green leaves. When summer came, a round bud appeared at the top. The bud grew bigger and bigger until one morning it opened into a huge purple ball of flowers. A little bee buzzed around and said, \"Wow! What a beautiful purple ball! Can I collect nectar?\" The Giant Allium smiled and said, \"Come! I have a thousand tiny flowers inside, each filled with sweet nectar.\" Butterflies and ladybugs came too, dancing on the purple ball. The Giant Allium stood in the sun, her purple petals sparkling, and the whole garden looked like a fairy tale."
+      },
+      "knowledge": {
+        "title": "Why does a Giant Allium look like a big ball?",
+        "body": "The bloom is made of hundreds of tiny star-shaped flowers. They cluster tightly together to form a round flower head. It blooms only in summer, and after the flowers fade, seeds grow."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_plantain_lily_intro.mp3",
+        "story": "../item-audio/en/flower_plantain_lily_story.mp3"
+      }
+    }
+  }
+}

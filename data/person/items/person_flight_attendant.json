@@ -1,0 +1,91 @@
+{
+  "id": "person_flight_attendant",
+  "sku_id": "card_person_flight_attendant",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "in_airport"
+    ],
+    "secondary": [
+      "adult",
+      "female",
+      "public_service"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "flight_attendant"
+    ],
+    "workplace": [
+      "airplane",
+      "airport"
+    ],
+    "tools": [
+      "trolley",
+      "life_vest"
+    ],
+    "clothing": [
+      "uniform"
+    ],
+    "actions": [
+      "serve",
+      "safety_demonstration",
+      "assist"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "空姐",
+      "aloud": "kōng jiě",
+      "words": "flight attendant",
+      "intro": "空姐是飞机上的服务人员，她们穿着漂亮的制服，给乘客送饮料和食物，还教大家安全知识。坐飞机的时候，空姐会帮助我们，让我们旅途更舒服。",
+      "story": {
+        "title": "✈️小熊猫第一次坐飞机",
+        "body": "小熊猫第一次坐飞机，它有点紧张。上飞机后，空姐姐姐穿着蓝色制服，微笑着迎接它。空姐帮它找到座位，还拿来一条小毯子。飞机起飞前，空姐站在前面演示安全带怎么系，小熊猫认真看。到了发点心的时间，空姐推着小车，问：“小朋友，想喝橙汁还是苹果汁？”小熊猫选了橙汁，空姐还给了小饼干。飞行中，飞机有点颠簸，小熊猫害怕，空姐温柔地说：“别担心，这是正常的，系好安全带就好。”小熊猫听了就不怕了。下飞机时，空姐说再见，小熊猫觉得空姐像天使一样！"
+      },
+      "knowledge": {
+        "title": "空姐的工作是什么？",
+        "body": "空姐在飞机上工作，她们帮助乘客，确保飞行安全。她们会送餐、饮料，教乘客用安全带、救生衣。如果飞机遇到颠簸，她们会提醒大家坐好。空姐还学会了急救，能帮助不舒服的乘客。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_flight_attendant_intro.mp3",
+        "story": "../item-audio/zh-CN/person_flight_attendant_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Flight Attendant",
+      "aloud": "/flaɪt əˈtɛndənt/",
+      "words": "",
+      "intro": "A flight attendant is someone who works on an airplane. They wear beautiful uniforms, serve drinks and food, and teach safety rules. When you fly, flight attendants help make your trip comfortable and safe.",
+      "story": {
+        "title": "✈️Little Panda’s First Flight",
+        "body": "Little Panda was taking his first airplane trip. He felt a little nervous. When he boarded, the flight attendant in a blue uniform smiled and welcomed him. She helped him find his seat and brought a small blanket. Before takeoff, the flight attendant stood at the front and showed how to fasten the seatbelt. Little Panda watched carefully. During snack time, the flight attendant pushed a cart and asked, 'Would you like orange juice or apple juice, little one?' Little Panda chose orange juice, and the flight attendant gave him some cookies too. The airplane bumped a little in the sky. Little Panda was scared, but the flight attendant gently said, 'Don't worry, that's normal—just keep your seatbelt on.' Little Panda felt safe. When they landed, the flight attendant said goodbye. Little Panda thought the flight attendant was like an angel!"
+      },
+      "knowledge": {
+        "title": "What do flight attendants do?",
+        "body": "Flight attendants work on airplanes. They help passengers and make sure everyone is safe. They serve food and drinks, and show how to use seatbelts and life vests. If the plane shakes, they tell everyone to stay seated. They also learn first aid to help anyone who feels unwell."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_flight_attendant_intro.mp3",
+        "story": "../item-audio/en/person_flight_attendant_story.mp3"
+      }
+    }
+  }
+}

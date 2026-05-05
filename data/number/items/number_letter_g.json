@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_g",
+  "sku_id": "card_number_letter_g",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "alphabet_order",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 7,
+    "is_even": false,
+    "is_prime": true,
+    "ordinal": "7th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母G",
+      "aloud": "gē",
+      "words": "grape",
+      "intro": "字母G是第七个英文字母。它长得像一个圆圈加一个小钩子。G的发音像小鸽子咕咕叫。",
+      "story": {
+        "title": "🎵字母G的故事",
+        "body": "字母G有一个圆圆的肚子和一个翘起的小尾巴。长颈鹿Gina说：我有一个长长的脖子，身体上有漂亮的斑纹。Gina喜欢优雅地散步。有一天，Gina遇见了一只绿色的青蛙，青蛙呱呱叫着，邀请Gina一起跳过小水坑。Gina说：我太高了，跳不动呀！于是青蛙跳上Gina的头顶，一起数数：一、二、三、四、五、六、七！第七个字母就是G！Gina和青蛙都开心地笑了。"
+      },
+      "knowledge": {
+        "title": "字母G的起源",
+        "body": "字母G是从古代拉丁字母演变而来的。它的形状原来像骆驼的脖子和头，后来慢慢变成现在的样子。在英语中，G经常发/g/的声音，像“goat”里的声音。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_g_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_g_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Letter G",
+      "aloud": "/dʒiː/",
+      "words": "",
+      "intro": "Letter G is the seventh letter of the alphabet. It looks like a circle with a little hook. G makes a sound like a goose honking.",
+      "story": {
+        "title": "🎵The Story of Letter G",
+        "body": "Letter G has a round tummy and a small hooked tail. Giraffe Gina said, I have a long neck and beautiful spots on my body. Gina loves to walk gracefully. One day, Gina met a green frog. The frog croaked and invited Gina to jump over a puddle together. Gina said, I'm too tall to jump! So the frog hopped onto Gina's head and they counted: one, two, three, four, five, six, seven! The seventh letter is G! Gina and the frog both smiled happily."
+      },
+      "knowledge": {
+        "title": "Where does the letter G come from?",
+        "body": "The letter G developed from the ancient Latin alphabet. Its original shape looked like a camel's neck and head, and it gradually became what we see today. In English, G often makes the /g/ sound, as in the word goat."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_g_intro.mp3",
+        "story": "../item-audio/en/number_letter_g_story.mp3"
+      }
+    }
+  }
+}

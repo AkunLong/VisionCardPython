@@ -1,0 +1,97 @@
+{
+  "id": "plant_bamboo",
+  "sku_id": "card_plant_bamboo",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "bamboo",
+      "color_green"
+    ],
+    "secondary": [
+      "potted_plant",
+      "has_leaf",
+      "in_garden"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "bamboo"
+    ],
+    "color": [
+      "green"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "stem",
+      "leaves",
+      "roots"
+    ],
+    "scenes": [
+      "at_home",
+      "in_garden",
+      "in_park"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "米竹",
+      "aloud": "mǐ zhú",
+      "words": "bamboo",
+      "intro": "米竹小小的，绿绿的，叶子细细长长。它喜欢住在花盆里，每天陪伴我们，是可爱的小植物。",
+      "story": {
+        "title": "🎍小小米竹的朋友",
+        "body": "阳台上的花盆里，住着一棵小小米竹。它有很多细细的茎，每一根都直直地往上长，叶子像绿色的小星星。小米竹很爱干净，每天都用露水洗脸。一天，一只小蚂蚁路过，说：‘你好，小米竹，我可以在这里乘凉吗？’小米竹高兴地说：‘当然可以呀！’小蚂蚁就在叶子下舒舒服服地休息。后来，小蝴蝶、小瓢虫也来了，它们一起唱歌跳舞。小米竹想：原来小小的我，也能给大家带来快乐。到了晚上，月亮婆婆照着它，小米竹闭上眼睛，做了一个绿绿的梦。"
+      },
+      "knowledge": {
+        "title": "米竹是什么？",
+        "body": "米竹是一种小巧的竹子，常常种在花盆里。它可以放在阳台或书桌旁，让我们的家变得更漂亮。米竹的叶子能释放新鲜空气，还能让我们心情愉快，是很好的植物朋友！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_bamboo_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_bamboo_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Mini Bamboo",
+      "aloud": "/ˈmɪni bæmˈbuː/",
+      "words": "",
+      "intro": "Mini bamboo is small and green, with slim, long leaves. It loves living in a flowerpot, keeping us company every day. It's a cute little plant.",
+      "story": {
+        "title": "🎍The Little Bamboo's Friends",
+        "body": "In a flowerpot on the balcony lived a tiny mini bamboo. It had many slender stems, each growing straight up, with leaves like little green stars. The little bamboo liked to keep clean and washed its face with dew every morning. One day, a little ant passed by and said, 'Hello, little bamboo, can I rest in your shade?' The little bamboo happily answered, 'Of course!' So the ant rested comfortably under the leaves. Later, a little butterfly and a ladybug also came. They sang and danced together. The little bamboo thought, 'Even though I'm tiny, I can bring joy to others.' At night, Granny Moon shone on it, and the little bamboo closed its eyes and had a green dream."
+      },
+      "knowledge": {
+        "title": "What is mini bamboo?",
+        "body": "Mini bamboo is a small type of bamboo often grown in pots. You can place it on a balcony or near a desk to make your home more beautiful. Its leaves help freshen the air and make us feel happy—it's a wonderful plant friend!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_bamboo_intro.mp3",
+        "story": "../item-audio/en/plant_bamboo_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "plant_wheat",
+  "sku_id": "card_plant_wheat",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "crop",
+      "color_green"
+    ],
+    "secondary": [
+      "has_leaf",
+      "in_field",
+      "can_eat"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "grass"
+    ],
+    "color": [
+      "green",
+      "yellow",
+      "brown"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "stem",
+      "leaves",
+      "spike",
+      "roots"
+    ],
+    "scenes": [
+      "field",
+      "farm",
+      "countryside"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "小麦",
+      "aloud": "xiǎo mài",
+      "words": "wheat",
+      "intro": "小麦是绿绿的小草，长高了就变成金黄色。它结出好多小粒粒，做成面包和面条，香喷喷的！",
+      "story": {
+        "title": "🌾小麦宝宝长大了",
+        "body": "春天，农民伯伯把小麦种子撒进泥土里。没过几天，绿绿的小芽芽钻出来了！小麦宝宝喝雨水，晒太阳，慢慢长高。夏天，小麦变成了金黄色，头上顶着沉甸甸的麦穗。风一吹，麦田像金色的海洋。收割机轰隆隆开过来，把小麦收回家。小麦被磨成白白的面粉，妈妈用面粉做了香喷喷的面包。小麦宝宝真了不起，它从地里长出来，变成了我们爱吃的食物。"
+      },
+      "knowledge": {
+        "title": "小麦能做什么？",
+        "body": "小麦能磨成面粉，做面包、面条和饼干。它是很重要的粮食，全世界很多人都吃小麦。小麦的杆子还可以做草帽和纸张哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_wheat_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_wheat_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Wheat",
+      "aloud": "/wiːt/",
+      "words": "",
+      "intro": "Wheat is a green little grass that turns golden when it grows tall. It gives us tiny grains that make yummy bread and noodles.",
+      "story": {
+        "title": "🌾Little Wheat Grows Up",
+        "body": "In spring, the farmer sowed wheat seeds into the soil. Soon, little green sprouts popped up! The baby wheat drank rain and sunbathed, growing taller day by day. In summer, the wheat turned golden, with heavy spikes on top. When the wind blew, the wheat field looked like a golden ocean. The harvester rumbled in and gathered the wheat home. The wheat was ground into white flour, and Mommy used the flour to make fragrant bread. Little Wheat is amazing! It grew from the earth and became the food we love."
+      },
+      "knowledge": {
+        "title": "What can wheat do?",
+        "body": "Wheat is ground into flour to make bread, noodles, and cookies. It is a very important grain. Many people around the world eat wheat. Wheat stalks can also be made into hats and paper!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_wheat_intro.mp3",
+        "story": "../item-audio/en/plant_wheat_story.mp3"
+      }
+    }
+  }
+}

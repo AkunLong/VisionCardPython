@@ -1,0 +1,105 @@
+{
+  "_基本字段配置": "↓",
+  "id": "plant_tree",
+  "sku_id": "card_plant_tree",
+  "category": "plant",
+  "_年龄及难度": "↓",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "_图片链接信息": "↓",
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "_标签信息": "↓",
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "color_green"
+    ],
+    "secondary": [
+      "has_trunk",
+      "has_leaf",
+      "in_park"
+    ]
+  },
+  "_属性信息": "↓",
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "trunk",
+      "branches",
+      "leaves",
+      "roots"
+    ],
+    "scenes": [
+      "park",
+      "forest",
+      "roadside"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "_核心内容字段": "↓",
+  "content": {
+    "zh-CN": {
+      "name": "大树",
+      "aloud": "dà shù",
+      "words": "tree",
+      "intro": "大树高高大大的，有粗粗的树干和茂密的树叶。它站在那里，给小鸟安家，给大家乘凉，是大家的好朋友。",
+      "story": {
+        "title": "🌳大树的好朋友",
+        "body": "公园里有一棵很大很大的树。春天，小鸟飞来在树枝上搭了一个窝，每天唱好听的歌。夏天，太阳火辣辣的，老爷爷和老奶奶坐在树下乘凉，大树撑开绿色的伞，让他们凉快极了。秋天，树叶变成了金黄色，一片片飘下来，小朋友们捡起树叶做书签。冬天，树叶落光了，但大树还是站在那里，不怕冷也不怕风。大树想：我有这么多好朋友，我真幸福呀！来年春天，大树又长出了新叶子，更加茂盛了。"
+      },
+      "knowledge": {
+        "title": "大树有什么用处？",
+        "body": "大树能制造新鲜空气，让我们呼吸更舒服。它的树荫可以乘凉，树枝给小鸟当家，木头还可以做家具和纸张。大树真是我们的好朋友！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_tree_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_tree_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Tree",
+      "aloud": "/triː/",
+      "words": "",
+      "intro": "A tree is tall and big, with a thick trunk and lots of leaves. It stands there, giving birds a home and providing shade for everyone. It's a great friend to all.",
+      "story": {
+        "title": "🌳The Big Tree's Friends",
+        "body": "There was a very big tree in the park. In spring, a little bird came and built a nest in its branches, singing beautiful songs every day. In summer, the sun was blazing hot. Grandpa and Grandma sat under the tree to stay cool. The tree spread its green umbrella of leaves and kept them nice and cool. In autumn, the leaves turned golden and fluttered down. Children picked them up to make bookmarks. In winter, all the leaves fell off, but the tree still stood tall, unafraid of the cold and the wind. The tree thought: I have so many friends. I'm so lucky! When spring came again, the tree grew new leaves, even thicker than before."
+      },
+      "knowledge": {
+        "title": "What are trees good for?",
+        "body": "Trees make fresh air for us to breathe. Their shade keeps us cool, their branches give birds a home, and their wood can be made into furniture and paper. Trees are truly our good friends!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_tree_intro.mp3",
+        "story": "../item-audio/en/plant_tree_story.mp3"
+      }
+    }
+  }
+}

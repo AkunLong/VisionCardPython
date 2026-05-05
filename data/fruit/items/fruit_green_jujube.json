@@ -1,0 +1,87 @@
+{
+  "id": "fruit_green_jujube",
+  "sku_id": "card_fruit_green_jujube",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_green",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "oval",
+      "sweet",
+      "crisp"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sweet",
+      "crisp"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "青枣",
+      "aloud": "qīng zǎo",
+      "words": "jujube",
+      "intro": "青枣是一种椭圆形的水果，外皮青绿色，吃起来甜甜脆脆，水分很多。它生长在树上，营养丰富。",
+      "story": {
+        "title": "🌿小猴子的青枣树",
+        "body": "小猴子的院子里有一棵青枣树。秋天到了，树上挂满了一颗颗绿绿的青枣，像小灯笼一样。小猴子摘下一颗，洗干净后咬了一口，“咔嚓！”又甜又脆，真好吃！小猴子想：这么好吃的青枣，要留给好朋友们。第二天，小兔子、小松鼠和小熊来玩。小猴子捧出一大盘青枣，笑着说：“大家快来尝尝！”小兔子咬了一口，眯着眼睛说：“好甜呀！”小松鼠抱着青枣啃，说：“脆脆的，我喜欢！”小熊一口一个，开心得直拍肚子。大家坐在树下，一起吃着甜甜的青枣，笑声飘满了院子。小猴子觉得，分享让青枣变得更甜了。"
+      },
+      "knowledge": {
+        "title": "青枣长在哪里？",
+        "body": "青枣是长在树上的水果。青枣树喜欢温暖的地方，果实一开始是绿色的，成熟后会变得更甜更脆，一般在秋天和冬天可以吃到新鲜的青枣。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_green_jujube_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_green_jujube_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Green Jujube",
+      "aloud": "/ɡriːn ˈdʒuːdʒuːb/",
+      "words": "",
+      "intro": "A green jujube is an oval-shaped fruit with green skin. It tastes sweet and crisp, and is very juicy. It grows on trees and is full of nutrients.",
+      "story": {
+        "title": "🌿Little Monkey's Jujube Tree",
+        "body": "Little Monkey had a jujube tree in the yard. In autumn, the tree was full of green jujubes, shining like little lanterns. Little Monkey picked one, washed it, and took a bite. “Crunch!” It was so sweet and crisp. He wanted to share them with his friends. The next day, Little Rabbit, Little Squirrel, and Little Bear came to play. Little Monkey brought out a big plate of green jujubes. Little Rabbit took a bite and said, “So sweet!” Little Squirrel nibbled happily, “Crunchy and yummy!” Little Bear ate one after another, patting his tummy with joy. They sat under the tree, enjoying the sweet jujubes, and laughter filled the yard. Little Monkey felt that sharing made the jujubes even sweeter."
+      },
+      "knowledge": {
+        "title": "Where do green jujubes grow?",
+        "body": "Green jujubes grow on trees. Jujube trees like warm places. The fruits start out green and become sweeter and crisper as they ripen. You can often enjoy fresh green jujubes in autumn and winter."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_green_jujube_intro.mp3",
+        "story": "../item-audio/en/fruit_green_jujube_story.mp3"
+      }
+    }
+  }
+}

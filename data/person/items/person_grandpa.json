@@ -1,0 +1,91 @@
+{
+  "id": "person_grandpa",
+  "sku_id": "card_person_grandpa",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "elder"
+    ],
+    "secondary": [
+      "male",
+      "at_home",
+      "take_care"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "grandpa"
+    ],
+    "workplace": [
+      "home"
+    ],
+    "tools": [
+      "walking_stick",
+      "reading_glasses"
+    ],
+    "clothing": [
+      "casual_clothes",
+      "slippers"
+    ],
+    "actions": [
+      "tell_stories",
+      "hug",
+      "walk"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "爷爷",
+      "aloud": "yé ye",
+      "words": "grandpa",
+      "intro": "爷爷是爸爸的爸爸，他很爱我们。爷爷会给我们讲故事，陪我们玩，还会做好吃的。",
+      "story": {
+        "title": "🧓小熊和爷爷的一天",
+        "body": "星期天早上，小熊早早起床，跑去找爷爷。爷爷张开大大的手臂，给小熊一个温暖的抱抱。吃过早饭，爷爷戴上老花镜，拿出故事书，给小熊讲勇敢的小兔子的故事。小熊听得眼睛亮晶晶的。下午，爷爷带小熊去公园散步。爷爷走得不快，小熊就牵着爷爷的手慢慢走。爷爷指着一棵大树说：“这棵树和爷爷一样年纪大啦！”小熊哈哈笑。回家后，爷爷和小熊一起搭积木，搭了一座高高的城堡。晚上，爷爷轻轻拍着小熊：“乖宝贝，好好睡觉，明天爷爷再陪你玩。”小熊甜甜地睡着了，梦里还和爷爷在一起。"
+      },
+      "knowledge": {
+        "title": "爷爷为什么有白头发？",
+        "body": "人年纪大了，头发就会慢慢变白，这是很自然的事情。爷爷的皱纹和白发都是生活的故事，每一根都藏着爱和智慧。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_grandpa_intro.mp3",
+        "story": "../item-audio/zh-CN/person_grandpa_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Grandpa",
+      "aloud": "/ˈɡrænpɑː/",
+      "words": "",
+      "intro": "Grandpa is daddy's daddy. He loves us very much. Grandpa tells us stories, plays with us, and makes yummy food.",
+      "story": {
+        "title": "🧓 Little Bear's Day with Grandpa",
+        "body": "On Sunday morning, Little Bear woke up early and ran to find Grandpa. Grandpa opened his arms wide and gave Little Bear a warm hug. After breakfast, Grandpa put on his reading glasses and took out a storybook. He told Little Bear the story of a brave bunny. Little Bear's eyes sparkled with joy. In the afternoon, Grandpa took Little Bear for a walk in the park. Grandpa didn't walk fast, so Little Bear held his hand and walked slowly. Grandpa pointed to a big tree and said, 'This tree is as old as Grandpa!' Little Bear giggled. Back home, Grandpa and Little Bear built blocks together and made a tall castle. At night, Grandpa gently patted Little Bear: 'Sleep tight, sweetheart. Grandpa will play with you again tomorrow.' Little Bear fell asleep sweetly, still dreaming of Grandpa."
+      },
+      "knowledge": {
+        "title": "Why does Grandpa have white hair?",
+        "body": "As people get older, their hair turns white naturally. Grandpa's wrinkles and white hair are stories of life, each one full of love and wisdom."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_grandpa_intro.mp3",
+        "story": "../item-audio/en/person_grandpa_story.mp3"
+      }
+    }
+  }
+}

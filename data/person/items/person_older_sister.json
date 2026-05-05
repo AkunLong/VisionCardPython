@@ -1,0 +1,87 @@
+{
+  "id": "person_older_sister",
+  "sku_id": "card_person_older_sister",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "child"
+    ],
+    "secondary": [
+      "female",
+      "at_home",
+      "take_care"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "older_sister"
+    ],
+    "workplace": [
+      "home",
+      "school"
+    ],
+    "tools": [],
+    "clothing": [],
+    "actions": [
+      "play",
+      "care",
+      "help",
+      "teach"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "姐姐",
+      "aloud": "jiě jie",
+      "words": "sister",
+      "intro": "姐姐是家里比你大的女孩子。姐姐会陪你玩，会照顾你，还会教你许多新东西。",
+      "story": {
+        "title": "👧🏻我的好姐姐",
+        "body": "小猫咪有一个好姐姐，每天放学回家，姐姐都会先抱抱它。姐姐把自己的小饼干分给小猫咪吃，还教小猫咪用积木搭小房子。小猫咪总是搭不稳，房子倒了，急得喵喵叫。姐姐轻轻说：“没关系，我们再试一次。”她握住小猫咪的爪子，一块一块慢慢放。哇，这次房子站得稳稳的！小猫咪开心地跳起来，舔舔姐姐的脸。晚上睡觉前，姐姐会给小猫咪讲故事，声音柔柔的。小猫咪听着故事，很快就睡着了，梦里还在和姐姐一起玩呢。有姐姐真好！"
+      },
+      "knowledge": {
+        "title": "姐姐是家里的谁？",
+        "body": "姐姐是爸爸妈妈的孩子中，年纪比你大的女孩。姐姐和你是一家人。她可以陪你玩游戏，帮你穿鞋子，还会牵着你的手过马路。姐姐就像一个小小的守护者。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_older_sister_intro.mp3",
+        "story": "../item-audio/zh-CN/person_older_sister_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Older Sister",
+      "aloud": "/ˈoʊldər ˈsɪstər/",
+      "words": "",
+      "intro": "An older sister is a girl in your family who is older than you. She plays with you, takes care of you, and teaches you many new things.",
+      "story": {
+        "title": "👧🏻My Good Older Sister",
+        "body": "Little kitten had a wonderful older sister. Every day after school, sister would first give kitten a big hug. Sister shared her little cookies with kitten, and taught kitten how to build a small house with blocks. Kitten always had trouble, the house would fall, and kitten meowed anxiously. Sister gently said, “It’s okay, let’s try again.” She held kitten’s paws and placed the blocks one by one. Wow, this time the house stood steady! Kitten jumped for joy and licked sister’s face. Before bedtime, sister told kitten stories with a soft voice. Listening, kitten quickly fell asleep, dreaming of playing with sister. How lucky to have an older sister!"
+      },
+      "knowledge": {
+        "title": "Who is an older sister in the family?",
+        "body": "An older sister is the girl child of your parents who is older than you. She is part of your family. She can play games with you, help you put on your shoes, and hold your hand when crossing the street. She is like a little guardian."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_older_sister_intro.mp3",
+        "story": "../item-audio/en/person_older_sister_story.mp3"
+      }
+    }
+  }
+}

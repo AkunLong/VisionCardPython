@@ -1,0 +1,86 @@
+{
+  "id": "fruit_starfruit",
+  "sku_id": "card_fruit_starfruit",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_yellow",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "star_shape",
+      "sweet",
+      "tropical_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "yellow"
+    ],
+    "shape": [
+      "star_shape"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "杨桃",
+      "aloud": "yáng táo",
+      "words": "starfruit",
+      "intro": "杨桃是一种形状像五角星的水果，颜色黄黄的，吃起来甜甜的，有很多汁。它从热带来，含有丰富的维生素，对小朋友身体好。",
+      "story": {
+        "title": "⭐小星星水果？",
+        "body": "宝宝在超市里看到一种水果，它切成一片片，像一颗颗黄色的小星星。“妈妈，这是什么呀？”妈妈笑着说：“这是杨桃，也叫星星果哦。”宝宝拿起一片，轻轻咬了一口，“哇，甜甜的，好多水！”杨桃的味道像苹果和葡萄混在一起，宝宝好喜欢。妈妈告诉宝宝，杨桃是从温暖的地方来的，需要很多阳光才会长得这么好吃。宝宝说：“那我们回家也种一棵吧！”妈妈摸了摸宝宝的头，答应等天气再暖和一些，就一起种一棵小小的杨桃树。"
+      },
+      "knowledge": {
+        "title": "杨桃长在哪里？",
+        "body": "杨桃长在杨桃树上，喜欢温暖湿润的地方，比如中国的南方和热带国家。它的果实成熟后会变成金黄色，切开后像一颗颗小星星，所以也叫星星果。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_starfruit_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_starfruit_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Starfruit",
+      "aloud": "/ˈstɑːr.fruːt/",
+      "words": "",
+      "intro": "A starfruit is a fruit shaped like a star, with yellow skin and sweet, juicy flesh. It comes from warm places and is full of vitamin C.",
+      "story": {
+        "title": "⭐The Little Star Fruit?",
+        "body": "The little one saw a strange fruit in the supermarket. When cut into slices, it looked like bright yellow stars. “Mommy, what’s this?” Mommy smiled and said, “This is starfruit, also called star fruit.” The little one picked up a slice and took a small bite. “Wow, it’s sweet and juicy!” The taste was a bit like a mix of apple and grape, and the little one loved it. Mommy explained that starfruit grows in warm places and needs lots of sunshine to become so delicious. The little one said, “Let’s plant one at home!” Mommy patted the little one’s head and promised that when the weather got warmer, they would plant a small starfruit tree together."
+      },
+      "knowledge": {
+        "title": "Where does starfruit grow?",
+        "body": "Starfruit grows on a starfruit tree. It loves warm and humid places, such as southern China and tropical countries. When ripe, the fruit turns golden yellow, and when cut, the slices look like tiny stars, which is why it’s also called star fruit."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_starfruit_intro.mp3",
+        "story": "../item-audio/en/fruit_starfruit_story.mp3"
+      }
+    }
+  }
+}

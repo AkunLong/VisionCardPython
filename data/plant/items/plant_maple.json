@@ -1,0 +1,100 @@
+{
+  "id": "plant_maple",
+  "sku_id": "card_plant_maple",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "color_red"
+    ],
+    "secondary": [
+      "has_trunk",
+      "has_leaf",
+      "in_park"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "green",
+      "red",
+      "brown"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "trunk",
+      "branches",
+      "leaves",
+      "roots"
+    ],
+    "scenes": [
+      "park",
+      "forest",
+      "roadside"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "枫树",
+      "aloud": "fēng shù",
+      "words": "maple",
+      "intro": "枫树高高站着，春天有绿叶子，秋天叶子变红，像火焰一样美丽。它给小鸟安家，给大家遮阴，是秋天的小明星。",
+      "story": {
+        "title": "🍁枫树的红衣裳",
+        "body": "在公园里，有一棵小枫树。春天，它长出嫩嫩的绿叶子，小鸟在枝头唱歌。夏天，叶子变得又大又绿，像一把大伞，小朋友们在树下玩耍，凉快极了。秋天来了，天气变凉，枫树的叶子慢慢变成了红色，有的像小手，有的像星星。风一吹，红叶飘下来，像红色的蝴蝶在跳舞。小妹妹捡起一片红叶，开心地说：‘好漂亮呀！’枫树听了，心里美美的。冬天，叶子落光了，枫树盖上白雪被子，静静睡觉，等待下一个春天。枫树想：我穿着红衣裳，给大家带来快乐，真开心！"
+      },
+      "knowledge": {
+        "title": "枫树有什么特别？",
+        "body": "枫树的叶子在秋天会变成红色或黄色，特别好看。它的树荫可以让我们凉快，树枝是小鸟的家。有些枫树还能流出甜甜的汁液，做成枫糖浆哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_maple_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_maple_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Maple",
+      "aloud": "/ˈmeɪpəl/",
+      "words": "",
+      "intro": "A maple tree stands tall. In spring it has green leaves. In autumn the leaves turn bright red, like little flames. It gives birds a home and gives us shade. It's a little star of autumn.",
+      "story": {
+        "title": "🍁The Maple's Red Dress",
+        "body": "In the park, there was a small maple tree. In spring, it grew tender green leaves, and a bird sang on its branches. In summer, the leaves became big and green, like a big umbrella. Children played under the tree, feeling cool and happy. Then autumn came. The weather turned cool, and the maple leaves slowly turned red. Some looked like little hands, some like stars. The wind blew, and red leaves fluttered down, dancing like red butterflies. A little girl picked up a red leaf and said, 'So pretty!' The maple tree felt so pleased. In winter, all the leaves fell off. The maple put on a white snow blanket and slept quietly, waiting for the next spring. The maple thought: I wore my red dress and brought joy to everyone. I'm so happy!"
+      },
+      "knowledge": {
+        "title": "What's special about maple trees?",
+        "body": "Maple trees are special for their beautiful autumn leaves. In fall, the leaves turn red, orange, and yellow. The tree gives shade and a home for birds. Some maple trees even give us sweet maple syrup!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_maple_intro.mp3",
+        "story": "../item-audio/en/plant_maple_story.mp3"
+      }
+    }
+  }
+}

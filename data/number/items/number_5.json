@@ -1,0 +1,76 @@
+{
+  "id": "number_5",
+  "sku_id": "card_number_5",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "single_digit",
+      "odd_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 5,
+    "is_even": false,
+    "is_prime": true,
+    "ordinal": "5th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字5",
+      "aloud": "wǔ",
+      "words": "five",
+      "intro": "数字5比4多一个，一只手有五根手指，帮我们学会数数。5真是个有趣的数字！",
+      "story": {
+        "title": "🖐五根手指",
+        "body": "宝宝伸出小手，我们一起数：一、二、三、四、五！五根手指站成一排。大拇指粗粗的，力气大；食指很灵活，能指东西；中指个子最高；无名指爱漂亮；小拇指最小，但能拉勾勾。五根手指各有本领，它们一起合作，能拿勺子、画画、拍手。五根手指是好朋友，永远不分开！"
+      },
+      "knowledge": {
+        "title": "为什么一只手有五根手指？",
+        "body": "很久很久以前，人类的祖先慢慢长出了五根手指。五根手指不长不短，正好能抓住东西，还能做许多灵巧的动作。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_5_intro.mp3",
+        "story": "../item-audio/zh-CN/number_5_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Five",
+      "aloud": "/faɪv/",
+      "words": "",
+      "intro": "Five is one more than four. One hand has five fingers, helping us learn to count. Five is such a fun number!",
+      "story": {
+        "title": "🖐Five Fingers",
+        "body": "Stretch out your hand, little one. Let's count together: one, two, three, four, five! Five fingers stand in a row. The thumb is thick and strong; the index finger is flexible and points; the middle finger is the tallest; the ring finger loves to be pretty; the pinky is the smallest but can make pinky promises. Each finger has a special job. Together they can hold a spoon, draw pictures, and clap hands. Five fingers are best friends, never apart!"
+      },
+      "knowledge": {
+        "title": "Why does one hand have five fingers?",
+        "body": "A long, long time ago, human ancestors grew five fingers. Five fingers are just right—not too long, not too short—to grab things and do many clever movements."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_5_intro.mp3",
+        "story": "../item-audio/en/number_5_story.mp3"
+      }
+    }
+  }
+}

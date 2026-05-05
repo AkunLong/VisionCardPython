@@ -1,0 +1,85 @@
+{
+  "id": "person_uncle_fathers_younger_brother",
+  "sku_id": "card_person_uncle",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "relative"
+    ],
+    "secondary": [
+      "male",
+      "adult",
+      "at_home"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "uncle"
+    ],
+    "workplace": [
+      "home"
+    ],
+    "tools": [],
+    "clothing": [],
+    "actions": [
+      "play",
+      "tell_stories",
+      "hug"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "叔叔",
+      "aloud": "shū shu",
+      "words": "uncle",
+      "intro": "叔叔是爸爸的弟弟，也是我们的家人。叔叔喜欢陪我们玩，给我们讲故事，还会把我们举高高。",
+      "story": {
+        "title": "👦小明和叔叔去公园",
+        "body": "星期天的早上，太阳公公刚刚露出笑脸，叔叔就来敲小明家的门了。小明高兴地跑过去，大喊：叔叔！叔叔！叔叔一把抱起小明，在空中转了一个圈，说：走，我们去公园玩！公园里，叔叔和小明一起荡秋千。秋千越飞越高，小明的笑声像银铃一样。叔叔还给小明讲了一个勇敢小超人的故事，小明听得眼睛都不眨。玩累了，叔叔变魔术似的从包里拿出小饼干和果汁。小明坐在草地上，靠着叔叔，心里暖暖的。回家的路上，小明拉着叔叔的手说：叔叔，你真好！下次还要来玩！叔叔笑着点点头：当然啦，我最喜欢和我的小宝贝一起玩。"
+      },
+      "knowledge": {
+        "title": "叔叔是谁呢？",
+        "body": "叔叔是爸爸的弟弟，是我们家里的亲人。他可能和我们住在一起，也可能住在别的地方。叔叔通常很喜欢小孩子，会陪我们玩，带我们探险，还会保护我们。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_uncle_fathers_younger_brother_intro.mp3",
+        "story": "../item-audio/zh-CN/person_uncle_fathers_younger_brother_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Uncle",
+      "aloud": "/ˈʌŋ.kəl/",
+      "words": "",
+      "intro": "An uncle is the younger brother of your father. He is a family member who loves to play with you and tell you stories.",
+      "story": {
+        "title": "👦Little Ming Goes to the Park with Uncle",
+        "body": "On Sunday morning, just as the sun smiled down, Uncle knocked on Little Ming's door. Little Ming ran over happily, shouting, Uncle! Uncle! Uncle scooped him up, gave a little spin in the air, and said, Let's go to the park! At the park, they swung on the swings together. Higher and higher they went, and Little Ming's laughter rang like bells. Uncle told him a story about a brave little superhero, and Little Ming listened without blinking. When they got tired, Uncle magically pulled out little cookies and juice from his bag. Sitting on the grass, leaning against Uncle, Little Ming felt so warm inside. Walking home, Little Ming held Uncle's hand and said, Uncle, you're so nice! Come play again soon! Uncle smiled and nodded, Of course, I love playing with my little treasure the most."
+      },
+      "knowledge": {
+        "title": "Who is an uncle?",
+        "body": "An uncle is the younger brother of your father. He is a relative in your family. He may live with you or in another place. Uncles often love children very much, playing with them, taking them on adventures, and keeping them safe."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_uncle_fathers_younger_brother_intro.mp3",
+        "story": "../item-audio/en/person_uncle_fathers_younger_brother_story.mp3"
+      }
+    }
+  }
+}

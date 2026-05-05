@@ -1,0 +1,97 @@
+{
+  "_基本字段配置": "↓",
+  "id": "object_clock",
+  "sku_id": "card_object_clock",
+  "category": "object",
+  "_年龄及难度": "↓",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "_图片链接信息": "↓",
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "_标签信息": "↓",
+  "tags": {
+    "primary": [
+      "object",
+      "home_appliance",
+      "color_white"
+    ],
+    "secondary": [
+      "at_home",
+      "round",
+      "safe"
+    ]
+  },
+  "_属性信息": "↓",
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "brown",
+      "white"
+    ],
+    "shape": [
+      "round"
+    ],
+    "material": [
+      "wood",
+      "plastic"
+    ],
+    "scenes": [
+      "home",
+      "school",
+      "office"
+    ],
+    "function": [
+      "tell_time"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "_核心内容字段": "↓",
+  "content": {
+    "zh-CN": {
+      "name": "钟表",
+      "aloud": "zhōng biǎo",
+      "words": "clock",
+      "intro": "钟表可以告诉我们现在几点了。它有圆圆的表盘，还有三根指针——时针、分针和秒针，它们不停地转动。",
+      "story": {
+        "title": "⏰钟表三兄弟",
+        "body": "钟表家族有三兄弟：大哥时针又矮又胖，走得很慢很慢；二哥分针不高不矮，走得不快不慢；小弟秒针又长又瘦，跑得最快最快。一天，小主人问：你们谁最厉害呀？时针说：我最厉害，我走一圈就是半天！分针说：我走一圈才一小时，我更忙碌！秒针说：我跑一圈才一分钟，我最辛苦！这时钟表爷爷说话了：你们都很重要，少了谁都不行，只有一起配合，才能准确地告诉人们时间。三兄弟听了，手拉手继续转呀转。"
+      },
+      "knowledge": {
+        "title": "钟表上的三根针有什么不同？",
+        "body": "时针最短最粗，走一圈是12小时；分针比较长，走一圈是60分钟；秒针最长最细，走一圈是60秒。它们一起工作，帮我们准确知道时间。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_clock_intro.mp3",
+        "story": "../item-audio/zh-CN/object_clock_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Clock",
+      "aloud": "/klɒk/",
+      "words": "",
+      "intro": "A clock tells us what time it is. It has a round face and three hands — the hour hand, the minute hand, and the second hand — that keep turning around.",
+      "story": {
+        "title": "⏰The Three Clock Brothers",
+        "body": "The clock family has three brothers: the oldest, the hour hand, is short and stout, moving very slowly; the middle brother, the minute hand, is medium-sized, moving neither fast nor slow; the youngest, the second hand, is long and thin, running the fastest. One day, their little master asked, Which one of you is the best? The hour hand said, I'm the best — one full turn of mine is half a day! The minute hand said, I go around once every hour — I'm the busiest! The second hand said, I run around once every minute — I work the hardest! Just then, Grandpa Clock spoke up: You're all important. Without any one of you, the clock wouldn't work. Only by working together can you tell people the time accurately. The three brothers held hands and kept turning round and round."
+      },
+      "knowledge": {
+        "title": "What's different about the three hands on a clock?",
+        "body": "The hour hand is the shortest and thickest, and it takes 12 hours to go around once. The minute hand is longer, and it takes 60 minutes to go around. The second hand is the longest and thinnest, and it takes 60 seconds to go around. They work together to tell us the exact time."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_clock_intro.mp3",
+        "story": "../item-audio/en/object_clock_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_stem_lettuce",
+  "sku_id": "card_vegetable_stem_lettuce",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "leafy_vegetable"
+    ],
+    "secondary": [
+      "long",
+      "crisp",
+      "sweet"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "crisp",
+      "sweet"
+    ],
+    "grow_location": [
+      "above_ground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "莴苣",
+      "aloud": "wō jù",
+      "words": "stem lettuce",
+      "intro": "莴苣是一种绿色的蔬菜，它的茎又长又粗，吃起来脆脆的，还有一点点甜。它长在菜园里，叶子大大的，绿油油的，很可爱。",
+      "story": {
+        "title": "🥬分享莴苣",
+        "body": "小羊咩咩在菜园里散步，忽然看见一棵高高的莴苣，茎秆粗粗的，叶子绿绿的。它用嘴巴咬住叶子，使劲儿拽，可是莴苣纹丝不动。小牛哞哞路过，说：“我来帮你！”两个好朋友一起使劲，嘿哟嘿哟，终于把莴苣拔了出来。它们把莴苣洗干净，切成小段。小羊尝了一口，笑眯眯地说：“好脆呀，还有点甜！”小牛也咬了一口，开心得摇尾巴。这时，小兔跳过来，眼巴巴地看着。小羊和小牛连忙分给兔兔一些莴苣的嫩叶子，兔兔高兴地吃起来。大家一起分享，都觉得莴苣是世界上最好吃的蔬菜。吃完后，它们把莴苣的根埋回土里，希望再长出新的莴苣。"
+      },
+      "knowledge": {
+        "title": "吃莴苣有什么好处？",
+        "body": "莴苣里有很多维生素和水分，吃了对身体特别好，能让身体更强壮。它脆脆的茎还能帮助小朋友锻炼牙齿，吃饭更香。莴苣可以生吃、炒着吃或者煮汤，怎么做都很好吃。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_stem_lettuce_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_stem_lettuce_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Stem Lettuce",
+      "aloud": "/stɛm ˈlɛtɪs/",
+      "words": "",
+      "intro": "Stem lettuce is a green vegetable with a long, thick stem. It tastes crisp and a little sweet. It grows in the garden with big green leaves.",
+      "story": {
+        "title": "🥬 Sharing the Stem Lettuce",
+        "body": "Little Lamb was walking in the garden when she spotted a tall stem lettuce. Its stem was long and thick, and its green leaves were big and beautiful. She grabbed the leaves with her mouth and pulled hard, but the lettuce didn't move. Just then, Calf came by. \"Let me help you!\" he said. Together they pulled and pulled. Heave-ho! Out came the stem lettuce with a pop! They washed it clean and cut it into round slices. Lamb took a bite. \"Mmm, so crispy and a little sweet!\" Calf chewed and nodded happily. Nearby, Bunny hopped over, watching with big eyes. Lamb and Calf smiled and shared the tender leaves with Bunny. Bunny was so happy. They all sat on the soft grass, munching together under the warm sun. \"Sharing makes everything taste better,\" said Lamb. After they finished, they planted the root back in the soil, hoping for new stem lettuce to grow."
+      },
+      "knowledge": {
+        "title": "Why is eating stem lettuce good for you?",
+        "body": "Stem lettuce is full of vitamins and water, which help keep your body strong and healthy. Its crunchy stem is good for your teeth and fun to chew. You can enjoy it raw in salads, stir-fried with other veggies, or cooked in soups—it's always delicious!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_stem_lettuce_intro.mp3",
+        "story": "../item-audio/en/vegetable_stem_lettuce_story.mp3"
+      }
+    }
+  }
+}

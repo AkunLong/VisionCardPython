@@ -1,0 +1,89 @@
+{
+  "id": "food_nuts",
+  "sku_id": "card_food_nuts",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "snack",
+      "color_brown",
+      "edible"
+    ],
+    "secondary": [
+      "crispy",
+      "at_snack_time",
+      "sweet"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "snack"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "mild"
+    ],
+    "temperature": [
+      "cold"
+    ],
+    "scenes": [
+      "home",
+      "school",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "坚果",
+      "aloud": "jiān guǒ",
+      "words": "nuts",
+      "intro": "坚果是香香脆脆的小零食，它们穿着硬硬的壳，但是里面的果仁很好吃，吃一点点就能让我们更有力气哦。",
+      "story": {
+        "title": "🥜坚果的故事",
+        "body": "小松鼠豆豆最喜欢吃坚果了。秋天到了，它跳到树上，用小爪子摘下一个个坚果，放进树洞里藏起来。冬天来了，外面下了好大的雪，豆豆暖暖和和地待在树洞里，拿出坚果咔嚓咔嚓地吃。坚果又香又脆，给了豆豆足够的力量度过寒冷的冬天。小朋友，你也可以吃点坚果哦，但要记住，一定要在大人的帮助下才能吃，而且不能吃太多，不然小肚子会不舒服呢！"
+      },
+      "knowledge": {
+        "title": "坚果是从哪里来的？",
+        "body": "坚果是植物结出的果实，外面有硬硬的壳保护着里面的果仁。我们吃的坚果是去掉壳后的果仁，它们营养很丰富，可以让我们的身体变得棒棒的。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_nuts_intro.mp3",
+        "story": "../item-audio/zh-CN/food_nuts_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Nuts",
+      "aloud": "/nʌts/",
+      "words": "",
+      "intro": "Nuts are crunchy little snacks. They have a hard shell outside, but the kernel inside is tasty. Eating just a little gives us lots of energy.",
+      "story": {
+        "title": "🥜The Story of Nuts",
+        "body": "Little squirrel Doudou loves eating nuts. When autumn arrives, he hops onto branches and picks nuts one by one with his tiny paws, storing them inside a tree hollow. Winter comes with heavy snow, but Doudou stays cozy in his hollow, munching on nuts. Crunch! Crunch! The nuts are so yummy and crunchy, giving Doudou lots of energy to play even in the cold. Children, you can enjoy nuts too, but remember to always eat them with a grown-up's help, and not too many, or your tummy might feel uncomfortable."
+      },
+      "knowledge": {
+        "title": "Where do nuts come from?",
+        "body": "Nuts are the fruits of plants. They have a hard shell that protects the kernel inside. We eat the kernel after removing the shell. Nuts are full of nutrients that help us grow strong."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_nuts_intro.mp3",
+        "story": "../item-audio/en/food_nuts_story.mp3"
+      }
+    }
+  }
+}

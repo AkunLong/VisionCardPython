@@ -1,0 +1,96 @@
+{
+  "id": "transport_sprinkler_truck",
+  "sku_id": "card_transport_sprinkler_truck",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "special_vehicle",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_clean",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "sprinkler_truck"
+    ],
+    "color": [
+      "white",
+      "blue",
+      "green"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "road",
+      "city",
+      "park"
+    ],
+    "fuel": [
+      "diesel"
+    ],
+    "features": [
+      "water_tank",
+      "spray_nozzle",
+      "wheels"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "洒水车",
+      "aloud": "sǎ shuǐ chē",
+      "words": "sprinkler truck",
+      "intro": "洒水车是一种大大的车，车后面背着一个大水箱，能喷出水来。它每天在马路上慢慢开，给路面洗洗澡，也让空气变得凉凉的、干干净净的。",
+      "story": {
+        "title": "💧洒水车小蓝的一天",
+        "body": "清晨，洒水车小蓝装满水出发啦！它唱着歌，慢慢开过街道。水花从喷头洒出来，像小雨一样，马路一下子亮晶晶的。路边的小花仰起头，咕嘟咕嘟喝饱了水，开心地摇啊摇。一个小女孩路过，笑着说：“妈妈你看，洒水车在画画，地上有彩虹！”原来水珠在阳光下闪闪发光呢。小蓝继续往前开，经过公园，给大树洗了个凉水澡，叶子变得更绿了。一整天，小蓝洒呀洒，让城市变得干净又漂亮。天黑了，小蓝回到车库，它悄悄说：“明天我还要来洒水，让大家都开开心心的。”"
+      },
+      "knowledge": {
+        "title": "洒水车有什么本领？",
+        "body": "洒水车能喷出水花，把路上的灰尘冲走，让空气变清新。天热的时候，洒水还能让路面降温，大家走路更舒服。洒水车是城市的小小清洁工哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_sprinkler_truck_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_sprinkler_truck_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Sprinkler Truck",
+      "aloud": "/ˈsprɪŋklər trʌk/",
+      "words": "",
+      "intro": "A sprinkler truck is a big vehicle with a large water tank on the back. It sprays water to clean the road and make the air cool and fresh.",
+      "story": {
+        "title": "💧Little Blue Sprinkler Truck's Day",
+        "body": "Early in the morning, Little Blue Sprinkler Truck filled up with water and set off! It sang a song as it drove slowly down the street. Water sprayed from the nozzles like light rain, and the road became shiny right away. Little flowers by the side looked up and drank happily, swaying with joy. A little girl passed by and said with a smile, \"Look, Mom! The sprinkler truck is painting a rainbow on the ground!\" The water drops sparkled in the sunshine. Little Blue drove on, passed the park, and gave the big trees a cool shower. Their leaves turned even greener. All day long, Little Blue sprayed water, making the city clean and pretty. When it got dark, Little Blue returned to the garage and whispered, \"Tomorrow I'll come again and make everyone happy.\""
+      },
+      "knowledge": {
+        "title": "What can a sprinkler truck do?",
+        "body": "A sprinkler truck sprays water to wash away dust from the road and freshen the air. On hot days, it cools down the streets, making walks more comfortable. It's a little cleaner for the city!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_sprinkler_truck_intro.mp3",
+        "story": "../item-audio/en/transport_sprinkler_truck_story.mp3"
+      }
+    }
+  }
+}

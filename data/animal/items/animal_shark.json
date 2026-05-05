@@ -1,0 +1,95 @@
+{
+  "id": "animal_shark",
+  "sku_id": "card_animal_shark",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "ocean_animal",
+      "big"
+    ],
+    "secondary": [
+      "has_scales",
+      "can_swim",
+      "eats_fish"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "fish"
+    ],
+    "color": [
+      "gray",
+      "white"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "fins",
+      "tail",
+      "teeth",
+      "scales"
+    ],
+    "scenes": [
+      "ocean"
+    ],
+    "actions": [
+      "swim"
+    ],
+    "sound": [],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "鲨鱼",
+      "aloud": "shā yú",
+      "words": "shark",
+      "intro": "鲨鱼是一种生活在大海里的鱼，它身体很长，有着尖尖的牙齿和有力的尾巴。鲨鱼游得很快，喜欢吃小鱼和小虾。",
+      "story": {
+        "title": "🦈小鲨鱼找朋友",
+        "body": "小鲨鱼鲨鲨住在大海里，它每天游来游去，但觉得有点孤单。一天，鲨鲨看到一群小鱼在礁石边玩耍。鲨鲨游过去说：“我能和你们一起玩吗？”小鱼们看到鲨鲨的尖牙齿，有点害怕，都游走了。鲨鲨很难过，它想：“也许我不该吓到它们。”这时，一只小海龟游过来说：“鲨鲨，你的牙齿看起来很厉害，但你其实很温柔。”鲨鲨点点头。小海龟和鲨鲨一起玩，它们在海草里捉迷藏。鲨鲨用尾巴轻轻拨水，小海龟咯咯笑。从那以后，鲨鲨有了好朋友，再也不孤单了。"
+      },
+      "knowledge": {
+        "title": "鲨鱼为什么一直游动？",
+        "body": "鲨鱼需要不停地游动，让水流过自己的腮，这样才能呼吸到水里的氧气。如果鲨鱼停下来，可能会沉到海底，所以它总是游来游去。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_shark_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_shark_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Shark",
+      "aloud": "/ʃɑːrk/",
+      "words": "",
+      "intro": "A shark is a big fish that lives in the ocean. It has a long body, sharp teeth, and a strong tail. Sharks swim very fast and like to eat small fish.",
+      "story": {
+        "title": "🦈Little Shark Looks for Friends",
+        "body": "Sharky the little shark lived in the big blue ocean. Every day he swam around, but he felt a little lonely. One day, Sharky saw a group of small fish playing near a coral reef. He swam over and said, \"Can I play with you?\" The small fish saw his sharp teeth and got scared. They swam away quickly. Sharky felt sad. Just then, a little sea turtle came and said, \"Sharky, your teeth look sharp, but you are really gentle.\" Sharky nodded. The little turtle and Sharky became friends. They played hide-and-seek in the seaweed. Sharky used his tail to make gentle splashes, and the turtle giggled. From that day on, Sharky was never lonely again."
+      },
+      "knowledge": {
+        "title": "Why do sharks keep swimming?",
+        "body": "Sharks need to keep swimming so that water flows over their gills. This helps them breathe underwater. If a shark stops swimming, it might sink. That's why sharks swim all the time."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_shark_intro.mp3",
+        "story": "../item-audio/en/animal_shark_story.mp3"
+      }
+    }
+  }
+}

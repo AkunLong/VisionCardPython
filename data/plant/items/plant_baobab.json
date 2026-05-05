@@ -1,0 +1,101 @@
+{
+  "id": "plant_baobab",
+  "sku_id": "card_plant_baobab",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "color_green"
+    ],
+    "secondary": [
+      "has_trunk",
+      "has_leaf",
+      "in_desert"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "trunk",
+      "branches",
+      "leaves",
+      "roots",
+      "flowers",
+      "fruit"
+    ],
+    "scenes": [
+      "desert",
+      "savannah",
+      "park"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": true,
+    "is_drinkable": true,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "猴面包树",
+      "aloud": "hóu miàn bāo shù",
+      "words": "baobab",
+      "intro": "猴面包树有个胖胖的树干，里面存着好多水。它的树梢上顶着几根树枝，像倒过来的树根。它生长在炎热的地方，开出白白的花，结出好吃的果子。",
+      "story": {
+        "title": "🌳猴面包树的小秘密",
+        "body": "在很远很远的非洲，有一棵猴面包树。它胖胖的，像一个大水桶。夏天，天气好热好热，小动物们都渴了。小猴子跑过来，敲敲树干说：'大树大树，你有水吗？'猴面包树摇摇叶子说：'有呀有呀，我的肚子里存了好多水。'于是小猴子叫来了小象、小鹿，大家一起喝到了甜甜的水。秋天，猴面包树开出了白白的花，结出了毛茸茸的果子。果子吃起来酸酸的，像柠檬糖。大家边吃边笑，开心极了！猴面包树好骄傲，它虽然长得怪，但大家都喜欢它。"
+      },
+      "knowledge": {
+        "title": "猴面包树有什么特别的地方？",
+        "body": "猴面包树的树干能存好多好多水，就像一个天然的大水壶。它的果子可以吃，味道酸酸的，很有营养。它的花很大很白，晚上开放。它是炎热地方最棒的树！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_baobab_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_baobab_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Baobab",
+      "aloud": "/ˈbeɪəʊbæb/",
+      "words": "",
+      "intro": "The baobab tree has a very thick trunk that stores water. It grows in hot places and has tasty fruits. Animals love it.",
+      "story": {
+        "title": "🌳The Baobab's Secret",
+        "body": "Far away in Africa, there was a baobab tree. It was chubby, like a big water barrel. In summer, it was very very hot. Little monkey came and knocked on the trunk: 'Big tree, big tree, do you have water?' The baobab shook its leaves: 'Yes, yes, I saved lots of water in my tummy.' So monkey called little elephant and little deer. They all drank the sweet water together. In autumn, the baobab grew white flowers and fuzzy fruits. The fruits tasted sour, like lemon candy. Everyone ate and laughed, so happy! The baobab was proud. Even though it looked strange, everyone loved it."
+      },
+      "knowledge": {
+        "title": "What's special about baobab trees?",
+        "body": "Baobab trees can store lots of water in their trunks, like a natural water bottle. Their fruits are sour and full of vitamins. The flowers are big and white, opening at night. They are wonderful trees for hot lands!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_baobab_intro.mp3",
+        "story": "../item-audio/en/plant_baobab_story.mp3"
+      }
+    }
+  }
+}

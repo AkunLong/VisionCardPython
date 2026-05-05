@@ -1,0 +1,93 @@
+{
+  "id": "person_farmer",
+  "sku_id": "card_person_farmer",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "at_workplace"
+    ],
+    "secondary": [
+      "grow_food",
+      "adult",
+      "worker_job"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "farmer"
+    ],
+    "workplace": [
+      "farm",
+      "field"
+    ],
+    "tools": [
+      "tractor",
+      "shovel",
+      "watering_can"
+    ],
+    "clothing": [
+      "overalls",
+      "straw_hat"
+    ],
+    "actions": [
+      "plant",
+      "harvest",
+      "water"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "农民",
+      "aloud": "nóng mín",
+      "words": "farmer",
+      "intro": "农民是种粮食的人。他们在田地里劳动，种出我们吃的米饭、蔬菜和水果，让我们每天都能吃饱饱的。",
+      "story": {
+        "title": "🌾小鸭帮农民伯伯",
+        "body": "秋天到了，稻田里一片金黄。农民伯伯开着大大的拖拉机，轰隆隆地收割稻谷。小鸭子摇摇摆摆走过来，问：伯伯，我可以帮忙吗？农民伯伯笑着说：好啊，你帮我把掉在地上的稻穗捡起来吧！小鸭子低下头，用扁扁的嘴巴一粒一粒捡起稻穗，放进竹篮里。太阳公公看着笑眯眯，农民伯伯擦擦汗说：谢谢你，小鸭子，这些稻穗可以喂鸡哦！小鸭子高兴得嘎嘎叫，它觉得能帮助别人真快乐。晚上，农民伯伯用新米煮了一锅香喷喷的米饭，小鸭子和伯伯一起吃得肚子圆滚滚。"
+      },
+      "knowledge": {
+        "title": "农民种什么？",
+        "body": "农民可以种很多好东西：春天种下小种子，秋天就能收获金黄的稻子、红红的番茄、绿绿的青菜。他们还养小鸡、小鸭和小猪，给我们提供鸡蛋和牛奶。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_farmer_intro.mp3",
+        "story": "../item-audio/zh-CN/person_farmer_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Farmer",
+      "aloud": "/ˈfɑːrmər/",
+      "words": "",
+      "intro": "Farmers grow food for us. They work in the fields, planting rice, vegetables, and fruits so we can have yummy meals every day.",
+      "story": {
+        "title": "🌾Little Duck Helps the Farmer",
+        "body": "Autumn came, and the rice field was golden. The farmer drove a big tractor, rumbling as he harvested the rice. A little duck waddled over and asked, Uncle Farmer, can I help? The farmer smiled and said, Sure! You can pick up the rice ears that fell on the ground. The duck lowered its head and used its flat beak to pick up the grains one by one, putting them into a bamboo basket. The sun smiled warmly, and the farmer wiped his sweat. Thank you, little duck. These grains can feed the chickens! The duck quacked happily; it felt so good to help. That evening, the farmer cooked a pot of fragrant rice with new grains, and the duck ate with him until their tummies were round and full."
+      },
+      "knowledge": {
+        "title": "What do farmers grow?",
+        "body": "Farmers grow many good things: in spring they plant tiny seeds, and in autumn they harvest golden rice, red tomatoes, and green vegetables. They also raise chicks, ducks, and piggies to give us eggs and milk."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_farmer_intro.mp3",
+        "story": "../item-audio/en/person_farmer_story.mp3"
+      }
+    }
+  }
+}

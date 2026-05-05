@@ -1,0 +1,90 @@
+{
+  "id": "food_steamed_bun",
+  "sku_id": "card_food_steamed_bun",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "staple_food",
+      "color_white",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "hot_food",
+      "at_breakfast"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "staple"
+    ],
+    "color": [
+      "white"
+    ],
+    "taste": [
+      "salty"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "school"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "包子",
+      "aloud": "bāo zi",
+      "words": "bun",
+      "intro": "包子是软软白白的，里面有香喷喷的馅儿。早上吃一个热乎乎的包子，一整天都有力气！",
+      "story": {
+        "title": "🥟奶奶的包子最好吃",
+        "body": "星期六早上，小朵朵刚起床，就闻到厨房里飘来一阵香香的味道。她跑过去一看，奶奶正在做包子呢！奶奶的手像魔术师一样，把白白的面团揉啊揉，分成一个个小圆球。小朵朵也学着奶奶的样子，用小手掌把面球按扁，再放上一大勺香香的肉馅。奶奶帮她把包子捏出漂亮的小褶子，像一朵小花。包子放进蒸笼里，咕嘟咕嘟冒着热气，整个厨房都变得暖烘烘的。不一会儿，包子蒸好了，白白胖胖的，像一个个小云朵。小朵朵咬了一口，软软的面皮和香香的馅儿在嘴巴里跳舞，她开心地说：“奶奶做的包子，是世界上最好吃的包子！”奶奶摸摸她的头，笑得眼睛弯弯的。"
+      },
+      "knowledge": {
+        "title": "包子是怎么做的？",
+        "body": "先用水和面粉揉成光滑的面团，让它睡一会儿（发酵）。然后分成小份，擀成圆圆的皮，包进喜欢的馅料，捏出褶皱，放进蒸笼里用大火蒸熟，就能吃到热乎乎、软绵绵的大包子啦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_steamed_bun_intro.mp3",
+        "story": "../item-audio/zh-CN/food_steamed_bun_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Steamed Bun",
+      "aloud": "/stiːmd bʌn/",
+      "words": "",
+      "intro": "Steamed buns are soft and white, with delicious fillings inside. Eating a warm steamed bun in the morning gives you energy for the whole day!",
+      "story": {
+        "title": "🥟Grandma's Steamed Buns Are the Best",
+        "body": "On Saturday morning, little Duoduo just woke up and smelled a wonderful aroma coming from the kitchen. She ran over and saw Grandma making steamed buns! Grandma's hands were like magic, kneading the white dough and dividing it into small round balls. Duoduo tried to copy Grandma—she flattened a dough ball with her little palm, then put a big spoonful of savory meat filling on it. Grandma helped her pinch the bun into pretty pleats, just like a little flower. The buns went into the steamer, puffing out hot steam and making the whole kitchen warm and cozy. Soon, the buns were ready—white, chubby, and looking like little clouds. Duoduo took a bite; the soft skin and tasty filling danced in her mouth. She said happily, 'Grandma's steamed buns are the best in the whole world!' Grandma patted her head and smiled with her eyes twinkling."
+      },
+      "knowledge": {
+        "title": "How are steamed buns made?",
+        "body": "First, mix flour and water to make a smooth dough and let it rest (ferment). Then divide it into small pieces, roll them into round wrappers, add your favorite filling, pinch the edges into pleats, and steam them over high heat. Soon you'll have hot, soft, and fluffy steamed buns!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_steamed_bun_intro.mp3",
+        "story": "../item-audio/en/food_steamed_bun_story.mp3"
+      }
+    }
+  }
+}

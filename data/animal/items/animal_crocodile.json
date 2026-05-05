@@ -1,0 +1,100 @@
+{
+  "id": "animal_crocodile",
+  "sku_id": "card_animal_crocodile",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "reptile",
+      "river_animal"
+    ],
+    "secondary": [
+      "has_scales",
+      "can_swim",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "reptile"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "scales",
+      "tail",
+      "snout",
+      "legs"
+    ],
+    "scenes": [
+      "river",
+      "swamp"
+    ],
+    "actions": [
+      "swim",
+      "crawl",
+      "float"
+    ],
+    "sound": [
+      "roar"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "鳄鱼",
+      "aloud": "è yú",
+      "words": "crocodile",
+      "intro": "鳄鱼是一种大大的爬行动物，身上有坚硬的鳞片，嘴巴长长的，尾巴粗粗的。鳄鱼喜欢生活在水边，会游泳也会爬行。",
+      "story": {
+        "title": "🐊小鳄鱼学游泳",
+        "body": "小鳄鱼克克住在一条绿绿的小河里。它最喜欢看小鱼游来游去，可是自己游得很慢。一天，克克决定要好好学游泳。它先试着用尾巴轻轻地划水，左一下，右一下，身体慢慢向前动了。克克好开心！它又用短短的小腿帮忙蹬水，游得快了一点。小鱼们看见了，游过来围着克克说：“克克，你真棒！”克克听了，更有力气了。它游啊游，从河这边游到河那边，一点也不累。太阳下山了，克克趴在软软的泥巴上，看着天空，心里暖暖的，轻轻闭上了眼睛。"
+      },
+      "knowledge": {
+        "title": "鳄鱼为什么喜欢泡在水里？",
+        "body": "鳄鱼喜欢泡在水里，因为水能让它们的身体保持凉快。它们在水里等着小鱼游过来，然后一口吃掉。鳄鱼有尖尖的牙齿和大大的嘴巴，咬东西很厉害。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_crocodile_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_crocodile_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Crocodile",
+      "aloud": "/ˈkrɒkədaɪl/",
+      "words": "",
+      "intro": "A crocodile is a big reptile with hard scales, a long snout, and a strong tail. Crocodiles like to stay near water. They can swim and crawl.",
+      "story": {
+        "title": "🐊The Little Crocodile Learns to Swim",
+        "body": "Little crocodile Keke lived in a green river. He loved watching the fish swim quickly, but he was very slow. One day, Keke decided to learn to swim well. He first tried to move his tail gently from side to side. His body moved forward a little. Keke was so happy! Then he used his short legs to kick the water, and he swam a bit faster. The little fish saw him and came to say, “Keke, you are great!” Keke felt stronger. He swam from one side of the river to the other, and he was not tired at all. When the sun went down, Keke lay on the soft mud, looked at the sky, and closed his eyes with a warm heart."
+      },
+      "knowledge": {
+        "title": "Why do crocodiles like staying in water?",
+        "body": "Crocodiles love staying in water because it keeps their bodies cool. They wait for fish to swim near and catch them with a quick snap. Crocodiles have sharp teeth and big, strong jaws for biting."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_crocodile_intro.mp3",
+        "story": "../item-audio/en/animal_crocodile_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "person_programmer",
+  "sku_id": "card_person_programmer",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "at_workplace"
+    ],
+    "secondary": [
+      "adult",
+      "build_repair",
+      "worker_job"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "programmer"
+    ],
+    "workplace": [
+      "office",
+      "tech_company"
+    ],
+    "tools": [
+      "computer",
+      "keyboard",
+      "mouse"
+    ],
+    "clothing": [
+      "casual_wear"
+    ],
+    "actions": [
+      "write_code",
+      "create_programs",
+      "test_software",
+      "debug"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "程序员",
+      "aloud": "chéng xù yuán",
+      "words": "programmer",
+      "intro": "程序员是写代码的人，他们用电脑创造出游戏、动画和好玩的软件。如果你喜欢电脑，也可以当一个小小程序员哦！",
+      "story": {
+        "title": "💻小猫咪学编程",
+        "body": "小猫咪球球看到爸爸在电脑上敲敲打打，屏幕上出现了彩色的图画和会动的小游戏。“爸爸，你在做什么呀？”球球好奇地问。爸爸笑着说：“我在写程序，这是一个程序员的工作。”球球觉得好神奇，说：“我也想当程序员！”爸爸抱着球球，让它坐在腿上，教它拖动积木一样的小方块。球球用鼠标点一点，拖一拖，不一会儿，屏幕上出现了一只跳舞的小猫。球球开心地拍手：“我做到了！我做出游戏啦！”从那天起，球球每天学习编程，梦想着做出更多好玩的游戏和大家分享。"
+      },
+      "knowledge": {
+        "title": "程序员用什么工具工作？",
+        "body": "程序员是写代码的人。他们用电脑和键盘，写一种叫“程序”的东西，就像给电脑写指令。电脑照着指令做，就能显示图画、播放音乐，还能做出好玩的游戏呢！程序员的工具主要有电脑、鼠标和键盘，还有各种编程语言。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_programmer_intro.mp3",
+        "story": "../item-audio/zh-CN/person_programmer_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Programmer",
+      "aloud": "/ˈproʊɡræmər/",
+      "words": "",
+      "intro": "A programmer writes code to create games, animations, and fun software with a computer. If you like computers, you can be a little programmer too!",
+      "story": {
+        "title": "💻Little Kitten Learns Coding",
+        "body": "Little Kitten Qiuqiu saw Daddy tapping on the computer, and colorful pictures and moving games appeared on the screen. \"Daddy, what are you doing?\" Qiuqiu asked curiously. Daddy smiled and said, \"I'm writing programs. That's what a programmer does.\" Qiuqiu thought it was magical and said, \"I want to be a programmer too!\" Daddy held Qiuqiu on his lap and taught him to drag small blocks like building blocks. Qiuqiu clicked and dragged with the mouse, and soon a dancing kitten appeared on the screen. Qiuqiu clapped happily, \"I did it! I made a game!\" From that day on, Qiuqiu learned coding every day, dreaming of making more fun games to share with everyone."
+      },
+      "knowledge": {
+        "title": "What tools do programmers use?",
+        "body": "A programmer is someone who writes code. They use a computer and keyboard to write instructions called \"programs.\" When a computer follows these instructions, it can show pictures, play music, and even make fun games! Programmers mainly use computers, mice, keyboards, and different programming languages."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_programmer_intro.mp3",
+        "story": "../item-audio/en/person_programmer_story.mp3"
+      }
+    }
+  }
+}

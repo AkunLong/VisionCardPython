@@ -1,0 +1,89 @@
+{
+  "id": "flower_sunflower",
+  "sku_id": "card_flower_sunflower",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_yellow",
+      "in_garden"
+    ],
+    "secondary": [
+      "big_flower",
+      "summer_flower",
+      "fragrant"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "yellow"
+    ],
+    "size": [
+      "tall"
+    ],
+    "scenes": [
+      "garden",
+      "field",
+      "balcony"
+    ],
+    "season": [
+      "summer"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "向日葵",
+      "aloud": "xiàng rì kuí",
+      "words": "sunflower",
+      "intro": "向日葵是一种高高的花，花瓣金黄金黄的，像小太阳一样。它总是把脸朝向太阳的方向，所以叫向日葵。",
+      "story": {
+        "title": "🌻向日葵找太阳",
+        "body": "花园里长出了一棵小向日葵，它个子矮矮的，叶子绿绿的。每天早上，小向日葵都会抬起头，找太阳公公。太阳从东边升起来，小向日葵就转向东边；太阳走到西边，小向日葵就转向西边。旁边的小草问：你为什么要一直看太阳呀？小向日葵说：因为太阳给我温暖，让我长得更高！一天又一天，小向日葵喝了好多水，晒了好多太阳，终于长得比小草还高。它开出了大大的黄花，就像一个小太阳，漂亮极了！"
+      },
+      "knowledge": {
+        "title": "向日葵为什么跟着太阳转？",
+        "body": "向日葵的茎里有一种东西，会让它朝着太阳的方向生长。小向日葵会跟着太阳转动，但长大开花以后，就不再转了，会一直朝向东方。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_sunflower_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_sunflower_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Sunflower",
+      "aloud": "/ˈsʌnflaʊər/",
+      "words": "",
+      "intro": "A sunflower is a tall flower with golden yellow petals that look like a little sun. It always turns its face toward the sun, which is why it's called a sunflower.",
+      "story": {
+        "title": "🌻The Sunflower Looks for the Sun",
+        "body": "A little sunflower grew in the garden. It was short and had green leaves. Every morning, the little sunflower would lift its head to find Mr. Sun. When the sun rose in the east, the sunflower turned east; when the sun moved to the west, the sunflower turned west. The little grass next to it asked, Why do you keep looking at the sun? The sunflower said, Because the sun gives me warmth and helps me grow taller! Day after day, the sunflower drank lots of water and soaked up lots of sunshine, and finally grew taller than the grass. It bloomed with big yellow flowers, just like a little sun — absolutely beautiful!"
+      },
+      "knowledge": {
+        "title": "Why do sunflowers follow the sun?",
+        "body": "There is something inside the sunflower's stem that makes it grow toward the sun. Young sunflowers turn to follow the sun, but once they grow up and bloom, they stop turning and always face east."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_sunflower_intro.mp3",
+        "story": "../item-audio/en/flower_sunflower_story.mp3"
+      }
+    }
+  }
+}

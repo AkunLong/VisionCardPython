@@ -1,0 +1,90 @@
+{
+  "id": "flower_chrysanthemum",
+  "sku_id": "card_flower_chrysanthemum",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "autumn_flower",
+      "in_garden"
+    ],
+    "secondary": [
+      "many_petals",
+      "fragrant",
+      "color_yellow"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "yellow",
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "garden",
+      "balcony",
+      "park"
+    ],
+    "season": [
+      "autumn"
+    ],
+    "smell": [
+      "fragrant"
+    ],
+    "is_edible": false,
+    "is_drinkable": true,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "菊花",
+      "aloud": "jú huā",
+      "words": "chrysanthemum",
+      "intro": "菊花是秋天开的花，花瓣一层一层，卷卷的，有黄色、白色好多颜色。它闻起来香香的，还可以泡茶喝呢！",
+      "story": {
+        "title": "🌼菊花小精灵的秋天",
+        "body": "秋天来了，花园里的菊花都开了。有一朵小菊花叫卷卷，它的花瓣卷卷的，像妈妈烫的头发。秋风姐姐吹过来说：‘卷卷，我们一起跳舞吧！’卷卷就摇摇摆摆地跳起来。小蝴蝶飞过来，说：‘你的裙子真漂亮！’卷卷害羞地说：‘谢谢，这是我的新裙子。’后来，小主人轻轻摘了几朵菊花，泡成香香的菊花茶。全家一起喝，身体暖暖的。卷卷看见了，心里甜滋滋的，觉得这个秋天真好。"
+      },
+      "knowledge": {
+        "title": "菊花为什么在秋天开？",
+        "body": "菊花喜欢凉爽的天气和短日照。到了秋天，白天变短，天气变凉，菊花就知道该开出漂亮的花朵啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_chrysanthemum_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_chrysanthemum_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Chrysanthemum",
+      "aloud": "/krɪˈsænθəməm/",
+      "words": "",
+      "intro": "The chrysanthemum is a flower that blooms in autumn. It has many layers of curly petals in colors like yellow and white. It smells nice and can be used to make tea.",
+      "story": {
+        "title": "🌼The Little Chrysanthemum and Autumn",
+        "body": "A little chrysanthemum named Curly lived in the garden. When autumn came, Curly bloomed with many curly petals. The autumn wind said, 'Let's dance, Curly!' So they danced together. A butterfly flew by and said, 'Your dress is so pretty!' Curly smiled. Later, the little girl gently picked some flowers to make chrysanthemum tea. The whole family drank it and felt warm. Curly saw this and felt so happy, thinking autumn was wonderful."
+      },
+      "knowledge": {
+        "title": "Why do chrysanthemums bloom in autumn?",
+        "body": "Chrysanthemums like cool weather and shorter days. In autumn, when the days get shorter and cooler, they know it's time to bloom."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_chrysanthemum_intro.mp3",
+        "story": "../item-audio/en/flower_chrysanthemum_story.mp3"
+      }
+    }
+  }
+}

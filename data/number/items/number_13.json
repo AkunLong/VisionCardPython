@@ -1,0 +1,76 @@
+{
+  "id": "number_13",
+  "sku_id": "card_number_thirteen",
+  "category": "number",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "two_digit",
+      "odd_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 13,
+    "is_even": false,
+    "is_prime": true,
+    "ordinal": "13th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字13",
+      "aloud": "shí sān",
+      "words": "thirteen",
+      "intro": "数字13是比12多一的数字。它由一个十和一个三组成，是两位数哦！",
+      "story": {
+        "title": "🍪13块饼干",
+        "body": "小猴子做了13块饼干，准备分给朋友们。它数了数：1、2、3...10，然后再数11、12、13！13块饼干不多不少。小兔子说：“我闻到香味啦！”小猴子把饼干摆在盘子里，分给每个小动物一块。大家开心地吃着，都说：“13块饼干真好吃！”小猴子发现，13虽然是个大数字，但只要认真数，就能数清楚。剩下最后一块，它留给了最小的蚂蚁，蚂蚁高兴极了！"
+      },
+      "knowledge": {
+        "title": "13为什么是两位数？",
+        "body": "13是由一个十和一个三组成的。十位是1，个位是3，所以它是两位数。两位数都比一位数大。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_13_intro.mp3",
+        "story": "../item-audio/zh-CN/number_13_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Thirteen",
+      "aloud": "/θɜːrˈtiːn/",
+      "words": "",
+      "intro": "Thirteen is one more than twelve. It has a ten and a three. It is a two-digit number!",
+      "story": {
+        "title": "🍪Thirteen Cookies",
+        "body": "Little monkey baked thirteen cookies to share with friends. He counted: 1, 2, 3...10, then 11, 12, 13! Exactly thirteen cookies. Rabbit said, “I smell something yummy!” Monkey put the cookies on a plate and gave one to each animal. They ate happily, saying, “Thirteen cookies are so good!” Monkey saw that thirteen is a big number, but you can count it carefully. He saved the last cookie for the tiniest ant, and ant was so happy!"
+      },
+      "knowledge": {
+        "title": "Why is thirteen a two-digit number?",
+        "body": "Thirteen is made of one ten and three ones. The tens place is 1, the ones place is 3, so it is a two-digit number. Two-digit numbers are bigger than one-digit numbers."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_13_intro.mp3",
+        "story": "../item-audio/en/number_13_story.mp3"
+      }
+    }
+  }
+}

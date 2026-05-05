@@ -1,0 +1,96 @@
+{
+  "id": "person_gardener",
+  "sku_id": "card_person_gardener",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "grow_food"
+    ],
+    "secondary": [
+      "adult",
+      "in_nature",
+      "take_care"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "gardener"
+    ],
+    "workplace": [
+      "garden",
+      "park",
+      "greenhouse"
+    ],
+    "tools": [
+      "shovel",
+      "watering_can",
+      "pruning_shears"
+    ],
+    "clothing": [
+      "apron",
+      "gloves",
+      "hat"
+    ],
+    "actions": [
+      "plant",
+      "water",
+      "prune",
+      "weed"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "园丁",
+      "aloud": "yuán dīng",
+      "words": "gardener",
+      "intro": "园丁是照顾花草树木的人。他们每天给植物浇水、施肥，让花园变得更美丽。",
+      "story": {
+        "title": "🌻小花匠的梦想",
+        "body": "小兔最喜欢去爷爷的花园了。爷爷是个园丁，每天戴着草帽，拿着小铲子，在花园里忙来忙去。小兔问：爷爷，你为什么这么开心？爷爷笑着说：因为我在照顾花儿呀，它们就像我的好朋友。小兔说：我也想做园丁！爷爷教小兔怎么种向日葵：先把小种子埋进松软的土里，再浇一点点水。然后等着太阳公公把它们叫醒。过了几天，小嫩芽从土里钻出来，小兔高兴得直跳。日子一天天过去，向日葵越长越高，开出了金灿灿的大花盘。小兔拉着妈妈说：你看，这是我种的！我以后要当一个超级园丁，让到处都开满漂亮的花！"
+      },
+      "knowledge": {
+        "title": "园丁需要什么工具？",
+        "body": "园丁有神奇的工具：小铲子用来挖土，洒水壶可以给植物喝水，小剪刀能修剪枝叶。还要戴上手套保护小手，穿上围裙不弄脏衣服。有了这些帮手，花园就能变得漂漂亮亮啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_gardener_intro.mp3",
+        "story": "../item-audio/zh-CN/person_gardener_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Gardener",
+      "aloud": "/ˈɡɑːrdnər/",
+      "words": "",
+      "intro": "A gardener is someone who takes care of plants and flowers. They water them, pull out weeds, and help the garden grow beautiful.",
+      "story": {
+        "title": "🌻The Little Gardener's Dream",
+        "body": "Little Bunny loved visiting Grandpa's garden. Grandpa was a gardener who wore a straw hat and worked with a small shovel every day. Little Bunny asked, Grandpa, why are you so happy? Grandpa smiled and said, Because I'm taking care of the flowers. They're like my good friends. Little Bunny said, I want to be a gardener too! Grandpa taught Little Bunny how to plant sunflowers: first put a tiny seed into the soft soil, then give it a little water. Then wait for the sun to wake it up. After a few days, a little sprout came out of the ground, and Little Bunny jumped for joy. Day by day, the sunflower grew taller and taller, and a big bright yellow flower bloomed. Little Bunny pulled Mama over and said, Look, I grew this! When I grow up, I want to be a super gardener and make flowers bloom everywhere!"
+      },
+      "knowledge": {
+        "title": "What tools does a gardener use?",
+        "body": "A gardener has magic tools: a small shovel to dig soil, a watering can to give plants a drink, and small scissors to trim leaves. Gardeners also wear gloves to protect their hands and an apron to keep their clothes clean. With these helpers, the garden can become beautiful."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_gardener_intro.mp3",
+        "story": "../item-audio/en/person_gardener_story.mp3"
+      }
+    }
+  }
+}

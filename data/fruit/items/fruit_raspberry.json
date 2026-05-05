@@ -1,0 +1,87 @@
+{
+  "id": "fruit_raspberry",
+  "sku_id": "card_fruit_raspberry",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_red",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "small",
+      "soft",
+      "sour"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "red"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "sour"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "树莓",
+      "aloud": "shù méi",
+      "words": "raspberry",
+      "intro": "树莓是一种红色的小浆果，味道酸酸甜甜，摸起来软软的。它含有丰富的营养，能让小朋友的身体更健康。",
+      "story": {
+        "title": "🐻小棕熊的树莓",
+        "body": "夏天到了，小棕熊跟着妈妈来到山坡上。灌木丛里挂着一串串红色的树莓，像一颗颗小宝石。小棕熊轻轻地摘下一颗，放进嘴里，“哇，酸酸甜甜的，真好吃！”它又摘了许多，放进小篮子里。回到家，小棕熊把树莓洗干净，和妈妈一起做成了果酱。第二天，它带着果酱去找好朋友小刺猬。两个小家伙把果酱抹在面包上，吃得满脸都是。小棕熊说：“自己摘的树莓，吃起来最香啦！”小刺猬点点头，开心地笑了。"
+      },
+      "knowledge": {
+        "title": "树莓是长在哪里的？",
+        "body": "树莓是一种灌木上结的果子，喜欢温暖的地方。夏天时，树莓慢慢变红成熟，我们就可以摘下来吃了。树莓有很多小小的果实挤在一起，组成一颗完整的树莓。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_raspberry_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_raspberry_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Raspberry",
+      "aloud": "/ˈræzˌbɛri/",
+      "words": "",
+      "intro": "A raspberry is a small, red berry that tastes both sweet and sour. It is soft and juicy, and full of nutrients to help children stay healthy.",
+      "story": {
+        "title": "🐻Little Brown Bear's Raspberries",
+        "body": "Summer arrived, and Little Brown Bear went with his mother to the hillside. Red raspberries hung from the bushes like tiny jewels. Gently, Little Brown Bear picked one and put it in his mouth. “Wow, sweet and sour, so yummy!” He picked many more and placed them in his little basket. Back home, he washed the raspberries and made jam with his mother. The next day, he brought the jam to his good friend, Little Hedgehog. The two pals spread jam on bread and ended up with fruity smiles. Little Brown Bear said, “Raspberries you pick yourself taste the best!” Little Hedgehog nodded and laughed with joy."
+      },
+      "knowledge": {
+        "title": "Where do raspberries grow?",
+        "body": "Raspberries grow on bushes and love warm places. In summer, they turn red and ripe, ready to be picked. A raspberry is made up of many tiny fruits clustered together to form one whole berry."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_raspberry_intro.mp3",
+        "story": "../item-audio/en/fruit_raspberry_story.mp3"
+      }
+    }
+  }
+}

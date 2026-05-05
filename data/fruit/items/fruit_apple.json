@@ -1,0 +1,87 @@
+{
+  "id": "fruit_apple",
+  "sku_id": "card_fruit_apple",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_red",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sweet",
+      "orchard"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "red"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "crisp"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "苹果",
+      "aloud": "píng guǒ",
+      "words": "apple",
+      "intro": "苹果是一种圆圆的水果，颜色红红的，吃起来甜甜脆脆。它含有丰富的营养，可以帮助小朋友健康长大。",
+      "story": {
+        "title": "🐰小兔子的苹果",
+        "body": "小兔子在果园里看见一个红红的大苹果，挂在树上像一个小灯笼。它跳呀跳，怎么也够不着苹果。一只小鸟飞过来，轻轻用嘴一碰，苹果就掉在小兔子怀里。小兔子开心极了，把苹果洗干净，咬了一口，真甜！它把苹果切成小块，分给小鸟、小松鼠和小熊。大家一起吃，笑着说：“苹果真好吃！”小兔子觉得，和朋友分享苹果比一个人吃更开心。"
+      },
+      "knowledge": {
+        "title": "苹果在什么季节成熟？",
+        "body": "苹果大多在秋天成熟。秋天阳光好，天气凉爽，苹果会慢慢变红变甜。所以秋天我们能吃到很多新鲜好吃的苹果。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_apple_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_apple_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Apple",
+      "aloud": "/ˈæpəl/",
+      "words": "",
+      "intro": "An apple is a round, red fruit that tastes sweet and crisp. It’s packed with nutrients that help children grow up healthy.",
+      "story": {
+        "title": "🐰The Little Rabbit's Apple",
+        "body": "The little rabbit saw a big red apple in the orchard. It hung on the tree like a little lantern. The rabbit jumped and jumped but couldn't reach it. A little bird flew over and gently pecked it. The apple fell right into the rabbit's arms. The rabbit was so happy! It washed the apple and took a bite. So sweet! Then it cut the apple into small pieces and shared with the bird, the squirrel, and the little bear. They ate together and smiled, “The apple is so yummy!” The rabbit felt that sharing an apple with friends is even more fun than eating it alone."
+      },
+      "knowledge": {
+        "title": "When do apples ripen?",
+        "body": "Apples mostly ripen in the fall. With nice sunshine and cool weather, they turn red and sweet. That's why we have so many fresh, tasty apples in autumn."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_apple_intro.mp3",
+        "story": "../item-audio/en/fruit_apple_story.mp3"
+      }
+    }
+  }
+}

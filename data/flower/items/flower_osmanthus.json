@@ -1,0 +1,89 @@
+{
+  "id": "flower_osmanthus",
+  "sku_id": "card_flower_osmanthus",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_yellow",
+      "fragrant"
+    ],
+    "secondary": [
+      "small_flower",
+      "autumn_flower",
+      "in_garden"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "yellow"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "balcony"
+    ],
+    "season": [
+      "autumn"
+    ],
+    "smell": [
+      "strong"
+    ],
+    "is_edible": true,
+    "is_drinkable": true,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "桂花",
+      "aloud": "guì huā",
+      "words": "osmanthus",
+      "intro": "桂花是一种小小的黄花，长在树上，秋天开放，香气飘得很远很远，让人闻了心情好好。",
+      "story": {
+        "title": "🌼小桂花找朋友",
+        "body": "秋天到了，桂花树上开出了许多小花，金黄金黄的，香香的。小桂花想：要是有朋友陪我玩多好呀！风姐姐听见了，轻轻一吹，把香味送到了小蜜蜂的家。小蜜蜂闻到香味，飞过来了，说：“好香呀，我可以跟你玩吗？”小桂花开心地说：“欢迎欢迎！”小蜜蜂在花间跳舞，还采了一点甜花蜜。过了一会儿，小鸟也闻到了香味，落在枝头唱起了歌。小桂花觉得，秋天真是太美好了！从此以后，每年秋天，小桂花都会开出香香的花，等朋友来找它玩。"
+      },
+      "knowledge": {
+        "title": "桂花可以做什么？",
+        "body": "桂花不仅香，还可以吃。人们把桂花采下来，做成桂花糕、桂花茶，吃起来甜甜的，香香的，身体也暖暖的。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_osmanthus_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_osmanthus_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Osmanthus",
+      "aloud": "/ɒzˈmænθəs/",
+      "words": "",
+      "intro": "Osmanthus is a small yellow flower that grows on trees. It blooms in autumn and has a sweet scent that carries far away, making people happy.",
+      "story": {
+        "title": "🌼Little Osmanthus Finds a Friend",
+        "body": "Autumn came, and many little golden flowers bloomed on the osmanthus tree. They were so fragrant. Little Osmanthus thought: How nice it would be to have a friend to play with! Sister Wind heard this, gave a gentle blow, and carried the scent to Little Bee's home. Little Bee smelled the fragrance, flew over, and said, \"Mmm, so sweet! Can I play with you?\" Little Osmanthus happily said, \"Welcome!\" Little Bee danced among the flowers and gathered some sweet nectar. After a while, Little Bird also smelled the scent, landed on a branch, and sang a song. Little Osmanthus felt that autumn was truly wonderful! From then on, every autumn, Little Osmanthus blooms its fragrant flowers and waits for friends to come and play."
+      },
+      "knowledge": {
+        "title": "What can osmanthus be used for?",
+        "body": "Osmanthus is not only fragrant but also edible. People collect the flowers and make osmanthus cake and osmanthus tea. They taste sweet and fragrant, and make you feel warm inside."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_osmanthus_intro.mp3",
+        "story": "../item-audio/en/flower_osmanthus_story.mp3"
+      }
+    }
+  }
+}

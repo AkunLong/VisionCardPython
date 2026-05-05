@@ -1,0 +1,79 @@
+{
+  "id": "transport_set_v1",
+  "category": "transport",
+  "name": "交通工具认知卡排序",
+  "description": "适合3-6岁儿童的交通工具认知顺序，优先展示生活中常见、易识别、高频出现的交通工具，再逐步扩展到公共交通、特种车辆、工程车辆、水上交通、空中交通和交通安全相关物品。",
+  "nav": {
+    "id": "transport",
+    "name": "交通工具图卡合集",
+    "description": "45种常见交通工具认知卡",
+    "available": true,
+    "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/transport/images/story/transport_excavator_story.jpg",
+    "title": {
+        "zh-CN": "出发吧，世界那么大",
+        "en": "All Aboard! The World Awaits"
+      },
+      "subtitle": {
+        "zh-CN": "坐上各种车船飞机",
+        "en": "Ride, Sail, and Soar"
+      },
+      "small_title": {
+        "zh-CN": "呜呜的火车，嗡嗡的飞机，轰隆隆的挖掘机出发啦",
+        "en": "Choo-choo trains, zooming planes, rumbling excavators — let's go!"
+      },
+      "background_color_image":"#4AA7D2",
+      "background_color_card":"#3FA2CE"
+  },
+  "total": 45,
+  "items": [
+  { "id": "transport_balance_bike", "name": "平衡车", "enName": "Balance Bike" },
+  { "id": "transport_bicycle", "name": "自行车", "enName": "Bicycle" },
+  { "id": "transport_tricycle", "name": "三轮车", "enName": "Tricycle" },
+  { "id": "transport_scooter", "name": "滑板车", "enName": "Scooter" },
+  { "id": "transport_electric_bike", "name": "电瓶车", "enName": "Electric Bike" },
+  { "id": "transport_motorcycle", "name": "摩托车", "enName": "Motorcycle" },
+
+  { "id": "transport_car", "name": "汽车", "enName": "Car" },
+  { "id": "transport_convertible", "name": "敞篷车", "enName": "Convertible" },
+  { "id": "transport_race_car", "name": "赛车", "enName": "Race Car" },
+  { "id": "transport_off_road_vehicle", "name": "越野车", "enName": "Off-Road Vehicle" },
+  { "id": "transport_pickup_truck", "name": "皮卡车", "enName": "Pickup Truck" },
+  { "id": "transport_van", "name": "面包车", "enName": "Van" },
+  { "id": "transport_truck", "name": "货车", "enName": "Truck" },
+  { "id": "transport_tanker_truck", "name": "油罐车", "enName": "Tanker Truck" },
+  { "id": "transport_sprinkler_truck", "name": "洒水车", "enName": "Sprinkler Truck" },
+  { "id": "transport_recycling_truck", "name": "回收车", "enName": "Recycling Truck" },
+
+  { "id": "transport_school_bus", "name": "校车", "enName": "School Bus" },
+  { "id": "transport_taxi", "name": "计程车", "enName": "Taxi" },
+  { "id": "transport_police_car", "name": "警车", "enName": "Police Car" },
+  { "id": "transport_ambulance", "name": "救护车", "enName": "Ambulance" },
+  { "id": "transport_fire_truck", "name": "消防车", "enName": "Fire Truck" },
+  { "id": "transport_tow_truck", "name": "拖车", "enName": "Tow Truck" },
+
+  { "id": "transport_excavator", "name": "挖掘机", "enName": "Excavator" },
+  { "id": "transport_bulldozer", "name": "推土机", "enName": "Bulldozer" },
+
+  { "id": "transport_cable_car", "name": "缆车", "enName": "Cable Car" },
+  { "id": "transport_ferry", "name": "摆渡船", "enName": "Ferry" },
+  { "id": "transport_sailboat", "name": "帆船", "enName": "Sailboat" },
+  { "id": "transport_speedboat", "name": "快艇", "enName": "Speedboat" },
+  { "id": "transport_lifeboat", "name": "救生艇", "enName": "Lifeboat" },
+  { "id": "transport_cargo_ship", "name": "货轮", "enName": "Cargo Ship" },
+  { "id": "transport_cruise_ship", "name": "游轮", "enName": "Cruise Ship" },
+
+  { "id": "transport_airplane", "name": "飞机", "enName": "Airplane" },
+  { "id": "transport_helicopter", "name": "直升机", "enName": "Helicopter" },
+  { "id": "transport_hot_air_balloon", "name": "热气球", "enName": "Hot Air Balloon" },
+  { "id": "transport_parachute", "name": "降落伞", "enName": "Parachute" },
+  { "id": "transport_rocket", "name": "火箭", "enName": "Rocket" },
+  { "id": "transport_spaceship", "name": "飞船", "enName": "Spaceship" },
+
+  { "id": "transport_seat_belt", "name": "安全带", "enName": "Seat Belt" },
+  { "id": "transport_child_safety_seat", "name": "安全座椅", "enName": "Child Safety Seat" },
+  { "id": "transport_steering_wheel", "name": "方向盘", "enName": "Steering Wheel" },
+  { "id": "transport_tire", "name": "轮胎", "enName": "Tire" },
+  { "id": "transport_dash_cam", "name": "行车记录仪", "enName": "Dash Cam" },
+  { "id": "transport_traffic_cone", "name": "路障警示锥", "enName": "Traffic Cone" }
+]
+}

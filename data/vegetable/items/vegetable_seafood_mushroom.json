@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_seafood_mushroom",
+  "sku_id": "card_vegetable_seafood_mushroom",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_white",
+      "mushroom_vegetable"
+    ],
+    "secondary": [
+      "long",
+      "crisp",
+      "fragrant"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "white"
+    ],
+    "shape": [
+      "long",
+      "round"
+    ],
+    "taste": [
+      "crisp",
+      "fragrant"
+    ],
+    "grow_location": [
+      "farm"
+    ],
+    "scenes": [
+      "kitchen",
+      "supermarket",
+      "farm"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "海鲜菇",
+      "aloud": "hǎi xiān gū",
+      "words": "seafood mushroom",
+      "intro": "海鲜菇是一种白色的蘑菇，长得细细长长的，像一把把小雨伞。吃起来脆脆的，还有一股特别的鲜香味，就像大海的味道！",
+      "story": {
+        "title": "🍄小蘑菇汤",
+        "body": "小猫咪在厨房发现一袋白白嫩嫩的海鲜菇，圆圆的菌盖，长长的菌柄，好可爱。它想：这可以做什么好吃的呢？小猫咪把海鲜菇洗干净，放进锅里，加上水，又放了几个小番茄。咕噜咕噜，汤煮好啦！一股鲜鲜的香味飘出窗外。小狗闻到跑来了，小兔子也跑来了。大家一起喝汤，哇，好鲜呀！小猫咪说：这叫海鲜菇汤，里面有大海的味道！小动物们都笑了。喝完汤，小猫咪把剩下的海鲜菇种在了花盆里，盖上湿湿的土，每天喷水，过了几天，真的长出了新的小蘑菇！它们高兴极了，约定以后一起种蘑菇，喝蘑菇汤。"
+      },
+      "knowledge": {
+        "title": "吃海鲜菇有什么好处？",
+        "body": "海鲜菇含有丰富的蛋白质和维生素，能帮助小朋友长高长壮。它吃起来脆嫩鲜美，可以煮汤、炒菜，怎么做都很好吃！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_seafood_mushroom_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_seafood_mushroom_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Seafood Mushroom",
+      "aloud": "/ˈsiːfuːd ˈmʌʃruːm/",
+      "words": "",
+      "intro": "Seafood mushroom is a white mushroom with a long stem and a small round cap, like tiny umbrellas. It tastes crisp and has a special fresh flavor, just like the sea!",
+      "story": {
+        "title": "🍄Little Mushroom Soup",
+        "body": "The little kitten found a bag of white seafood mushrooms in the kitchen. They had round caps and long stems, so cute! It thought: What yummy food can I make with these? The kitten washed the mushrooms, put them in a pot with water, and added a few cherry tomatoes. Gurgle, gurgle, the soup was ready! A delicious fresh smell drifted out the window. The puppy smelled it and came, and the rabbit came too. Everyone had some soup. Wow, so tasty! The kitten said, This is seafood mushroom soup — it tastes like the sea! The animals all smiled. After the soup, the kitten planted the leftover mushrooms in a flowerpot, covered them with moist soil, and watered them every day. A few days later, new little mushrooms grew! They were so happy and promised to grow mushrooms together and make mushroom soup again."
+      },
+      "knowledge": {
+        "title": "Why is seafood mushroom good for you?",
+        "body": "Seafood mushrooms are rich in protein, vitamins, and minerals, helping kids grow taller and stronger. With a crisp texture and delicate flavor, they taste great in soups, stir-fries, or even raw in salads."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_seafood_mushroom_intro.mp3",
+        "story": "../item-audio/en/vegetable_seafood_mushroom_story.mp3"
+      }
+    }
+  }
+}

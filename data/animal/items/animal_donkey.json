@@ -1,0 +1,104 @@
+{
+  "id": "animal_donkey",
+  "sku_id": "card_animal_donkey",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "farm_animal",
+      "strong"
+    ],
+    "secondary": [
+      "has_fur",
+      "has_tail",
+      "color_gray"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "farm_animal"
+    ],
+    "color": [
+      "gray",
+      "brown",
+      "black"
+    ],
+    "size": [
+      "medium"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "ears",
+      "hooves"
+    ],
+    "scenes": [
+      "farm",
+      "field",
+      "barn"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "carry",
+      "pull"
+    ],
+    "sound": [
+      "bray"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "毛驴",
+      "aloud": "máo lǘ",
+      "words": "donkey",
+      "intro": "毛驴是一种勤劳的小动物，耳朵长长的，尾巴尖尖的。它的毛摸起来软软的，走起路来哒哒响。毛驴喜欢帮人们驮东西，是大家的好帮手。",
+      "story": {
+        "title": "🐴小毛驴运粮食",
+        "body": "从前，有一头小毛驴叫阿灰。阿灰住在农场里，每天帮农民伯伯干活。一天，农民伯伯把两袋粮食放在阿灰背上，说：“阿灰，帮我把粮食送到磨坊去吧。”阿灰点点头，迈开蹄子，“嗒嗒嗒”地出发了。路上，阿灰遇到一条小河，河水哗哗流。阿灰小心地踩着石头，一步一步走过去。又经过一片小树林，树枝沙沙响。阿灰不怕，稳稳地往前走。终于到了磨坊，阿灰把粮食放下，农民伯伯摸摸它的头说：“谢谢你，阿灰，你真能干！”阿灰高兴地甩甩尾巴，心里美滋滋的。傍晚，阿灰回到农场，吃着新鲜的草料，看着晚霞，慢慢睡着了。"
+      },
+      "knowledge": {
+        "title": "小毛驴的耳朵为什么那么长？",
+        "body": "毛驴的长耳朵能帮助它听清很远的声音，还能在热天里扇风散热，让身体凉快。毛驴的耳朵很灵活，可以朝不同的方向转动，帮助它发现周围的动静。毛驴还是干活的好帮手，能驮重物走很远的路。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_donkey_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_donkey_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Donkey",
+      "aloud": "/ˈdɒŋki/",
+      "words": "",
+      "intro": "A donkey is a hardworking farm animal with long ears and a tufted tail. Donkeys have soft fur and make a clip-clop sound when they walk. They love to help people carry things and are gentle friends.",
+      "story": {
+        "title": "🐴The Little Donkey Carries Grain",
+        "body": "Once upon a time, there was a little donkey named Gray. Gray lived on a farm and helped the farmer every day. One day, the farmer put two bags of grain on Gray’s back and said, “Gray, please take this grain to the mill.” Gray nodded and set off with a happy clip-clop. On the way, he came to a little stream with water splashing. Gray carefully stepped on the stones, one by one. Then he passed a small forest where branches rustled. Gray was not afraid and walked steadily forward. Finally, he reached the mill and put down the grain. The farmer patted his head and said, “Thank you, Gray, you are such a good helper!” Gray happily wagged his tail. In the evening, Gray returned to the farm, ate fresh hay, watched the sunset, and slowly fell asleep."
+      },
+      "knowledge": {
+        "title": "Why do donkeys have long ears?",
+        "body": "Donkeys have long ears to hear sounds from far away. They also use their ears to fan themselves on hot days, which cools their bodies. A donkey’s ears are very flexible and can turn in different directions to listen for sounds around them. Donkeys are strong helpers and can carry heavy things for long distances."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_donkey_intro.mp3",
+        "story": "../item-audio/en/animal_donkey_story.mp3"
+      }
+    }
+  }
+}

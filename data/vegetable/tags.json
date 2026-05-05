@@ -1,0 +1,546 @@
+[
+  {
+    "id": "color_green",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "绿色",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_color_green.mp3"
+      },
+      "en": {
+        "name": "Green",
+        "audio_url": "audio/tags-audio/en/vegetable_color_green.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_red",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "red",
+    "content": {
+      "zh-CN": {
+        "name": "红色",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_color_red.mp3"
+      },
+      "en": {
+        "name": "Red",
+        "audio_url": "audio/tags-audio/en/vegetable_color_red.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_yellow",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "黄色",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_color_yellow.mp3"
+      },
+      "en": {
+        "name": "Yellow",
+        "audio_url": "audio/tags-audio/en/vegetable_color_yellow.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_orange",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "橙色",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_color_orange.mp3"
+      },
+      "en": {
+        "name": "Orange",
+        "audio_url": "audio/tags-audio/en/vegetable_color_orange.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_white",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "white",
+    "content": {
+      "zh-CN": {
+        "name": "白色",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_color_white.mp3"
+      },
+      "en": {
+        "name": "White",
+        "audio_url": "audio/tags-audio/en/vegetable_color_white.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_purple",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "紫色",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_color_purple.mp3"
+      },
+      "en": {
+        "name": "Purple",
+        "audio_url": "audio/tags-audio/en/vegetable_color_purple.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_brown",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "brown",
+    "content": {
+      "zh-CN": {
+        "name": "棕色",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_color_brown.mp3"
+      },
+      "en": {
+        "name": "Brown",
+        "audio_url": "audio/tags-audio/en/vegetable_color_brown.mp3"
+      }
+    }
+  },
+  {
+    "id": "vegetable",
+    "type": "category",
+    "icon": "carrot",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "蔬菜",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_vegetable.mp3"
+      },
+      "en": {
+        "name": "Vegetable",
+        "audio_url": "audio/tags-audio/en/vegetable_vegetable.mp3"
+      }
+    }
+  },
+  {
+    "id": "leafy_vegetable",
+    "type": "category",
+    "icon": "leaf",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "叶子菜",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_leafy_vegetable.mp3"
+      },
+      "en": {
+        "name": "Leafy vegetable",
+        "audio_url": "audio/tags-audio/en/vegetable_leafy_vegetable.mp3"
+      }
+    }
+  },
+  {
+    "id": "root_vegetable",
+    "type": "category",
+    "icon": "sprout",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "根茎类",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_root_vegetable.mp3"
+      },
+      "en": {
+        "name": "Root vegetable",
+        "audio_url": "audio/tags-audio/en/vegetable_root_vegetable.mp3"
+      }
+    }
+  },
+  {
+    "id": "bean_vegetable",
+    "type": "category",
+    "icon": "bean",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "豆类",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_bean_vegetable.mp3"
+      },
+      "en": {
+        "name": "Bean vegetable",
+        "audio_url": "audio/tags-audio/en/vegetable_bean_vegetable.mp3"
+      }
+    }
+  },
+  {
+    "id": "mushroom_vegetable",
+    "type": "category",
+    "icon": "mushroom",
+    "styleKey": "brown",
+    "content": {
+      "zh-CN": {
+        "name": "菌菇类",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_mushroom_vegetable.mp3"
+      },
+      "en": {
+        "name": "Mushroom",
+        "audio_url": "audio/tags-audio/en/vegetable_mushroom_vegetable.mp3"
+      }
+    }
+  },
+  {
+    "id": "melon_vegetable",
+    "type": "category",
+    "icon": "circle",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "瓜类蔬菜",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_melon_vegetable.mp3"
+      },
+      "en": {
+        "name": "Gourd vegetable",
+        "audio_url": "audio/tags-audio/en/vegetable_melon_vegetable.mp3"
+      }
+    }
+  },
+  {
+    "id": "pepper_vegetable",
+    "type": "category",
+    "icon": "flame",
+    "styleKey": "red",
+    "content": {
+      "zh-CN": {
+        "name": "椒类蔬菜",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_pepper_vegetable.mp3"
+      },
+      "en": {
+        "name": "Pepper vegetable",
+        "audio_url": "audio/tags-audio/en/vegetable_pepper_vegetable.mp3"
+      }
+    }
+  },
+  {
+    "id": "round",
+    "type": "shape",
+    "icon": "circle",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "圆圆的",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_round.mp3"
+      },
+      "en": {
+        "name": "Round",
+        "audio_url": "audio/tags-audio/en/vegetable_round.mp3"
+      }
+    }
+  },
+  {
+    "id": "long",
+    "type": "shape",
+    "icon": "ruler",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "长长的",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_long.mp3"
+      },
+      "en": {
+        "name": "Long",
+        "audio_url": "audio/tags-audio/en/vegetable_long.mp3"
+      }
+    }
+  },
+  {
+    "id": "leaf_shape",
+    "type": "shape",
+    "icon": "leaf",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "叶子形",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_leaf_shape.mp3"
+      },
+      "en": {
+        "name": "Leaf-shaped",
+        "audio_url": "audio/tags-audio/en/vegetable_leaf_shape.mp3"
+      }
+    }
+  },
+  {
+    "id": "flower_shape",
+    "type": "shape",
+    "icon": "flower-2",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "像小花",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_flower_shape.mp3"
+      },
+      "en": {
+        "name": "Flower-shaped",
+        "audio_url": "audio/tags-audio/en/vegetable_flower_shape.mp3"
+      }
+    }
+  },
+  {
+    "id": "striped",
+    "type": "feature",
+    "icon": "grip",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "有条纹",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_striped.mp3"
+      },
+      "en": {
+        "name": "Striped",
+        "audio_url": "audio/tags-audio/en/vegetable_striped.mp3"
+      }
+    }
+  },
+  {
+    "id": "sweet",
+    "type": "taste",
+    "icon": "candy",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "甜甜的",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_sweet.mp3"
+      },
+      "en": {
+        "name": "Sweet",
+        "audio_url": "audio/tags-audio/en/vegetable_sweet.mp3"
+      }
+    }
+  },
+  {
+    "id": "crisp",
+    "type": "taste",
+    "icon": "sparkles",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "脆脆的",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_crisp.mp3"
+      },
+      "en": {
+        "name": "Crisp",
+        "audio_url": "audio/tags-audio/en/vegetable_crisp.mp3"
+      }
+    }
+  },
+  {
+    "id": "soft",
+    "type": "texture",
+    "icon": "feather",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "软软的",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_soft.mp3"
+      },
+      "en": {
+        "name": "Soft",
+        "audio_url": "audio/tags-audio/en/vegetable_soft.mp3"
+      }
+    }
+  },
+  {
+    "id": "juicy",
+    "type": "texture",
+    "icon": "droplets",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "水分多",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_juicy.mp3"
+      },
+      "en": {
+        "name": "Juicy",
+        "audio_url": "audio/tags-audio/en/vegetable_juicy.mp3"
+      }
+    }
+  },
+  {
+    "id": "spicy",
+    "type": "taste",
+    "icon": "flame",
+    "styleKey": "red",
+    "content": {
+      "zh-CN": {
+        "name": "辣辣的",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_spicy.mp3"
+      },
+      "en": {
+        "name": "Spicy",
+        "audio_url": "audio/tags-audio/en/vegetable_spicy.mp3"
+      }
+    }
+  },
+  {
+    "id": "bitter",
+    "type": "taste",
+    "icon": "leaf",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "苦苦的",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_bitter.mp3"
+      },
+      "en": {
+        "name": "Bitter",
+        "audio_url": "audio/tags-audio/en/vegetable_bitter.mp3"
+      }
+    }
+  },
+  {
+    "id": "fragrant",
+    "type": "smell",
+    "icon": "wind",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "有香味",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_fragrant.mp3"
+      },
+      "en": {
+        "name": "Fragrant",
+        "audio_url": "audio/tags-audio/en/vegetable_fragrant.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_field",
+    "type": "scene",
+    "icon": "sprout",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "田地里",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_in_field.mp3"
+      },
+      "en": {
+        "name": "In the field",
+        "audio_url": "audio/tags-audio/en/vegetable_in_field.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_garden",
+    "type": "scene",
+    "icon": "flower-2",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "菜园里",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_in_garden.mp3"
+      },
+      "en": {
+        "name": "In the garden",
+        "audio_url": "audio/tags-audio/en/vegetable_in_garden.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_kitchen",
+    "type": "scene",
+    "icon": "cooking-pot",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "厨房里",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_in_kitchen.mp3"
+      },
+      "en": {
+        "name": "In the kitchen",
+        "audio_url": "audio/tags-audio/en/vegetable_in_kitchen.mp3"
+      }
+    }
+  },
+  {
+    "id": "on_table",
+    "type": "scene",
+    "icon": "utensils",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "餐桌上",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_on_table.mp3"
+      },
+      "en": {
+        "name": "On the table",
+        "audio_url": "audio/tags-audio/en/vegetable_on_table.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_soup",
+    "type": "scene",
+    "icon": "bowl",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "汤里吃",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_in_soup.mp3"
+      },
+      "en": {
+        "name": "In soup",
+        "audio_url": "audio/tags-audio/en/vegetable_in_soup.mp3"
+      }
+    }
+  },
+  {
+    "id": "edible",
+    "type": "function",
+    "icon": "utensils",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "可以吃的",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_edible.mp3"
+      },
+      "en": {
+        "name": "Edible",
+        "audio_url": "audio/tags-audio/en/vegetable_edible.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_cook",
+    "type": "function",
+    "icon": "cooking-pot",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "可以做菜",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_can_cook.mp3"
+      },
+      "en": {
+        "name": "Can cook",
+        "audio_url": "audio/tags-audio/en/vegetable_can_cook.mp3"
+      }
+    }
+  },
+  {
+    "id": "healthy",
+    "type": "function",
+    "icon": "heart",
+    "styleKey": "red",
+    "content": {
+      "zh-CN": {
+        "name": "有营养",
+        "audio_url": "audio/tags-audio/zh-CN/vegetable_healthy.mp3"
+      },
+      "en": {
+        "name": "Nutritious",
+        "audio_url": "audio/tags-audio/en/vegetable_healthy.mp3"
+      }
+    }
+  }
+]

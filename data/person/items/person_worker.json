@@ -1,0 +1,94 @@
+{
+  "id": "person_worker",
+  "sku_id": "card_person_worker",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "at_workplace"
+    ],
+    "secondary": [
+      "adult",
+      "build_repair",
+      "worker_job"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "worker"
+    ],
+    "workplace": [
+      "construction_site",
+      "factory"
+    ],
+    "tools": [
+      "hammer",
+      "wrench",
+      "screwdriver"
+    ],
+    "clothing": [
+      "hard_hat",
+      "safety_vest"
+    ],
+    "actions": [
+      "build",
+      "repair",
+      "fix",
+      "construct"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "工人",
+      "aloud": "gōng rén",
+      "words": "worker",
+      "intro": "工人是盖房子、修东西的人。他们用工具把砖块搭成高楼，让我们有温暖的家。",
+      "story": {
+        "title": "🔨小猴子建房子",
+        "body": "森林里要盖一座新房子，小猴子想当一名工人。它戴上安全帽，拿起小锤子，学工人叔叔的样子敲敲打打。大象伯伯运来砖块，小猴子一块一块地砌墙。它用小铲子抹水泥，把小砖块粘得牢牢的。太阳晒得小猴子直冒汗，但它很开心。长颈鹿阿姨送来凉水，小猴子喝完继续干活。不久，墙壁越砌越高，窗户和门也装好了。小猴子还刷上了漂亮的颜色。房子终于完成了，小动物们都来参观，大家夸小猴子真棒。小猴子骄傲地说：“我是一名小工人，劳动最光荣！”"
+      },
+      "knowledge": {
+        "title": "工人用什么工具？",
+        "body": "工人有很多好工具：锤子可以钉钉子，扳手能拧螺丝，卷尺能量长度。工地上还有大吊车和挖掘机，能搬动很重的东西。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_worker_intro.mp3",
+        "story": "../item-audio/zh-CN/person_worker_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Worker",
+      "aloud": "/ˈwɜːrkər/",
+      "words": "",
+      "intro": "A worker builds houses and fixes things. They use tools to build tall buildings and make our world beautiful.",
+      "story": {
+        "title": "🔨The Little Monkey Builds a House",
+        "body": "A new house was going to be built in the forest, and the little monkey wanted to be a worker. He put on a hard hat, picked up a small hammer, and started tapping like the grown-up workers. Uncle Elephant brought bricks, and the little monkey stacked them one by one. He used a little trowel to spread the mortar, sticking the bricks firmly together. The sun made the little monkey sweat, but he was very happy. Aunt Giraffe brought cool water, and after drinking, the little monkey kept working. Soon the walls grew taller, and the windows and door were installed. The little monkey even painted the house in beautiful colors. When the house was finally finished, all the animals came to visit and praised the little monkey. He proudly said, “I am a little worker, and labor is the most glorious!”"
+      },
+      "knowledge": {
+        "title": "What tools do workers use?",
+        "body": "Workers have many useful tools: a hammer to drive nails, a wrench to tighten screws, and a tape measure to check lengths. On the construction site, there are also big cranes and excavators that can lift very heavy things."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_worker_intro.mp3",
+        "story": "../item-audio/en/person_worker_story.mp3"
+      }
+    }
+  }
+}

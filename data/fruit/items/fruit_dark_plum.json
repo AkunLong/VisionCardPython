@@ -1,0 +1,86 @@
+{
+  "id": "fruit_dark_plum",
+  "sku_id": "card_fruit_dark_plum",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_black",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "oval",
+      "sour",
+      "tree_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "black"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sour"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "乌梅",
+      "aloud": "wū méi",
+      "words": "dark plum",
+      "intro": "乌梅是一种黑黑的小果子，闻起来酸酸的，吃起来也酸酸的。乌梅可以泡水喝，也可以做成零食，帮助小朋友消化。",
+      "story": {
+        "title": "🐻小熊的乌梅",
+        "body": "天气暖暖的，小熊在树林里散步。它看见树下的篮子里装满了黑溜溜的小果子。“这是什么呀？”小熊好奇地拿起一颗，放进嘴里尝了尝。“哇，好酸呀！”小熊的眼睛都眯起来了。虽然果子酸酸的，但小熊觉得它们闻起来香香的。小熊想起妈妈说过，酸酸的果子泡水喝会变好喝。于是，小熊提着篮子回到家，把黑果子泡在温水里，加了一点点蜂蜜。黑果子在水里慢慢散开，水变成了漂亮的深紫色。小熊尝了一口，酸酸甜甜，真好喝！它连忙叫来小猴、小鹿和小兔子，大家一起喝这酸酸甜甜的乌梅水。“真好喝呀！”朋友们都说。小熊开心地想：和大家一起分享美味，感觉更甜了！"
+      },
+      "knowledge": {
+        "title": "乌梅是怎么来的？",
+        "body": "乌梅是用青梅熏干做成的。青梅还没成熟时，人们把它摘下来，用烟火慢慢熏黑，就变成了乌梅。乌梅可以泡水喝，酸酸的，能帮助小朋友消化食物。不过一次不能吃太多哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_dark_plum_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_dark_plum_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Dark Plum",
+      "aloud": "/dɑːrk plʌm/",
+      "words": "",
+      "intro": "A dark plum is a small, dark fruit that tastes sour. It can be soaked in water or made into snacks, and it helps digestion.",
+      "story": {
+        "title": "🐻Little Bear's Dark Plums",
+        "body": "One warm day, Little Bear was walking in the forest. He saw a basket under a tree filled with small, dark fruits. \"What are these?\" Little Bear was curious. He picked one up and tasted it. \"Wow, so sour!\" Little bear's eyes squinted. Although the fruit was sour, Little Bear thought they smelled nice. He remembered Mama Bear saying that sour fruits taste better when soaked in water. So Little Bear carried the basket home. He put the dark fruits in warm water and added a little honey. The fruits softened in the water, and the water turned a beautiful deep purple. Little Bear took a sip. Sour and sweet, so yummy! He quickly called Little Monkey, Little Deer, and Little Rabbit. Everyone drank the sour-sweet dark plum water together. \"So tasty!\" all the friends said. Little Bear smiled happily. Sharing delicious things with friends makes them even sweeter!"
+      },
+      "knowledge": {
+        "title": "How are dark plums made?",
+        "body": "Dark plums are made from green plums that are smoked and dried. When the green plums are not yet ripe, people pick them and smoke them with fire until they turn dark. Then they become dark plums. You can soak dark plums in water to make a sour drink that helps digestion. But don't eat too many at once!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_dark_plum_intro.mp3",
+        "story": "../item-audio/en/fruit_dark_plum_story.mp3"
+      }
+    }
+  }
+}

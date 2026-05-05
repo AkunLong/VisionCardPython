@@ -1,0 +1,90 @@
+{
+  "id": "food_jelly",
+  "sku_id": "card_food_jelly",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "snack",
+      "dessert",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "cold_food",
+      "at_snack_time"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dessert",
+      "snack"
+    ],
+    "color": [
+      "red"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "cold"
+    ],
+    "scenes": [
+      "home",
+      "party",
+      "snack_time"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "果冻",
+      "aloud": "guǒ dòng",
+      "words": "jelly",
+      "intro": "果冻是一种滑滑的、弹弹的甜点，有很多颜色和味道。它凉凉的，吃起来甜甜的，是小朋友们喜欢的零食。",
+      "story": {
+        "title": "🍮果冻宝宝",
+        "body": "小兔子白白过生日，妈妈给她做了一个大大的果冻。果冻是草莓味的，红红的，像宝石一样。白白用小勺子舀了一勺，放进嘴里，凉凉的，甜甜的，一下子就滑进了肚子里。白白说：“哇，果冻好像在跳舞！”妈妈笑了，说：“果冻是用果汁和一种叫‘吉利丁’的东西做成的，放进冰箱里冻一冻，就变得QQ弹弹啦。”白白又舀了一勺，这次她让果冻在嘴里多待一会儿，感觉滑滑的，软软的，真好玩。从此，白白最喜欢的小甜点就是果冻了。"
+      },
+      "knowledge": {
+        "title": "果冻是怎么做的？",
+        "body": "把果汁加热，加入吉利丁融化，倒入模具，放进冰箱冷藏几小时，果汁就变成了滑滑弹弹的果冻啦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_jelly_intro.mp3",
+        "story": "../item-audio/zh-CN/food_jelly_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Jelly",
+      "aloud": "/ˈdʒeli/",
+      "words": "",
+      "intro": "Jelly is a smooth, wobbly dessert that comes in many colors and flavors. It's cold and sweet, and kids love it as a snack.",
+      "story": {
+        "title": "🌈Colorful Jelly",
+        "body": "On Little Rabbit's birthday, Mom made a big jelly. It was strawberry flavor, red like a gem. Whiteie scooped a spoonful, put it in her mouth—cold, sweet, and it slid right down. She said, 'Wow, the jelly is dancing!' Mom smiled, 'Jelly is made from fruit juice and something called gelatin. We put it in the fridge to set, and it becomes wobbly and bouncy.' Whiteie took another spoonful and let the jelly stay in her mouth a bit longer. It felt so smooth and soft. From then on, jelly was Whiteie's favorite dessert!"
+      },
+      "knowledge": {
+        "title": "How is jelly made?",
+        "body": "Heat fruit juice, add gelatin and stir until melted. Pour into a mold and refrigerate for a few hours. The juice turns into wobbly jelly!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_jelly_intro.mp3",
+        "story": "../item-audio/en/food_jelly_story.mp3"
+      }
+    }
+  }
+}

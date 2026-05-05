@@ -1,0 +1,112 @@
+{
+  "_基本字段配置": "↓",
+  "id": "animal_cat",
+  "sku_id": "card_animal_cat",
+  "category": "animal",
+  "_年龄及难度": "↓",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "_图片链接信息": "↓",
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "_标签信息": "↓",
+  "tags": {
+    "primary": [
+      "animal",
+      "home_animal",
+      "cute"
+    ],
+    "secondary": [
+      "small",
+      "has_fur",
+      "has_tail",
+      "meow"
+    ]
+  },
+  "_属性信息": "↓",
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "pet"
+    ],
+    "color": [
+      "white",
+      "gray",
+      "orange",
+      "black"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "whiskers",
+      "ears"
+    ],
+    "scenes": [
+      "home",
+      "yard",
+      "sofa"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "jump",
+      "climb"
+    ],
+    "sound": [
+      "meow"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "_核心内容字段": "↓",
+  "content": {
+    "zh-CN": {
+      "name": "小猫",
+      "aloud": "xiǎo māo",
+      "words": "cat",
+      "intro": "小猫是一种可爱的小动物，身上有软软的毛，长着尖尖的耳朵和长长的尾巴。小猫喜欢喵喵叫，也喜欢安静地陪在我们身边。",
+      "story": {
+        "title": "🐱小猫找毛线球",
+        "body": "小猫咪咪最喜欢玩毛线球。一天早上，咪咪醒来后，发现自己的红色毛线球不见了。它轻轻地走到沙发旁边，用小爪子拨一拨，没有找到。它又跳到椅子下面，歪着小脑袋看了看，还是没有找到。忽然，咪咪听见“咕噜噜”的声音，原来毛线球滚到了小篮子旁边。咪咪开心地跑过去，用爪子轻轻一拍，毛线球又滚了起来。咪咪追着毛线球跑呀跑，玩得可开心了。玩累了以后，它趴在阳光下，闭上眼睛，安静地睡着了。"
+      },
+      "knowledge": {
+        "title": "小猫为什么会喵喵叫？",
+        "body": "小猫喵喵叫，是在表达自己的想法。有时候它是在打招呼，有时候是想吃东西，有时候是想让人陪它玩。小猫还会用尾巴、耳朵和身体动作来表达心情。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_cat_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_cat_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cat",
+      "aloud": "/kæt/",
+      "words": "",
+      "intro": "A cat is a cute little animal with soft fur, pointy ears, and a long tail. Cats like to meow, and they often enjoy staying quietly beside us.",
+      "story": {
+        "title": "🐱The Little Cat Looks for a Yarn Ball",
+        "body": "Mimi the little cat loved playing with her yarn ball. One morning, Mimi woke up and found that her red yarn ball was missing. She walked softly to the sofa and gently tapped around with her little paw, but she couldn’t find it. Then she jumped under the chair and tilted her head to look carefully, but it still wasn’t there. Suddenly, Mimi heard a soft rolling sound. The yarn ball had rolled next to a small basket. Mimi happily ran over and gently tapped it with her paw. The yarn ball rolled again. Mimi chased it around and had so much fun. After playing for a while, she felt tired. She lay down in the warm sunshine, closed her eyes, and quietly fell asleep."
+      },
+      "knowledge": {
+        "title": "Why do cats meow?",
+        "body": "Cats meow to express what they want or how they feel. Sometimes a cat is saying hello, sometimes it wants food, and sometimes it wants someone to play with. Cats also use their tails, ears, and body movements to show their feelings."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_cat_intro.mp3",
+        "story": "../item-audio/en/animal_cat_story.mp3"
+      }
+    }
+  }
+}

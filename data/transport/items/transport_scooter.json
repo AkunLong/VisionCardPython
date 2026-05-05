@@ -1,0 +1,96 @@
+{
+  "id": "transport_scooter",
+  "sku_id": "card_transport_scooter",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "road_vehicle",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "small",
+      "can_ride"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "scooter"
+    ],
+    "color": [
+      "red",
+      "blue",
+      "green"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "road",
+      "sidewalk",
+      "park"
+    ],
+    "fuel": [
+      "human_power"
+    ],
+    "features": [
+      "wheels",
+      "handlebar",
+      "deck"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "滑板车",
+      "aloud": "huá bǎn chē",
+      "words": "scooter",
+      "intro": "滑板车是一辆小小的车，有把手和两个轮子。小朋友站在上面，用一只脚蹬地，就能滑着走啦，像飞一样！",
+      "story": {
+        "title": "🛴小蓝的第一次旅行",
+        "body": "今天是周末，小蓝滑板车可高兴了，因为它的好朋友乐乐要带它去公园。乐乐戴上小头盔，扶好把手，左脚一蹬，小蓝就轻轻滑出去了。公园的小路上，小蓝转来转去，像一只快乐的小鸟。遇到小石子，小蓝轻轻颠了一下，乐乐笑了。下坡时，小蓝跑得飞快，乐乐脚踩刹车，慢慢停下来。小蓝觉得好有趣，它悄悄想：我真喜欢和乐乐一起玩，下次我们还要走更远的路。太阳下山了，乐乐把小蓝擦干净，放回角落。小蓝闭上眼睛，梦里还在滑呀滑。"
+      },
+      "knowledge": {
+        "title": "骑滑板车要注意什么？",
+        "body": "骑滑板车时要戴好头盔和护具，保护自己不受伤。要在平坦的地面上滑，不要在马路上和汽车抢道。这样又安全又开心！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_scooter_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_scooter_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Scooter",
+      "aloud": "/ˈskuːtər/",
+      "words": "",
+      "intro": "A scooter is a small vehicle with a handlebar and two wheels. Kids stand on it, push with one foot, and glide along — just like flying!",
+      "story": {
+        "title": "🛴Little Blue's First Trip",
+        "body": "It was the weekend, and Little Blue Scooter was so happy because her best friend Lele was taking her to the park. Lele put on his little helmet, held the handlebars tight, pushed off with one foot, and Little Blue glided out smoothly. On the park path, Little Blue turned here and there, like a cheerful little bird. When they hit a small pebble, Little Blue bumped a tiny bit, and Lele giggled. Down a gentle slope, Little Blue went really fast, then Lele pressed the brake and they slowed to a stop. Little Blue thought it was so much fun. I love playing with Lele, she whispered to herself. Next time we'll go even farther. As the sun set, Lele wiped Little Blue clean and put her in the corner. Little Blue closed her eyes, still gliding in her dreams."
+      },
+      "knowledge": {
+        "title": "What should we remember when riding a scooter?",
+        "body": "Always wear a helmet and pads to keep yourself safe. Ride on flat ground, and never scoot on the road with cars. Then you can have fun and stay safe at the same time!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_scooter_intro.mp3",
+        "story": "../item-audio/en/transport_scooter_story.mp3"
+      }
+    }
+  }
+}

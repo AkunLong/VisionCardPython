@@ -1,0 +1,92 @@
+{
+  "id": "flower_rose",
+  "sku_id": "card_flower_rose",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_red",
+      "in_garden"
+    ],
+    "secondary": [
+      "fragrant",
+      "many_petals",
+      "summer_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "red",
+      "pink",
+      "white"
+    ],
+    "size": [
+      "medium"
+    ],
+    "scenes": [
+      "garden",
+      "balcony",
+      "park"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "smell": [
+      "fragrant"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "玫瑰",
+      "aloud": "méi guī",
+      "words": "rose",
+      "intro": "玫瑰是一种美丽的花，花瓣层层叠叠，颜色有红的、粉的、白的。它的香味很好闻，花枝上还带着小刺，要小心哦。",
+      "story": {
+        "title": "🌹小玫瑰找朋友",
+        "body": "花园里新来了一棵小玫瑰，它身上长满了小刺刺。小蝴蝶飞过来说：我可以跟你玩吗？小玫瑰摇摇头说：我有刺，你会疼的。小蜜蜂飞过来说：你的花香真好闻，我能采蜜吗？小玫瑰不好意思地说：可是我的刺会扎到你。风儿轻轻吹过，小玫瑰低下头，觉得自己没有朋友。突然，一个小女孩走过来，轻轻摸了摸小玫瑰的花瓣，说：你真漂亮，我每天来给你浇水。小玫瑰开心极了，它终于知道，原来大家喜欢它的美丽和香气，并不怕它的刺。从此，小玫瑰开得更红了，花园里充满了甜蜜的香味。"
+      },
+      "knowledge": {
+        "title": "玫瑰为什么有刺？",
+        "body": "玫瑰的刺是为了保护自己，不让小动物随便咬它的叶子和花。刺是它的防护衣，这样它就能安全地开出美丽的花。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_rose_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_rose_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Rose",
+      "aloud": "/roʊz/",
+      "words": "",
+      "intro": "A rose is a beautiful flower with many soft petals. It comes in colors like red, pink, and white. It smells lovely, but its stems have little thorns, so be gentle!",
+      "story": {
+        "title": "🌹The Little Rose Finds a Friend",
+        "body": "There was a new little rose in the garden. It had many tiny thorns on its stem. A butterfly flew by and said, Can I play with you? The little rose shook its head, saying, I have thorns, you might get hurt. A bee came and said, Your smell is so sweet! May I gather nectar? The little rose blushed and said, But my thorns might prick you. The wind blew softly, and the little rose felt lonely. Then a little girl came, gently touched its petals, and said, You are so pretty. I will come to water you every day. The little rose was so happy. It learned that others loved its beauty and fragrance, and didn’t mind its thorns. From then on, the little rose bloomed even redder, filling the garden with a sweet scent."
+      },
+      "knowledge": {
+        "title": "Why do roses have thorns?",
+        "body": "Roses have thorns to protect themselves from animals that might eat their leaves and flowers. The thorns act like a shield, so the rose can safely bloom and be beautiful."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_rose_intro.mp3",
+        "story": "../item-audio/en/flower_rose_story.mp3"
+      }
+    }
+  }
+}

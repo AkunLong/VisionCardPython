@@ -1,0 +1,89 @@
+{
+  "id": "food_honey_cake",
+  "sku_id": "card_food_honey_cake",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "dessert",
+      "color_brown",
+      "edible"
+    ],
+    "secondary": [
+      "sweet",
+      "soft",
+      "at_snack_time"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dessert"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "party",
+      "cafe"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "蜜饼",
+      "aloud": "mì bǐng",
+      "words": "honey cake",
+      "intro": "蜜饼是一种甜甜的、软软的甜点，闻起来有蜂蜜的香气，吃起来像云朵一样柔软。它是用面粉、鸡蛋和蜂蜜做成的，是小朋友最爱的小点心。",
+      "story": {
+        "title": "🍯蜜饼的故事",
+        "body": "星期天下午，妈妈在厨房里忙个不停。朵朵跑过去问妈妈做什么，妈妈笑着说：我在做蜜饼呀！妈妈把面粉、鸡蛋和蜂蜜搅在一起，揉成一个小面团。然后放进烤箱里烤。不一会儿，厨房里飘满了甜甜的香味。蜜饼烤好了，金黄金黄的，摸起来软软的。朵朵咬了一口，哇，又甜又香，就像吃了一口蜂蜜云朵。朵朵开心地说：妈妈做的蜜饼是世界上最好吃的！妈妈说：下次我们请小朋友一起来吃蜜饼吧！朵朵拍手叫好。下午的点心时间变得好快乐呀！"
+      },
+      "knowledge": {
+        "title": "蜜饼是用什么做的？",
+        "body": "蜜饼是一种小甜点，主要用面粉、鸡蛋、蜂蜜和一点点糖做成。把所有材料搅拌在一起，揉成面团，放进烤箱烤一烤，就变成香香甜甜的蜜饼啦。可以当下午的点心，也可以和朋友分享。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_honey_cake_intro.mp3",
+        "story": "../item-audio/zh-CN/food_honey_cake_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Honey Cake",
+      "aloud": "/ˈhʌni keɪk/",
+      "words": "",
+      "intro": "Honey cake is a sweet and soft dessert. It smells like honey and tastes like a soft cloud. It is made from flour, eggs, and honey, and children love it as a yummy snack.",
+      "story": {
+        "title": "🍯The Story of the Honey Cake",
+        "body": "One Sunday afternoon, Mom was busy in the kitchen. Duo Duo ran over and asked, 'What are you making, Mom?' Mom smiled and said, 'I'm making honey cake!' Mom mixed flour, eggs, and honey together into a soft dough. Then she put it in the oven to bake. Soon, the kitchen filled with a sweet smell. The honey cake was done—golden brown and soft. Duo Duo took a bite. 'Wow, so sweet and yummy! It tastes like a honey cloud!' Duo Duo said happily. Mom said, 'Next time we can invite your friends to eat honey cake together!' Duo Duo clapped her hands. Snack time became so joyful!"
+      },
+      "knowledge": {
+        "title": "How is honey cake made?",
+        "body": "Honey cake is a sweet dessert made from flour, eggs, honey, and a little sugar. Mix everything together into a dough, bake it in the oven, and it turns into a delicious, soft cake. It's perfect for snack time and sharing with friends."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_honey_cake_intro.mp3",
+        "story": "../item-audio/en/food_honey_cake_story.mp3"
+      }
+    }
+  }
+}

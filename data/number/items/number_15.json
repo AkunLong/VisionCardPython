@@ -1,0 +1,76 @@
+{
+  "id": "number_15",
+  "sku_id": "card_number_fifteen",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "two_digit",
+      "odd_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 15,
+    "is_even": false,
+    "is_prime": false,
+    "ordinal": "15th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字15",
+      "aloud": "shí wǔ",
+      "words": "fifteen",
+      "intro": "15 是比 14 多 1 的数字。十五个苹果排成三排，每排五个，正好装满一个篮子，真整齐！",
+      "story": {
+        "title": "🌟数星星的夜晚",
+        "body": "晚上，小兔子和小熊坐在山坡上数星星。“一、二、三……”小兔子一颗一颗地数着。小熊打了个哈欠，说：“这么多，数得清吗？”小兔子眨眨眼：“我们一起数，先数到十五颗就休息！” 于是，他们指着天空：一颗，两颗，三颗……十五颗！刚好十五颗明亮的星星连成了一个漂亮的图案。小兔子拍手说：“十五颗星星手拉手，像不像我们在幼儿园的朋友？”小熊笑了：“真像！明天我们也拉上十五个好朋友一起做游戏！” 从那以后，小兔子每天都会数十五样东西：十五朵花，十五颗糖，十五片树叶。十五成了一个神奇的数字，把快乐和友谊都数了进去。"
+      },
+      "knowledge": {
+        "title": "十五在生活中的妙用",
+        "body": "十五分钟是一刻钟，是时间的小帮手。中秋节是农历八月十五，月亮又圆又亮。很多地方的公交车每隔十五分钟来一趟，十五让生活更有节奏。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_15_intro.mp3",
+        "story": "../item-audio/zh-CN/number_15_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Fifteen",
+      "aloud": "/ˌfɪfˈtiːn/",
+      "words": "",
+      "intro": "Fifteen is the number that comes after fourteen. Fifteen apples, three rows of five, fit perfectly in a basket. So neat!",
+      "story": {
+        "title": "🌟A Night of Counting Stars",
+        "body": "In the evening, Little Rabbit and Little Bear sat on the hill counting stars. \"One, two, three...\" Little Rabbit counted one by one. Little Bear yawned. \"So many! Can we count them all?\" Little Rabbit blinked. \"Let's count together, and stop when we reach fifteen!\" They pointed at the sky: one, two, three... fifteen! Just fifteen bright stars formed a beautiful pattern. Little Rabbit clapped. \"Fifteen stars holding hands, like our friends at kindergarten!\" Little Bear smiled. \"Yes! Tomorrow let's play with fifteen friends!\" From then on, Little Rabbit counted fifteen things every day: fifteen flowers, fifteen candies, fifteen leaves. Fifteen became a magic number, full of happiness and friendship."
+      },
+      "knowledge": {
+        "title": "Where do we see fifteen?",
+        "body": "Fifteen minutes make a quarter of an hour. The Mid-Autumn Festival is on the fifteenth day of the eighth lunar month, when the moon is round and bright. Many buses come every fifteen minutes—fifteen helps our world run smoothly."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_15_intro.mp3",
+        "story": "../item-audio/en/number_15_story.mp3"
+      }
+    }
+  }
+}

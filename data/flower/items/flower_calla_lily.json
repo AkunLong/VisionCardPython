@@ -1,0 +1,89 @@
+{
+  "id": "flower_calla_lily",
+  "sku_id": "card_flower_calla_lily",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_white",
+      "in_garden"
+    ],
+    "secondary": [
+      "decorative",
+      "spring_flower",
+      "bell_shape"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "white"
+    ],
+    "size": [
+      "tall"
+    ],
+    "scenes": [
+      "garden",
+      "pot",
+      "balcony"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "马蹄莲",
+      "aloud": "mǎ tí lián",
+      "words": "calla lily",
+      "intro": "马蹄莲的花朵像一个小小的马蹄，洁白的花瓣轻轻包住花蕊，像春天里的小喇叭，优雅又可爱。",
+      "story": {
+        "title": "🌸小马蹄莲的梦想",
+        "body": "窗台上有一盆小小的马蹄莲，它每天看着窗外的世界。春天来了，小马蹄莲慢慢长高，一片白色的花瓣舒展开来，像一个精致的杯子。小蝴蝶飞过来，问：“你叫什么名字呀？”小马蹄莲害羞地说：“我叫马蹄莲，因为我长得像小马的马蹄。”小蝴蝶扇扇翅膀，说：“你真漂亮！”小马蹄莲开心极了，它想：我要努力喝水，开更多的花，让房间变得像花园一样美丽。阳光暖暖地照着，小马蹄莲轻轻摇动，好像在跳舞。"
+      },
+      "knowledge": {
+        "title": "为什么叫马蹄莲？",
+        "body": "马蹄莲的花苞形状很像马的蹄子，所以有了这个好听的名字。它的花其实不是那片白色的花瓣，而是中间黄色的小棒，叫做肉穗花序。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_calla_lily_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_calla_lily_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Calla Lily",
+      "aloud": "/ˈkælə ˈlɪli/",
+      "words": "",
+      "intro": "The calla lily is a graceful flower with a white petal that wraps around a yellow center. It looks like a tiny trumpet or a horse's hoof.",
+      "story": {
+        "title": "🌸The Little Calla Lily's Dream",
+        "body": "On the windowsill sat a little calla lily. Every day, it looked out at the world. When spring came, the calla lily grew taller, and its white petal unfurled like a delicate cup. A small butterfly flew over and asked, \"What is your name?\" The calla lily shyly said, \"I am a calla lily, because I look like a little horse's hoof.\" The butterfly fluttered its wings and said, \"You are so pretty!\" The calla lily was overjoyed. It thought, I will drink lots of water and bloom more flowers, making the room as beautiful as a garden. The warm sun shone down, and the calla lily swayed gently, as if dancing."
+      },
+      "knowledge": {
+        "title": "Why is it called a Calla Lily?",
+        "body": "The flower's shape looks like a horse's hoof, which gave it the name 'calla lily.' The white part is actually a leaf called a spathe, and the yellow spike inside is the true flower."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_calla_lily_intro.mp3",
+        "story": "../item-audio/en/flower_calla_lily_story.mp3"
+      }
+    }
+  }
+}

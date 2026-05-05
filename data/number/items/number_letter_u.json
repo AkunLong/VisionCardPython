@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_u",
+  "sku_id": "card_number_letter_u",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "vowel_letter"
+    ],
+    "secondary": [
+      "first_learning",
+      "easy_level",
+      "letter_stage"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 21,
+    "is_even": false,
+    "is_prime": false,
+    "ordinal": "21st",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母U",
+      "aloud": "yóu",
+      "words": "u",
+      "intro": "字母U是英文字母表里的第二十一个字母。它看起来像一个杯子，也像一个小马蹄。U是个很重要的字母哦！",
+      "story": {
+        "title": "🫖 小U的大发现",
+        "body": "小U最喜欢捉迷藏啦！它悄悄躲在超市的货架上，藏在“杯子（cup）”的图片里，等着小朋友找到它。小U还跑到动物园，趴在羊驼（llama）的耳朵里，可是羊驼甩甩头，小U就滚了下来。它又钻到彩虹（rainbow）下面，变成一个小水坑（puddle），等着雨后的小鞋子踩出哗啦啦的水花。最后，小U跳进一本图画书，变成了一只独角兽（unicorn）的角，闪闪发光。小朋友翻开书，指着角大声说：“呀，是字母U！”小U开心地笑了，它终于被认出来啦！"
+      },
+      "knowledge": {
+        "title": "字母U有什么特别？",
+        "body": "字母U是五个元音字母之一，它经常在单词里发出“啊”或“呜”的声音。大写U和小写u长得有点不一样，但都像一个小容器，能装下好多有趣的东西。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_u_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_u_story.mp3"
+      }
+    },
+    "en": {
+      "name": "U",
+      "aloud": "/juː/",
+      "words": "",
+      "intro": "U is the twenty-first letter of the alphabet. It looks like a cup or a little horseshoe. U is a very special letter!",
+      "story": {
+        "title": "🫖 Little U's Big Discovery",
+        "body": "Little U loves playing hide-and-seek! It sneaks onto the supermarket shelf, hiding in the picture of a cup, waiting for a child to find it. Then Little U runs to the zoo and curls up in a llama’s ear, but the llama shakes its head and Little U tumbles down. It slips under a rainbow, turning into a puddle, waiting for tiny shoes to splash after the rain. Finally, Little U jumps into a picture book and becomes the horn of a unicorn, sparkly and bright. A child opens the book, points at the horn, and shouts, “Look, it’s the letter U!” Little U smiles, so happy to be recognized at last!"
+      },
+      "knowledge": {
+        "title": "What is special about the letter U?",
+        "body": "U is one of the five vowel letters. It often makes an “uh” or “oo” sound in words. Big U and little u look a bit different, but both are like little containers that hold many fun things."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_u_intro.mp3",
+        "story": "../item-audio/en/number_letter_u_story.mp3"
+      }
+    }
+  }
+}

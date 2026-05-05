@@ -1,0 +1,90 @@
+{
+  "id": "flower_morning_glory",
+  "sku_id": "card_flower_morning_glory",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_purple",
+      "vine_flower"
+    ],
+    "secondary": [
+      "bell_shape",
+      "summer_flower",
+      "small_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "purple"
+    ],
+    "size": [
+      "small",
+      "vine"
+    ],
+    "scenes": [
+      "garden",
+      "fence",
+      "balcony"
+    ],
+    "season": [
+      "summer"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "牵牛花",
+      "aloud": "qiān niú huā",
+      "words": "morning glory",
+      "intro": "牵牛花是一种会爬藤的花，花朵像一个个小喇叭，有紫色、粉色、蓝色很多颜色。它们早上开花，中午就合起来了，像一个个小闹钟。",
+      "story": {
+        "title": "📯牵牛花的小喇叭",
+        "body": "清晨，太阳刚刚起床，篱笆上的牵牛花也醒了。一朵紫色的牵牛花伸了个懒腰，慢慢张开花瓣，就像一个小喇叭。它对着草地上的小蚂蚁说：嘀嘀嗒，该起床啦！小蚂蚁伸伸触角，开始工作。小蝴蝶飞过来，停在花边，说：你的喇叭真好看，能吹出声音吗？牵牛花摇摇头说：我不会吹，但我可以叫醒睡懒觉的小虫子。太阳越升越高，牵牛花有点累了，它慢慢把花瓣合起来，变成了一个害羞的小包子。它轻轻地说：晚安啦，明天我再叫早！小虫子们看着合拢的花，知道该休息一下了。"
+      },
+      "knowledge": {
+        "title": "牵牛花为什么早上开？",
+        "body": "牵牛花喜欢早晨的凉快和湿润，所以天刚亮就开花。到了中午太阳变热，水分减少，花瓣就合起来保护自己。所以人们也叫它‘朝颜’花。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_morning_glory_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_morning_glory_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Morning Glory",
+      "aloud": "/ˈmɔːrnɪŋ ˌɡlɔːri/",
+      "words": "",
+      "intro": "Morning glory is a climbing flower with trumpet-shaped blooms in purple, pink, blue, and white. They open in the morning and close by noon, just like little alarm clocks.",
+      "story": {
+        "title": "📯The Little Trumpet of Morning Glory",
+        "body": "Early in the morning, as the sun just woke up, the morning glory on the fence also awakened. A purple morning glory stretched and slowly opened its petals, like a little trumpet. It said to the little ants on the grass, 'Toot-toot, time to get up!' The ants wiggled their feelers and started working. A little butterfly flew over and landed on the flower, asking, 'Your trumpet is so pretty, can it make a sound?' The morning glory shook its head and said, 'I can't blow, but I can wake up the lazy little bugs.' The sun rose higher, and the morning glory felt a bit tired. It slowly closed its petals, turning into a shy little bun. It said softly, 'Good night, I'll wake you up again tomorrow!' The little bugs looked at the closed flower and knew it was time to rest."
+      },
+      "knowledge": {
+        "title": "Why do morning glories open in the morning?",
+        "body": "Morning glories like the coolness and moisture of early mornings, so they bloom at dawn. When the sun gets hot at noon, they close their petals to protect themselves from drying out. That's why they are also called 'morning faces'."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_morning_glory_intro.mp3",
+        "story": "../item-audio/en/flower_morning_glory_story.mp3"
+      }
+    }
+  }
+}

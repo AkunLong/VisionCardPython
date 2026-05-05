@@ -1,0 +1,94 @@
+{
+  "id": "transport_traffic_cone",
+  "sku_id": "card_transport_traffic_cone",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "safety_item",
+      "on_road"
+    ],
+    "secondary": [
+      "color_orange",
+      "small",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "traffic_cone"
+    ],
+    "color": [
+      "orange"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "road",
+      "worksite",
+      "construction"
+    ],
+    "fuel": [
+      "none"
+    ],
+    "features": [
+      "reflector",
+      "cone_shape",
+      "warning"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "路障警示锥",
+      "aloud": "lù zhàng jǐng shì zhuī",
+      "words": "traffic cone",
+      "intro": "路障警示锥是一个穿着橙色衣服的圆锥形小卫士。它站在马路上或工地旁，提醒大家：“小心！不要靠近哦。”它虽然小小的，但是能保护很多人。",
+      "story": {
+        "title": "🚧小橙锥的一天",
+        "body": "太阳公公刚起床，小橙锥就被工人叔叔放在了马路中间。今天这里要修路，小橙锥的任务是保护大家。一辆小汽车开过来，远远看到小橙锥，就慢慢减速绕开了。一群小朋友放学路过，小橙锥挺直身子，好像在说：“小心绊倒，从那边走。”一位老爷爷推着自行车，看到了小橙锥，也安全地通过了。整个下午，小橙锥一刻也没有休息，它站在太阳底下，虽然很热，但是心里很高兴。傍晚，工人叔叔收工了，把小橙锥放回车里。小橙锥说：“今天没有人受伤，我真棒！”然后它满足地睡觉了，明天再保护别人。"
+      },
+      "knowledge": {
+        "title": "路障警示锥有什么用？",
+        "body": "路障警示锥用亮眼的颜色和形状提醒人们注意危险，比如修路、有坑洞或临时障碍物。它让司机和行人提前减速或绕行，避免事故，是保护大家安全的小英雄！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_traffic_cone_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_traffic_cone_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Traffic Cone",
+      "aloud": "/ˈtræfɪk koʊn/",
+      "words": "",
+      "intro": "A traffic cone is an orange cone-shaped helper. It stands on the road or near worksites to warn people: 'Be careful! Don't come too close.' It is small but protects many people.",
+      "story": {
+        "title": "🚧Little Orange Cone's Day",
+        "body": "As soon as the sun rose, Little Orange Cone was placed in the middle of the road by a worker. Today, there was road work, and the cone's job was to protect everyone. A car came by and saw the cone from far away. It slowed down and went around safely. A group of children passed by after school. The cone stood up straight, as if to say: 'Watch your step, go that way.' An old man pushing a bicycle saw the cone and passed safely too. All afternoon, the cone never rested. It stood under the hot sun, but it was happy inside. In the evening, the worker packed up and put the cone back in the truck. The cone said, 'Nobody got hurt today. I did a good job!' Then it went to sleep, ready to protect others tomorrow."
+      },
+      "knowledge": {
+        "title": "What is a traffic cone for?",
+        "body": "Traffic cones use bright colors and their special shape to warn people about dangers like road works, holes, or temporary obstacles. They help drivers and walkers slow down or go around, preventing accidents. They are little safety heroes!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_traffic_cone_intro.mp3",
+        "story": "../item-audio/en/transport_traffic_cone_story.mp3"
+      }
+    }
+  }
+}

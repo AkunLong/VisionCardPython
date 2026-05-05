@@ -1,0 +1,90 @@
+{
+  "id": "food_rose_pastry",
+  "sku_id": "card_food_rose_pastry",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "dessert",
+      "color_red",
+      "edible"
+    ],
+    "secondary": [
+      "crispy",
+      "sweet",
+      "at_snack_time"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dessert",
+      "snack"
+    ],
+    "color": [
+      "red"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "tea_house",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "玫瑰酥",
+      "aloud": "méi guī sū",
+      "words": "rose pastry",
+      "intro": "玫瑰酥是一种好看又好吃的点心，像一朵漂亮的小花。它外面酥酥的，里面藏着甜甜的玫瑰花酱，咬一口，满嘴都是香香的味道。",
+      "story": {
+        "title": "🥮一朵能吃的小花",
+        "body": "今天下午，奶奶买回来一盒漂亮的点心，上面有一朵一朵的小花。小红好奇地问：“奶奶，这是什么呀？”奶奶笑着说：“这是玫瑰酥，是用真玫瑰花做的哦！”小红轻轻拿起一个，小心地咬了一口。“咔嚓”一声，酥皮掉下来，甜甜的玫瑰花味飘了出来。小红开心地说：“像在吃一朵香香的花！”奶奶告诉她，做玫瑰酥要先把玫瑰花瓣洗干净，用糖腌好久，变成甜甜的花酱，再用面团包起来，放进烤箱里烤成金黄色。小红听完，把剩下的玫瑰酥分成两半，一半给奶奶，一半自己慢慢吃。她说：“我要记住这个味道，以后和奶奶一起做玫瑰酥！”"
+      },
+      "knowledge": {
+        "title": "玫瑰酥是怎么做出来的？",
+        "body": "用新鲜的玫瑰花瓣和白糖一起腌制成玫瑰花酱，然后包进一层一层的酥皮里，捏成小花的样子，放进烤箱烤到金黄酥脆，一个漂亮的玫瑰酥就做好啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_rose_pastry_intro.mp3",
+        "story": "../item-audio/zh-CN/food_rose_pastry_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Rose Pastry",
+      "aloud": "/roʊz ˈpeɪstri/",
+      "words": "",
+      "intro": "Rose pastry is a beautiful and yummy snack that looks like a little flower. The outside is crispy, and inside there's sweet rose jam. One bite fills your mouth with a lovely floral fragrance.",
+      "story": {
+        "title": "🥮A Flower You Can Eat",
+        "body": "This afternoon, Grandma brought home a box of pretty pastries shaped like little flowers. Little Red asked curiously, 'Grandma, what are these?' Grandma smiled and said, 'These are rose pastries, made with real roses!' Little Red gently picked one up and took a careful bite. Crunch! The crispy skin broke, and a sweet rose scent floated out. Little Red said happily, 'It's like eating a fragrant flower!' Grandma told her that to make rose pastry, you first wash the rose petals, mix them with sugar, and let them sit a long time to become sweet rose jam. Then you wrap the jam in layers of dough, shape it like a flower, and bake it until golden. Little Red listened, then broke her pastry in half, gave one half to Grandma, and slowly ate the other. She said, 'I'll remember this taste, and one day I'll make rose pastries with Grandma!'"
+      },
+      "knowledge": {
+        "title": "How are rose pastries made?",
+        "body": "Fresh rose petals are mixed with sugar to make rose jam. Then the jam is wrapped in layers of crispy dough, shaped into little flowers, and baked until golden and crunchy. That's how you get a beautiful rose pastry!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_rose_pastry_intro.mp3",
+        "story": "../item-audio/en/food_rose_pastry_story.mp3"
+      }
+    }
+  }
+}

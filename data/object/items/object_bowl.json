@@ -1,0 +1,89 @@
+{
+  "id": "object_bowl",
+  "sku_id": "card_object_bowl",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "tableware",
+      "color_white"
+    ],
+    "secondary": [
+      "at_home",
+      "round",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "white"
+    ],
+    "shape": [
+      "round"
+    ],
+    "material": [
+      "ceramic",
+      "plastic"
+    ],
+    "scenes": [
+      "home",
+      "restaurant"
+    ],
+    "function": [
+      "hold_food"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "饭碗",
+      "aloud": "fàn wǎn",
+      "words": "bowl",
+      "intro": "饭碗是我们吃饭用的碗，它圆圆的，可以装米饭、面条和好吃的菜。每天吃饭都离不开它。",
+      "story": {
+        "title": "🍚小饭碗的大冒险",
+        "body": "小饭碗圆圆的身体，穿着一件白色的衣服，住在家里的碗柜里。一天，小主人吃饭时，小饭碗跳上餐桌，大声说：‘我来啦！’小主人开心地盛满软软的米饭，小饭碗觉得肚子暖暖的。它装过香喷喷的红烧肉，也装过绿油油的青菜，每天都陪着主人吃得饱饱的。有一次，小主人不小心把饭碗碰倒了，它吓了一跳，但妈妈扶起它，温柔地说：‘没关系，小饭碗很坚强。’小饭碗听了心里甜滋滋的，它想：我要永远陪着小主人，看他健康长大。"
+      },
+      "knowledge": {
+        "title": "饭碗是用什么做的？",
+        "body": "饭碗通常用陶瓷、塑料或不锈钢做成。陶瓷碗光滑又漂亮，可以高温消毒；塑料碗轻巧不易碎，适合小朋友使用；不锈钢碗结实耐用。我们吃饭时要用饭碗盛食物。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_bowl_intro.mp3",
+        "story": "../item-audio/zh-CN/object_bowl_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Bowl",
+      "aloud": "/boʊl/",
+      "words": "",
+      "intro": "A bowl is what we use to eat rice, noodles, and delicious dishes. It is round and helps us enjoy our meals every day.",
+      "story": {
+        "title": "🍚 Little Bowl's Big Adventure",
+        "body": "Little Bowl has a round body and wears a white coat. It lives in the cupboard at home. One day, when the little master was about to eat, Little Bowl jumped onto the table and said, 'Here I come!' The little master happily filled it with soft rice. Little Bowl felt warm inside. It held yummy braised meat and green vegetables, staying with the master at every meal. Once, the little master accidentally knocked Little Bowl over. It was scared, but Mommy picked it up and said gently, 'It's okay, Little Bowl is strong.' Little Bowl felt sweet inside and thought, 'I want to stay with my little master forever and watch him grow up healthy.'"
+      },
+      "knowledge": {
+        "title": "What are bowls made of?",
+        "body": "Bowls are often made of ceramic, plastic, or stainless steel. Ceramic bowls are smooth and pretty, and can be sterilized with heat. Plastic bowls are light and not easy to break, good for children. Stainless steel bowls are strong and durable. We use bowls to hold our food when we eat."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_bowl_intro.mp3",
+        "story": "../item-audio/en/object_bowl_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "fruit_banana",
+  "sku_id": "card_fruit_banana",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_yellow",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "long",
+      "sweet",
+      "tropical_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "yellow"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "scenes": [
+      "tropical_fruit",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "香蕉",
+      "aloud": "xiāng jiāo",
+      "words": "banana",
+      "intro": "香蕉是一种弯弯的水果，黄色的外皮，里面是软软的果肉，吃起来甜甜的，很香。",
+      "story": {
+        "title": "🐒小猴子的香蕉船",
+        "body": "小猴子在树林里发现了一大串黄黄的香蕉。它把香蕉一个个摘下来，剥开皮，咬了一口，真甜啊！小猴子想：这么好吃的香蕉，我要和朋友们一起分享。它把香蕉摆成一排，像黄色的小船。小兔子来了，小松鼠来了，小鸟也来了。大家围坐在一起，拿起香蕉，开心地吃着。小兔子说：“香蕉软软的，像吃云朵。”小松鼠说：“香蕉甜甜的，比糖还甜！”小鸟唱着歌，大家笑哈哈。小猴子看着朋友们开心，心里比吃了香蕉还要甜。原来，分享可以让快乐变得更大更大。"
+      },
+      "knowledge": {
+        "title": "香蕉长在哪里？",
+        "body": "香蕉长在高高的香蕉树上，喜欢温暖潮湿的地方，在热带地区长得特别好。香蕉一串串挂在树上，成熟后会变成黄色。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_banana_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_banana_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Banana",
+      "aloud": "/bəˈnænə/",
+      "words": "",
+      "intro": "A banana is a long, yellow fruit with soft, sweet flesh inside. It’s yummy and easy to eat.",
+      "story": {
+        "title": "🐒Little Monkey's Banana Boat",
+        "body": "Little Monkey found a big bunch of yellow bananas in the forest. He picked them one by one, peeled them, and took a bite. So sweet! Little Monkey thought, 'I want to share these yummy bananas with my friends.' He lined them up like little yellow boats. Little Rabbit came, Little Squirrel came, and Little Bird came too. They all sat together, picked up the bananas, and ate happily. Little Rabbit said, 'The banana is so soft, it’s like eating clouds.' Little Squirrel said, 'It’s sweeter than candy!' Little Bird sang a song, and everyone laughed. Looking at his friends having fun, Little Monkey felt even sweeter than the bananas. Sharing makes happiness grow bigger and bigger."
+      },
+      "knowledge": {
+        "title": "Where do bananas grow?",
+        "body": "Bananas grow on tall banana plants in warm, humid places, mostly in tropical areas. They hang in bunches and turn yellow when ripe."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_banana_intro.mp3",
+        "story": "../item-audio/en/fruit_banana_story.mp3"
+      }
+    }
+  }
+}

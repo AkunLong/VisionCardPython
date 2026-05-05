@@ -1,0 +1,76 @@
+{
+  "id": "number_3",
+  "sku_id": "card_number_three",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "single_digit",
+      "odd_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 3,
+    "is_even": false,
+    "is_prime": true,
+    "ordinal": "3rd",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字3",
+      "aloud": "sān",
+      "words": "three",
+      "intro": "三比二多一。三角形有三条边，三叶草有三片叶子。三是个神奇的数字，经常出现在故事里。",
+      "story": {
+        "title": "🐷三只小猪",
+        "body": "从前有三只小猪，他们离开妈妈去盖房子。第一只小猪盖了草房子，第二只小猪盖了木房子，第三只小猪最勤快，盖了砖房子。大灰狼来了，吹倒了草房子，吹倒了木房子，可怎么也吹不倒砖房子。三只小猪团结起来，终于赶跑了大灰狼。一、二、三，三只小猪排排坐，一起开心地唱歌。数字三就像三只小猪，友爱又勇敢！"
+      },
+      "knowledge": {
+        "title": "为什么数字三很特别？",
+        "body": "在很多故事和生活中，三经常出现：三只小猪、三个愿望、三角形最稳定。三点可以确定一个平面，所以三脚架不会倒。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_3_intro.mp3",
+        "story": "../item-audio/zh-CN/number_3_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Three",
+      "aloud": "/θriː/",
+      "words": "",
+      "intro": "Three is the number that comes after two. A triangle has three sides, and a clover has three leaves. Three is a magical number that appears in many stories.",
+      "story": {
+        "title": "🐷Three Little Pigs",
+        "body": "Once upon a time, three little pigs left their mother to build houses. The first pig built a straw house, the second built a stick house, and the third pig worked hardest and built a brick house. The big bad wolf came and blew down the straw house, then the stick house, but he couldn't blow down the brick house. The three little pigs worked together, sent the wolf away, and sang happily. One, two, three, the three pigs sat in a row. The number three is like these three pigs — loving and brave!"
+      },
+      "knowledge": {
+        "title": "Why is three special?",
+        "body": "In many stories and in life, three appears often: three little pigs, three wishes, and the triangle is the strongest shape. Three points define a plane, so a tripod never wobbles."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_3_intro.mp3",
+        "story": "../item-audio/en/number_3_story.mp3"
+      }
+    }
+  }
+}

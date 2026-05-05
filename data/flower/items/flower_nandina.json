@@ -1,0 +1,90 @@
+{
+  "id": "flower_nandina",
+  "sku_id": "card_flower_nandina",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_red",
+      "in_garden"
+    ],
+    "secondary": [
+      "autumn_flower",
+      "small_flower",
+      "decorative"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "red",
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "balcony"
+    ],
+    "season": [
+      "autumn"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "南天竹",
+      "aloud": "nán tiān zhú",
+      "words": "nandina",
+      "intro": "南天竹是一种漂亮的植物，春天开小小的白花，秋天叶子会变成红红的，像一团小火焰。它还结出一串串红果子，圆溜溜的。",
+      "story": {
+        "title": "🍁南天竹的秋天外套",
+        "body": "花园里有一棵南天竹，个子小小的，叶子绿绿的。春天的时候，它开出一朵朵小白花，像小星星一样可爱。可是，没有人注意到它。南天竹有点难过。夏天过了，秋天来了，天气变凉了。一天早晨，南天竹醒来，发现自己穿上了一件红色的外套！它的叶子变得红红的，漂亮极了。小朋友们都跑过来看：“哇，南天竹好美啊！”南天竹开心地笑了。后来，它还结出了红红的小果子，小鸟们飞过来，啄着果子，叽叽喳喳地说：“谢谢南天竹！”南天竹再也不孤单了，它觉得秋天真美好。"
+      },
+      "knowledge": {
+        "title": "南天竹的叶子为什么变红？",
+        "body": "秋天天气变冷，南天竹叶子里的绿色变少了，红色的颜色就露出来了。这样它就能保护自己，准备过冬。红果子是小鸟冬天的食物。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_nandina_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_nandina_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Nandina",
+      "aloud": "/ˈnændɪnə/",
+      "words": "",
+      "intro": "Nandina is a pretty plant with small white flowers in spring. In autumn, its leaves turn red like little flames, and it grows clusters of round red berries.",
+      "story": {
+        "title": "🍁Nandina's Autumn Coat",
+        "body": "There was a little nandina in the garden, short and with green leaves. In spring, it bloomed tiny white flowers like little stars, but nobody noticed them. Nandina felt a little sad. After summer, autumn came and the air grew cool. One morning, Nandina woke up and found itself wearing a red coat! Its leaves turned bright red, so beautiful. Children came running and shouted, “Wow, Nandina is so pretty!” Nandina smiled happily. Later, it grew red berries. Little birds flew down, pecked at the berries, and chirped, “Thank you, Nandina!” Nandina wasn't lonely anymore. It thought autumn was truly wonderful."
+      },
+      "knowledge": {
+        "title": "Why do nandina leaves turn red?",
+        "body": "In autumn, cooler weather makes the green color fade from nandina leaves, letting the red show through. This helps the plant get ready for winter. The red berries are winter food for birds."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_nandina_intro.mp3",
+        "story": "../item-audio/en/flower_nandina_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "food_mashed_potatoes",
+  "sku_id": "card_food_mashed_potatoes",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "western_food",
+      "color_white",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "at_meal",
+      "hot_food"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "staple"
+    ],
+    "color": [
+      "white"
+    ],
+    "taste": [
+      "mild"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "school"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "土豆泥",
+      "aloud": "tǔ dòu ní",
+      "words": "potato",
+      "intro": "土豆泥是软软的、香香的，像云朵一样蓬松。它是由土豆做成的，吃起来滑滑的，是很多人都喜欢的美食哦。",
+      "story": {
+        "title": "🥔云朵土豆泥",
+        "body": "星期天，妈妈在厨房里忙碌着。小美跑过去问：“妈妈，今天吃什么呀？”妈妈神秘地说：“我要做一朵能吃的云朵。”小美好奇极了。妈妈拿出几个圆圆的土豆，洗干净、削去皮，然后切成小块放进锅里。煮了一会儿，土豆变得软软的。妈妈把土豆捞出来，用勺子轻轻压呀压，又加了牛奶和一点点黄油。哇！土豆真的变成了像云朵一样又白又软的泥。小美尝了一口，眼睛都亮了：“真的像云朵，软软的、香香的！”妈妈说：“这就是土豆泥，吃下去会让人暖暖的、很开心。”那天晚上，小美吃了满满一碗，连碗边都刮得干干净净。"
+      },
+      "knowledge": {
+        "title": "土豆泥是怎么做的？",
+        "body": "把土豆煮熟以后，去掉皮，用勺子压得碎碎的，再加一点牛奶和黄油搅拌均匀，就变成又香又软的土豆泥啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_mashed_potatoes_intro.mp3",
+        "story": "../item-audio/zh-CN/food_mashed_potatoes_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Mashed Potatoes",
+      "aloud": "/mæʃt pəˈteɪtoʊz/",
+      "words": "",
+      "intro": "Mashed potatoes are soft, fluffy, and smell wonderful, just like little clouds. They're made from potatoes and taste so smooth — a favorite food for many!",
+      "story": {
+        "title": "🥔Cloud Mashed Potatoes",
+        "body": "On Sunday, Mom was busy in the kitchen. Xiao Mei ran over and asked, 'Mommy, what are we having today?' Mom smiled mysteriously and said, 'I'm going to make a cloud you can eat.' Xiao Mei was so curious. Mom took out a few round potatoes, washed them, peeled them, and cut them into small pieces. She put them in a pot and boiled them until soft. Then she scooped them out and gently mashed them with a spoon, adding a little milk and butter. Wow! The potatoes turned into something as white and soft as a cloud. Xiao Mei took a taste, and her eyes lit up. 'It really is like a cloud, so soft and yummy!' Mom said, 'These are mashed potatoes. Eating them makes you feel warm and happy.' That evening, Xiao Mei ate a big bowl and even scraped it clean!"
+      },
+      "knowledge": {
+        "title": "How to make mashed potatoes?",
+        "body": "Boil the potatoes until tender, peel off the skins, mash them well with a spoon, and mix in a little milk and butter. Then you get fluffy and delicious mashed potatoes!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_mashed_potatoes_intro.mp3",
+        "story": "../item-audio/en/food_mashed_potatoes_story.mp3"
+      }
+    }
+  }
+}

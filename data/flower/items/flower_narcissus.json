@@ -1,0 +1,89 @@
+{
+  "id": "flower_narcissus",
+  "sku_id": "card_flower_narcissus",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_white",
+      "spring_flower"
+    ],
+    "secondary": [
+      "fragrant",
+      "bell_shape",
+      "potted_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "white",
+      "yellow"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "garden",
+      "home"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "fragrant"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "水仙",
+      "aloud": "shuǐ xiān",
+      "words": "narcissus",
+      "intro": "水仙是一种春天的花，花瓣白白的，中间有一个黄色的小杯子，闻起来香香的。它喜欢住在水边，所以叫水仙。",
+      "story": {
+        "title": "🌼水仙宝宝的春天",
+        "body": "冬天的时候，小朋友种下了一个水仙球。球球黑黑的，看起来像洋葱头。小朋友每天给它换水，放在窗台上晒太阳。一天天过去，球球长出了绿绿的叶子，像小蒜苗。又过了一段时间，叶子中间长出了花苞。春天来了，花苞打开了，变成了一朵朵白色的小花，中间戴着黄黄的小帽子，还散发出甜甜的香味。阳光照在花瓣上，亮晶晶的，像白色的小星星。小朋友开心地拍手说：水仙花开啦，真漂亮！整个房间都香香的，春天好像提前来到了家里。"
+      },
+      "knowledge": {
+        "title": "为什么水仙在水里就能开花？",
+        "body": "水仙有一个胖胖的球茎，里面储存了很多营养。只要给它清水和阳光，它就能自己长出叶子和花。我们平时看到的水仙都是种在水里的，所以叫水仙。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_narcissus_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_narcissus_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Narcissus",
+      "aloud": "/nɑːrˈsɪsəs/",
+      "words": "",
+      "intro": "Narcissus is a spring flower with white petals and a little yellow trumpet in the middle. It smells sweet and grows from a bulb in water.",
+      "story": {
+        "title": "🌼 The Little Narcissus Blooms",
+        "body": "In winter, a child planted a narcissus bulb in a glass bowl with clear water. The bulb was brown and round, like an onion. The child placed it on the sunny windowsill and changed the water every day. Slowly, green shoots appeared, reaching up like little fingers. The child watched them grow taller and taller. Then, a tiny bud formed among the leaves. One spring morning, the bud opened into a beautiful white flower with a bright yellow trumpet in the middle. A sweet, gentle fragrance filled the air. The child clapped with joy and said, 'The narcissus is blooming! It's so lovely!'"
+      },
+      "knowledge": {
+        "title": "Why does narcissus grow in water?",
+        "body": "Narcissus has a plump bulb that stores lots of food. It only needs clean water and sunlight to grow leaves and flowers. That's why we can grow it in water and call it 'water fairy' in Chinese."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_narcissus_intro.mp3",
+        "story": "../item-audio/en/flower_narcissus_story.mp3"
+      }
+    }
+  }
+}

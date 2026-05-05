@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_o",
+  "sku_id": "card_number_letter_o",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "vowel_letter",
+      "uppercase_letter"
+    ],
+    "secondary": [
+      "alphabet_order",
+      "can_say",
+      "easy_level"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "is_vowel": true,
+    "is_uppercase": true,
+    "letter": "O",
+    "ordinal": "15th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母O",
+      "aloud": "ōu",
+      "words": "octopus",
+      "intro": "字母O是英文字母表里的第十五个字母。它看起来像一个圆圆的大泡泡，也像一个大大的鸡蛋。O的发音很圆润，嘴巴圆圆的。",
+      "story": {
+        "title": "⚪圆圆的字母O",
+        "body": "看！一个大大的泡泡飘过来了，它是什么？是字母O！字母O圆圆的，像太阳公公，像圆圆的饼干，还像小车轮子。小猫咪看见字母O，以为是一颗圆圆的毛线球，扑上去一滚，O就转了起来。O滚呀滚，遇到小朋友，小朋友说：‘O，你好！’O笑道：‘嘴巴圆圆，跟我读/ō/！’于是小朋友一起张大嘴巴：‘ō～’O可开心了，它最喜欢和小朋友们一起做游戏了！晚上，O变成了一轮圆圆的月亮，挂在天上，照亮了小朋友回家的小路。"
+      },
+      "knowledge": {
+        "title": "字母O是从哪里来的？",
+        "body": "字母O是英文字母表里第十五个字母。它是元音字母，发音时嘴巴要张得圆圆的。很多单词里都有O，比如橙子（orange）和章鱼（octopus）。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_o_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_o_story.mp3"
+      }
+    },
+    "en": {
+      "name": "O",
+      "aloud": "/oʊ/",
+      "words": "",
+      "intro": "O is the fifteenth letter of the alphabet. It looks like a big round bubble or a big egg. It makes a round 'oh' sound.",
+      "story": {
+        "title": "⚪The Round Letter O",
+        "body": "Look! A big bubble is floating over. What is it? It's the letter O! O is round like the sun, like a cookie, and like a little wagon wheel. A little kitten saw O and thought it was a ball of yarn, so she pounced and O rolled away. O rolled and rolled and met a little boy who said, 'Hello, O!' O smiled and said, 'Make your mouth round, say /oʊ/ with me!' So all the children opened their mouths wide and said, 'Oh~' O was so happy—it loves playing with kids! At night, O turned into a round, bright moon, shining down to light the children's way home."
+      },
+      "knowledge": {
+        "title": "Where does the letter O come from?",
+        "body": "O is the 15th letter of the alphabet. It is a vowel, and you make a round mouth to say it. It appears in words like 'orange' and 'octopus'."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_o_intro.mp3",
+        "story": "../item-audio/en/number_letter_o_story.mp3"
+      }
+    }
+  }
+}

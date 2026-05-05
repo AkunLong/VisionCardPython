@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_e",
+  "sku_id": "card_number_letter_e",
+  "category": "letter",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "vowel_letter"
+    ],
+    "secondary": [
+      "alphabet_order",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 5,
+    "is_even": false,
+    "is_prime": true,
+    "ordinal": "5th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母E",
+      "aloud": "ē",
+      "words": "e",
+      "intro": "字母E是英文字母表里的第五个字母，形状像三根小棒搭在一起。很多好玩的东西都是以E开头的，比如大象、鸡蛋！",
+      "story": {
+        "title": "🐘大象埃迪",
+        "body": "埃迪是一头可爱的小象，它最喜欢在河边玩水。有一天，天气很热，埃迪用长长的鼻子吸了一大口水，然后开心地朝天空喷去。神奇的事情发生了——喷出的水花在空中停留了一下，竟然形成了一个大大的字母E！水珠在阳光下闪闪发光，就像三根小彩虹搭成的一座桥。小猴子看到后惊呼：“哇，E！是大象埃迪的E！”小鸟们也飞过来，叽叽喳喳地学着说：“E，E！”埃迪看到大家这么开心，又用鼻子喷出一个小写的e，小动物们全都快乐地跳了起来。从那以后，森林里的小伙伴们都记住了这个有趣的字母。你也来试试吧！伸出你的食指，跟着我画：先画一条竖线，然后在上边画一条短横，中间画一条短横，下边画一条长一点的横。看，一个大大的E就写好了！"
+      },
+      "knowledge": {
+        "title": "字母E为什么像小架子？",
+        "body": "字母E的形状就像一个有上下两个横杠的小架子，好像可以放上可爱的小玩具。最早的字母E来自古代的图画，画的是一个人高兴地举起双手在欢呼。所以，字母E也代表着快乐和活力！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_e_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_e_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Letter E",
+      "aloud": "/iː/",
+      "words": "",
+      "intro": "Letter E is the fifth letter in the alphabet. It looks like three little sticks put together. Many fun things start with E, like elephant, egg, and eagle!",
+      "story": {
+        "title": "🐘Eddie the Elephant",
+        "body": "Eddie was a cute little elephant who loved playing by the river. One hot day, he sucked up a trunk full of water and playfully sprayed it into the sky. The water drops sparkled in the sunlight, and to everyone's surprise, they formed a perfect letter E in the air! It looked like a little bridge made of three rainbows. A monkey saw it and shouted, \"Wow! An E! For Eddie the Elephant!\" Little birds flew over, chirping \"E! E!\" Eddie was so happy that he flapped his ears and sprayed a small e too. All the animals laughed and cheered. From that day on, everyone in the forest remembered this fun letter. Now you try! Use your finger: draw a straight line down, then a short line across at the top, another short line in the middle, and a longer line at the bottom. See? A lovely E!"
+      },
+      "knowledge": {
+        "title": "Why does the letter E look like a little shelf?",
+        "body": "The shape of E is like a tiny shelf with two bars, perfect for holding little toys. The earliest E came from an ancient picture of a person raising their hands in joy. That’s why the letter E always reminds us of happiness and energy!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_e_intro.mp3",
+        "story": "../item-audio/en/number_letter_e_story.mp3"
+      }
+    }
+  }
+}

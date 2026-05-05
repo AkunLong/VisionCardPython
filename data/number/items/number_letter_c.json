@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_c",
+  "sku_id": "card_number_letter_c",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "consonant_letter",
+      "uppercase_letter"
+    ],
+    "secondary": [
+      "alphabet_order",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 3,
+    "is_even": false,
+    "is_prime": true,
+    "ordinal": "3rd",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母C",
+      "aloud": "sēi",
+      "words": "c",
+      "intro": "C是字母表里第三个字母。它的形状像一轮弯弯的月亮，也像一块小饼干。我们一起来认识它吧！",
+      "story": {
+        "title": "🌙弯弯的字母C",
+        "body": "一天，小猫咪咪在厨房里发现了一块奇特的饼干。饼干是弯弯的，像小船，又像月亮。妈妈说：“这是字母C的饼干哦！”咪咪好奇地咬了一口，饼干变成了半圆。咪咪想：C是不是也像张开的小嘴巴呢？后来，咪咪学会了念C：小嘴圆圆，发出“科”的音。C和好朋友A、B一起，排成字母歌。咪咪好开心，它把C贴在了墙上，每天打招呼：“你好，C！”咪咪又用彩笔画了很多C，有的像彩虹桥，有的像小碗。妈妈说C能组成很多词，比如cat（小猫）、car（小车）。咪咪觉得C真奇妙！"
+      },
+      "knowledge": {
+        "title": "C为什么是弯的？",
+        "body": "字母C的形状来源于古代腓尼基人的象形文字，它看起来像一条弯曲的骆驼脖子。后来演变成现在的弯弯样子。C是辅音字母，发音很轻快。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_c_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_c_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Letter C",
+      "aloud": "/siː/",
+      "words": "",
+      "intro": "C is the third letter of the alphabet. It looks like a crescent moon or a cookie. Let's learn about the letter C!",
+      "story": {
+        "title": "🌙The Curvy Letter C",
+        "body": "One day, a little cat named Mimi found a special cookie in the kitchen. The cookie was curved, like a little boat or a moon. Mommy said, 'This is a letter C cookie!' Mimi took a bite, and the cookie became a semicircle. Mimi thought, 'Does C look like an open mouth too?' Later, Mimi learned to say C: round your lips and make a 'kuh' sound. C joined friends A and B to sing the alphabet song. Mimi was so happy and put a big C on the wall. Every day she greeted, 'Hello, C!' Then Mimi used crayons to draw many Cs, like rainbow bridges and little bowls. Mommy said C starts words like cat and car. Mimi thought C was wonderful!"
+      },
+      "knowledge": {
+        "title": "Why is C curved?",
+        "body": "The shape of the letter C comes from an ancient Phoenician symbol that looked like a curved camel's neck. Over time, it became the curvy letter we know today. C is a consonant with a light sound."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_c_intro.mp3",
+        "story": "../item-audio/en/number_letter_c_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "transport_parachute",
+  "sku_id": "card_transport_parachute",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "air_transport",
+      "in_sky"
+    ],
+    "secondary": [
+      "can_carry_people",
+      "safe",
+      "small"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "parachute"
+    ],
+    "color": [
+      "blue",
+      "white",
+      "red"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "sky",
+      "emergency",
+      "sports_field"
+    ],
+    "fuel": [],
+    "features": [
+      "canopy",
+      "harness",
+      "safety"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "降落伞",
+      "aloud": "jiàng luò sǎn",
+      "words": "parachute",
+      "intro": "降落伞是一个大大的圆圆的伞，从飞机上跳下来的时候打开，可以慢慢落下来，很安全。它像一朵大花在空中开放。",
+      "story": {
+        "title": "🪂小蓝伞的冒险",
+        "body": "天气真好，小蓝伞和好朋友小熊一起坐飞机。飞机飞得好高好高，白云就在窗外飘过。小蓝伞有点紧张，但它想到要保护小熊，就变得勇敢了。到了高高的天空，小熊说：‘我们跳下去！’小蓝伞紧紧抱住小熊，‘呼啦’一下，打开了大大的伞衣。它们像一片羽毛，慢慢飘呀飘。风儿轻轻吹，小蓝伞带着小熊看云朵、看小鸟。‘哇，好漂亮！’小熊开心地笑。小蓝伞稳稳地落在一片绿草地上，小熊说：‘谢谢你，小蓝伞，你真的好厉害！’小蓝伞收起伞衣，害羞地说：‘下次我们再一起飞！’"
+      },
+      "knowledge": {
+        "title": "降落伞有什么用？",
+        "body": "降落伞可以在危险的时候救人的命。当飞机出问题的时候，人们可以背着降落伞跳下来，它会像一把大伞一样打开，让人慢慢落地，不会受伤。降落伞也用在运动里，人们从高空跳下，享受飞翔的感觉。简单说，降落伞是空中的安全伙伴。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_parachute_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_parachute_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Parachute",
+      "aloud": "/ˈpærəʃuːt/",
+      "words": "",
+      "intro": "A parachute is a big, round tool that helps people float down slowly from the sky. It opens like a large flower when you jump from a plane, keeping you safe.",
+      "story": {
+        "title": "🪂Little Blue Parachute's Adventure",
+        "body": "One beautiful day, Little Blue Parachute went on a plane ride with his friend Bear. The plane flew so high, and white clouds drifted past the window. Little Blue was a bit nervous, but he thought about protecting Bear and became brave. When they reached the high sky, Bear shouted, \"Let's jump!\" Little Blue hugged Bear tightly, and with a whoosh, he opened his big canopy. They floated down gently, like a feather. The wind blew softly as Little Blue carried Bear past clouds and little birds. \"Wow, so pretty!\" Bear laughed happily. Little Blue landed softly on a green meadow. Bear said, \"Thank you, Little Blue, you're amazing!\" Little Blue folded his canopy and said shyly, \"Let's fly together again next time!\""
+      },
+      "knowledge": {
+        "title": "Why do we need a parachute?",
+        "body": "A parachute can save lives in an emergency. If something goes wrong with a plane, people can jump with a parachute. It opens like a big umbrella and helps them land softly without getting hurt. Parachutes are also used in sports, where people jump from high places and enjoy the feeling of flying. In short, a parachute is a safety partner in the sky."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_parachute_intro.mp3",
+        "story": "../item-audio/en/transport_parachute_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "person_younger_brother",
+  "sku_id": "card_person_younger_brother",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "child"
+    ],
+    "secondary": [
+      "male",
+      "at_home",
+      "take_care"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "younger_brother"
+    ],
+    "workplace": [
+      "home",
+      "playground"
+    ],
+    "tools": [
+      "toys",
+      "picture_book"
+    ],
+    "clothing": [
+      "casual_wear"
+    ],
+    "actions": [
+      "play",
+      "laugh",
+      "learn"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "弟弟",
+      "aloud": "dì di",
+      "words": "brother",
+      "intro": "弟弟是家里比你小的男孩。他会跟着你学走路、学说话，喜欢和你一起玩积木、看图画书。有了弟弟，家里总是热热闹闹的。",
+      "story": {
+        "title": "👦🏻我的小跟班",
+        "body": "小乐是家里的小弟弟，整天跟在哥哥身后。哥哥玩小车，小乐也推着小车跑。哥哥翻图画书，小乐也凑过来指着小狗笑。有时候小乐会摔倒，哥哥就赶快跑过去，把他扶起来，拍拍他身上的灰，说：“小乐不怕，哥哥在呢。”小乐眼泪还没干，又咧开嘴笑了。晚上洗澡时，小乐总爱玩水，把泡泡吹得到处都是。哥哥假装生气，小乐就咯咯地笑着喊：“哥哥、哥哥！”妈妈一边擦地一边笑着说：“有了小跟班，哥哥都变成小大人了。”小乐听了，搂住哥哥的脖子，甜甜地亲了一口。"
+      },
+      "knowledge": {
+        "title": "弟弟在家庭中的角色",
+        "body": "弟弟是家里年龄小的男孩，他会向哥哥姐姐学习。和弟弟一起玩可以让他更开心，也能让他学会分享和照顾别人。每个弟弟都是家里的小宝贝。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_younger_brother_intro.mp3",
+        "story": "../item-audio/zh-CN/person_younger_brother_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Younger Brother",
+      "aloud": "/ˈjʌŋər ˈbrʌðər/",
+      "words": "",
+      "intro": "A younger brother is a boy in the family who is smaller than you. He likes to follow you around, learn from you, and play together. He makes home a lively place.",
+      "story": {
+        "title": "👦🏻My Little Follower",
+        "body": "Little Le is the younger brother at home. He follows his big brother everywhere. When big brother plays with cars, Little Le pushes his tiny car too. When big brother looks at picture books, Little Le squeezes in and points at the puppy, giggling. Sometimes Little Le trips and falls. Big brother rushes over, helps him up, dusts him off and says, 'Don't be scared, your big brother is here.' Before the tears dry up, Little Le grins again. At bath time, he loves splashing and blowing bubbles everywhere. Big brother pretends to be angry, and Little Le laughs and cries, 'Brother! Brother!' Mama wipes the floor and smiles, 'With a little follower, big brother has become a little grown-up.' Hearing this, Little Le wraps his arms around big brother's neck and gives a sweet kiss."
+      },
+      "knowledge": {
+        "title": "What is a younger brother like in the family?",
+        "body": "A younger brother is a boy who is smaller than you. He learns from his older siblings. Playing with a younger brother makes him happy and helps him learn to share and care. He is the little treasure of the family."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_younger_brother_intro.mp3",
+        "story": "../item-audio/en/person_younger_brother_story.mp3"
+      }
+    }
+  }
+}

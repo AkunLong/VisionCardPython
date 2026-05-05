@@ -1,0 +1,92 @@
+{
+  "id": "object_pencil",
+  "sku_id": "card_object_pencil",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "study_item",
+      "color_yellow"
+    ],
+    "secondary": [
+      "at_school",
+      "can_write",
+      "can_draw"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "yellow",
+      "black"
+    ],
+    "shape": [
+      "long"
+    ],
+    "material": [
+      "wood",
+      "graphite"
+    ],
+    "scenes": [
+      "home",
+      "school",
+      "office"
+    ],
+    "function": [
+      "write",
+      "draw"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "铅笔",
+      "aloud": "qiān bǐ",
+      "words": "pencil",
+      "intro": "铅笔是我们写字、画画的好帮手。它长长的身体，穿着黄色的衣服，里面藏着黑色的笔芯。用小刀削一削，笔尖就变尖了。",
+      "story": {
+        "title": "✏️铅笔和橡皮是好朋友",
+        "body": "铅笔和橡皮是一对好朋友，它们每天都在一起。铅笔喜欢画画，它画了太阳、小花和小鸟，画得满满一张纸。可是，一不小心，它画错了一条线，急得直哭。橡皮连忙说：“别担心，看我的！”橡皮轻轻一擦，错线就不见了。铅笔高兴地笑了，又继续画画。橡皮说：“我们合作真好，你画得漂亮，我帮你改正。”铅笔点点头：“是啊，有你在，我就不怕犯错了。”从此，它们成了最要好的搭档，一起写啊画啊，帮小朋友完成好多好多作品。"
+      },
+      "knowledge": {
+        "title": "铅笔是怎么做出来的？",
+        "body": "铅笔的笔芯是用石墨和黏土做的，外面包着木头。木头保护着笔芯，让我们的小手握着不会弄脏。铅笔削尖了才能写出细细的字，用久了就要再削一削。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_pencil_intro.mp3",
+        "story": "../item-audio/zh-CN/object_pencil_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Pencil",
+      "aloud": "/ˈpensəl/",
+      "words": "",
+      "intro": "A pencil is a helpful tool for writing and drawing. It has a long body, usually yellow, with a black tip inside. When you sharpen it, the tip becomes pointy and ready to use.",
+      "story": {
+        "title": "✏️Pencil and Eraser Are Best Friends",
+        "body": "Pencil and Eraser are best friends. They stay together every day. Pencil loves to draw—it draws a sun, a flower, and a bird, filling up a whole page. But sometimes it makes a mistake and cries. Eraser quickly says, “Don't worry, I can help!” With a gentle rub, the mistake disappears. Pencil smiles and goes on drawing. Eraser says, “We make a great team. You draw beautifully, and I fix the errors.” Pencil nods, “Yes, with you, I'm not afraid to make mistakes.” From then on, they are the best partners, helping kids create many wonderful things."
+      },
+      "knowledge": {
+        "title": "How is a pencil made?",
+        "body": "The core of a pencil is made of graphite and clay, covered by wood. The wood protects the core and keeps our hands clean. You need to sharpen the pencil to write thin lines, and when it gets dull, you sharpen it again."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_pencil_intro.mp3",
+        "story": "../item-audio/en/object_pencil_story.mp3"
+      }
+    }
+  }
+}

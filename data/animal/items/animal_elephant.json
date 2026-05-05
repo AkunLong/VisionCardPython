@@ -1,0 +1,99 @@
+{
+  "id": "animal_elephant",
+  "sku_id": "card_animal_elephant",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "mammal",
+      "gentle"
+    ],
+    "secondary": [
+      "has_long_nose",
+      "has_tail",
+      "eats_grass"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal"
+    ],
+    "color": [
+      "gray"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "trunk",
+      "ears",
+      "tail"
+    ],
+    "scenes": [
+      "savanna",
+      "river",
+      "grassland"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "swim"
+    ],
+    "sound": [
+      "trumpet"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "大象",
+      "aloud": "dà xiàng",
+      "words": "elephant",
+      "intro": "大象是一种很大很温柔的动物，身上有灰色的皮肤，长着长长的鼻子和像扇子一样的大耳朵。大象喜欢用鼻子喷水、吃树叶，也喜欢和家人在一起。",
+      "story": {
+        "title": "🐘大象找水喝",
+        "body": "大象壮壮生活在美丽的大草原上。一天，天气很热，壮壮觉得口渴了。它用长长的鼻子卷起一小堆沙子，轻轻吹一吹，没有找到水。它又走到大树下，用鼻子勾一勾树枝，还是没有水。忽然，它听见“哗啦啦”的声音，原来是一条清澈的小河！壮壮开心地跑过去，把长鼻子伸进水里，咕噜咕噜喝了个饱。喝完水，它用鼻子吸满水，喷到空中，水花像下雨一样，小动物们都高兴地跑过来。壮壮和朋友们一起玩水，真凉快呀！"
+      },
+      "knowledge": {
+        "title": "大象的鼻子为什么那么长？",
+        "body": "大象的长鼻子非常有用，它可以用来呼吸、闻味道、喝水、卷起东西，还可以和好朋友打招呼。大象的鼻子就像人的手一样灵活。而且，鼻子还能帮助大象在热天里喷水洗澡，让自己凉快起来。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_elephant_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_elephant_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Elephant",
+      "aloud": "/ˈeləfənt/",
+      "words": "",
+      "intro": "An elephant is a very big and gentle animal with gray skin, a long trunk, and large ears like fans. Elephants like to spray water, eat leaves, and stay with their family.",
+      "story": {
+        "title": "🐘The Little Elephant Looks for Water",
+        "body": "Dondon the little elephant lived on the beautiful grassland. One day, the weather was very hot, and Dondon felt thirsty. He used his long trunk to pick up a small pile of sand and gently blew it, but he didn’t find water. Then he walked to a big tree and hooked his trunk on a branch, but still no water. Suddenly, he heard a splashing sound. It was a clear little river! Dondon happily ran over, put his long trunk into the water, and drank gulp after gulp until he was full. After drinking, he sucked up water with his trunk and sprayed it into the air. The water sparkled like rain, and all the little animals came running happily. Dondon played in the water with his friends. It was so cool and fun!"
+      },
+      "knowledge": {
+        "title": "Why is an elephant's trunk so long?",
+        "body": "An elephant's trunk is very useful. It can be used for breathing, smelling, drinking, picking up things, and greeting friends. An elephant's trunk is as flexible as a human hand. Also, the trunk can help elephants spray water to take a bath on hot days and keep cool."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_elephant_intro.mp3",
+        "story": "../item-audio/en/animal_elephant_story.mp3"
+      }
+    }
+  }
+}

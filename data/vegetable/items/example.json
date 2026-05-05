@@ -1,0 +1,97 @@
+{
+  "_基本字段配置": "↓",
+  "id": "vegetable_carrot",
+  "sku_id": "card_vegetable_carrot",
+  "category": "vegetable",
+  "_年龄及难度": "↓",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "_图片链接信息": "↓",
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "_标签信息": "↓",
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_orange",
+      "root_vegetable"
+    ],
+    "secondary": [
+      "long",
+      "sweet",
+      "crisp"
+    ]
+  },
+  "_属性信息": "↓",
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "orange"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "sweet",
+      "crisp"
+    ],
+    "grow_location": [
+      "underground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "_核心内容字段": "↓",
+  "content": {
+    "zh-CN": {
+      "name": "胡萝卜",
+      "aloud": "hú luó bo",
+      "words": "carrot",
+      "intro": "胡萝卜是一种橙色的蔬菜，长长的，吃起来脆脆甜甜的。它长在泥土下面，被拔出来的时候还带着泥土呢。",
+      "story": {
+        "title": "🥕拔萝卜",
+        "body": "小兔子来到菜园里，看见地里冒出一点绿绿的叶子。它抓住叶子用力一拔，嘿哟！拔出了一根又粗又长的胡萝卜！小兔子高兴极了，正想一口咬下去，突然听到旁边有声音。原来是小松鼠，它也想要一根胡萝卜。小兔子想了想，又拔了一根，分给了小松鼠。两个好朋友坐在草地上，咔嚓咔嚓地啃着胡萝卜。小兔子说：胡萝卜真甜呀！小松鼠点点头：又脆又甜，太好吃了！吃完以后，它们还把胡萝卜头上的绿叶种回了土里，期待长出更多胡萝卜。"
+      },
+      "knowledge": {
+        "title": "吃胡萝卜有什么好处？",
+        "body": "胡萝卜里有很多胡萝卜素，吃了对眼睛特别好，能让眼睛更亮更健康。而且胡萝卜还可以生吃、炒着吃、煮汤喝，怎么吃都好吃！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_carrot_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_carrot_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Carrot",
+      "aloud": "/ˈkærət/",
+      "words": "",
+      "intro": "A carrot is an orange vegetable that is long and tastes sweet and crisp. It grows underground, and when you pull it out, it still has dirt on it.",
+      "story": {
+        "title": "🥕Pulling Carrots",
+        "body": "The little rabbit came to the garden and saw some green leaves poking out of the ground. It grabbed the leaves and pulled hard — Heave-ho! Out came a big, long carrot! The rabbit was thrilled and was about to take a bite when it heard a sound nearby. It was the little squirrel, who also wanted a carrot. The rabbit thought for a moment, then pulled another one and shared it with the squirrel. The two friends sat on the grass, crunching on their carrots. The rabbit said, Carrots are so sweet! The squirrel nodded, Crispy and sweet — so yummy! After they finished, they planted the green carrot tops back in the soil, hoping to grow even more carrots."
+      },
+      "knowledge": {
+        "title": "Why is eating carrots good for you?",
+        "body": "Carrots have lots of beta-carotene, which is great for your eyes and helps them stay bright and healthy. You can eat carrots raw, stir-fried, or in soup — they're delicious any way!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_carrot_intro.mp3",
+        "story": "../item-audio/en/vegetable_carrot_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "plant_coconut_tree",
+  "sku_id": "card_plant_coconut_tree",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "color_green"
+    ],
+    "secondary": [
+      "has_trunk",
+      "has_leaf",
+      "has_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "trunk",
+      "branches",
+      "leaves",
+      "roots",
+      "fruit"
+    ],
+    "scenes": [
+      "park",
+      "forest",
+      "garden"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": true,
+    "is_drinkable": true,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "椰子树",
+      "aloud": "yē zi shù",
+      "words": "coconut tree",
+      "intro": "椰子树高高的，树干细细的，长着大大的绿叶子。它站在海边，结出圆圆的椰子，里面有甜甜的水和香香的肉。",
+      "story": {
+        "title": "🥥椰子树的旅行",
+        "body": "小椰子宝宝住在高高的椰子树上。有一天，椰子宝宝长大了，它从树上掉下来，滚啊滚，滚到了大海里。大海带着它漂啊漂，漂到了一片美丽的沙滩。椰子宝宝在那里停下来，过了几天，从它身体里钻出一棵嫩绿的小芽。小芽慢慢长大，长出了长长的叶子，变成了一棵新的小椰子树。一只小螃蟹爬过来说：“欢迎你，新朋友！”小椰子树开心地摇摇叶子。太阳公公每天照着他，小雨点也来给他洗澡。小椰子树越长越高，后来也结出了圆圆的椰子。他把一个椰子送给小螃蟹，说：“谢谢你，让我们一起做邻居吧！”小螃蟹高兴地笑了。"
+      },
+      "knowledge": {
+        "title": "椰子有什么用处？",
+        "body": "椰子树的果实叫椰子。椰子水可以喝，椰子肉可以吃，还能做成椰奶和椰子片。椰子树还能给人们提供遮阳，是热带的好朋友。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_coconut_tree_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_coconut_tree_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Coconut Tree",
+      "aloud": "/ˈkoʊkənʌt triː/",
+      "words": "",
+      "intro": "A coconut tree is tall with a slender trunk and big green leaves. It stands by the sea and grows round coconuts that have sweet water and soft meat inside.",
+      "story": {
+        "title": "🥥The Little Coconut's Trip",
+        "body": "A little coconut baby lived high up on a coconut tree. One day, when the coconut baby grew big, it fell from the tree and rolled and rolled into the big blue sea. The sea carried it gently, drifting far away, until it reached a beautiful sandy beach. The coconut baby stopped there, and after a few days, a tiny green sprout came out of its shell. The sprout grew slowly, with long leaves, and became a new little coconut tree. A small crab came by and said, “Welcome, new friend!” The little coconut tree swayed its leaves happily. The sun shone on it every day, and the raindrops gave it a bath. The little coconut tree grew taller and taller, and later it grew round coconuts too. It gave one coconut to the crab and said, “Thank you! Let’s be neighbors forever!” The little crab smiled with joy."
+      },
+      "knowledge": {
+        "title": "What can coconuts do?",
+        "body": "The fruit of a coconut tree is the coconut. Coconut water is good to drink, and the white meat can be eaten or made into coconut milk and coconut chips. Coconut trees also give us shade and are good friends in hot places."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_coconut_tree_intro.mp3",
+        "story": "../item-audio/en/plant_coconut_tree_story.mp3"
+      }
+    }
+  }
+}

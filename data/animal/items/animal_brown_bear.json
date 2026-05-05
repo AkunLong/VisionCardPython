@@ -1,0 +1,104 @@
+{
+  "id": "animal_brown_bear",
+  "sku_id": "card_animal_brown_bear",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "forest_animal",
+      "big"
+    ],
+    "secondary": [
+      "has_fur",
+      "eats_fish",
+      "roar"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "wild"
+    ],
+    "color": [
+      "brown"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "claws",
+      "ears",
+      "snout"
+    ],
+    "scenes": [
+      "forest",
+      "river",
+      "cave"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "climb",
+      "swim"
+    ],
+    "sound": [
+      "roar",
+      "growl"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "大棕熊",
+      "aloud": "dà zōng xióng",
+      "words": "brown bear",
+      "intro": "大棕熊是一种住在森林里的大动物，身上有厚厚的棕色毛发，力气很大。它们喜欢吃鱼和蜂蜜，有时候会站在河里抓鱼哦！",
+      "story": {
+        "title": "🐻大棕熊找蜂蜜",
+        "body": "大棕熊熊大最喜欢吃蜂蜜了。一天，他闻到了一阵甜甜的香味。他顺着香味，一步一步走进森林里。原来，树上有一个大大的蜂窝。熊大轻轻地爬到树旁，用爪子小心地拨了一下蜂窝。蜜蜂们“嗡嗡嗡”地飞了出来。熊大一点也不着急，他慢慢地走到小河边，找到了一块圆圆的石头，又慢慢走回来。他用石头轻轻敲了敲蜂窝，一小块蜂蜜掉了下来。熊大开心地舔着爪子，眯起眼睛，觉得蜂蜜甜滋滋的。吃饱以后，他找了一个软软的草地，晒着太阳，呼呼地睡着了。"
+      },
+      "knowledge": {
+        "title": "大棕熊为什么喜欢抓鱼？",
+        "body": "大棕熊住在靠近河流的森林里，它们是游泳高手。每年夏天，河里有好多鱼游来游去。大棕熊站在水里，用爪子一拍，就能抓到鱼。鱼肉营养丰富，能让它们长得又大又壮。所以大棕熊特别喜欢抓鱼吃。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_brown_bear_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_brown_bear_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Brown Bear",
+      "aloud": "/braʊn ber/",
+      "words": "",
+      "intro": "A brown bear is a large animal that lives in the forest. It has thick brown fur and is very strong. Brown bears like to eat fish and honey, and they sometimes stand in rivers to catch fish!",
+      "story": {
+        "title": "🐻The Big Brown Bear Looks for Honey",
+        "body": "Brownie the big brown bear loved honey more than anything. One day, he smelled a sweet, yummy scent. He followed the smell step by step into the deep forest. There, high up in a tree, was a huge honeycomb. Brownie carefully climbed up and gently touched the honeycomb with his paw. The bees buzzed out loudly! Brownie didn't rush. He slowly went to the riverside, found a round stone, and came back. He tapped the honeycomb softly with the stone, and a piece of honey dripped down. Brownie licked his paw happily and closed his eyes. The honey was so sweet! When he was full, he found a soft grassy spot, lay in the sun, and fell fast asleep."
+      },
+      "knowledge": {
+        "title": "Why do brown bears love to catch fish?",
+        "body": "Brown bears live near rivers in forests and are great swimmers. Every summer, many fish swim in the rivers. The bears stand in the water and use their big paws to scoop up fish. Fish gives them lots of energy and helps them grow big and strong. That’s why brown bears love fishing so much."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_brown_bear_intro.mp3",
+        "story": "../item-audio/en/animal_brown_bear_story.mp3"
+      }
+    }
+  }
+}

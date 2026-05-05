@@ -1,0 +1,76 @@
+{
+  "id": "number_10",
+  "sku_id": "card_number_ten",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "two_digit",
+      "even_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 10,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "10th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字10",
+      "aloud": "shí",
+      "words": "ten",
+      "intro": "十是一个两位数，比九多一。我们有十根手指和十根脚趾，可以帮我们数到十。十是个完美的数字！",
+      "story": {
+        "title": "🐻十个手指头",
+        "body": "宝宝伸出两只小手，数一数：一、二、三、四、五、六、七、八、九、十！十个手指头，排成两排。左手有五个，右手有五个。它们可以一起做好多事情：拍拍手，啪啪啪；捏泥人，揉一揉；数豆子，一颗一颗。十个手指像十个好朋友，天天陪着你玩。每次数到十，就数完了手手上的所有手指，真开心！"
+      },
+      "knowledge": {
+        "title": "为什么我们有十个手指？",
+        "body": "我们人类有十个手指，是因为这样能很方便地抓东西和做细活。十也成了我们最喜欢的计数单位，比如十个苹果就是一篮。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_10_intro.mp3",
+        "story": "../item-audio/zh-CN/number_10_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Ten",
+      "aloud": "/tɛn/",
+      "words": "",
+      "intro": "Ten is a two-digit number, one more than nine. We have ten fingers and ten toes, which can help us count to ten. Ten is a perfect number!",
+      "story": {
+        "title": "🐻Ten Little Fingers",
+        "body": "Spread out your two little hands and count: one, two, three, four, five, six, seven, eight, nine, ten! Ten fingers standing in two rows. The left hand has five, the right hand has five. Together, they can do many things: clap hands, pat-a-cake; squish clay, roll it round; count beans, one by one. Ten fingers are like ten good friends, with you every day. Whenever you count to ten, you finish counting all your fingers. How happy!"
+      },
+      "knowledge": {
+        "title": "Why do we have ten fingers?",
+        "body": "Humans have ten fingers because it makes it easy to grab things and do fine work. Ten has also become our favorite counting unit—like a basket of ten apples."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_10_intro.mp3",
+        "story": "../item-audio/en/number_10_story.mp3"
+      }
+    }
+  }
+}

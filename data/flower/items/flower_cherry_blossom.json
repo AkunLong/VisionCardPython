@@ -1,0 +1,89 @@
+{
+  "id": "flower_cherry_blossom",
+  "sku_id": "card_flower_cherry_blossom",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_pink",
+      "on_tree"
+    ],
+    "secondary": [
+      "spring_flower",
+      "many_petals",
+      "fragrant"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "pink"
+    ],
+    "size": [
+      "tall"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "street"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "樱花",
+      "aloud": "yīng huā",
+      "words": "cherry blossom",
+      "intro": "樱花是春天开放的花，花瓣粉粉嫩嫩的，像小云朵一样。它长在高高的树上，风一吹，花瓣飘落，就像下起了花瓣雨。",
+      "story": {
+        "title": "🌸樱花树下的约定",
+        "body": "春天来了，公园里的樱花树开满了粉色的花。小兔子白白拉着妈妈去看樱花。白白说：“妈妈，樱花好漂亮，像粉色的云朵！”妈妈笑着说：“是呀，樱花告诉我们春天到了。”白白捡起一片飘落的花瓣，轻轻地放在手心。她对妈妈说：“我想邀请小松鼠红红一起来看樱花。”妈妈说：“好呀，那我们明天还来这里。”第二天，白白和红红在樱花树下见面了。她们在树下跳舞、唱歌，樱花花瓣像小蝴蝶一样围着她们飞舞。红红说：“明年春天，我们还来这里看樱花！”两个好朋友在树下许下了约定。樱花树沙沙响，好像也在说：“好呀，明年春天再见！”"
+      },
+      "knowledge": {
+        "title": "樱花开放的时候",
+        "body": "樱花在春天开放，先开花后长叶子。花朵一簇一簇的，每朵花有好几片花瓣。樱花的生命很短，开得轰轰烈烈，落得也很快，但留给人们美丽的回忆。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_cherry_blossom_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_cherry_blossom_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cherry Blossom",
+      "aloud": "/ˈtʃɛri ˈblɒsəm/",
+      "words": "",
+      "intro": "Cherry blossoms are flowers that bloom in spring. Their petals are soft pink, like little clouds. They grow on tall trees, and when the wind blows, the petals fall like a pink rain.",
+      "story": {
+        "title": "🌸The Promise Under the Cherry Tree",
+        "body": "Spring came, and the cherry tree in the park was full of pink flowers. Little Bunny White went with her mother to see them. White said, “Mom, the cherry blossoms are so pretty, like pink clouds!” Mom smiled and said, “Yes, they tell us spring is here.” White picked up a fallen petal and held it gently. She said to Mom, “I want to invite my friend Squirrel Red to see them too.” Mom said, “Sure, let’s come back tomorrow.” The next day, White and Red met under the cherry tree. They danced and sang, and the petals fluttered around them like little butterflies. Red said, “Next spring, let’s come here again!” The two friends made a promise under the tree. The cherry tree rustled, as if saying, “Okay, see you next spring!”"
+      },
+      "knowledge": {
+        "title": "When Cherry Blossoms Bloom",
+        "body": "Cherry blossoms bloom in spring. The flowers appear before the leaves. They grow in clusters, and each flower has several petals. Cherry blossoms have a short life, but they bloom beautifully and leave a lasting memory."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_cherry_blossom_intro.mp3",
+        "story": "../item-audio/en/flower_cherry_blossom_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "plant_gardenia",
+  "sku_id": "card_plant_gardenia",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "color_white"
+    ],
+    "secondary": [
+      "has_flower",
+      "fragrant",
+      "in_garden"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "white",
+      "green",
+      "brown"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "trunk",
+      "branches",
+      "leaves",
+      "flowers",
+      "roots"
+    ],
+    "scenes": [
+      "in_garden",
+      "in_park",
+      "at_home"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "栀子树",
+      "aloud": "zhī zi shù",
+      "words": "gardenia",
+      "intro": "栀子树开白色的小花，香气甜甜的，像妈妈的味道。叶子绿油油，一年四季都很漂亮。",
+      "story": {
+        "title": "🌼小栀子树的秘密",
+        "body": "花园里有一棵小小的栀子树。春天到了，它悄悄开出了第一朵白花，花瓣软软的，香香的。小蜜蜂闻到了，嗡嗡嗡地飞过来，说：“好香呀！我来采蜜啦！”小蝴蝶也飞来了，在花间跳舞。小主人朵朵跑到树下，轻轻闻一闻，开心地笑了。她把一朵栀子花别在衣服上，一整天都是香香的。晚上，朵朵做了一个梦，梦见自己变成了一朵栀子花，和蜜蜂蝴蝶一起唱歌。小栀子树觉得好幸福，它想：明年我要开更多的花，让大家都快乐！"
+      },
+      "knowledge": {
+        "title": "栀子树有什么特点？",
+        "body": "栀子树是常绿小树，叶子一年四季都是绿色的。春天开花，花朵白色，非常香，可以用来做香水。它喜欢温暖湿润的地方，常常种在花园里供人观赏。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_gardenia_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_gardenia_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Gardenia",
+      "aloud": "/ɡɑːrˈdiːniə/",
+      "words": "",
+      "intro": "The gardenia has small white flowers with a sweet, lovely fragrance. Its leaves stay green all year, looking very pretty.",
+      "story": {
+        "title": "🌼Little Gardenia's Secret",
+        "body": "There was a little gardenia tree in the garden. In spring, it quietly opened its first white flower. The petals were so soft and smelled so sweet! A little bee buzzed over and said, 'Mmm, so fragrant! Let me gather some nectar!' A butterfly flew in and danced among the flowers. Little girl Duoduo ran to the tree, gave a gentle sniff, and smiled happily. She put a gardenia flower on her dress, and she smelled nice all day. That night, Duoduo had a dream: she turned into a gardenia flower, singing with the bee and butterfly. The little gardenia felt so happy. It thought: Next year, I'll bloom even more flowers, and make everyone smile!"
+      },
+      "knowledge": {
+        "title": "What's special about gardenia?",
+        "body": "Gardenia is a small evergreen tree. Its leaves stay green all year. It blooms white, very fragrant flowers in spring, which can be made into perfume. It likes warm, moist places and is often planted in gardens."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_gardenia_intro.mp3",
+        "story": "../item-audio/en/plant_gardenia_story.mp3"
+      }
+    }
+  }
+}

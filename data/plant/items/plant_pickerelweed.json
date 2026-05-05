@@ -1,0 +1,98 @@
+{
+  "id": "plant_pickerelweed",
+  "sku_id": "card_plant_pickerelweed",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "aquatic_plant",
+      "has_flower"
+    ],
+    "secondary": [
+      "in_water",
+      "big_leaf",
+      "can_watch"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "aquatic_plant"
+    ],
+    "color": [
+      "green",
+      "purple"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "roots",
+      "stems",
+      "leaves",
+      "flowers"
+    ],
+    "scenes": [
+      "pond",
+      "riverbank",
+      "wetland"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "梭鱼草",
+      "aloud": "suō yú cǎo",
+      "words": "pickerelweed",
+      "intro": "梭鱼草长在水边，心形的叶子绿绿的，开出一串串紫色的花，像小鱼在游来游去，好漂亮呀！",
+      "story": {
+        "title": "🌿梭鱼草的小秘密",
+        "body": "池塘边住着一丛梭鱼草。夏天到了，梭鱼草开出一串串紫色的花朵，风一吹，像小铃铛摇啊摇。小青蛙跳过来，问：“你是谁呀？你的花真好看！”梭鱼草笑着说：“我是梭鱼草，我喜欢住在水边。”小蜻蜓也飞来了，停在叶子上，说：“你的叶子像爱心，软软的好舒服。”梭鱼草点点头：“是呀，心形叶子是我的宝贝。我的花还会结出小果子呢！”小动物们每天都来看梭鱼草，和它一起玩耍。梭鱼草觉得，有水、有阳光、有朋友，就是最幸福的事。秋天，花谢了，但梭鱼草说明年还会再开。"
+      },
+      "knowledge": {
+        "title": "梭鱼草有什么特别？",
+        "body": "梭鱼草是长在水里的植物，喜欢阳光。它的心形叶子可以净化水质，紫色花朵能吸引蜜蜂蝴蝶。它还叫“北美梭鱼草”，因为原产北美，鱼喜欢在它附近游动。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_pickerelweed_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_pickerelweed_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Pickerelweed",
+      "aloud": "/ˈpɪkərəlwiːd/",
+      "words": "",
+      "intro": "Pickerelweed grows by the water, with green heart-shaped leaves and spikes of purple flowers that look like little fish swimming. So pretty!",
+      "story": {
+        "title": "🌿Pickerelweed's Little Secret",
+        "body": "A clump of pickerelweed lived by the pond. In summer, it grew spikes of purple flowers that swayed like little bells in the wind. A little frog hopped over and asked, 'Who are you? Your flowers are so pretty!' Pickerelweed smiled and said, 'I'm pickerelweed. I love living by the water.' A dragonfly flew by and landed on a leaf. 'Your leaves are like hearts, so soft and cozy,' it said. Pickerelweed nodded, 'Yes, my heart-shaped leaves are treasures. And my flowers will grow little fruits!' Every day, the small animals came to see the pickerelweed and play together. Pickerelweed felt that having water, sunshine, and friends was the happiest thing. In autumn, the flowers faded, but pickerelweed said they would bloom again next year."
+      },
+      "knowledge": {
+        "title": "What's special about pickerelweed?",
+        "body": "Pickerelweed is a plant that grows in water and loves sunshine. Its heart-shaped leaves help clean the water, and its purple flowers attract bees and butterflies. It originally comes from North America, and fish like to swim near it."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_pickerelweed_intro.mp3",
+        "story": "../item-audio/en/plant_pickerelweed_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "animal_sea_turtle",
+  "sku_id": "card_animal_sea_turtle",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "sea_animal",
+      "gentle"
+    ],
+    "secondary": [
+      "can_swim",
+      "reptile",
+      "color_green"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "reptile",
+      "sea_animal"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "shell",
+      "flippers",
+      "tail",
+      "head"
+    ],
+    "scenes": [
+      "ocean",
+      "beach"
+    ],
+    "actions": [
+      "swim",
+      "crawl"
+    ],
+    "sound": [],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "海龟",
+      "aloud": "hǎi guī",
+      "words": "sea turtle",
+      "intro": "海龟是一种生活在海洋里的动物，背上有一个大大的硬壳，像穿了一件盔甲。海龟用像翅膀一样的四肢游泳，游得很慢很稳。它们常常在温暖的海洋里游来游去。",
+      "story": {
+        "title": "🐢小海龟找妈妈",
+        "body": "沙滩上，一颗圆圆的蛋裂开了，一只小海龟从里面爬出来。它看看四周，到处都是金黄色的沙子，天空蓝蓝的，太阳暖暖的。小海龟记得妈妈说过，大海是蓝色的，还有很多小鱼。它努力地挥动小爪子，朝着大海爬去。爬呀爬，路上遇到一只小螃蟹，小螃蟹问：“你要去哪里？”小海龟说：“我要去找妈妈，还要游到深深的大海里。”小螃蟹挥挥钳子说：“加油！大海就在前面。”小海龟继续爬，终于，一个海浪轻轻拍过来，把它抱进了凉凉的海水里。小海龟好开心，它划着水，慢慢游向远方，一边游一边想：妈妈一定在等我。"
+      },
+      "knowledge": {
+        "title": "海龟的壳有什么用？",
+        "body": "海龟的壳非常坚硬，就像它的房子和保护伞。遇到危险时，海龟会把头、尾巴和四肢缩进壳里，这样敌人就没办法咬到它了。壳上的花纹还能帮助它在海里隐藏起来。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_sea_turtle_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_sea_turtle_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Sea Turtle",
+      "aloud": "/siː ˈtɜːrtl/",
+      "words": "",
+      "intro": "A sea turtle is an animal that lives in the ocean. It has a big, hard shell on its back, like wearing a suit of armor. Sea turtles use their flippers, which look like wings, to swim slowly and steadily. They often swim in warm, blue waters.",
+      "story": {
+        "title": "🐢Little Turtle Finds Mama",
+        "body": "On the sandy beach, a round egg cracked open, and a tiny sea turtle crawled out. It looked around and saw golden sand everywhere, a blue sky, and warm sunshine. The little turtle remembered Mama saying that the ocean was blue and full of little fish. It flapped its tiny flippers and crawled toward the big sea. Along the way, it met a small crab. “Where are you going?” asked the crab. “I’m going to find my mama and swim in the deep, deep ocean,” said the little turtle. The crab waved its claws and said, “Keep going! The sea is just ahead.” The little turtle kept crawling, and finally, a gentle wave came and swept it into the cool, blue water. The little turtle was so happy. It paddled and swam slowly into the distance, thinking, “Mama must be waiting for me.”"
+      },
+      "knowledge": {
+        "title": "Why do sea turtles have shells?",
+        "body": "A sea turtle’s shell is very hard, just like its house and a shield. When a turtle is scared, it can pull its head, tail, and flippers inside the shell to stay safe. The patterns on the shell also help it hide in the ocean."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_sea_turtle_intro.mp3",
+        "story": "../item-audio/en/animal_sea_turtle_story.mp3"
+      }
+    }
+  }
+}

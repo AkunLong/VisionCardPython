@@ -1,0 +1,87 @@
+{
+  "id": "fruit_cherry_tomato",
+  "sku_id": "card_fruit_cherry_tomato",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_red",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "juicy",
+      "vine_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "red"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "sour"
+    ],
+    "scenes": [
+      "farm",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "小番茄",
+      "aloud": "xiǎo fān qié",
+      "words": "cherry tomato",
+      "intro": "小番茄是一种小小的、圆圆的水果，颜色红红的，吃起来甜甜的、水水的。它很有营养，小朋友可以放心吃。",
+      "story": {
+        "title": "🐻小熊的小番茄",
+        "body": "小熊在农场里看到一排小番茄藤。藤上挂着许多红红的小番茄，像一个个小灯笼。小熊轻轻摘下一颗，放进嘴里咬了一下，“噗！”小番茄的汁水在嘴里爆开，又甜又酸，真好吃。小熊又摘了一些，用小篮子装好，带回家给妈妈。妈妈把小番茄洗干净，放在盘子里。小熊和妈妈你一颗我一颗，吃得可开心了。妈妈说：“小番茄是大自然的礼物，我们要谢谢它。”小熊点点头，觉得和妈妈一起吃小番茄是最幸福的事情。"
+      },
+      "knowledge": {
+        "title": "小番茄长在哪里？",
+        "body": "小番茄长在藤上，喜欢温暖的阳光。夏天和秋天是它成熟的时候，藤上会结出一串串红红的小番茄，特别可爱。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_cherry_tomato_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_cherry_tomato_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cherry Tomato",
+      "aloud": "/ˈtʃɛri təˈmeɪtoʊ/",
+      "words": "",
+      "intro": "Cherry tomatoes are small, round, red fruits that taste sweet and juicy. They are nutritious and safe for children to eat.",
+      "story": {
+        "title": "🐻The Little Bear's Cherry Tomatoes",
+        "body": "The little bear walked by a row of cherry tomato vines at the farm. Many red baby tomatoes hung from the vines, like tiny lanterns. The little bear gently picked one and took a small bite. “Pop!” The juice burst in his mouth, sweet and sour—so delicious. He picked some more, put them in a small basket, and brought them home to his mom. Mom washed the cherry tomatoes and put them on a plate. They sat together, eating one after another, feeling so happy. Mom said, “Cherry tomatoes are a gift from nature, and we should be grateful.” The little bear nodded, thinking that sharing cherry tomatoes with Mom was the happiest thing."
+      },
+      "knowledge": {
+        "title": "Where do cherry tomatoes grow?",
+        "body": "Cherry tomatoes grow on vines and love warm sunshine. They ripen in summer and fall, producing cute little red clusters on the vines."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_cherry_tomato_intro.mp3",
+        "story": "../item-audio/en/fruit_cherry_tomato_story.mp3"
+      }
+    }
+  }
+}

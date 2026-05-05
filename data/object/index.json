@@ -1,0 +1,82 @@
+{
+  "id": "object_set_v1",
+  "category": "object",
+  "name": "日常物品认知卡排序",
+  "description": "适合3-6岁儿童的日常物品认知顺序，优先展示生活中高频接触、容易识别、与吃饭喝水、穿戴出行、学习绘画和家庭生活相关的物品。",
+  "nav": {
+    "id": "object",
+    "name": "日常物品图卡合集",
+    "description": "45种常见日常物品认知卡",
+    "available": true,
+    "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/object/images/story/object_hair_dryer_story.jpg",
+    "title": {
+        "zh-CN": "家里的小世界，样样都有趣",
+        "en": "The Wonder of Everyday Things"
+      },
+      "subtitle": {
+        "zh-CN": "找一找身边的宝贝",
+        "en": "Find the Extraordinary in the Ordinary"
+      },
+      "small_title": {
+        "zh-CN": "牙刷杯子、画画的铅笔、会转的洗衣机，都有故事",
+        "en": "Toothbrushes, pencils, washing machines — every object has a story"
+      },
+      "background_color_image":"#E37299",
+      "background_color_card":"#E56C97"
+  },
+  "total": 45,
+  "items": [
+    { "id": "object_clothes", "name": "衣服", "enName": "Clothes" },
+    { "id": "object_toy", "name": "玩具", "enName": "Toy" },
+
+    { "id": "object_shoes", "name": "鞋子", "enName": "Shoes" },
+    { "id": "object_slippers", "name": "拖鞋", "enName": "Slippers" },
+    { "id": "object_hat", "name": "运动帽", "enName": "Hat" },
+    { "id": "object_glasses", "name": "眼镜", "enName": "Glasses" },
+    { "id": "object_sunglasses", "name": "墨镜", "enName": "Sunglasses" },
+
+    { "id": "object_towel", "name": "毛巾", "enName": "Towel" },
+    { "id": "object_toothbrush", "name": "牙刷", "enName": "Toothbrush" },
+    { "id": "object_toothpaste", "name": "牙膏", "enName": "Toothpaste" },
+    { "id": "object_clothes_hanger", "name": "衣架", "enName": "Clothes Hanger" },
+    { "id": "object_bucket", "name": "水桶", "enName": "Bucket" },
+
+    { "id": "object_bowl", "name": "饭碗", "enName": "Bowl" },
+    { "id": "object_plate", "name": "盘子", "enName": "Plate" },
+    { "id": "object_spoon", "name": "餐勺", "enName": "Spoon" },
+    { "id": "object_fork", "name": "餐叉", "enName": "Fork" },
+    { "id": "object_knife", "name": "餐刀", "enName": "Knife" },
+    { "id": "object_glass", "name": "玻璃杯", "enName": "Glass" },
+    { "id": "object_thermos_cup", "name": "保温杯", "enName": "Thermos Cup" },
+
+    { "id": "object_chair", "name": "椅子", "enName": "Chair" },
+    { "id": "object_backpack", "name": "书包", "enName": "Backpack" },
+    { "id": "object_pencil", "name": "铅笔", "enName": "Pencil" },
+    { "id": "object_eraser", "name": "橡皮擦", "enName": "Eraser" },
+    { "id": "object_paintbrush", "name": "画笔", "enName": "Paintbrush" },
+    { "id": "object_notebook", "name": "记事本", "enName": "Notebook" },
+    { "id": "object_basketball", "name": "篮球", "enName": "Basketball" },
+
+    { "id": "object_umbrella", "name": "雨伞", "enName": "Umbrella" },
+    { "id": "object_keys", "name": "钥匙", "enName": "Keys" },
+    { "id": "object_wallet", "name": "钱包", "enName": "Wallet" },
+    { "id": "object_handbag", "name": "手提包", "enName": "Handbag" },
+
+    { "id": "object_mobile_phone", "name": "手机", "enName": "Mobile Phone" },
+    { "id": "object_phone", "name": "电话", "enName": "Phone" },
+    { "id": "object_television", "name": "电视机", "enName": "Television" },
+    { "id": "object_remote_control", "name": "遥控器", "enName": "Remote Control" },
+    { "id": "object_earphones", "name": "耳机", "enName": "Earphones" },
+    { "id": "object_camera", "name": "相机", "enName": "Camera" },
+    { "id": "object_desk_lamp", "name": "台灯", "enName": "Desk Lamp" },
+    { "id": "object_alarm_clock", "name": "闹钟", "enName": "Alarm Clock" },
+    { "id": "object_flashlight", "name": "手电筒", "enName": "Flashlight" },
+    { "id": "object_battery", "name": "电池", "enName": "Battery" },
+
+    { "id": "object_electric_fan", "name": "小风扇", "enName": "Electric Fan" },
+    { "id": "object_hair_dryer", "name": "吹风机", "enName": "Hair Dryer" },
+    { "id": "object_microwave", "name": "微波炉", "enName": "Microwave" },
+    { "id": "object_washing_machine", "name": "洗衣机", "enName": "Washing Machine" },
+    { "id": "object_vacuum_cleaner", "name": "吸尘器", "enName": "Vacuum Cleaner" }
+  ]
+}

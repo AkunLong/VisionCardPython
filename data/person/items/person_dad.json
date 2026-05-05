@@ -1,0 +1,91 @@
+{
+  "id": "person_dad",
+  "sku_id": "card_person_dad",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "male"
+    ],
+    "secondary": [
+      "adult",
+      "take_care",
+      "at_home"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "father"
+    ],
+    "workplace": [
+      "home",
+      "office"
+    ],
+    "tools": [
+      "car"
+    ],
+    "clothing": [
+      "casual_clothes"
+    ],
+    "actions": [
+      "hug",
+      "play",
+      "drive",
+      "cook"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "爸爸",
+      "aloud": "bà ba",
+      "words": "dad",
+      "intro": "爸爸是小朋友最亲的人。爸爸会抱抱你，陪你玩，还会开车带你去公园。爸爸力气很大，总是保护我们。",
+      "story": {
+        "title": "👨‍👧爸爸的抱抱",
+        "body": "小熊猫圆圆最喜欢爸爸了。每天爸爸下班回家，圆圆总是第一个跑过去，爸爸一把把它抱起来，举高高，圆圆咯咯地笑。周末的时候，爸爸带圆圆去游乐场，圆圆坐在爸爸的肩膀上，看得很远很远。爸爸还会做饭，圆圆的饭团里，爸爸会偷偷包进一颗小草莓，圆圆吃到的时候眼睛亮晶晶的。晚上睡觉前，爸爸会讲小熊的故事，圆圆听着听着就睡着了。圆圆觉得，爸爸的抱抱最温暖，爸爸的声音最好听。它要永远做爸爸的小宝贝。"
+      },
+      "knowledge": {
+        "title": "爸爸是什么样的？",
+        "body": "爸爸通常是男人，和妈妈一起照顾小朋友。爸爸有力气，可以举起我们，还会修东西、开车。每个爸爸都不一样，但都最爱自己的宝宝。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_dad_intro.mp3",
+        "story": "../item-audio/zh-CN/person_dad_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Dad",
+      "aloud": "/dæd/",
+      "words": "",
+      "intro": "Dad is someone who loves you very much. He gives big hugs, plays with you, and drives you to fun places. Dad is strong and always protects the family.",
+      "story": {
+        "title": "👨‍👧 Daddy's Hug",
+        "body": "Little Panda Yuanyuan loves his dad the most. Every day when Dad comes home from work, Yuanyuan runs to him first. Dad picks him up and lifts him high, and Yuanyuan giggles and giggles. On weekends, Dad takes Yuanyuan to the playground. Sitting on Dad's shoulders, Yuanyuan can see far, far away. Dad also cooks. He hides a little strawberry inside Yuanyuan's rice ball, and when Yuanyuan finds it, his eyes light up. At bedtime, Dad tells a story about a little bear, and Yuanyuan falls asleep listening. Yuanyuan thinks Daddy's hugs are the warmest, and Daddy's voice is the most beautiful. He wants to be Daddy's little baby forever."
+      },
+      "knowledge": {
+        "title": "What is a dad like?",
+        "body": "A dad is usually a man who takes care of the children with mom. Dads are strong and can lift us up high. They can fix things and drive. Every dad is different, but they all love their children the most."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_dad_intro.mp3",
+        "story": "../item-audio/en/person_dad_story.mp3"
+      }
+    }
+  }
+}

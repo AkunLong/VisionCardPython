@@ -1,0 +1,104 @@
+{
+  "id": "animal_dolphin",
+  "sku_id": "card_animal_dolphin",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "ocean_animal",
+      "clever"
+    ],
+    "secondary": [
+      "mammal",
+      "can_swim",
+      "friendly"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "wild"
+    ],
+    "color": [
+      "gray",
+      "white"
+    ],
+    "size": [
+      "medium"
+    ],
+    "body": [
+      "fin",
+      "tail",
+      "flippers",
+      "blowhole"
+    ],
+    "scenes": [
+      "ocean",
+      "sea",
+      "aquarium"
+    ],
+    "actions": [
+      "swim",
+      "jump",
+      "dive",
+      "play"
+    ],
+    "sound": [
+      "whistle",
+      "click"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "海豚",
+      "aloud": "hǎi tún",
+      "words": "dolphin",
+      "intro": "海豚是一种生活在海里的聪明动物。它们的身体滑溜溜的，长着弯弯的嘴巴，就像在微笑。海豚喜欢跳出水面，还会发出好听的声音。",
+      "story": {
+        "title": "🐬小海豚找朋友",
+        "body": "小海豚蓝蓝住在一片蓝蓝的大海里。一天，蓝蓝想找朋友一起玩。它游啊游，遇见了一只小海龟。蓝蓝问：‘你愿意和我做朋友吗？’小海龟说：‘我要去找吃的，不能陪你玩。’蓝蓝有一点难过，但它继续往前游。又游了一会儿，它看见了小海星，蓝蓝问：‘你愿意和我一起玩吗？’小海星说：‘我不能游泳，我只能待在这里。’蓝蓝又难过了一点。这时候，远处传来一阵清脆的声音，原来是一群海豚在唱歌。蓝蓝快快地游过去，原来大家都在等它呢！蓝蓝和朋友们一起跳出海面，转圈圈，玩得开心极了。它们还一起唱歌，声音好听极了。从那以后，蓝蓝再也不孤单了。"
+      },
+      "knowledge": {
+        "title": "海豚为什么会跳出海面？",
+        "body": "海豚非常聪明，生活在大海里。它们跳出海面，是为了呼吸新鲜空气。有时候，它们跳起来是在和朋友打招呼，或者开心地玩耍。海豚还会用各种声音来交谈，就像我们说话一样！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_dolphin_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_dolphin_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Dolphin",
+      "aloud": "/ˈdɒl.fɪn/",
+      "words": "",
+      "intro": "A dolphin is a clever animal that lives in the ocean. It has a smooth body and a curved mouth that looks like a smile. Dolphins love to jump out of the water and make nice sounds.",
+      "story": {
+        "title": "🐬The Little Dolphin Looks for a Friend",
+        "body": "Little Blue the dolphin lived in a big blue ocean. One day, Blue wanted to find a friend to play with. He swam and swam, and met a small sea turtle. Blue asked, 'Will you be my friend?' The sea turtle said, 'I'm looking for food. I can't play with you.' Blue felt a little sad, but he kept swimming. Later, he saw a little starfish. Blue asked, 'Will you play with me?' The starfish said, 'I can't swim. I have to stay here.' Blue felt sad again. Just then, he heard a cheerful sound. A group of dolphins were singing nearby. Blue swam quickly over. They were all waiting for him! Blue and his friends jumped out of the water, spun around, and had so much fun. They sang together, and it sounded wonderful. From that day on, Blue was never lonely again."
+      },
+      "knowledge": {
+        "title": "Why do dolphins jump out of the water?",
+        "body": "Dolphins are very clever animals that live in the ocean. They jump out of the water to breathe fresh air. Sometimes, they jump to greet their friends or to have fun. Dolphins also use many sounds to talk, just like we talk!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_dolphin_intro.mp3",
+        "story": "../item-audio/en/animal_dolphin_story.mp3"
+      }
+    }
+  }
+}

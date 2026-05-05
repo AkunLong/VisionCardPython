@@ -1,0 +1,89 @@
+{
+  "id": "person_aunt_fathers_older_brothers_wife",
+  "sku_id": "card_person_aunt_fathers_older_brothers_wife",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "relative"
+    ],
+    "secondary": [
+      "adult",
+      "female",
+      "take_care"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "aunt"
+    ],
+    "workplace": [
+      "home"
+    ],
+    "tools": [
+      "cooking_utensils"
+    ],
+    "clothing": [
+      "apron"
+    ],
+    "actions": [
+      "cook",
+      "take_care",
+      "hug"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "伯母",
+      "aloud": "bó mǔ",
+      "words": "aunt",
+      "intro": "伯母是爸爸的哥哥的妻子，也是我们的家人。她很温柔，常常照顾我们，给我们做好吃的饭菜，还会陪我们玩游戏。",
+      "story": {
+        "title": "🧸小猫咪去伯母家",
+        "body": "星期天，小猫咪跟着爸爸去伯母家玩。刚到门口，伯母就笑着迎了出来，还给了小猫咪一个大大的拥抱。伯母系着花围裙，正在做香喷喷的饼干。猫咪说好香啊，伯母让它坐在小椅子上，端来一盘小星星饼干和一杯牛奶。吃完点心，伯母陪小猫咪玩积木，搭了一座很高的城堡。小猫咪开心极了，临走时舍不得走。伯母蹲下来擦擦它的脸，说下次再来，伯母做小蛋糕给你吃。小猫咪点点头，挥挥小爪子说拜拜。回家的路上，小猫咪对爸爸说，伯母家真好玩，我好喜欢伯母呀！"
+      },
+      "knowledge": {
+        "title": "伯母是谁呀？",
+        "body": "伯母是爸爸的哥哥的妻子。在中国，我们把爸爸的哥哥叫伯伯，伯伯的妻子就叫伯母。伯母就像妈妈一样关心我们，也是家里的长辈，我们要尊敬她，也可以和她分享快乐。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_aunt_fathers_older_brothers_wife_intro.mp3",
+        "story": "../item-audio/zh-CN/person_aunt_fathers_older_brothers_wife_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Aunt",
+      "aloud": "/ænt/",
+      "words": "",
+      "intro": "An aunt is the wife of father's older brother. She is part of our big family. She is gentle, takes care of us, cooks yummy food, and loves to play with us.",
+      "story": {
+        "title": "🧸Little Kitten Visits Aunt",
+        "body": "On Sunday, Little Kitten went to visit Aunt with Daddy. As soon as they reached the door, Aunt came out smiling and gave Little Kitten a big warm hug. Aunt was wearing a pretty apron and baking delicious cookies. The kitten said how yummy it smelled! Aunt let the kitten sit on a little chair and brought a plate of star-shaped cookies and a glass of milk. After the snack, Aunt played building blocks with the kitten and they built a very tall castle. Little Kitten was so happy that she didn't want to leave. Aunt knelt down, wiped her little face, and said come again soon — I'll bake you little cakes! The kitten nodded and waved her little paw bye-bye. On the way home, she told Daddy, Aunt's home is so much fun, I love my aunt so much!"
+      },
+      "knowledge": {
+        "title": "Who is an aunt?",
+        "body": "An aunt is the wife of father's older brother. In many families, we call her 'aunt'. She cares for us just like a mom, is an elder in the family, and we respect her. We can share happy moments with her and she always welcomes us warmly."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_aunt_fathers_older_brothers_wife_intro.mp3",
+        "story": "../item-audio/en/person_aunt_fathers_older_brothers_wife_story.mp3"
+      }
+    }
+  }
+}

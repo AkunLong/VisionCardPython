@@ -1,0 +1,79 @@
+{
+  "id": "animal_set_v1",
+  "category": "animal",
+  "name": "动物认知卡排序",
+  "description": "适合3-6岁儿童的动物认知顺序，优先展示生活中常见、绘本中高频、形象易识别的动物，再逐步扩展到动物园动物、海洋动物和低频动物。",
+  "nav": {
+    "id": "animal",
+    "name": "动物图卡合集",
+    "description": "45种常见动物认知卡",
+    "available": true,
+    "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/animal/images/story/animal_lion_story.jpg",
+    "title": {
+        "zh-CN": "小小探险家，遇见大世界",
+        "en": "Discover the Animal Kingdom"
+      },
+      "subtitle": {
+        "zh-CN": "和45种动物交朋友",
+        "en": "Make 45 Animal Friends"
+      },
+      "small_title": {
+        "zh-CN": "从软绵绵的小猫到威风的老虎，动物世界真奇妙",
+        "en": "Fluffy kittens, roaring tigers — the animal kingdom awaits"
+      },
+      "background_color_image":"#BE6D2C",
+      "background_color_card":"#B4682B"
+  },
+  "total": 45,
+  "items": [
+  { "id": "animal_cat", "name": "小猫", "enName": "Cat" },
+  { "id": "animal_dog", "name": "小狗", "enName": "Dog" },
+  { "id": "animal_goldfish", "name": "金鱼", "enName": "Goldfish" },
+  { "id": "animal_bird", "name": "小鸟", "enName": "Bird" },
+  { "id": "animal_rabbit", "name": "兔子", "enName": "Rabbit" },
+  { "id": "animal_guinea_pig", "name": "豚鼠", "enName": "Guinea Pig" },
+
+  { "id": "animal_duckling", "name": "小鸭子", "enName": "Duckling" },
+  { "id": "animal_hen", "name": "母鸡", "enName": "Hen" },
+  { "id": "animal_rooster", "name": "大公鸡", "enName": "Rooster" },
+  { "id": "animal_pig", "name": "小猪", "enName": "Pig" },
+  { "id": "animal_cow", "name": "奶牛", "enName": "Cow" },
+  { "id": "animal_sheep", "name": "小绵羊", "enName": "Sheep" },
+  { "id": "animal_pony", "name": "小马", "enName": "Pony" },
+  { "id": "animal_donkey", "name": "毛驴", "enName": "Donkey" },
+  { "id": "animal_alpaca", "name": "羊驼", "enName": "Alpaca" },
+
+  { "id": "animal_butterfly", "name": "蝴蝶", "enName": "Butterfly" },
+  { "id": "animal_dragonfly", "name": "蜻蜓", "enName": "Dragonfly" },
+  { "id": "animal_snail", "name": "蜗牛", "enName": "Snail" },
+  { "id": "animal_snake", "name": "小蛇", "enName": "Snake" },
+  { "id": "animal_hamster", "name": "仓鼠", "enName": "Hamster" },
+
+  { "id": "animal_panda", "name": "熊猫", "enName": "Panda" },
+  { "id": "animal_elephant", "name": "大象", "enName": "Elephant" },
+  { "id": "animal_monkey", "name": "猴子", "enName": "Monkey" },
+  { "id": "animal_giraffe", "name": "长颈鹿", "enName": "Giraffe" },
+  { "id": "animal_zebra", "name": "斑马", "enName": "Zebra" },
+  { "id": "animal_lion", "name": "狮子", "enName": "Lion" },
+  { "id": "animal_tiger", "name": "老虎", "enName": "Tiger" },
+  { "id": "animal_hippopotamus", "name": "河马", "enName": "Hippopotamus" },
+  { "id": "animal_camel", "name": "骆驼", "enName": "Camel" },
+  { "id": "animal_crocodile", "name": "鳄鱼", "enName": "Crocodile" },
+  { "id": "animal_fox", "name": "狐狸", "enName": "Fox" },
+  { "id": "animal_owl", "name": "猫头鹰", "enName": "Owl" },
+  { "id": "animal_brown_bear", "name": "大棕熊", "enName": "Brown Bear" },
+  { "id": "animal_gorilla", "name": "大猩猩", "enName": "Gorilla" },
+  { "id": "animal_cheetah", "name": "猎豹", "enName": "Cheetah" },
+
+  { "id": "animal_dolphin", "name": "海豚", "enName": "Dolphin" },
+  { "id": "animal_sea_turtle", "name": "海龟", "enName": "Sea Turtle" },
+  { "id": "animal_seal", "name": "海豹", "enName": "Seal" },
+  { "id": "animal_sea_lion", "name": "海狮", "enName": "Sea Lion" },
+  { "id": "animal_penguin", "name": "企鹅", "enName": "Penguin" },
+  { "id": "animal_tropical_fish", "name": "热带鱼", "enName": "Tropical Fish" },
+  { "id": "animal_jellyfish", "name": "水母", "enName": "Jellyfish" },
+  { "id": "animal_octopus", "name": "章鱼", "enName": "Octopus" },
+  { "id": "animal_shark", "name": "鲨鱼", "enName": "Shark" },
+  { "id": "animal_flying_fish", "name": "飞鱼", "enName": "Flying Fish" }
+  ]
+}

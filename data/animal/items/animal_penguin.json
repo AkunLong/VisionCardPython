@@ -1,0 +1,101 @@
+{
+  "id": "animal_penguin",
+  "sku_id": "card_animal_penguin",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "bird",
+      "cute"
+    ],
+    "secondary": [
+      "can_swim",
+      "has_feathers",
+      "chirp"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "bird"
+    ],
+    "color": [
+      "black",
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "feathers",
+      "wings",
+      "tail",
+      "beak"
+    ],
+    "scenes": [
+      "ice",
+      "ocean",
+      "snow"
+    ],
+    "actions": [
+      "walk",
+      "swim",
+      "jump"
+    ],
+    "sound": [
+      "chirp"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "企鹅",
+      "aloud": "qǐ é",
+      "words": "penguin",
+      "intro": "企鹅是一种可爱的鸟类，穿着黑白相间的外套，走起路来摇摇摆摆，它们生活在寒冷的地方，最喜欢在水里游泳。",
+      "story": {
+        "title": "🐧小企鹅学游泳",
+        "body": "在南极的冰天雪地里，住着一只叫小Q的小企鹅。小Q长着黑黑的背和白白的肚皮，走起路来摇摇摆摆，特别可爱。有一天，阳光照在冰面上，闪闪发光。小Q看到其他大企鹅在海里游来游去，好羡慕呀，可是它自己还不会游泳。妈妈走过来，温柔地说：“小Q，别怕，妈妈教你。”小Q跟着妈妈走到海边，妈妈先跳进水里，张开翅膀游了一圈。小Q学着妈妈的样子，闭上眼睛，扑通一声跳进水里。海水凉凉的，它用小翅膀用力扑腾，慢慢地向前游动。小Q高兴地叫起来：“嘎嘎，我会游泳啦！”它和妈妈一起在水里游来游去，开心极了。游累了，小Q趴在冰上，靠着妈妈，在温暖的阳光下睡着了。"
+      },
+      "knowledge": {
+        "title": "企鹅为什么不会飞？",
+        "body": "企鹅虽然属于鸟类，却不能像其他鸟一样飞翔。它们的翅膀变成了像鱼鳍一样的鳍，可以帮助它们在水中灵活地游泳。企鹅的羽毛短而密，像一件防水外套，让它们在寒冷的水中也能保暖。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_penguin_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_penguin_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Penguin",
+      "aloud": "/ˈpeŋɡwɪn/",
+      "words": "",
+      "intro": "Penguins are cute birds that wear a black and white coat. They waddle when they walk and love to swim in the cold ocean.",
+      "story": {
+        "title": "🐧Little Penguin Learns to Swim",
+        "body": "On the icy land of Antarctica, there lived a cute little penguin named Pingu. Pingu had soft feathers and a funny waddle. But Pingu could not swim yet. One sunny day, the ice sparkled under the bright sun. Pingu watched the big penguins swimming in the sea and felt sad. His mom came and said gently, “Don’t worry, Pingu. I will teach you.” They walked to the edge of the ice. Mom jumped in first and swam happily. Pingu was scared, but he closed his eyes and jumped in too. The water was cold! He flapped his little wings and slowly moved forward. Suddenly, he was swimming! Pingu chirped loudly, “I can swim!” He swam with his mom for a long time and had so much fun. When tired, they lay on the ice and snuggled together under the warm sun."
+      },
+      "knowledge": {
+        "title": "Why can't penguins fly?",
+        "body": "Penguins are birds, but they cannot fly. Their wings have turned into flippers that help them swim very fast in the water. Penguin feathers are short and dense, like a waterproof coat, which keeps them warm in the cold ocean."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_penguin_intro.mp3",
+        "story": "../item-audio/en/animal_penguin_story.mp3"
+      }
+    }
+  }
+}

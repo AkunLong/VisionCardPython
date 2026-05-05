@@ -1,0 +1,91 @@
+{
+  "id": "person_mom",
+  "sku_id": "card_person_mom",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "female"
+    ],
+    "secondary": [
+      "adult",
+      "take_care",
+      "at_home"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "mother"
+    ],
+    "workplace": [
+      "home"
+    ],
+    "tools": [
+      "storybook",
+      "apron"
+    ],
+    "clothing": [
+      "apron"
+    ],
+    "actions": [
+      "cook",
+      "hug",
+      "read",
+      "sing"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "妈妈",
+      "aloud": "mā ma",
+      "words": "mom",
+      "intro": "妈妈是最爱我们的人。妈妈每天给我们做饭，陪我们玩，晚上还会讲故事哄我们睡觉。妈妈的怀抱最温暖了。",
+      "story": {
+        "title": "👩‍👧妈妈抱抱我",
+        "body": "小兔子跑得满头大汗，不小心摔了一跤，疼得哭了起来。兔妈妈听到哭声，赶紧跑过来，蹲下来看着小兔子，轻轻问：宝贝，摔到哪里了？小兔子指着膝盖，眼泪不停地掉。妈妈把小兔子抱在怀里，吹吹膝盖，轻声唱起歌来。不哭不哭，妈妈在，妈妈抱抱就好啦。小兔子听着妈妈的歌声，感觉膝盖不那么疼了，慢慢停止了哭泣。妈妈说：来，我们回家洗洗，涂点药膏，很快就不疼了。小兔子点点头，紧紧搂着妈妈的脖子。回到家里，妈妈仔细帮小兔子清洗伤口，涂药膏，又拿来小兔子最喜欢的玩具。晚上睡觉前，妈妈念了三本故事书，小兔子在温暖的怀抱里慢慢睡着了。梦里，小兔子笑着说：妈妈真好，我最喜欢妈妈了。"
+      },
+      "knowledge": {
+        "title": "妈妈每天做什么？",
+        "body": "妈妈每天要做很多事情：做饭、洗衣服、打扫房间。妈妈还会陪我们玩游戏、教我们学东西。最重要的是，妈妈总是给我们很多爱和关心。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_mom_intro.mp3",
+        "story": "../item-audio/zh-CN/person_mom_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Mom",
+      "aloud": "/mɒm/",
+      "words": "",
+      "intro": "Mom is the person who loves us most. She cooks for us, plays with us, and reads bedtime stories to help us sleep. Mom's hug is the warmest.",
+      "story": {
+        "title": "👩‍👧Mommy Hugs Me",
+        "body": "The little rabbit was running and playing, and accidentally fell down. The rabbit cried loudly because it hurt. Mommy Rabbit heard the crying and quickly ran over. She knelt down and asked softly, Sweetie, where did you hurt yourself? The little rabbit pointed to its knee, tears rolling down. Mommy held the little rabbit in her arms, gently blew on the knee, and sang a soft song. Don't cry, don't cry, Mommy's here. A hug from Mommy will make it better. Listening to Mommy's song, the little rabbit felt the pain lessen and slowly stopped crying. Mommy said, Let's go home, wash the scratch, and put on some ointment. It won't hurt much soon. The little rabbit nodded and held tightly to Mommy's neck. Back home, Mommy carefully cleaned the wound, applied ointment, and brought the little rabbit's favorite toy. At bedtime, Mommy read three storybooks, and the little rabbit fell asleep in her warm arms. In its dream, the little rabbit smiled and said, Mommy is the best. I love Mommy the most."
+      },
+      "knowledge": {
+        "title": "What does Mom do every day?",
+        "body": "Mom does many things every day: she cooks, does laundry, and cleans the house. She also plays with us and teaches us new things. Most importantly, Mom always gives us lots of love and care."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_mom_intro.mp3",
+        "story": "../item-audio/en/person_mom_story.mp3"
+      }
+    }
+  }
+}

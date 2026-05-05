@@ -1,0 +1,96 @@
+{
+  "id": "transport_excavator",
+  "sku_id": "card_transport_excavator",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "construction_vehicle",
+      "at_worksite"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_build",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "excavator"
+    ],
+    "color": [
+      "yellow",
+      "orange",
+      "black"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "construction_site",
+      "city",
+      "road"
+    ],
+    "fuel": [
+      "diesel"
+    ],
+    "features": [
+      "bucket",
+      "track",
+      "arm"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "挖掘机",
+      "aloud": "wā jué jī",
+      "words": "excavator",
+      "intro": "挖掘机是一种大大的工程车，它有一条长长的手臂，手臂前面有一个大铲斗。挖掘机可以在工地上挖土、搬石头，是建筑工地的好帮手。",
+      "story": {
+        "title": "🚜小挖挖的忙碌一天",
+        "body": "早上，太阳公公刚露脸，小挖挖就来到了工地上。工人叔叔拍拍它说：今天我们要建一个儿童乐园哦！小挖挖高兴地挥挥大铲斗，开始挖呀挖，挖出一个大坑，那是将来要放滑梯的地方。然后它又铲起一堆堆土，堆成了一个小山坡。中午，小挖挖也不怕热，帮忙把大石头搬走，地面变得平平的。下午，它又轻轻地从卡车上卸下沙子和小石子。太阳下山了，小挖挖虽然累得手臂酸酸的，但看到坑坑洼洼的空地变成了漂亮的乐园，它开心极了，心想：明天小朋友们就能来玩了！"
+      },
+      "knowledge": {
+        "title": "挖掘机有什么用？",
+        "body": "挖掘机是建筑工地上不可缺少的机器。它可以用大铲斗挖土、铲石头，还能帮忙平整地面、拆掉旧房子。有了挖掘机，盖房子、修路就快多啦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_excavator_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_excavator_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Excavator",
+      "aloud": "/ˈɛkskəveɪtər/",
+      "words": "",
+      "intro": "An excavator is a big construction vehicle with a long arm and a bucket. It digs dirt and moves rocks on construction sites.",
+      "story": {
+        "title": "🚜The Little Excavator's Busy Day",
+        "body": "Early in the morning, when the sun peeped out, the little excavator arrived at the construction site. The worker patted it and said, Today we are going to build a children's playground! The little excavator happily waved its big bucket and began to dig. It dug a big hole for the slide. Then it scooped up piles of dirt to make a little hill. At noon, it wasn't afraid of the heat and helped move away big rocks, making the ground nice and flat. In the afternoon, it gently unloaded sand and pebbles from the truck. When the sun went down, the little excavator's arm was sore, but when it saw the empty space turn into a lovely playground, it felt so happy. It thought, Tomorrow the children will come and play!"
+      },
+      "knowledge": {
+        "title": "What does an excavator do?",
+        "body": "Excavators are essential on construction sites. They use their big bucket to dig holes, scoop up dirt and rocks, and help level the ground. They can also break old buildings. With excavators, building houses and roads is much faster!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_excavator_intro.mp3",
+        "story": "../item-audio/en/transport_excavator_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "object_fork",
+  "sku_id": "card_object_fork",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "tableware",
+      "color_white"
+    ],
+    "secondary": [
+      "at_table",
+      "can_eat_with",
+      "long"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "white",
+      "gray"
+    ],
+    "shape": [
+      "long"
+    ],
+    "material": [
+      "metal",
+      "plastic"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "school"
+    ],
+    "function": [
+      "eat_food"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "餐叉",
+      "aloud": "cān chā",
+      "words": "fork",
+      "intro": "餐叉是我们吃饭的小帮手。它有一根长长的柄，头上几个尖尖的齿，可以叉起好吃的食物送到嘴里。",
+      "story": {
+        "title": "🍴餐叉小帮手",
+        "body": "小餐叉是个热心肠，每天吃饭的时候，它都第一个跳到桌上。小主人拿起它，叉起一块金黄的鸡蛋，啊呜一口吃掉。叉起一根绿绿的青菜，嘎吱嘎吱咬。小餐叉开心极了！可是有一天，小主人想喝汤，用叉子舀呀舀，怎么也舀不起来。汤勺妹妹笑着说：让我来吧！餐叉有点难过，原来自己不是万能的。聪明的小主人摸摸它说：叉子叉固体食物最厉害，勺子负责喝汤，你们都是我的好帮手！餐叉听了，又高高兴兴地叉起一块肉肉。"
+      },
+      "knowledge": {
+        "title": "餐叉通常有几个齿？",
+        "body": "常见的餐叉有四个齿，前面尖尖的，这样更容易叉住食物。有的叉子齿更少，比如蛋糕叉只有三个齿。餐叉可以用金属、塑料或木头做成。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_fork_intro.mp3",
+        "story": "../item-audio/zh-CN/object_fork_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Fork",
+      "aloud": "/fɔːrk/",
+      "words": "",
+      "intro": "A fork is a helpful tool for eating. It has a long handle and several pointed tines at the top, which we use to pick up delicious food and bring it to our mouth.",
+      "story": {
+        "title": "🍴Little Fork Helper",
+        "body": "Little Fork was always eager to help. Every mealtime, it jumped onto the table first. Its little master would pick it up, spear a piece of golden egg, and eat it up. Then a green vegetable, crunch crunch. Little Fork was so happy! But one day, the master wanted soup and tried to scoop it with the fork, but nothing came up. Soup Spoon sister laughed and said, Let me do it! Fork felt a bit sad — it couldn’t do everything. Its clever master patted it and said, Fork is best for solid food, and spoon for soup. You are both my good helpers! Hearing that, Little Fork cheerfully speared another piece of meat."
+      },
+      "knowledge": {
+        "title": "How many tines does a fork usually have?",
+        "body": "A common fork has four tines, pointed at the ends to pick up food easily. Some forks, like cake forks, may have only three tines. Forks can be made of metal, plastic, or wood."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_fork_intro.mp3",
+        "story": "../item-audio/en/object_fork_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "flower_wisteria",
+  "sku_id": "card_flower_wisteria",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_purple",
+      "vine_flower"
+    ],
+    "secondary": [
+      "spring_flower",
+      "fragrant",
+      "in_garden"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "purple"
+    ],
+    "size": [
+      "climbing"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "yard"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "fragrant"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "紫藤花",
+      "aloud": "zǐ téng huā",
+      "words": "wisteria",
+      "intro": "紫藤花是一种会爬藤的花，花朵像一串串紫色的小蝴蝶，挂在架子上，风一吹，轻轻摇摆，还有甜甜的香味。",
+      "story": {
+        "title": "🌿小紫藤的梦",
+        "body": "院子里长出了一棵小紫藤，它细细的藤蔓刚刚冒出泥土。小紫藤抬头看到旁边有个高高的架子，上面空空的，好想去那里看风景呀！于是它开始努力往上爬，用软软的小藤蔓一圈一圈地绕住架子。春天来了，暖暖的阳光照在身上，小紫藤的藤蔓上冒出了许多小花苞。一天早上，花苞全打开了，变成一串串紫色的花，像葡萄一样垂下来。风一吹，花瓣轻轻摇，散出甜甜的香味。小蝴蝶飞来了，停在花串上荡秋千。小鸟也飞过来，在架子上唱歌。大家都很喜欢紫藤花，小紫藤开心极了，它的梦实现了！"
+      },
+      "knowledge": {
+        "title": "紫藤花为什么一串串垂下来？",
+        "body": "紫藤花许多小花长在一根长长的花轴上，像葡萄串一样。这样垂下来可以让蝴蝶和蜜蜂更容易看到，帮它传播花粉。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_wisteria_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_wisteria_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Wisteria",
+      "aloud": "/wɪˈstɪəriə/",
+      "words": "",
+      "intro": "Wisteria is a climbing plant with long clusters of purple flowers. The flowers hang down like bunches of grapes and smell very sweet.",
+      "story": {
+        "title": "🌿Little Wisteria's Dream",
+        "body": "In the corner of a yard, a little wisteria poked its tender vine out of the soil. It looked up and saw a tall trellis empty above. “I want to climb up there and see the world!” it thought. So it began to climb, wrapping its soft vine around the trellis, round and round. Spring came with warm sunshine, and little buds appeared along the vine. One morning, the buds burst open into long, purple flower clusters, hanging down like pretty wind chimes. Sweet fragrance filled the air. A butterfly came and swayed on the flowers like a swing. A bird perched on the trellis and sang happily. Everyone admired the wisteria’s beauty. Little wisteria was overjoyed—its dream had come true!"
+      },
+      "knowledge": {
+        "title": "Why do wisteria flowers hang down in clusters?",
+        "body": "Wisteria has many small flowers growing along a long stem, like a bunch of grapes. Hanging down makes them easier for butterflies and bees to spot, helping the plant spread pollen."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_wisteria_intro.mp3",
+        "story": "../item-audio/en/flower_wisteria_story.mp3"
+      }
+    }
+  }
+}

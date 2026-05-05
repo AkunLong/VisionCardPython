@@ -1,0 +1,99 @@
+{
+  "id": "plant_magnolia_tree",
+  "sku_id": "card_plant_magnolia_tree",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "color_white"
+    ],
+    "secondary": [
+      "has_trunk",
+      "has_leaf",
+      "fragrant"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "white",
+      "green",
+      "brown"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "trunk",
+      "branches",
+      "leaves",
+      "roots",
+      "flowers"
+    ],
+    "scenes": [
+      "park",
+      "garden",
+      "roadside"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "玉兰树",
+      "aloud": "yù lán shù",
+      "words": "magnolia",
+      "intro": "玉兰树开花了，白白的花瓣像小勺子，香香的。它是春天的小使者，告诉大家好天气来了。",
+      "story": {
+        "title": "🌸玉兰树的小秘密",
+        "body": "春天到了，小区里的玉兰树冒出了好多小花苞。过了几天，花苞张开，变成一朵朵白色的花，像满树的小鸽子。小朋友奇奇每天路过都要停下来看。有一天，风吹落了一片花瓣，奇奇捡起来闻了闻，好香呀！他把花瓣带回家，放在枕头边，晚上做了一个香香的梦。梦里，玉兰树变成一位穿白裙子的姐姐，她说：“谢谢你喜欢我，春天我会开更多的花！”第二天，奇奇去看玉兰树，真的又开了好多花。他开心地笑了。"
+      },
+      "knowledge": {
+        "title": "玉兰树有什么特点？",
+        "body": "玉兰树在春天开花，花朵又大又白，香气扑鼻。它是先开花后长叶的树。玉兰花可以泡茶喝，还能做点心呢！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_magnolia_tree_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_magnolia_tree_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Magnolia Tree",
+      "aloud": "/mæɡˈnoʊliə triː/",
+      "words": "",
+      "intro": "The magnolia tree blooms in spring. Its flowers are big and white, like spoons, and smell so sweet. It's a little messenger of spring.",
+      "story": {
+        "title": "🌸 The Magnolia's Secret",
+        "body": "In spring, the magnolia tree in the neighborhood grew many little buds. A few days later, the buds opened into white flowers, like little doves sitting on the branches. Every day, a child named Qiqi stopped to look at them. One windy day, a petal fell. Qiqi picked it up and smelled it—so sweet! He took it home and put it by his pillow. That night, he had a sweet dream. In the dream, the magnolia tree turned into a lady in a white dress. She said, 'Thank you for loving me. I will bloom even more in spring!' The next morning, Qiqi ran to the tree and saw even more flowers. He smiled with joy."
+      },
+      "knowledge": {
+        "title": "What is special about magnolia trees?",
+        "body": "Magnolia trees bloom in early spring with large, white, fragrant flowers. They often flower before growing leaves. Some magnolia flowers can be used to make tea and snacks!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_magnolia_tree_intro.mp3",
+        "story": "../item-audio/en/plant_magnolia_tree_story.mp3"
+      }
+    }
+  }
+}

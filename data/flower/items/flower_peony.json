@@ -1,0 +1,91 @@
+{
+  "id": "flower_peony",
+  "sku_id": "card_flower_peony",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_pink",
+      "in_garden"
+    ],
+    "secondary": [
+      "fragrant",
+      "many_petals",
+      "spring_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "pink",
+      "red",
+      "white"
+    ],
+    "size": [
+      "tall"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "balcony"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "fragrant"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "牡丹",
+      "aloud": "mǔ dān",
+      "words": "peony",
+      "intro": "牡丹是一种大大的花，花瓣一层一层的，有粉色、红色、白色，闻起来香香的。春天的时候，牡丹在花园里开得最漂亮，大家都叫它“花王”。",
+      "story": {
+        "title": "🌸小牡丹的春天",
+        "body": "冬天过去了，花园里的泥土变得暖暖的。一棵小牡丹从地里探出头来，它还是小小的花苞，穿着绿色的衣服。春风轻轻地吹，小牡丹伸了伸懒腰，喝了一口雨水。太阳公公照着它，它慢慢地长高，花苞一天比一天胖。有一天，花苞裂开了一点点，露出粉粉的花瓣。小蜜蜂飞过来说：“好香呀！”小蝴蝶也飞来看。又过了几天，花苞全部打开了，一层又一层，像公主的裙子。小牡丹变成了花园里最大最美的花，大家都围着它唱歌。小牡丹开心地说：“春天真好，我要开得大大的，让大家都快乐！”"
+      },
+      "knowledge": {
+        "title": "牡丹为什么叫花王？",
+        "body": "牡丹的花朵又大又香，花瓣很多，颜色鲜艳，看起来非常高贵。在中国，人们很久以前就喜欢牡丹，把它叫做“花中之王”，代表富贵和美丽。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_peony_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_peony_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Peony",
+      "aloud": "/ˈpiːəni/",
+      "words": "",
+      "intro": "A peony is a big flower with many layered petals in pink, red, or white. It smells sweet and blooms in spring, often called the 'king of flowers' in gardens.",
+      "story": {
+        "title": "🌸Little Peony's Spring",
+        "body": "After winter, the soil in the garden became warm. A little peony peeked out from the ground—it was still a small bud wrapped in green leaves. The spring breeze blew gently, and the little peony stretched and drank some raindrops. The sun shone on it, and it grew taller each day. The bud got rounder and rounder. One day, the bud opened a tiny crack, showing soft pink petals. A little bee flew by and buzzed, 'What a sweet smell!' A butterfly fluttered over to see. A few days later, the bud fully opened, layer after layer, like a princess’s dress. The little peony became the biggest, most beautiful flower in the garden. Everyone gathered around and sang. The peony smiled happily and said, 'Spring is so wonderful! I want to bloom big and bright to make everyone happy!'"
+      },
+      "knowledge": {
+        "title": "Why is the peony called the flower king?",
+        "body": "Peonies have large, fragrant blooms with many petals and bright colors. In China, people have loved peonies for a long time and call them the 'king of flowers' because they symbolize wealth and beauty."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_peony_intro.mp3",
+        "story": "../item-audio/en/flower_peony_story.mp3"
+      }
+    }
+  }
+}

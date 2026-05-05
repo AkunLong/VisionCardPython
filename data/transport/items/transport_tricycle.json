@@ -1,0 +1,96 @@
+{
+  "id": "transport_tricycle",
+  "sku_id": "card_transport_tricycle",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "road_vehicle",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_ride",
+      "small"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "tricycle"
+    ],
+    "color": [
+      "red",
+      "blue",
+      "green"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "road",
+      "park",
+      "home"
+    ],
+    "fuel": [
+      "human"
+    ],
+    "features": [
+      "three_wheels",
+      "pedals",
+      "handlebar"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "三轮车",
+      "aloud": "sān lún chē",
+      "words": "tricycle",
+      "intro": "三轮车是一辆有三个轮子的小车，小朋友可以用脚踩踏板，让它跑起来。它很稳，不容易摔倒，是小朋友的好伙伴。",
+      "story": {
+        "title": "🚲小三轮的一天",
+        "body": "小三轮车叫小红，每天陪小明出去玩。今天，妈妈请小明帮忙，送一盒饼干给隔壁的王奶奶。小明把饼干放进车篮里，骑上小红出发啦。路上，小红轻轻地颤了一下，但很快就稳稳地往前。经过小花园时，他们停下来，闻了闻香香的花儿。到了王奶奶家，奶奶接过饼干，高兴得眼睛眯成了月牙，还给了小明一个大苹果。小明把苹果也放进车篮，和小红开开心心回了家。晚上，小红在院子里休息，梦里还在叮铃铃地响着铃铛，好想明天再去冒险呀！"
+      },
+      "knowledge": {
+        "title": "为什么三轮车很稳呢？",
+        "body": "三轮车有三个轮子，像一个小三角形，所以不容易歪倒。小朋友学骑车，从三轮车开始，又安全又有趣。骑三轮车还能锻炼腿力，让身体更棒哦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_tricycle_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_tricycle_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Tricycle",
+      "aloud": "/ˈtraɪsɪkl/",
+      "words": "",
+      "intro": "A tricycle is a small vehicle with three wheels. Children push the pedals with their feet to make it go. It is very stable and doesn't tip over easily, making it a great friend for kids.",
+      "story": {
+        "title": "🚲 Little Red Tricycle's Day",
+        "body": "Little Red is a tricycle. Every day, she goes out with her friend, Xiao Ming. One morning, Xiao Ming's mom asked him to deliver a box of cookies to Granny Wang next door. Xiao Ming put the cookies in the basket and pedaled Little Red. The tricycle wobbled a little at first but then went smoothly. They passed a garden with pretty flowers. Xiao Ming stopped to smell them. Then they continued to Granny Wang's house. Granny was very happy and gave Xiao Ming a big red apple. Xiao Ming and Little Red went home, feeling proud. At night, Little Red rested in the yard, dreaming about tomorrow's adventure."
+      },
+      "knowledge": {
+        "title": "Why is a tricycle so stable?",
+        "body": "A tricycle has three wheels, forming a triangle shape, so it doesn't fall over easily. When children learn to ride, starting with a tricycle is safe and fun. Riding a tricycle also exercises leg muscles and makes you stronger."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_tricycle_intro.mp3",
+        "story": "../item-audio/en/transport_tricycle_story.mp3"
+      }
+    }
+  }
+}

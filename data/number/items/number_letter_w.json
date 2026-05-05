@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_w",
+  "sku_id": "card_number_w",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "two_digit",
+      "odd_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "medium_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 23,
+    "is_even": false,
+    "is_prime": true,
+    "ordinal": "23rd",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母W",
+      "aloud": "zì mǔ W",
+      "words": "water",
+      "intro": "W是字母表里第23个字母，它也是一个数字朋友哦！23是比22多1的数，它是个单数，很特别吧？",
+      "story": {
+        "title": "🔤W和它的数字朋友23",
+        "body": "高高的字母山上，住着字母W和数字23。W长得像两座小山，23圆圆的像个可爱的小鸭子。W说：“我是第23个字母，我的数字朋友就是23！”23高兴地拍拍手：“我刚好是单数，而且是质数呢！”它们手拉手，一起数数：1、2、3……一直数到23。W说：“数到23真开心，就像我两座小山抱在一起！”小朋友，你也来数一数，找到生活中的23吧。"
+      },
+      "knowledge": {
+        "title": "W为什么是第23个字母？",
+        "body": "字母表里有很多字母，大家排排队。A排第1，B排第2，一直排到W，刚好是第23个。23是一个有趣的数字，它是单数，也叫做质数，只能被1和自己除。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_w_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_w_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Letter W",
+      "aloud": "/ˈdʌbəl.juː/",
+      "words": "",
+      "intro": "W is the 23rd letter of the alphabet, and it also has a number friend! 23 comes after 22, and it is an odd number. Isn't that special?",
+      "story": {
+        "title": "🔤W and Its Number Friend 23",
+        "body": "On Alphabet Mountain live Letter W and Number 23. W looks like two little hills, and 23 is round like a cute duckling. W says, 'I am the 23rd letter, so my number friend is 23!' 23 claps happily, 'I am an odd number and a prime number too!' They hold hands and count together: 1, 2, 3... all the way to 23. W says, 'Counting to 23 is so much fun, just like my two hills hugging!' Little one, let's count and find 23 in life."
+      },
+      "knowledge": {
+        "title": "Why is W the 23rd letter?",
+        "body": "In the alphabet, all letters line up. A is first, B is second, and when we reach W, it's the 23rd. 23 is a fun number: it's odd and a prime number, which means it can only be divided by 1 and itself."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_w_intro.mp3",
+        "story": "../item-audio/en/number_letter_w_story.mp3"
+      }
+    }
+  }
+}

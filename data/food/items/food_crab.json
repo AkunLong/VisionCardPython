@@ -1,0 +1,88 @@
+{
+  "id": "food_crab",
+  "sku_id": "card_food_crab",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "seafood",
+      "color_red",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "at_meal",
+      "hot_food"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "seafood"
+    ],
+    "color": [
+      "red"
+    ],
+    "taste": [
+      "salty"
+    ],
+    "temperature": [
+      "hot"
+    ],
+    "scenes": [
+      "home",
+      "restaurant"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "螃蟹",
+      "aloud": "páng xiè",
+      "words": "crab",
+      "intro": "螃蟹是一种美味的海鲜，红红的壳，白白的肉，吃起来鲜鲜嫩嫩的，是很多人喜欢的大餐哦！",
+      "story": {
+        "title": "🦀红螃蟹来做客",
+        "body": "今天，家里来了几位特别的客人——几只红彤彤的大螃蟹。小乐第一次见到螃蟹，吓得躲到妈妈身后。妈妈牵着小乐的手，轻轻摸了摸螃蟹的壳，说：别怕，螃蟹是来和我们一起享用晚餐的。它们穿着红铠甲，举着两只大钳子，横着走路的样子多神气呀！妈妈把螃蟹放进锅里蒸熟，香喷喷的味道飘满了厨房。小乐尝了一口蟹肉，眼睛亮了起来：软软的、甜甜的，好像大海的味道！妈妈说：是啊，螃蟹是大海给我们的礼物，我们要好好品尝，不浪费每一口。小乐点点头，把盘子里的蟹肉吃得干干净净，还学螃蟹横着走了几步，逗得全家人哈哈大笑。"
+      },
+      "knowledge": {
+        "title": "螃蟹有什么特别的地方？",
+        "body": "螃蟹属于甲壳类动物，全身有硬硬的壳保护。它生活在水中，用鳃呼吸，横着走路是它最大的特点。煮熟后会变成漂亮的红色。蟹肉富含蛋白质，小朋友可以适量吃哦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_crab_intro.mp3",
+        "story": "../item-audio/zh-CN/food_crab_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Crab",
+      "aloud": "/kræb/",
+      "words": "",
+      "intro": "Crab is a delicious seafood. It has a red shell and white, tender meat. It's a special dish that many people enjoy!",
+      "story": {
+        "title": "🦀The Red Crab Guests",
+        "body": "Today, some special guests came to our home — several big red crabs. Xiao Le saw a crab for the first time and hid behind his mom. Mom took his hand and gently touched the crab's shell: Don't be afraid! The crabs are here to enjoy dinner with us. They wear red armor, wave two big claws, and walk sideways — so cool! Mom steamed the crabs, and a yummy smell filled the kitchen. Xiao Le took a bite of crab meat and his eyes lit up: It's so soft and sweet, tastes like the ocean! Mom said: Yes, crabs are a gift from the sea. We should enjoy every bite and not waste any. Xiao Le nodded, finished all the crab meat on his plate, and even walked sideways like a crab, making the whole family laugh."
+      },
+      "knowledge": {
+        "title": "What is special about crabs?",
+        "body": "Crabs are crustaceans with a hard shell to protect their body. They live in water, breathe with gills, and walk sideways. Their shell turns bright red when cooked. Crab meat is rich in protein and good for kids to eat in moderation."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_crab_intro.mp3",
+        "story": "../item-audio/en/food_crab_story.mp3"
+      }
+    }
+  }
+}

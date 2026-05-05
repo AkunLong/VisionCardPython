@@ -1,0 +1,98 @@
+{
+  "id": "plant_monstera",
+  "sku_id": "card_plant_monstera",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "color_green",
+      "big_leaf"
+    ],
+    "secondary": [
+      "has_leaf",
+      "potted_plant",
+      "at_home"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "vine"
+    ],
+    "color": [
+      "green"
+    ],
+    "size": [
+      "medium"
+    ],
+    "parts": [
+      "leaves",
+      "stems",
+      "aerial roots",
+      "roots"
+    ],
+    "scenes": [
+      "at_home",
+      "in_garden",
+      "in_forest"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "龟背竹",
+      "aloud": "guī bèi zhú",
+      "words": "monstera",
+      "intro": "龟背竹的叶子大大的，像一把把绿色的小伞。叶子上有好多小洞洞，好像乌龟背上的花纹，真有趣！",
+      "story": {
+        "title": "🌿小龟背竹的新家",
+        "body": "小美生日那天，妈妈送给她一盆小小的龟背竹。小美把它放在窗台上，每天给它浇水。龟背竹慢慢长出了新叶子。起初，叶子是爱心形状的，绿油油的。后来，叶子越长越大，上面出现了一个个小洞洞。小美好奇地问妈妈：“为什么叶子上有洞洞呀？”妈妈笑着说：“那是龟背竹的衣裳，风儿从洞里吹过，它就不怕大风啦！”小美觉得好神奇。日子一天天过去，龟背竹长得更高了，叶子像大象的耳朵。小美最爱和它说悄悄话，她觉得龟背竹是她最好的植物朋友。"
+      },
+      "knowledge": {
+        "title": "龟背竹的小秘密",
+        "body": "龟背竹的叶子像乌龟的背，所以叫龟背竹。它能吸收空气中的有害气体，让室内空气变得清新。养在家里特别好看，还能保护我们的健康。它喜欢温暖湿润的地方，不要让它晒大太阳哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_monstera_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_monstera_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Monstera",
+      "aloud": "/mɒnˈstɪərə/",
+      "words": "",
+      "intro": "Monstera has big, green leaves with lots of holes. It looks like a turtle's shell, so cute and funny!",
+      "story": {
+        "title": "🌿Little Monstera's New Home",
+        "body": "On her birthday, Mei got a small Monstera from her mom. She put it on the windowsill and watered it every day. Slowly, new leaves grew. At first, they were heart-shaped and bright green. Then the leaves got bigger and holes appeared. Mei asked her mom, 'Why are there holes in the leaves?' Mom smiled, 'Those are like clothes for the Monstera. When the wind blows through the holes, the plant doesn't get knocked over!' Mei thought it was magical. As days passed, the Monstera grew taller, with leaves like elephant ears. Mei loved to whisper secrets to it. It was her best plant friend."
+      },
+      "knowledge": {
+        "title": "Little Secrets of Monstera",
+        "body": "Monstera leaves have holes like a turtle's shell. It can clean the air by taking in bad gases. It is a lovely houseplant that is easy to care for and makes your home beautiful. It likes warm and humid places, and no strong sunlight."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_monstera_intro.mp3",
+        "story": "../item-audio/en/plant_monstera_story.mp3"
+      }
+    }
+  }
+}

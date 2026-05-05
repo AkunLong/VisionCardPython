@@ -1,0 +1,90 @@
+{
+  "id": "food_fruit_tea",
+  "sku_id": "card_food_fruit_tea",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "drink",
+      "sweet",
+      "color_orange"
+    ],
+    "secondary": [
+      "cold_food",
+      "at_party",
+      "smooth"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "drink"
+    ],
+    "color": [
+      "orange"
+    ],
+    "taste": [
+      "sweet",
+      "sour"
+    ],
+    "temperature": [
+      "cold"
+    ],
+    "scenes": [
+      "home",
+      "party",
+      "picnic"
+    ],
+    "is_edible": false,
+    "is_drinkable": true,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "果茶",
+      "aloud": "guǒ chá",
+      "words": "fruit tea",
+      "intro": "果茶是五颜六色的水果泡出来的饮料，甜丝丝、凉丝丝，喝一口满嘴都是水果的香味。它又好看又好喝，是小朋友夏天最爱的饮品。",
+      "story": {
+        "title": "🍊好喝的果茶",
+        "body": "夏天的午后，天气好热呀。朵朵坐在窗边，小脸红扑扑的。妈妈端着两杯果茶走过来，一杯是橙色的，一杯是粉色的。朵朵眼睛一亮：“妈妈，这是什么呀？”妈妈笑着说：“这是果茶，用新鲜水果泡的哦。橙色的是橙子茶，粉色的是草莓茶，你尝尝。”朵朵先喝了一口橙子茶，酸酸甜甜的，还带着橙子的清香。她又尝了草莓茶，甜丝丝的，像在吃草莓糖。朵朵开心地拍手：“果茶真好喝，比果汁还有趣！”妈妈告诉她，果茶里没有多余的糖，是水果自己的甜味，很健康。朵朵记住了，从那以后，她常常和妈妈一起用水果做果茶，还会邀请小伙伴来家里开果茶派对呢！"
+      },
+      "knowledge": {
+        "title": "果茶是怎样做的？",
+        "body": "选喜欢的水果，比如橙子、草莓或百香果，切成小块，放入茶壶，加入温水或凉水，轻轻搅一搅，等水果的味道跑到水里，再倒进杯子，加些冰块，好喝的果茶就完成啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_fruit_tea_intro.mp3",
+        "story": "../item-audio/zh-CN/food_fruit_tea_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Fruit Tea",
+      "aloud": "/fruːt tiː/",
+      "words": "",
+      "intro": "Fruit tea is a colorful drink made with fresh fruit. It’s sweet, a little cool, and smells so fruity. It looks pretty and tastes yummy — a perfect summer treat for kids.",
+      "story": {
+        "title": "🍊Yummy Fruit Tea",
+        "body": "On a hot summer afternoon, Duoduo sat by the window, her cheeks all pink from the heat. Mom came over with two cups of fruit tea: one orange, one pink. Duoduo’s eyes lit up. “Mom, what’s this?” she asked. Mom smiled, “It’s fruit tea, made with fresh fruit. The orange one is orange tea, the pink one is strawberry tea. Try some.” Duoduo took a sip of the orange tea — it was tangy and sweet, with a fresh orange smell. Then she tried the strawberry tea, which was sweet and felt like eating strawberry candy. Duoduo clapped happily, “Fruit tea is so yummy, even more fun than juice!” Mom told her that fruit tea has no extra sugar, just the natural sweetness of fruit, so it’s healthy. Duoduo never forgot, and from that day on, she often made fruit tea with Mom and invited friends over for fruit tea parties!"
+      },
+      "knowledge": {
+        "title": "How is fruit tea made?",
+        "body": "Choose your favorite fruits like oranges, strawberries, or passion fruit. Cut them into small pieces, put them in a teapot, add warm or cool water, and stir gently. When the fruity flavor gets into the water, pour it into a cup and add some ice. Then you have a delicious fruit tea!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_fruit_tea_intro.mp3",
+        "story": "../item-audio/en/food_fruit_tea_story.mp3"
+      }
+    }
+  }
+}

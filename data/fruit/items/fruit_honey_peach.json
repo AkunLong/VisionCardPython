@@ -1,0 +1,87 @@
+{
+  "id": "fruit_honey_peach",
+  "sku_id": "card_fruit_honey_peach",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_pink",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "juicy",
+      "sweet",
+      "soft"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "pink"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sweet",
+      "juicy"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "水蜜桃",
+      "aloud": "shuǐ mì táo",
+      "words": "peach",
+      "intro": "水蜜桃是一种粉红色的水果，形状圆圆的，摸起来软软的，吃起来甜甜多汁。它含有丰富的营养，可以帮助小朋友健康长大。",
+      "story": {
+        "title": "🐒小猴子的水蜜桃",
+        "body": "夏天到了，果园里的水蜜桃熟了。小猴子来到果园，看见树上挂着粉嘟嘟的水蜜桃。桃子圆圆的，软软的，闻起来香香的。“一定很好吃！”小猴子小心地把桃子摘下来，先用清水洗一洗，然后轻轻咬了一口。“真甜呀！”桃子的汁水又多又甜，小猴子开心地眯起了眼睛。可是，小猴子想到奶奶还没吃过这么甜的桃子。它把桃子留了一半，带回家给奶奶吃。奶奶接过桃子，笑着说：“真是个好孩子！”小猴子觉得，和奶奶一起分享，桃子变得更甜了。"
+      },
+      "knowledge": {
+        "title": "水蜜桃为什么叫水蜜桃？",
+        "body": "水蜜桃的名字里有个“蜜”字，因为它成熟后非常甜，像蜜一样。而且水蜜桃的汁水很丰富，咬一口就会流出甜甜的果汁，所以叫水蜜桃。它通常在夏天成熟，天气越热，桃子越甜。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_honey_peach_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_honey_peach_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Peach",
+      "aloud": "/piːtʃ/",
+      "words": "",
+      "intro": "A peach is a pink, oval fruit that feels soft and tastes sweet and juicy. It’s packed with nutrients that help children grow up healthy.",
+      "story": {
+        "title": "🐒The Little Monkey's Peach",
+        "body": "Summer arrived, and the peaches in the orchard were ripe. The little monkey came to the orchard and saw pink, soft peaches hanging on the tree. The peaches were round, soft, and smelled sweet. “They must be delicious!” The little monkey carefully picked a peach, washed it with clean water, and then took a gentle bite. “So sweet!” The peach was juicy and sweet, and the little monkey smiled happily. But the little monkey remembered that Grandma hadn’t tasted such sweet peaches yet. So he saved half of the peach and brought it home for Grandma. Grandma took the peach and smiled, “You are such a good child!” The little monkey felt that sharing with Grandma made the peach even sweeter."
+      },
+      "knowledge": {
+        "title": "Why is it called honey peach?",
+        "body": "The honey peach gets its name because it is very sweet, like honey. It is also very juicy, so when you bite into it, sweet juice flows out. Honey peaches usually ripen in the summer, and the hotter the weather, the sweeter they become."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_honey_peach_intro.mp3",
+        "story": "../item-audio/en/fruit_honey_peach_story.mp3"
+      }
+    }
+  }
+}

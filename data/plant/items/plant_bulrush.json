@@ -1,0 +1,98 @@
+{
+  "id": "plant_bulrush",
+  "sku_id": "card_plant_bulrush",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "aquatic_plant",
+      "color_green"
+    ],
+    "secondary": [
+      "in_water",
+      "has_fruit",
+      "long_leaf"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "grass"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "roots",
+      "stems",
+      "leaves",
+      "seed_head"
+    ],
+    "scenes": [
+      "pond",
+      "marsh",
+      "riverbank"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "蒲棒草",
+      "aloud": "pú bàng cǎo",
+      "words": "bulrush",
+      "intro": "蒲棒草长在水边，叶子又长又绿。它有一个毛茸茸的棕色蒲棒，像一根小棒棒，风一吹，毛绒飞飞，可好玩了。",
+      "story": {
+        "title": "🌾蒲棒草的快乐夏天",
+        "body": "池塘边有一丛蒲棒草，叶子细细长长的，随风摇摆。夏天到了，蒲棒草长出了毛茸茸的褐色蒲棒，一根根立在枝头，像一个个小话筒。小蜻蜓飞来，停在蒲棒上休息，说：“这里真好呀！”小鸭子游过来，用嘴巴轻轻碰了碰蒲棒，绒毛飘起来，像一朵朵小棉花。一个小女孩跑过来，伸手摸了摸，软软的，痒痒的，她咯咯笑起来。风来了，蒲棒草的绒毛飞向远方，带着种子去旅行。蒲棒草看着快乐的朋友们，心里暖暖的。秋天，蒲棒成熟了，孩子们摘下来玩，你一根我一根，开心极了。蒲棒草想：和大家在一起，每天都是好日子。"
+      },
+      "knowledge": {
+        "title": "蒲棒草有什么秘密？",
+        "body": "蒲棒草喜欢住在水边，它的根可以净化水，让池塘更干净。它的蒲棒里有很多小种子，风一吹，种子飞走，明年长出新的蒲棒草。它的叶子还可以做绳子呢！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_bulrush_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_bulrush_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Bulrush",
+      "aloud": "/ˈbʊlrʌʃ/",
+      "words": "",
+      "intro": "A bulrush grows by the water, with long green leaves. It has a fluffy brown seed head like a little wand. When the wind blows, the fluff flies away. So fun!",
+      "story": {
+        "title": "🌾The Bulrush's Happy Summer",
+        "body": "By the pond, there was a clump of bulrushes with long, slender leaves swaying in the breeze. In summer, fluffy brown seed heads grew on top, like little microphones. A dragonfly flew over and rested on one. “This is so nice!” it said. A duckling swam up and gently touched the seed head with its beak. The fluff puffed up and floated away like tiny cotton balls. A little girl came and reached out to touch it. Soft and tickly! She giggled with joy. The wind blew, sending the fluff far away, carrying seeds on a journey. The bulrush watched all its happy friends and felt warm inside. In autumn, the seed heads were ripe. Children picked them and played, each holding one, laughing together. The bulrush thought: Every day is a good day when we are together."
+      },
+      "knowledge": {
+        "title": "What are bulrushes good for?",
+        "body": "Bulrushes live by the water. Their roots help clean the pond. The fluffy seed heads hold tiny seeds that fly away in the wind to grow new bulrushes. Their leaves can even be used to make ropes!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_bulrush_intro.mp3",
+        "story": "../item-audio/en/plant_bulrush_story.mp3"
+      }
+    }
+  }
+}

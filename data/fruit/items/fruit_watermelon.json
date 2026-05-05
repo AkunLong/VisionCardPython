@@ -1,0 +1,87 @@
+{
+  "id": "fruit_watermelon",
+  "sku_id": "card_fruit_watermelon",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_green",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sweet",
+      "vine_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "juicy"
+    ],
+    "scenes": [
+      "vine",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "西瓜",
+      "aloud": "xī guā",
+      "words": "watermelon",
+      "intro": "西瓜是一种又大又圆的水果，穿着绿色的外衣，里面是红红的果肉，吃起来甜甜的、汁水很多。它是夏天最受欢迎的水果之一，可以帮助我们解渴。",
+      "story": {
+        "title": "🐸小青蛙的西瓜",
+        "body": "炎热的夏天到了，小青蛙在瓜田边跳来跳去。它发现一个又大又绿的西瓜，圆滚滚的，像一个大皮球。小青蛙想，这个西瓜一定很甜。它请小猴子帮忙，把西瓜滚到河边。大家用河水把西瓜洗得干干净净，然后切开一看，红红的瓤露了出来，黑黑的籽像小眼睛。“好香呀！”小青蛙、小猴子和小兔子都围了过来。他们一人一块，咬了一口，甜甜的西瓜汁立刻充满了嘴巴。“真甜，真凉快！”大家开心极了。吃完西瓜，小青蛙把黑色的籽收集起来，说：“我们把籽种在土里，明年就能长出好多好多的西瓜啦！”大家拍手叫好，一起在瓜田里挖土、播种，期待明年的大丰收。"
+      },
+      "knowledge": {
+        "title": "西瓜是怎么长大的？",
+        "body": "西瓜喜欢温暖的地方，藤蔓趴在地上生长，开出黄色的小花后，就会结出小小的果实。在充足的阳光下，西瓜越长越大，慢慢变甜。我们吃的红瓤是它的果肉，黑黑的籽是它的种子，可以种出新的西瓜。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_watermelon_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_watermelon_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Watermelon",
+      "aloud": "/ˈwɔːtərmɛlən/",
+      "words": "",
+      "intro": "Watermelon is a large and round fruit with a green rind and red, juicy flesh. It is sweet and refreshing, perfect for hot summer days.",
+      "story": {
+        "title": "🐸The Little Frog's Watermelon",
+        "body": "On a hot summer day, the little frog hopped around a watermelon patch. It found a big, green watermelon, round like a ball. The little frog thought it must be very sweet. It asked the little monkey to help roll the watermelon to the river. They washed it clean with river water, then cut it open. The red flesh appeared, with black seeds like tiny eyes. “It smells so good!” The little frog, the little monkey, and the little rabbit all gathered around. They each took a slice and bit into it. The sweet juice filled their mouths. “So sweet and cool!” They were all very happy. After eating, the little frog collected the black seeds and said, “Let’s plant them in the soil. Next year, we will have many watermelons!” Everyone clapped and cheered. Together they dug and planted, looking forward to a big harvest next year."
+      },
+      "knowledge": {
+        "title": "How do watermelons grow?",
+        "body": "Watermelons grow on vines that spread along the ground. They need warmth and plenty of sunlight to become big and sweet. The red part we eat is the flesh, and the black seeds can be planted to grow new watermelons."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_watermelon_intro.mp3",
+        "story": "../item-audio/en/fruit_watermelon_story.mp3"
+      }
+    }
+  }
+}

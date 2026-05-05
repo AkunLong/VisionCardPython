@@ -1,0 +1,94 @@
+{
+  "id": "transport_seat_belt",
+  "sku_id": "card_transport_seat_belt",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "safety_item",
+      "vehicle_part"
+    ],
+    "secondary": [
+      "safe",
+      "on_road",
+      "small"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "car"
+    ],
+    "color": [
+      "black",
+      "red",
+      "blue"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "car",
+      "road",
+      "seat"
+    ],
+    "fuel": [],
+    "features": [
+      "safety",
+      "buckle",
+      "strap"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "安全带",
+      "aloud": "ān quán dài",
+      "words": "seat belt",
+      "intro": "安全带是一种长长的带子，坐在汽车里的时候，我们要把它系好，保护我们不受伤。",
+      "story": {
+        "title": "🔒小安全带的一天",
+        "body": "小安全带住在小汽车里，每天小主人上车第一件事就是“咔哒”一下把它扣好。一天，小主人着急去公园，忘了系安全带。小安全带轻轻提醒：“别忘了哦，系上我才安全。”小主人赶紧系上，小安全带开心地笑了。路上遇到急刹车，小安全带紧紧抱住小主人，没让他撞到。小主人说：“谢谢你，小安全带！”小安全带心里暖暖的。晚上，小主人下车回家，小安全带安静地待在座位上，等着明天再保护他。"
+      },
+      "knowledge": {
+        "title": "为什么乘车要系安全带？",
+        "body": "当我们坐车时，如果车子突然停下来，我们的身体会向前冲。安全带可以把我们稳稳地固定在座位上，像一双大手抱住我们，防止我们受伤。所以只要坐车，一定要系好安全带哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_seat_belt_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_seat_belt_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Seat Belt",
+      "aloud": "/siːt bɛlt/",
+      "words": "",
+      "intro": "A seat belt is a long strap that we fasten when we ride in a car. It keeps us safe and holds us tight in our seat.",
+      "story": {
+        "title": "🔒 The Little Seat Belt's Day",
+        "body": "The little seat belt lives in the car. Every day, the first thing the little owner does is click it into place. One day, the little owner was in a hurry to go to the park and forgot to buckle up. The little seat belt gently reminded him, 'Don't forget! Buckle me up to stay safe.' The little owner quickly fastened it, and the seat belt smiled happily. On the road, there was a sudden brake. The seat belt held the little owner tight and didn't let him bump into anything. The little owner said, 'Thank you, little seat belt!' The seat belt felt warm inside. At night, the little owner went home. The seat belt rested quietly on the seat, waiting to protect him again tomorrow."
+      },
+      "knowledge": {
+        "title": "Why do we wear a seat belt in the car?",
+        "body": "When the car stops suddenly, our body wants to keep moving forward. The seat belt holds us firmly in our seat, like a big hug, so we don't get hurt. Always put on your seat belt when you ride in a car!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_seat_belt_intro.mp3",
+        "story": "../item-audio/en/transport_seat_belt_story.mp3"
+      }
+    }
+  }
+}

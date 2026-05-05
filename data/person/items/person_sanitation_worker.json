@@ -1,0 +1,93 @@
+{
+  "id": "person_sanitation_worker",
+  "sku_id": "card_person_sanitation_worker",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "on_road"
+    ],
+    "secondary": [
+      "adult",
+      "clean",
+      "public_service"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "sanitation_worker"
+    ],
+    "workplace": [
+      "street",
+      "road"
+    ],
+    "tools": [
+      "broom",
+      "dustpan",
+      "trash_bag"
+    ],
+    "clothing": [
+      "uniform",
+      "safety_vest"
+    ],
+    "actions": [
+      "sweep",
+      "clean",
+      "collect"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "环卫工人",
+      "aloud": "huán wèi gōng rén",
+      "words": "street cleaner",
+      "intro": "环卫工人是城市的美容师。每天天还没亮，他们就拿着大扫帚，把街道打扫得干干净净。",
+      "story": {
+        "title": "🧹勤劳的环卫工人",
+        "body": "清晨，小猫咪推开窗户，看见一位穿橙色衣服的叔叔在扫地。刷刷刷，大扫帚把落叶和纸屑聚成小堆。小猫咪好奇地问：叔叔，你为什么要起这么早呀？环卫工人笑着说：等大家起床时，街道就变漂亮啦！小猫咪说：谢谢你，我也要爱护环境，不乱扔垃圾。叔叔摸摸它的头说：你真是个懂事的孩子。"
+      },
+      "knowledge": {
+        "title": "环卫工人用什么工具？",
+        "body": "环卫工人有大扫帚、簸箕和垃圾袋。大扫帚能扫起落叶和灰尘，簸箕用来装垃圾，垃圾袋把垃圾分类收集。他们有时还推着清洁车，工作很辛苦呢。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_sanitation_worker_intro.mp3",
+        "story": "../item-audio/zh-CN/person_sanitation_worker_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Street Cleaner",
+      "aloud": "/striːt ˈkliːnər/",
+      "words": "",
+      "intro": "A street cleaner helps make our city beautiful. Before the sun rises, they use big brooms to sweep the streets clean.",
+      "story": {
+        "title": "🧹The Hardworking Street Cleaner",
+        "body": "Early in the morning, Little Kitty opened the window and saw an uncle in an orange vest sweeping the road. Swish, swish, the big broom gathered fallen leaves and bits of paper into neat piles. Little Kitty asked, Uncle, why do you get up so early? The street cleaner smiled and said, So that when everyone wakes up, the streets will be nice and clean. Little Kitty said, Thank you! I will also take care of the environment and not litter. The uncle patted its head and said, You are such a thoughtful child."
+      },
+      "knowledge": {
+        "title": "What tools do street cleaners use?",
+        "body": "Street cleaners use a big broom, a dustpan, and trash bags. The broom sweeps up leaves and dust, the dustpan collects the trash, and the bags help sort waste. Sometimes they push a cleaning cart. Their work is hard but important."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_sanitation_worker_intro.mp3",
+        "story": "../item-audio/en/person_sanitation_worker_story.mp3"
+      }
+    }
+  }
+}

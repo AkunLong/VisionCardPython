@@ -1,0 +1,96 @@
+{
+  "id": "transport_recycling_truck",
+  "sku_id": "card_transport_recycling_truck",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "special_vehicle",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_carry_goods",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "recycling_truck"
+    ],
+    "color": [
+      "white",
+      "green"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "road",
+      "neighborhood",
+      "recycling_center"
+    ],
+    "fuel": [
+      "diesel",
+      "electricity"
+    ],
+    "features": [
+      "wheels",
+      "lifts_bins",
+      "compactor"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "回收车",
+      "aloud": "huí shōu chē",
+      "words": "recycling truck",
+      "intro": "回收车是一种大卡车，它负责把我们家门口的可回收物品收走，送到回收厂。它有的大大的后斗，可以把旧报纸、塑料瓶、玻璃瓶都装起来。",
+      "story": {
+        "title": "🚛回收车的奇妙一天",
+        "body": "天亮了，大绿回收车出发啦！它来到小美家门口，看到一袋报纸，大绿伸出长长的胳膊，轻轻一抬就把报纸吃进肚子里。接着，它来到小明家，小明把塑料瓶和玻璃瓶分开放好，大绿高兴地都收走了。路边有个易拉罐，大绿也小心地捡起来。大绿装满肚子，开到了回收厂。那里的机器把东西分成一堆一堆：纸张变新纸，塑料变新瓶子，玻璃变新玻璃。大绿觉得好神奇，虽然工作有点辛苦，但能让地球妈妈更干净，它真开心！傍晚，大绿回到了家，安静地休息，准备明天再出发。"
+      },
+      "knowledge": {
+        "title": "为什么要回收？",
+        "body": "回收能把旧东西变成新东西，这样我们就不用总是砍树、挖矿，地球的资源可以更久地用下去。而且，把废物回收再利用，垃圾就会减少，环境更干净、更美丽。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_recycling_truck_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_recycling_truck_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Recycling Truck",
+      "aloud": "/rɪˈsaɪklɪŋ trʌk/",
+      "words": "",
+      "intro": "A recycling truck is a big truck that collects recyclable things like paper, plastic, and glass from homes. It takes them to a recycling center to be made into new things.",
+      "story": {
+        "title": "🚛The Big Green Truck’s Wonderful Day",
+        "body": "When the sun came up, the big green recycling truck set off! First, it stopped at Lily's house and saw a bag of newspapers. It stretched out its long arm, lifted the bag, and gobbled it into its big belly. Then, at Tom's house, Tom had sorted his plastic bottles and glass jars. The truck happily collected them all. On the road, it spotted a lone can and carefully picked it up too. When its belly was full, it drove to the recycling center. Inside, machines sorted everything: paper into new paper, plastic into new bottles, glass into new glass. The truck watched in wonder. It was a hard day’s work, but making the Earth cleaner made it so happy! As evening came, the big green truck returned home, resting quietly to get ready for another day."
+      },
+      "knowledge": {
+        "title": "Why should we recycle?",
+        "body": "Recycling turns old things into new things, so we don’t have to cut down as many trees or dig up more materials. It also reduces trash and keeps our environment clean and beautiful."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_recycling_truck_intro.mp3",
+        "story": "../item-audio/en/transport_recycling_truck_story.mp3"
+      }
+    }
+  }
+}

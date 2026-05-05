@@ -1,0 +1,97 @@
+{
+  "id": "transport_spaceship",
+  "sku_id": "card_transport_spaceship",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "space_transport",
+      "special_vehicle"
+    ],
+    "secondary": [
+      "can_fly",
+      "big",
+      "has_engine"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "spaceship"
+    ],
+    "color": [
+      "white",
+      "black",
+      "blue"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "space",
+      "sky",
+      "launch_pad"
+    ],
+    "fuel": [
+      "rocket_fuel",
+      "liquid_fuel"
+    ],
+    "features": [
+      "can_fly",
+      "has_engine",
+      "windows"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "飞船",
+      "aloud": "fēi chuán",
+      "words": "spaceship",
+      "intro": "飞船是一种特别的交通工具，它有大大的身体，能飞到高高的太空中，带宇航员去看星星和月亮。",
+      "story": {
+        "title": "🚀小飞船的太空旅行",
+        "body": "小飞船亮亮第一次飞上太空，他好兴奋！喷出白色的烟雾，“嗖”的一下就离开了地面。飞呀飞，他看到了圆圆的月亮，亮亮的星星。一颗小星星朝他眨眼睛，说：“你好呀，亮亮！”亮亮开心地转了个圈。他继续飞，看见宇航员叔叔在太空站挥手。亮亮稳稳地停靠过去，让叔叔进来休息。亮亮说：“太空真美，我要带更多小朋友来看！”回到地球后，他安安静静地躺在发射塔上，梦见自己又飞向了更远的星球。"
+      },
+      "knowledge": {
+        "title": "飞船是怎么飞上天的？",
+        "body": "飞船下面有巨大的火箭，点火后喷出很强的火焰，把飞船推上天空。飞船上还有厚厚的保护层，不怕热。它能飞到没有空气的太空，带我们去看地球以外的世界。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_spaceship_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_spaceship_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Spaceship",
+      "aloud": "/ˈspeɪsʃɪp/",
+      "words": "",
+      "intro": "A spaceship is a special vehicle that can fly into space. It takes astronauts to see the stars and the moon.",
+      "story": {
+        "title": "🚀Little Spaceship's Space Trip",
+        "body": "Little spaceship Bright was so excited for his first space trip! With white smoke puffing out, he shot off the ground. He flew and flew, seeing the round moon and bright stars. A tiny star winked at him and said, Hello, Bright! Bright did a happy little spin. He flew on and saw an astronaut waving from the space station. Bright docked gently so the astronaut could come inside to rest. Bright said, Space is so beautiful! I want to bring more kids to see it! Back on Earth, he lay quietly on the launch pad, dreaming of flying to even farther planets."
+      },
+      "knowledge": {
+        "title": "How does a spaceship fly?",
+        "body": "A spaceship has big rockets underneath. They fire hot flames to push the spaceship up into the sky. The spaceship has strong shields to stay safe from the heat. It can travel to space, where there is no air, and show us worlds beyond Earth."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_spaceship_intro.mp3",
+        "story": "../item-audio/en/transport_spaceship_story.mp3"
+      }
+    }
+  }
+}

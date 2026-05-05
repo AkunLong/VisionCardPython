@@ -1,0 +1,92 @@
+{
+  "id": "vegetable_bok_choy",
+  "sku_id": "card_vegetable_bok_choy",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "leafy_vegetable"
+    ],
+    "secondary": [
+      "crisp",
+      "healthy",
+      "in_garden"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "leafy"
+    ],
+    "taste": [
+      "crisp",
+      "sweet"
+    ],
+    "grow_location": [
+      "above ground",
+      "garden"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "小青菜",
+      "aloud": "xiǎo qīng cài",
+      "words": "bok choy",
+      "intro": "小青菜是一种绿色的蔬菜，叶子嫩嫩的，吃起来脆脆甜甜的。它长在菜地里，可以炒着吃，也可以煮汤喝。",
+      "story": {
+        "title": "🥬种青菜",
+        "body": "小兔子和小猫一起在菜园里种青菜。它们先挖土，再撒下小小的种子，轻轻地盖上泥土，然后浇上水。过了几天，绿绿的小芽从土里钻出来了。又过了好多天，小青菜长得高高大大的，叶子嫩嫩的、绿绿的。小兔子说：‘我们摘一些青菜做晚饭吧！’小猫点点头。它们一起拔了几棵小青菜，洗得干干净净的。小兔子把青菜放进锅里炒，小猫在旁边帮忙拿盘子。晚餐桌上，有绿绿的炒青菜，香喷喷的。小兔子吃了一口，说：‘自己种的青菜真好吃！又脆又甜！’小猫也笑着说：‘对呀，我们明天再种一些！’"
+      },
+      "knowledge": {
+        "title": "吃小青菜有什么好处？",
+        "body": "小青菜里有好多维生素和矿物质，吃了可以帮助我们长高长壮，能让肚子舒服，不容易生病。青菜可以炒着吃、煮汤喝，嫩嫩的很好吃！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_bok_choy_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_bok_choy_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Bok Choy",
+      "aloud": "/ˈbɒk ˈtʃɔɪ/",
+      "words": "",
+      "intro": "Bok choy is a green vegetable with tender leaves and a crisp, sweet taste. It grows in the garden and can be stir-fried or cooked in soup.",
+      "story": {
+        "title": "🥬Planting Bok Choy",
+        "body": "The little rabbit and the little cat planted bok choy in the garden. First, they dug up the soil, sprinkled tiny seeds, gently covered them with earth, and watered them. After a few days, little green sprouts came out. After many more days, the bok choy grew tall and big, with tender, green leaves. The rabbit said, 'Let's pick some bok choy for supper!' The cat nodded. They pulled up a few bok choy, washed them clean. The rabbit stir-fried them in a pan, and the cat helped bring the plates. On the dinner table, there was fragrant stir-fried bok choy. The rabbit took a bite and said, 'Homegrown bok choy is so delicious! Crispy and sweet!' The cat smiled, 'Yes, let's plant more tomorrow!'"
+      },
+      "knowledge": {
+        "title": "Why is bok choy good for you?",
+        "body": "Bok choy is packed with vitamins and minerals that help you grow tall and strong, keep your tummy happy, and prevent sickness. You can stir-fry it or add it to soup, and it tastes tender and delicious. It's a super healthy vegetable!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_bok_choy_intro.mp3",
+        "story": "../item-audio/en/vegetable_bok_choy_story.mp3"
+      }
+    }
+  }
+}

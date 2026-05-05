@@ -1,0 +1,93 @@
+{
+  "id": "object_camera",
+  "sku_id": "card_object_camera",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "electronic_item",
+      "can_take_picture"
+    ],
+    "secondary": [
+      "go_out",
+      "personal_item",
+      "color_black"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "black",
+      "white",
+      "gray"
+    ],
+    "shape": [
+      "rectangular"
+    ],
+    "material": [
+      "plastic",
+      "metal"
+    ],
+    "scenes": [
+      "home",
+      "travel",
+      "outdoor"
+    ],
+    "function": [
+      "take_picture",
+      "record_video"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "相机",
+      "aloud": "xiàng jī",
+      "words": "camera",
+      "intro": "相机就像一个魔法盒子，能把看到的东西变成照片。它有圆圆的镜头，还有一个小屏幕，按下按钮就能拍照啦！",
+      "story": {
+        "title": "📷小相机的第一次旅行",
+        "body": "小相机第一次跟主人去公园，它好兴奋呀！看到小花，咔擦！小花在照片里笑；看到小狗，咔擦！小狗摇尾巴；看到小朋友吹泡泡，咔擦！泡泡变成彩色的圆球。小相机说：我要把美丽的世界都装进肚子里！主人笑着说：你真是个小魔法师。晚上回到家，小相机把照片一张张吐出来，每一张都是快乐的回忆。它开心地想：明天还要拍更多更多的照片！"
+      },
+      "knowledge": {
+        "title": "相机为什么能拍照？",
+        "body": "相机前面有个镜头，像眼睛一样看东西。按下按钮，光线跑进相机里，把看到的画面记录在小小的芯片上，就变成一张照片啦。有些相机还能拍会动的视频哦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_camera_intro.mp3",
+        "story": "../item-audio/zh-CN/object_camera_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Camera",
+      "aloud": "/ˈkæmərə/",
+      "words": "",
+      "intro": "A camera is like a magic box that turns what you see into a picture. It has a round lens and a small screen. Press the button and it takes a photo!",
+      "story": {
+        "title": "📷Little Camera's First Trip",
+        "body": "Little Camera went to the park for the very first time. It was so excited! It saw a flower—click! The flower smiled in the photo. It saw a puppy—click! The puppy wagged its tail. It saw children blowing bubbles—click! The bubbles turned into colorful balls. Little Camera said, I want to keep all the beautiful world inside me! Its owner laughed and said, You are a little magician. At night, Little Camera showed all the photos, each a happy memory. It thought happily, Tomorrow I will take even more pictures!"
+      },
+      "knowledge": {
+        "title": "How does a camera take pictures?",
+        "body": "A camera has a lens in front, like an eye. When you press the button, light goes into the camera and records the picture on a tiny chip. Then you have a photo! Some cameras can also take moving videos."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_camera_intro.mp3",
+        "story": "../item-audio/en/object_camera_story.mp3"
+      }
+    }
+  }
+}

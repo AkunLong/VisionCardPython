@@ -1,0 +1,76 @@
+{
+  "id": "number_0",
+  "sku_id": "card_number_zero",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "single_digit",
+      "even_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 0,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "0th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字0",
+      "aloud": "líng",
+      "words": "zero",
+      "intro": "零是一个特别的数字，它表示什么都没有。圆圆的零像一个大鸡蛋，也像一个小车轮。宝宝，你见过零吗？",
+      "story": {
+        "title": "🍳圆圆的零",
+        "body": "早晨，鸡妈妈在窝里下了一个蛋。蛋圆圆的，像数字0。鸡妈妈说：“咯咯哒，这个蛋可以孵出小鸡哦！”可是，小鸭路过看见了，说：“这个蛋是你的，不是我的。我的蛋还没下呢。”所以，小鸭的蛋是零个。零就是没有。宝宝，你看，盘子里有饼干吗？没有饼干，就是零块饼干。妈妈的手里没有糖果，就是零颗糖果。零虽然表示没有，但它很重要。学会了零，我们就能知道什么时候东西没有了。圆圆的零，真好玩！"
+      },
+      "knowledge": {
+        "title": "为什么数字0很重要？",
+        "body": "0 表示没有，但它可以帮助我们写出更大的数字，比如 10。如果没有 0，我们就没法表示“十”了。0 还是所有数字的起点，从 0 开始数，慢慢学会更多数字。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_0_intro.mp3",
+        "story": "../item-audio/zh-CN/number_0_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Zero",
+      "aloud": "/ˈzɪəroʊ/",
+      "words": "",
+      "intro": "Zero is a special number that means nothing. It is round like a big egg or a little wheel. Have you ever seen a zero?",
+      "story": {
+        "title": "🍳 Round Zero",
+        "body": "Early in the morning, a mother hen laid an egg in her nest. The egg was round, just like the number 0. The hen said, 'Cluck cluck, this egg can hatch a chick!' But a little duck passed by and said, 'This egg is yours, not mine. I haven't laid my egg yet.' So, the number of eggs the duck had was zero. Zero means none. Look, baby, are there any cookies on the plate? No cookies means zero cookies. Mommy has no candy in her hand—that's zero candies. Even though zero means nothing, it is still very important. When we learn zero, we know when something is all gone. Round zero is so fun!"
+      },
+      "knowledge": {
+        "title": "Why is zero so important?",
+        "body": "Zero means nothing, but it helps us write bigger numbers like 10. Without zero, we couldn't write 'ten'. Zero is also the starting point for counting; from zero, we slowly learn all the other numbers."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_0_intro.mp3",
+        "story": "../item-audio/en/number_0_story.mp3"
+      }
+    }
+  }
+}

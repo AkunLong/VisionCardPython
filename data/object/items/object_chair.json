@@ -1,0 +1,95 @@
+{
+  "id": "object_chair",
+  "sku_id": "card_object_chair",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "at_home",
+      "color_white"
+    ],
+    "secondary": [
+      "hard",
+      "safe",
+      "at_table"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "white",
+      "brown"
+    ],
+    "shape": [
+      "square",
+      "rectangle"
+    ],
+    "material": [
+      "wood",
+      "plastic",
+      "metal"
+    ],
+    "scenes": [
+      "home",
+      "school",
+      "office",
+      "restaurant"
+    ],
+    "function": [
+      "sit",
+      "rest"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "椅子",
+      "aloud": "yǐ zi",
+      "words": "chair",
+      "intro": "椅子有四条腿和一个软软的坐垫。每天我们吃饭、玩耍、看书时都坐在椅子上，它是我们的好朋友。",
+      "story": {
+        "title": "小椅子的心愿",
+        "body": "小椅子刚刚被搬到新家，它兴奋地东张西望。客厅里的沙发说：“欢迎你，小椅子，这里就是你的位置。”小椅子心想：我能做什么呢？不一会儿，小主人跑过来，轻轻坐在小椅子上，拿起画笔开始画画。小椅子感受着小主人的温暖，心里美滋滋的。到了晚饭时间，小椅子又被搬到餐桌前，小主人坐在上面乖乖吃饭。小椅子觉得自己的四条腿虽然站着，但心里特别踏实。晚上，小椅子被放回角落，它对自己说：“原来我的工作就是陪伴小主人，真幸福呀！”第二天，小主人邀请朋友来玩，大家一起坐在小椅子上搭积木。小椅子虽然被压得咯吱响，但它很高兴。它明白了，每把椅子都有自己的小主人需要它。"
+      },
+      "knowledge": {
+        "title": "椅子为什么有四条腿？",
+        "body": "椅子是我们每天都要用的家具。它有四条腿，这样坐着才稳稳当当。如果少一条腿，就容易摔倒。椅子的靠背可以让背靠一靠，坐起来更舒服。椅子的坐面有硬的有软的，小椅子还经常和桌子做邻居呢。椅子有各种颜色，有白色的、棕色的，还有彩色的，小朋友们很喜欢。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_chair_intro.mp3",
+        "story": "../item-audio/zh-CN/object_chair_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Chair",
+      "aloud": "/tʃɛər/",
+      "words": "",
+      "intro": "A chair has four legs and a seat. We sit on it every day for meals, play, and reading. It is our good friend.",
+      "story": {
+        "title": "The Little Chair's Wish",
+        "body": "The little chair arrived at a new home. It looked around excitedly. The sofa in the living room said, \"Welcome, little chair, this is your place.\" The chair wondered, What can I do? Soon, the child came and sat on it gently, taking out crayons to draw. The chair felt warm and happy. At dinner, it was moved to the table, and the child sat on it to eat. The chair's four legs stood firm, but its heart felt full. At night, it was put in the corner. It thought, \"My job is to be with my little master. How wonderful!\" The next day, friends came to play, sitting on the chair to build blocks. Though it creaked, it was glad. It understood: every chair has a child who needs it. The chair listened to the laughter and felt proud. It knew that even though it was just a chair, it could make the child comfortable and happy."
+      },
+      "knowledge": {
+        "title": "Why does a chair have four legs?",
+        "body": "Chairs are furniture we use every day. They have four legs to make them stable. If a leg is missing, it might fall over. The backrest lets us lean back comfortably. The seat can be hard or soft, and chairs often sit next to tables. Chairs come in many colors, like white and brown, and children love them."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_chair_intro.mp3",
+        "story": "../item-audio/en/object_chair_story.mp3"
+      }
+    }
+  }
+}

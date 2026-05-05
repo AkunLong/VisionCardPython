@@ -1,0 +1,89 @@
+{
+  "id": "food_fruit_gummy",
+  "sku_id": "card_food_fruit_gummy",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "snack",
+      "sweet",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "chewy",
+      "at_snack_time"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "snack"
+    ],
+    "color": [
+      "red"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "room"
+    ],
+    "scenes": [
+      "home",
+      "party",
+      "snack_time"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "水果软糖",
+      "aloud": "shuǐ guǒ ruǎn táng",
+      "words": "fruit gummy",
+      "intro": "水果软糖是甜甜的、软软的小糖果，有草莓味、苹果味，五颜六色真好看！咬一口，QQ弹弹，是小朋友们喜欢的零食。",
+      "story": {
+        "title": "🍬小熊的糖果罐",
+        "body": "小熊妈妈给小熊买了一罐水果软糖，小熊高兴极了。他打开罐子，看到红的、绿的、黄的软糖，像小宝石一样。小熊拿起一颗草莓味的红色软糖，放进嘴里，软软的，甜甜的，还有一点点酸。小熊想和好朋友分享，于是他叫来小兔、小松鼠，大家一起吃。小兔喜欢苹果味的绿色软糖，小松鼠喜欢橙子味的橙色软糖。他们一边吃一边笑，真开心！可是吃了太多糖，小熊的牙有点疼，妈妈提醒说：“糖果好吃，但不能多吃，吃完要刷牙哦！”小熊听话地点点头。以后，小熊每次只吃一颗，然后认真刷牙。"
+      },
+      "knowledge": {
+        "title": "水果软糖是怎么做出来的？",
+        "body": "工人叔叔把果汁和糖一起加热，变成稠稠的糖浆，然后倒进可爱的小模具里，冷却后就变成了QQ软软的水果软糖啦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_fruit_gummy_intro.mp3",
+        "story": "../item-audio/zh-CN/food_fruit_gummy_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Fruit Gummy",
+      "aloud": "/fruːt ˈɡʌmi/",
+      "words": "",
+      "intro": "Fruit gummy candies are sweet, soft, and come in pretty colors. They taste like strawberries, apples, and oranges. Just one bite makes you smile!",
+      "story": {
+        "title": "🍬Little Bear's Candy Jar",
+        "body": "Mother Bear bought Little Bear a jar of fruit gummies. Little Bear was so happy! He opened the jar and saw red, green, and yellow gummies shining like little jewels. He picked a strawberry red one and put it in his mouth. It was soft, sweet, and a little sour. Little Bear wanted to share with his friends. He called Rabbit and Squirrel to come and eat together. Rabbit loved the apple green ones, and Squirrel liked the orange ones. They laughed and ate happily. But after eating too many, Little Bear's tooth started to ache. Mother Bear reminded him, 'Candies are yummy, but don't eat too many, and remember to brush your teeth!' Little Bear nodded. From then on, he only ate one gummy each time and brushed his teeth carefully."
+      },
+      "knowledge": {
+        "title": "How are fruit gummies made?",
+        "body": "Workers heat fruit juice and sugar together to make a thick syrup. Then they pour it into cute little molds. After it cools, it becomes soft and chewy fruit gummies!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_fruit_gummy_intro.mp3",
+        "story": "../item-audio/en/food_fruit_gummy_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "fruit_rambutan",
+  "sku_id": "card_fruit_rambutan",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_red",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "oval",
+      "sweet",
+      "tropical_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "red"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "scenes": [
+      "orchard",
+      "supermarket",
+      "home"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "红毛丹",
+      "aloud": "hóng máo dān",
+      "words": "rambutan",
+      "intro": "红毛丹是一种红红的、长着软软毛毛的水果，味道甜甜的，是热带地区的好吃水果。",
+      "story": {
+        "title": "🐒小猴子的红毛丹",
+        "body": "小猴子跳跳住在热带果园里，它最喜欢的水果就是红毛丹。一天，它发现一棵树上挂满了红扑扑的果子，果子外面还有软软的小毛，像一个个红绒球。跳跳小心地摘下一颗，轻轻剥开皮，里面是白白嫩嫩的果肉。它咬了一口，甜甜的汁水在嘴里散开，真好吃！跳跳没有一个人吃，它想到了好朋友小象和小鸟。它把红毛丹分给大家，小象用鼻子卷着一颗，小鸟叼着一颗，三个好朋友一起品尝。跳跳觉得，和朋友们一起分享，红毛丹好像变得更甜了。"
+      },
+      "knowledge": {
+        "title": "红毛丹长在哪里？",
+        "body": "红毛丹是一种热带水果，喜欢温暖潮湿的地方，主要生长在东南亚国家，比如泰国和马来西亚。它的果实长在高高的大树上，成熟时红红的，非常漂亮。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_rambutan_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_rambutan_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Rambutan",
+      "aloud": "/ˈræmbəˌtæn/",
+      "words": "",
+      "intro": "The rambutan is a red, hairy fruit that tastes sweet. It's a delicious tropical fruit.",
+      "story": {
+        "title": "🐒Little Monkey's Rambutan",
+        "body": "Little monkey Tiao Tiao lives in a tropical orchard, and his favorite fruit is rambutan. One day, he saw a tree full of bright red fruits with soft little hairs, like red fluffy balls. Tiao Tiao carefully picked one, gently peeled off the skin, and found white, tender flesh inside. He took a bite, and the sweet juice filled his mouth. How delicious! Tiao Tiao didn't eat it all by himself. He thought of his friends, the little elephant and the little bird. He shared the rambutans with them: the elephant held one with his trunk, and the bird carried one in its beak. The three friends enjoyed the fruit together. Tiao Tiao felt that sharing with friends made the rambutan taste even sweeter."
+      },
+      "knowledge": {
+        "title": "Where do rambutans grow?",
+        "body": "Rambutans are tropical fruits that love warm and humid places. They mostly grow in Southeast Asian countries like Thailand and Malaysia. The fruits grow on tall trees and turn a beautiful red when ripe."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_rambutan_intro.mp3",
+        "story": "../item-audio/en/fruit_rambutan_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "object_handbag",
+  "sku_id": "card_object_handbag",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "personal_item",
+      "color_pink"
+    ],
+    "secondary": [
+      "go_out",
+      "soft",
+      "can_store"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "pink"
+    ],
+    "shape": [
+      "rectangle"
+    ],
+    "material": [
+      "cloth",
+      "leather"
+    ],
+    "scenes": [
+      "go_out",
+      "shopping",
+      "home"
+    ],
+    "function": [
+      "carry_items",
+      "store_items"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "手提包",
+      "aloud": "shǒu tí bāo",
+      "words": "handbag",
+      "intro": "手提包是我们出门时可以带的小包包，可以把小手帕、小玩具和零食放进去。它有各种颜色和形状，又好看又方便。",
+      "story": {
+        "title": "👜小手提包真能干",
+        "body": "小猫咪咪有一个粉色的手提包，她最喜欢了。一天，妈妈带她去公园玩，咪咪把手提包装得满满的：一块软软的小手帕、一小盒饼干，还有她最喜欢的布娃娃。到了公园，咪咪用小手帕擦擦汗，和好朋友分享饼干，布娃娃也跟她一起荡秋千。咪咪觉得手提包真神奇，能装下这么多好东西。晚上回家时，咪咪轻轻拍拍手提包说：“谢谢你陪我过开心的一天。”从那以后，咪咪每次出门都带着它，小手提包成了她最好的伙伴。"
+      },
+      "knowledge": {
+        "title": "手提包是用来做什么的？",
+        "body": "手提包是一种小包包，可以装我们出门要带的东西，比如手帕、玩具和零食。它通常有带子，可以拎着或背着。手提包有很多种材质，比如布、皮，颜色和形状也都不一样。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_handbag_intro.mp3",
+        "story": "../item-audio/zh-CN/object_handbag_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Handbag",
+      "aloud": "/ˈhændbæɡ/",
+      "words": "",
+      "intro": "A handbag is a small bag we can take when we go out. We can put a handkerchief, toys, and snacks inside. It comes in many colors and shapes, and it's both pretty and handy.",
+      "story": {
+        "title": "👜The Little Handbag That Could",
+        "body": "Mimi the kitten has a pink handbag she loves the most. One day, her mom takes her to the park. Mimi packs her handbag full: a soft little handkerchief, a small box of biscuits, and her favorite doll. At the park, Mimi uses the handkerchief to wipe her face, shares biscuits with a good friend, and the doll goes on the swing with her. Mimi thinks the handbag is amazing because it holds so many great things. When they go home in the evening, Mimi gives the handbag a gentle pat and says, “Thank you for a happy day.” After that, Mimi takes the handbag everywhere, and it becomes her best friend."
+      },
+      "knowledge": {
+        "title": "What is a handbag for?",
+        "body": "A handbag is a small bag that holds things we need when going out, like a handkerchief, toys, or snacks. It usually has a handle or a strap so we can carry it. Handbags can be made of cloth, leather, and other materials. They come in many colors and shapes."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_handbag_intro.mp3",
+        "story": "../item-audio/en/object_handbag_story.mp3"
+      }
+    }
+  }
+}

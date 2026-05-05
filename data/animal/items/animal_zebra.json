@@ -1,0 +1,100 @@
+{
+  "id": "animal_zebra",
+  "sku_id": "card_animal_zebra",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "grassland_animal",
+      "striped"
+    ],
+    "secondary": [
+      "has_fur",
+      "has_tail",
+      "black_white"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "wild"
+    ],
+    "color": [
+      "black",
+      "white"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "ears",
+      "mane",
+      "hooves"
+    ],
+    "scenes": [
+      "grassland",
+      "savanna"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "graze"
+    ],
+    "sound": [],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "斑马",
+      "aloud": "bān mǎ",
+      "words": "zebra",
+      "intro": "斑马是一种身上长满黑白条纹的动物，住在广阔的草原上。它们喜欢和朋友们一起跑跑跳跳，吃着绿绿的青草。",
+      "story": {
+        "title": "🦓小斑马找朋友",
+        "body": "小斑马奔奔今天想找一个新朋友一起玩。它先走到一棵大树下，看见一只小鸟。小鸟说：“我太小了，不能和你一起跑。”奔奔又走到水塘边，看见一只河马。河马说：“我太胖了，跑不动。”奔奔有点难过，低着头继续走。突然，它听见远处传来“哒哒哒”的声音。原来是一群小斑马在草原上奔跑。奔奔开心地跑过去，和它们一起追着风跑，一会儿在草丛里躲猫猫，一会儿又比赛谁跑得快。太阳快要下山了，天空变得橙红橙红的。奔奔和朋友们靠在一起，甜甜地笑了。从此，奔奔再也不孤单了。"
+      },
+      "knowledge": {
+        "title": "斑马为什么有黑白条纹？",
+        "body": "黑白条纹是斑马的独特外衣。这些条纹可以帮助斑马在草原上隐藏自己，让狮子看不清它们。条纹还能驱赶讨厌的蚊虫，让斑马更舒服。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_zebra_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_zebra_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Zebra",
+      "aloud": "/ˈzebrə/",
+      "words": "",
+      "intro": "A zebra is an animal with black and white stripes, living on the wide grasslands. They love to run and play with their friends, and eat fresh green grass.",
+      "story": {
+        "title": "🦓Little Zebra Looks for a Friend",
+        "body": "Benben the little zebra wanted to find a new friend to play with today. First, he walked to a big tree and saw a little bird. The bird said, \"I’m too small to run with you.\" Benben then walked to a pond and saw a hippo. The hippo said, \"I’m too big and can’t run fast.\" Benben felt a little sad and kept walking with his head down. Suddenly, he heard a pattering sound from far away. It was a group of little zebras running on the grassland. Benben happily ran over and joined them. They ran with the wind, played hide-and-seek in the tall grass, and raced to see who was the fastest. As the sun went down, the sky turned orange and red. Benben and his new friends stayed close together and smiled sweetly. From then on, Benben was never lonely again."
+      },
+      "knowledge": {
+        "title": "Why do zebras have stripes?",
+        "body": "The black and white stripes are a special coat for zebras. The stripes can help them hide in the grassland so lions cannot easily see them. They can also keep away annoying flies and bugs, making zebras more comfortable."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_zebra_intro.mp3",
+        "story": "../item-audio/en/animal_zebra_story.mp3"
+      }
+    }
+  }
+}

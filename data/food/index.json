@@ -1,0 +1,81 @@
+{
+  "id": "food_set_v1",
+  "category": "food",
+  "name": "食物认知卡排序",
+  "description": "适合3-6岁儿童的食物认知顺序，优先展示生活中常见、易识别、高频接触的主食、早餐和儿童常见食物，再逐步扩展到正餐菜品、小吃点心、甜品零食和饮品。",
+  "nav": {
+    "id": "food",
+    "name": "食物图卡合集",
+    "description": "45种常见食物认知卡",
+    "available": true,
+    "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/food/images/story/food_mashed_potatoes_story.jpg",
+    "title": {
+        "zh-CN": "舌尖上的小冒险",
+        "en": "A Little Adventure on Every Plate"
+      },
+      "subtitle": {
+        "zh-CN": "每一口都是新发现",
+        "en": "Every Bite Is a Discovery"
+      },
+      "small_title": {
+        "zh-CN": "热腾腾的包子，甜丝丝的冰淇淋，每一口都幸福",
+        "en": "Steaming buns, sweet ice cream — every bite is a happy surprise"
+      },
+      "background_color_image":"#FD8550",
+      "background_color_card":"#FB814C"
+  },
+  "total": 45,
+  "items": [
+    { "id": "food_rice", "name": "米饭", "enName": "Rice" },
+    { "id": "food_milk", "name": "牛奶", "enName": "Milk" },
+    { "id": "food_noodles", "name": "面条", "enName": "Noodles" },
+    { "id": "food_corn_porridge", "name": "玉米粥", "enName": "Corn Porridge" },
+    { "id": "food_steamed_bun", "name": "包子", "enName": "Steamed Bun" },
+    { "id": "food_dumpling", "name": "饺子", "enName": "Dumpling" },
+    { "id": "food_pancake", "name": "煎饼", "enName": "Pancake" },
+
+    { "id": "food_mashed_potatoes", "name": "土豆泥", "enName": "Mashed Potatoes" },
+    { "id": "food_tofu", "name": "豆腐", "enName": "Tofu" },
+    { "id": "food_chicken_drumstick", "name": "鸡腿", "enName": "Chicken Drumstick" },
+    { "id": "food_chicken_wing", "name": "鸡翅", "enName": "Chicken Wing" },
+    { "id": "food_roast_chicken", "name": "烤鸡", "enName": "Roast Chicken" },
+    { "id": "food_steak", "name": "牛排", "enName": "Steak" },
+    { "id": "food_crab", "name": "螃蟹", "enName": "Crab" },
+    { "id": "food_dry_pot_cauliflower", "name": "干锅花菜", "enName": "Dry Pot Cauliflower" },
+
+    { "id": "food_hamburger", "name": "汉堡包", "enName": "Hamburger" },
+    { "id": "food_french_fries", "name": "薯条", "enName": "French Fries" },
+    { "id": "food_roasted_sausage", "name": "烤肠", "enName": "Roasted Sausage" },
+    { "id": "food_sushi", "name": "寿司", "enName": "Sushi" },
+    { "id": "food_eel_rice", "name": "鳗鱼饭", "enName": "Eel Rice" },
+
+    { "id": "food_spring_roll", "name": "春卷", "enName": "Spring Roll" },
+    { "id": "food_char_siu_bun", "name": "叉烧包", "enName": "Char Siu Bun" },
+    { "id": "food_rice_cake", "name": "年糕", "enName": "Rice Cake" },
+    { "id": "food_red_bean_cake", "name": "红豆饼", "enName": "Red Bean Cake" },
+    { "id": "food_twist_dough", "name": "麻花", "enName": "Fried Dough Twist" },
+    { "id": "food_honey_cake", "name": "蜜饼", "enName": "Honey Cake" },
+    { "id": "food_rose_pastry", "name": "玫瑰酥", "enName": "Rose Pastry" },
+    { "id": "food_egg_tart", "name": "蛋挞", "enName": "Egg Tart" },
+
+    { "id": "food_cake", "name": "蛋糕", "enName": "Cake" },
+    { "id": "food_puff", "name": "泡芙", "enName": "Puff" },
+    { "id": "food_caramel_pudding", "name": "焦糖布丁", "enName": "Caramel Pudding" },
+    { "id": "food_ice_cream", "name": "冰淇淋", "enName": "Ice Cream" },
+    { "id": "food_chocolate", "name": "巧克力", "enName": "Chocolate" },
+    { "id": "food_cookie", "name": "曲奇饼干", "enName": "Cookie" },
+    { "id": "food_jelly", "name": "果冻", "enName": "Jelly" },
+    { "id": "food_fruit_gummy", "name": "水果软糖", "enName": "Fruit Gummy" },
+    { "id": "food_popcorn", "name": "爆米花", "enName": "Popcorn" },
+    { "id": "food_potato_chips", "name": "薯片", "enName": "Potato Chips" },
+    { "id": "food_nuts", "name": "坚果", "enName": "Nuts" },
+
+    { "id": "food_fruit_tea", "name": "果茶", "enName": "Fruit Tea" },
+    { "id": "food_coconut_milk", "name": "椰奶", "enName": "Coconut Milk" },
+    { "id": "food_cola", "name": "可乐", "enName": "Cola" },
+    { "id": "food_coffee", "name": "咖啡", "enName": "Coffee" },
+
+    { "id": "food_malatang", "name": "麻辣烫", "enName": "Malatang" },
+    { "id": "food_stinky_tofu", "name": "臭豆腐", "enName": "Stinky Tofu" }
+  ]
+}

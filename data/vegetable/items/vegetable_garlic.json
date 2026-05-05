@@ -1,0 +1,90 @@
+{
+  "id": "vegetable_garlic",
+  "sku_id": "card_vegetable_garlic",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_white",
+      "root_vegetable"
+    ],
+    "secondary": [
+      "spicy",
+      "fragrant",
+      "round"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "white"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "spicy"
+    ],
+    "grow_location": [
+      "underground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "大蒜",
+      "aloud": "dà suàn",
+      "words": "garlic",
+      "intro": "大蒜是一种白白的蔬菜，圆圆的，闻起来香香的，吃起来辣辣的。它长在地底下，拔出来的时候是一整个圆球呢。",
+      "story": {
+        "title": "🧄小厨师的大蒜",
+        "body": "小猫咪今天想当大厨师，它要煮一锅香香的汤。妈妈告诉它，加一点大蒜可以让汤变得更好喝哦。小猫咪跟着妈妈来到厨房，拿起一颗白白的大蒜。它用小手一层一层地剥开薄薄的皮，里面露出一个个胖胖的蒜瓣。小猫咪把蒜瓣轻轻拍碎，放进锅里。不一会儿，一股香香的味道飘满了厨房。汤煮好了，小猫咪尝了一口，开心地说：真好喝！原来大蒜这么厉害呀！从那以后，小猫咪煮汤的时候总会记得放一颗大蒜。它还把大蒜种在花园里，等着长出更多的大蒜呢。"
+      },
+      "knowledge": {
+        "title": "吃大蒜有什么好处？",
+        "body": "大蒜有一种特别的本领，它可以赶走身体里不好的小细菌，让我们不容易生病，身体变得更健康。不过，吃完大蒜记得要漱口哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_garlic_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_garlic_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Garlic",
+      "aloud": "/ˈɡɑːrlɪk/",
+      "words": "",
+      "intro": "Garlic is a white vegetable that is round, smells fragrant, and tastes a little spicy. It grows underground, and when you pull it out, it is a whole round ball.",
+      "story": {
+        "title": "🧄Little Chef’s Garlic",
+        "body": "Little Kitty wanted to be a big chef today and cook a pot of yummy soup. Mama told her that adding a little garlic could make the soup even tastier. Little Kitty followed Mama to the kitchen and picked up a white garlic bulb. She peeled off the thin layers with her little paws, one by one, revealing plump garlic cloves inside. She gently crushed the cloves and put them in the pot. Soon, a lovely fragrance filled the kitchen. When the soup was ready, Little Kitty took a sip and said happily: So delicious! Garlic is amazing! From then on, Little Kitty always remembered to add a garlic clove when cooking soup. She even planted garlic in the garden, waiting for more garlic to grow."
+      },
+      "knowledge": {
+        "title": "Why is eating garlic good for you?",
+        "body": "Garlic has a special power—it can chase away bad little germs in your body, helping you stay healthy. But remember to rinse your mouth after eating it!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_garlic_intro.mp3",
+        "story": "../item-audio/en/vegetable_garlic_story.mp3"
+      }
+    }
+  }
+}

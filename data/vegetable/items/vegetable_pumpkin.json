@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_pumpkin",
+  "sku_id": "card_vegetable_pumpkin",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_orange",
+      "melon_vegetable"
+    ],
+    "secondary": [
+      "sweet",
+      "round",
+      "soft"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "orange"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "soft"
+    ],
+    "grow_location": [
+      "vine"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "南瓜",
+      "aloud": "nán guā",
+      "words": "pumpkin",
+      "intro": "南瓜是一种大大的、圆圆的蔬菜，外皮是橙色的，吃起来甜甜软软的。它长在藤蔓上，秋天的时候会成熟。",
+      "story": {
+        "title": "🎃小蚂蚁和大南瓜",
+        "body": "草地上滚来一个大大的南瓜，小蚂蚁看见了，惊讶地说：“好大的南瓜呀！”它想搬回家，可是南瓜太重了，怎么也推不动。小蚂蚁叫来好朋友小瓢虫和小蜗牛，大家围在一起想办法。小瓢虫说：“我们可以一起推呀！”于是，小蚂蚁在前面拉，小瓢虫和小蜗牛在后面推。嘿哟嘿哟！大南瓜慢慢地滚了起来。它们把南瓜推到树下的餐桌旁，决定邀请所有小伙伴一起吃南瓜。大家分享了甜甜的南瓜汤和软软的南瓜饼，开心极了。大南瓜不仅好吃，还让大家更亲密了呢！"
+      },
+      "knowledge": {
+        "title": "吃南瓜有什么好处？",
+        "body": "南瓜含有丰富的维生素和纤维素，吃了可以帮助消化，还能让身体更强壮。南瓜可以煮汤、做南瓜饼，或者蒸着吃，味道香甜，是秋天最好的食物之一。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_pumpkin_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_pumpkin_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Pumpkin",
+      "aloud": "/ˈpʌmpkɪn/",
+      "words": "",
+      "intro": "A pumpkin is a big, round vegetable with orange skin. It tastes sweet and soft. It grows on vines and ripens in autumn.",
+      "story": {
+        "title": "🎃Little Ant and the Big Pumpkin",
+        "body": "A big pumpkin rolled onto the grass. Little Ant saw it and cried, 'What a huge pumpkin!' It wanted to carry it home, but the pumpkin was too heavy to push. Little Ant called its friends Little Ladybug and Little Snail. They gathered to think of a plan. Little Ladybug said, 'Let's push it together!' So Little Ant pulled from the front while Little Ladybug and Little Snail pushed from behind. Heave-ho! Heave-ho! The big pumpkin slowly rolled. They pushed it to the table under the tree and decided to invite all their friends to share the pumpkin. Everyone enjoyed sweet pumpkin soup and soft pumpkin pie. They were so happy! The big pumpkin not only tasted good, but also brought everyone closer."
+      },
+      "knowledge": {
+        "title": "Why is eating pumpkin good for you?",
+        "body": "Pumpkin is rich in vitamins and fiber. It helps digestion and makes you stronger. You can make it into soup, pie, or simply steam it. It tastes sweet and is one of the best foods in autumn."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_pumpkin_intro.mp3",
+        "story": "../item-audio/en/vegetable_pumpkin_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "flower_zinnia",
+  "sku_id": "card_flower_zinnia",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_pink",
+      "in_garden"
+    ],
+    "secondary": [
+      "summer_flower",
+      "many_petals",
+      "decorative"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "red",
+      "pink",
+      "orange"
+    ],
+    "size": [
+      "medium"
+    ],
+    "scenes": [
+      "garden",
+      "flower bed",
+      "balcony"
+    ],
+    "season": [
+      "summer"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "百日草",
+      "aloud": "bǎi rì cǎo",
+      "words": "zinnia",
+      "intro": "百日草是一种颜色鲜艳的花，花瓣层层叠叠的，有红的、粉的、橙的，像彩虹一样漂亮。它可以开很久，所以叫百日草。",
+      "story": {
+        "title": "🌼彩色小伞百日草",
+        "body": "夏天到了，花园里开出了一朵朵百日草。它们有红色的，像小火焰；有粉色的，像棉花糖；还有橙色的，像小太阳。小蜜蜂飞过来，在花丛里钻来钻去，问：“你们的裙子怎么这么漂亮呀？”百日草摇摇脑袋说：“是太阳公公帮我们染的颜色哦！”小蝴蝶也飞来了，在花朵上跳舞，百日草就张开层层花瓣，像一把把小伞，给蝴蝶遮太阳。一天又一天，它们一直开着，不叫累。小朋友走过花园，都拍手说：“百日草真好看！”"
+      },
+      "knowledge": {
+        "title": "百日草为什么能开很久？",
+        "body": "百日草的花瓣很多，一朵花可以开好几天，而且一个枝上会不断长出新的花苞。从夏天到秋天，它们一直热热闹闹地开着，所以名字里有一百天。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_zinnia_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_zinnia_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Zinnia",
+      "aloud": "/ˈzɪniə/",
+      "words": "",
+      "intro": "Zinnia is a brightly colored flower with layers of petals. They come in red, pink, orange, and many other colors, just like a rainbow. They bloom for a long time, so they are called zinnias.",
+      "story": {
+        "title": "🌼The Colorful Little Umbrellas",
+        "body": "In the summer, zinnias bloomed in the garden. Some were red like little flames, some were pink like cotton candy, and some were orange like little suns. A little bee flew over and buzzed among the flowers, asking, 'Why are your dresses so pretty?' The zinnias shook their heads and said, 'Mr. Sun dyed them for us!' Then a butterfly came dancing on the flowers, and the zinnias opened their layers of petals like little umbrellas to shade the butterfly from the sun. Day after day, they kept blooming without getting tired. When children walked by the garden, they clapped their hands and said, 'The zinnias are so beautiful!'"
+      },
+      "knowledge": {
+        "title": "Why do zinnias bloom for a long time?",
+        "body": "Zinnias have many petals, and each flower can last for several days. New buds keep growing on the stems. They bloom cheerfully from summer to autumn, which is why they get their name with 'hundred days' in Chinese."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_zinnia_intro.mp3",
+        "story": "../item-audio/en/flower_zinnia_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "transport_cargo_ship",
+  "sku_id": "card_transport_cargo_ship",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "water_transport",
+      "can_carry_goods"
+    ],
+    "secondary": [
+      "big",
+      "can_float",
+      "has_engine"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "cargo_ship"
+    ],
+    "color": [
+      "blue",
+      "grey",
+      "white"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "ocean",
+      "port",
+      "harbor"
+    ],
+    "fuel": [
+      "diesel",
+      "bunker_fuel"
+    ],
+    "features": [
+      "containers",
+      "crane",
+      "large_hull"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "货轮",
+      "aloud": "huò lún",
+      "words": "cargo ship",
+      "intro": "货轮是一艘很大很大的船，它在大海上航行，船上装满了各种各样的货物，比如玩具、水果、衣服，运到很远很远的地方。",
+      "story": {
+        "title": "🚢大货轮运玩具",
+        "body": "有一艘大货轮，名叫“巨无霸”。一天，它接到一个任务：把一座小山那么多的玩具运到大海另一边的小朋友手里。巨无霸张开大嘴巴——也就是货舱，让大吊车把一箱箱积木、洋娃娃、小汽车装进肚子。装呀装，肚子装得鼓鼓的。然后它鸣响汽笛，“呜——”出发了！在蓝色的大海上，巨无霸破浪前进，海鸥跟着它飞。过了好多天，终于到了港口。大吊车又把玩具一箱箱卸下来，送到等待的卡车里。小朋友们收到玩具，开心极了。巨无霸也笑了，虽然航行很辛苦，但它喜欢为小朋友们送去快乐。"
+      },
+      "knowledge": {
+        "title": "货轮是做什么的？",
+        "body": "货轮就像海上的大卡车，专门运送货物。我们从其他国家买来的玩具、好吃的，很多都是货轮运来的。没有货轮，远方的好东西很难来到我们身边。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_cargo_ship_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_cargo_ship_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cargo Ship",
+      "aloud": "/ˈkɑːrɡoʊ ʃɪp/",
+      "words": "",
+      "intro": "A cargo ship is a very large boat that sails on the ocean. It carries all kinds of things like toys, fruit, and clothes to faraway places.",
+      "story": {
+        "title": "🚢The Big Cargo Ship Delivers Toys",
+        "body": "There was a huge cargo ship named Mighty. One day, it got a mission: to carry a mountain of toys to children on the other side of the sea. Mighty opened its big mouth—the cargo hold—and let a tall crane load boxes of blocks, dolls, and little cars into its belly. It stuffed them in until its belly was round and full. Then it blew its horn, 'Toooot!' and set sail. On the blue ocean, Mighty cut through the waves, with seagulls flying beside it. After many days, it reached the port. The crane unloaded the toys box after box into waiting trucks. When the children received the toys, they were so happy! Mighty smiled too. Even though the trip was tiring, it loved bringing joy to children."
+      },
+      "knowledge": {
+        "title": "What does a cargo ship do?",
+        "body": "A cargo ship is like a big truck on the sea. It carries goods from one country to another. Many toys and yummy foods we enjoy come to us by cargo ship. Without them, nice things from far away would be hard to get."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_cargo_ship_intro.mp3",
+        "story": "../item-audio/en/transport_cargo_ship_story.mp3"
+      }
+    }
+  }
+}

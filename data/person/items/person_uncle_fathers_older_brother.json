@@ -1,0 +1,85 @@
+{
+  "id": "person_uncle_fathers_older_brother",
+  "sku_id": "card_person_uncle",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "relative"
+    ],
+    "secondary": [
+      "male",
+      "elder",
+      "adult"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "uncle"
+    ],
+    "workplace": [
+      "home"
+    ],
+    "tools": [],
+    "clothing": [],
+    "actions": [
+      "care",
+      "visit",
+      "play"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "伯伯",
+      "aloud": "bó bo",
+      "words": "uncle",
+      "intro": "伯伯是爸爸的哥哥，他像爸爸一样亲。他会抱抱我们、陪我们玩，还会给我们买好吃的。",
+      "story": {
+        "title": "🎉伯伯来了",
+        "body": "今天伯伯要来家里做客，小宝宝可开心了。一听到门铃声，他就跑去开门。伯伯笑眯眯地站在门口，手里还拿着一个大大的玩具熊。小宝宝扑到伯伯怀里，伯伯把他高高地举起来，转了一圈。然后伯伯陪小宝宝玩积木，搭了一座高高的城堡。他们还一起看图画书，伯伯学动物叫，逗得小宝宝咯咯笑。吃饭的时候，伯伯给小宝宝夹了他最爱吃的鸡腿。小宝宝说：‘伯伯真好，我最喜欢伯伯了！’伯伯听了，笑得眼睛眯成了缝。"
+      },
+      "knowledge": {
+        "title": "伯伯是什么关系？",
+        "body": "爸爸的哥哥叫伯伯（爸爸的弟弟叫叔叔）。伯伯是家里的长辈，像爸爸一样爱我们。在中国，伯伯是很亲近的家人，常常一起过年、过节、一起吃饭。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_uncle_fathers_older_brother_intro.mp3",
+        "story": "../item-audio/zh-CN/person_uncle_fathers_older_brother_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Uncle",
+      "aloud": "/ˈʌŋkəl/",
+      "words": "",
+      "intro": "Uncle is father's older brother. He is just as loving as father. He gives us hugs, plays with us, and brings us yummy treats.",
+      "story": {
+        "title": "🎉 Uncle Comes to Visit",
+        "body": "Today, Uncle was coming to visit, and the little one was overjoyed. As soon as the doorbell rang, he ran to open the door. There stood Uncle with a big smile, holding a giant teddy bear. The little one jumped into Uncle's arms, and Uncle lifted him high and spun him around. Then they played with building blocks, building a tall castle. They also read picture books together, and Uncle made funny animal sounds that made the little one giggle. At mealtime, Uncle put the little one's favorite chicken leg on his plate. The little one said, 'Uncle is the best! I love Uncle the most!' Uncle's eyes crinkled with happiness."
+      },
+      "knowledge": {
+        "title": "Who is Uncle?",
+        "body": "Uncle is father's older brother. (Father's younger brother is also called uncle in English, but in Chinese they have different names.) Uncle is a close family member, just like father. In many families, uncles are very dear and often join in family gatherings and celebrations."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_uncle_fathers_older_brother_intro.mp3",
+        "story": "../item-audio/en/person_uncle_fathers_older_brother_story.mp3"
+      }
+    }
+  }
+}

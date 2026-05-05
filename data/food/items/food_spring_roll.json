@@ -1,0 +1,90 @@
+{
+  "id": "food_spring_roll",
+  "sku_id": "card_food_spring_roll",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "dish",
+      "crispy",
+      "edible"
+    ],
+    "secondary": [
+      "color_brown",
+      "at_meal",
+      "hot_food"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dish",
+      "snack"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "salty"
+    ],
+    "temperature": [
+      "hot"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "春卷",
+      "aloud": "chūn juǎn",
+      "words": "spring roll",
+      "intro": "春卷是香香脆脆的小吃，金黄金黄的，里面藏着好吃的蔬菜和肉肉。咬一口，咔嚓咔嚓响，真有趣！",
+      "story": {
+        "title": "🥟香喷喷的春卷",
+        "body": "春节快到了，妈妈在厨房准备做春卷。小明好奇地跑过来问：“妈妈，春卷是什么呀？”妈妈笑着说：“春卷就是把春天的味道包起来，炸得脆脆的，可好吃啦！”妈妈拿起一张薄薄的面皮，放上胡萝卜丝、豆芽和肉末，轻轻卷起来，再用面粉水粘好。小明也学着妈妈的样子包了一个，虽然有点歪歪的。然后，妈妈把春卷放进热油锅里，“滋滋滋”，春卷慢慢变成了金黄色，香味飘满了整个厨房。春卷炸好了，小明迫不及待地咬了一口，“咔嚓！”真脆呀！他开心地说：“我包的春卷最好吃！”一家人吃着春卷，心里暖暖的，迎接春天的到来。"
+      },
+      "knowledge": {
+        "title": "春卷是怎么做的？",
+        "body": "把蔬菜和肉切成细丝，用薄面皮包住，卷成长条，然后在热油里炸到金黄酥脆。这样美味的春卷就做好啦，可以蘸着酱吃。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_spring_roll_intro.mp3",
+        "story": "../item-audio/zh-CN/food_spring_roll_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Spring Roll",
+      "aloud": "/sprɪŋ roʊl/",
+      "words": "",
+      "intro": "Spring rolls are crispy and golden snacks. Inside, they hide yummy vegetables and meat. Take a bite—crunch, crunch! It's so fun!",
+      "story": {
+        "title": "🥟The Crispy Spring Roll",
+        "body": "The Spring Festival was coming, and Mom was in the kitchen making spring rolls. Xiao Ming ran over curiously and asked, \"Mom, what is a spring roll?\" Mom smiled and said, \"A spring roll wraps up the taste of spring, fries it crispy, and it's so delicious!\" Mom picked up a thin wrapper, put in some carrot strips, bean sprouts, and minced meat, then gently rolled it up and sealed it with flour paste. Xiao Ming tried to make one too. His was a little crooked. Then, Mom put the spring rolls into the hot oil. \"Sizzle, sizzle!\" The spring rolls slowly turned golden brown, and a yummy smell filled the kitchen. When the spring rolls were ready, Xiao Ming couldn't wait to take a bite. \"Crunch!\" So crispy! He said happily, \"My spring roll is the best!\" The family ate the spring rolls together, feeling warm inside, welcoming the arrival of spring."
+      },
+      "knowledge": {
+        "title": "How are spring rolls made?",
+        "body": "Cut vegetables and meat into thin strips, wrap them with a thin dough wrapper, roll into a long shape, then deep-fry in hot oil until golden and crispy. That's how delicious spring rolls are made. Dip them in sauce and enjoy!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_spring_roll_intro.mp3",
+        "story": "../item-audio/en/food_spring_roll_story.mp3"
+      }
+    }
+  }
+}

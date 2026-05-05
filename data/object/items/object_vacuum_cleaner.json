@@ -1,0 +1,92 @@
+{
+  "id": "object_vacuum_cleaner",
+  "sku_id": "card_object_vacuum_cleaner",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "home_appliance",
+      "electronic_item"
+    ],
+    "secondary": [
+      "at_home",
+      "can_clean",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "gray",
+      "black",
+      "blue"
+    ],
+    "shape": [
+      "long",
+      "round"
+    ],
+    "material": [
+      "plastic",
+      "metal"
+    ],
+    "scenes": [
+      "home",
+      "office"
+    ],
+    "function": [
+      "clean"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "吸尘器",
+      "aloud": "xī chén qì",
+      "words": "vacuum cleaner",
+      "intro": "吸尘器是家里的清洁小能手，它有一个长长的大鼻子，能把地板上的灰尘和脏东西都吸进肚子里，让家里变得干干净净。",
+      "story": {
+        "title": "🧹嗡嗡嗡，灰尘不见啦",
+        "body": "妈妈买了一个新吸尘器，它长得像一头小怪兽，有一条长长的软管和圆圆的轮子。小明一按开关，吸尘器就“嗡嗡嗡”地唱起歌来，张大嘴巴，把地上的饼干屑、头发丝统统吃掉了。小明拉着它在房间里跑来跑去，就像和小怪兽一起冒险。不一会儿，地板亮晶晶的，连妈妈都夸它真能干。吸尘器摇摇身子说：“嗡嗡，下次灰尘来了，我再帮你吃掉它们！”小明开心地摸了摸它，觉得这是世界上最厉害的小怪兽。"
+      },
+      "knowledge": {
+        "title": "吸尘器为什么能把灰尘吸走？",
+        "body": "吸尘器里面有一个会高速转动的马达，能像我们喝饮料一样产生吸力。空气和灰尘被吸进管子里，经过滤网，灰尘留在尘盒里，干净的空气再排出来。这样我们就能轻松扫干净地板啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_vacuum_cleaner_intro.mp3",
+        "story": "../item-audio/zh-CN/object_vacuum_cleaner_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Vacuum Cleaner",
+      "aloud": "/ˈvækjuːm ˈkliːnər/",
+      "words": "",
+      "intro": "A vacuum cleaner is a helpful cleaning machine at home. It has a long hose and a big mouth that sucks up dust and crumbs, making the floor nice and clean.",
+      "story": {
+        "title": "🧹Whirr, Whirr, Dust Disappears!",
+        "body": "Mom bought a new vacuum cleaner. It looked like a little monster with a long, soft hose and round wheels. When Xiao Ming pressed the button, the vacuum cleaner sang “whirr, whirr” and opened its big mouth to eat up all the cookie crumbs and hair on the floor. Xiao Ming pulled it around the room, like going on an adventure with a little monster. Soon, the floor was shiny, and Mom praised it for being so helpful. The vacuum cleaner shook its body and said, “Whirr! Next time dust comes, I’ll help you eat it up again!” Xiao Ming smiled and patted it, thinking it was the coolest little monster in the world."
+      },
+      "knowledge": {
+        "title": "Why can a vacuum cleaner suck up dust?",
+        "body": "Inside the vacuum cleaner, a motor spins very fast to create suction, just like when we suck up a drink. Air and dust are pulled into the hose, pass through a filter, and dust stays in the bin while clean air comes out. This makes cleaning the floor so easy."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_vacuum_cleaner_intro.mp3",
+        "story": "../item-audio/en/object_vacuum_cleaner_story.mp3"
+      }
+    }
+  }
+}

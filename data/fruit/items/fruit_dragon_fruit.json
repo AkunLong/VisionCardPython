@@ -1,0 +1,86 @@
+{
+  "id": "fruit_dragon_fruit",
+  "sku_id": "card_fruit_dragon_fruit",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_pink",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "oval",
+      "sweet",
+      "vine_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "pink"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "scenes": [
+      "tropical",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "火龙果",
+      "aloud": "huǒ lóng guǒ",
+      "words": "dragon fruit",
+      "intro": "火龙果是一种热带水果，穿着粉红色的外衣，上面有绿色的“小叶子”。果肉有白色的或红色的，吃起来甜甜软软的，里面还有像芝麻一样的黑色小种子。",
+      "story": {
+        "title": "🐉小恐龙的火龙果",
+        "body": "小恐龙果果在森林里玩耍，突然发现地上有一个奇怪的东西。它长得粉粉的，身上有好多绿色的鳞片，还翘着一个小尾巴。果果好奇地碰了碰，自言自语：“这是龙蛋吗？”妈妈听到了，走过来说：“这是火龙果，是一种好吃的水果哦！”妈妈拿起刀，轻轻切开火龙果，里面露出了白色的果肉，还有无数小小的黑籽。果果尝了一口，甜甜的汁水在嘴里散开，软软的，滑滑的，还能咬到“咔嚓咔嚓”的小种子。果果开心地跳起来：“火龙果真好吃，原来它不是龙蛋，是甜蜜的水果呀！”果果把火龙果切成小块，和好朋友们一起分享，大家都吃得笑眯眯的。"
+      },
+      "knowledge": {
+        "title": "火龙果长在哪里？",
+        "body": "火龙果是仙人掌科植物的果实，喜欢温暖的地方。它的花朵像仙人掌花一样大，只在晚上开放。火龙果含有丰富的维生素和纤维，能帮助小朋友消化食物。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_dragon_fruit_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_dragon_fruit_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Dragon Fruit",
+      "aloud": "/ˈdræɡən fruːt/",
+      "words": "",
+      "intro": "Dragon fruit is a tropical fruit with a pink peel and green scales. The flesh is white or red, sweet and soft, and full of tiny black seeds. It’s nutritious and delicious.",
+      "story": {
+        "title": "🐉Little Dino's Dragon Fruit",
+        "body": "Little Dino Guoguo was playing in the forest when he found a strange object. It was pink with many green scales and a little tail. Guoguo poked it curiously and said, 'Is this a dragon egg?' His mom heard him and said, 'This is a dragon fruit, a yummy fruit!' Mom cut it open, revealing white flesh and countless tiny black seeds. Guoguo took a bite—sweet juice filled his mouth, soft and smooth, with crunchy seeds. 'So delicious! It’s not a dragon egg, it’s sweet fruit!' Guoguo shared the fruit with his friends, and everyone ate happily."
+      },
+      "knowledge": {
+        "title": "Where does dragon fruit grow?",
+        "body": "Dragon fruit comes from a cactus plant that likes warm places. Its big flowers bloom only at night. It is rich in vitamins and fiber, which helps children digest food."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_dragon_fruit_intro.mp3",
+        "story": "../item-audio/en/fruit_dragon_fruit_story.mp3"
+      }
+    }
+  }
+}

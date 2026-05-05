@@ -1,0 +1,97 @@
+{
+  "id": "transport_pickup_truck",
+  "sku_id": "card_transport_pickup_truck",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "road_vehicle",
+      "can_carry_goods"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_carry_people",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "pickup_truck"
+    ],
+    "color": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "road",
+      "city",
+      "worksite"
+    ],
+    "fuel": [
+      "gasoline",
+      "diesel"
+    ],
+    "features": [
+      "cargo_bed",
+      "wheels",
+      "cab"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "皮卡车",
+      "aloud": "pí kǎ chē",
+      "words": "pickup truck",
+      "intro": "皮卡车是一种前面像小汽车，后面有一个大车斗的车。它既可以坐人，又可以拉货，特别能干！",
+      "story": {
+        "title": "🚚小皮卡帮忙的一天",
+        "body": "早上，小皮卡接到任务：帮农场伯伯送苹果去市场。它哐当哐当地开，车斗里装满了红红的苹果。路上，小兔子挥手说：“能帮我驮一捆胡萝卜吗？”小皮卡爽快地答应了。接着，小熊妈妈请它帮忙运家具，小皮卡又装上了桌子和椅子。它跑了一趟又一趟，虽然有点累，但看到大家开心地拿到东西，自己也笑了。太阳落山前，小皮卡回到车库，抖抖身上的灰，说：“能帮忙真好！明天我还要帮更多人。”然后它打了个哈欠，静静地睡着了。"
+      },
+      "knowledge": {
+        "title": "皮卡车能做什么？",
+        "body": "皮卡车前面有座位，可以坐家人或朋友；后面有个敞开的车斗，可以装水果、家具、工具等。它力气大，又能装，是生活中能干的好帮手。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_pickup_truck_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_pickup_truck_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Pickup Truck",
+      "aloud": "/ˈpɪk.ʌp ˌtrʌk/",
+      "words": "",
+      "intro": "A pickup truck is a vehicle with a cab like a car and an open bed at the back. It can carry both people and cargo, making it very useful!",
+      "story": {
+        "title": "🚚The Little Pickup Truck's Helping Day",
+        "body": "In the morning, the little pickup got a task: carry apples from the farm to the market. Rumble, rumble, it drove off with a bed full of red apples. Along the way, a rabbit waved and said, \"Can you carry a bunch of carrots for me?\" The little pickup agreed happily. Then, Mama Bear asked for help moving furniture, so the truck loaded a table and chairs. It went on trip after trip. Though a bit tired, seeing everyone happy with their things made it smile. Before sunset, the little pickup returned to the garage, shook off the dust, and said, \"Helping feels great! I'll help more people tomorrow.\" Then it yawned and fell quietly asleep."
+      },
+      "knowledge": {
+        "title": "What can a pickup truck do?",
+        "body": "A pickup truck has seats in the front for family or friends, and an open bed at the back for carrying fruits, furniture, tools, and more. It is strong and roomy—a real helper in daily life!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_pickup_truck_intro.mp3",
+        "story": "../item-audio/en/transport_pickup_truck_story.mp3"
+      }
+    }
+  }
+}

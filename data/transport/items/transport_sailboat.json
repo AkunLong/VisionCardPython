@@ -1,0 +1,95 @@
+{
+  "id": "transport_sailboat",
+  "sku_id": "card_transport_sailboat",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "water_transport",
+      "in_water"
+    ],
+    "secondary": [
+      "can_carry_people",
+      "can_float",
+      "small"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "sailboat"
+    ],
+    "color": [
+      "white",
+      "blue"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "sea",
+      "lake",
+      "harbor"
+    ],
+    "fuel": [
+      "wind"
+    ],
+    "features": [
+      "sail",
+      "mast",
+      "hull"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "帆船",
+      "aloud": "fān chuán",
+      "words": "sailboat",
+      "intro": "帆船是一种在水上航行的船，它有一面大大的帆，风吹过来就能让船跑起来。帆船可以带我们去很远很远的地方玩。",
+      "story": {
+        "title": "⛵小白帆的旅行",
+        "body": "今天天气真好，小白帆要出海啦！风爷爷轻轻一吹，小白帆鼓起肚子，慢慢离开了港口。它漂啊漂，看见一群小鱼在船边游来游去，还看见一只海鸥飞过来，停在它的桅杆上休息。海浪轻轻摇，小白帆觉得好舒服。突然，风大了，小白帆跑得快极了，像在比赛一样。不一会儿，风小了，小白帆就慢慢漂。太阳下山了，小白帆回到了港口，它说：“今天真开心，看到了好多新朋友！”月亮出来了，小白帆安安静静地睡觉了，梦里还在海上漂呢。"
+      },
+      "knowledge": {
+        "title": "帆船为什么不用加油？",
+        "body": "帆船是靠风的力量前进的，风把帆吹得鼓鼓的，船就动起来了。它不用汽油，所以很环保，也不会污染大海。只要有风，帆船就能去很多地方，真神奇！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_sailboat_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_sailboat_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Sailboat",
+      "aloud": "/ˈseɪlˌboʊt/",
+      "words": "",
+      "intro": "A sailboat is a boat that moves on water. It has a big sail. When the wind blows, the sail catches the wind and the boat goes. Sailboats can take us on fun trips on the sea.",
+      "story": {
+        "title": "⛵ The Little White Sail's Trip",
+        "body": "Today is a beautiful day! Little White Sail is going out to sea. Grandpa Wind gives a gentle blow, and Little White Sail puffs up its sail and leaves the harbor. It floats along and sees a group of little fish swimming by the boat. It also sees a seagull flying over and landing on its mast for a rest. The waves rock gently, and Little White Sail feels so comfortable. Suddenly, the wind gets stronger! The sailboat races ahead, fast like in a race. After a while, the wind calms down, and Little White Sail drifts slowly. The sun sets, and the boat returns to the harbor. It says, \"Today was so happy! I met many new friends!\" The moon comes out, and Little White Sail goes to sleep quietly, dreaming of floating on the sea."
+      },
+      "knowledge": {
+        "title": "Why Don't Sailboats Need Fuel?",
+        "body": "Sailboats move with the power of the wind. The wind pushes the sail and makes the boat go. They don't need gasoline, so they are very clean and don't pollute the ocean. As long as there is wind, a sailboat can travel to many places. It's amazing!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_sailboat_intro.mp3",
+        "story": "../item-audio/en/transport_sailboat_story.mp3"
+      }
+    }
+  }
+}

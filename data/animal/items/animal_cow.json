@@ -1,0 +1,101 @@
+{
+  "id": "animal_cow",
+  "sku_id": "card_animal_cow",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "farm_animal",
+      "gentle"
+    ],
+    "secondary": [
+      "big",
+      "has_horns",
+      "moo"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "farm"
+    ],
+    "color": [
+      "white",
+      "black"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "horns",
+      "tail",
+      "hooves",
+      "fur"
+    ],
+    "scenes": [
+      "farm",
+      "grassland"
+    ],
+    "actions": [
+      "walk",
+      "eat",
+      "moo"
+    ],
+    "sound": [
+      "moo"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "奶牛",
+      "aloud": "nǎi niú",
+      "words": "cow",
+      "intro": "奶牛是一种温柔的大动物，身上有黑白相间的花纹，头上长着弯弯的角。它们喜欢在草地上慢慢走路，发出“哞哞”的叫声，还会给我们提供好喝的牛奶。",
+      "story": {
+        "title": "🐄奶牛的斑点",
+        "body": "农场里住着一头叫斑斑的奶牛。斑斑身上白白的，还有很多黑黑的斑点，走起路来慢悠悠的。一天早上，斑斑在草地上溜达，忽然它低下头，看见水坑里自己的影子。它歪着头看了看，咦，水里的奶牛怎么少了一块黑斑点？斑斑有点着急，连忙回头看看自己的背。可是它转来转去，怎么也看不清楚。这时，一只小鸟飞过来，笑着说：“你的斑点没丢，只是水坑里被草挡住了。”斑斑松了一口气，又慢悠悠地去吃青草了。太阳暖暖的，斑斑觉得，做一头奶牛真幸福。"
+      },
+      "knowledge": {
+        "title": "奶牛为什么能产奶？",
+        "body": "奶牛妈妈生下小牛后，会分泌出有营养的乳汁来喂养宝宝。人们把一部分牛奶收集起来，经过消毒加工，就成了我们喝的牛奶。奶牛吃的是草，却能变出白白的牛奶，很神奇吧。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_cow_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_cow_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cow",
+      "aloud": "/kaʊ/",
+      "words": "",
+      "intro": "A cow is a gentle big animal with black and white spots, curved horns, and a kind face. They like to walk slowly on the grass, say “moo”, and give us healthy milk.",
+      "story": {
+        "title": "🐄The Cow’s Spots",
+        "body": "There was a cow named Spotty on a farm. Spotty had a white body with many black spots and walked very slowly. One morning, Spotty was strolling on the grass when she looked down and saw her reflection in a puddle. She tilted her head and looked: the cow in the water was missing a black spot! Spotty felt a little worried and quickly turned to look at her back. But she turned and turned and couldn’t see clearly. Just then, a little bird flew by and smiled, “Your spot isn’t lost! The grass just covered it in the puddle.” Spotty sighed with relief and slowly went back to munching green grass. The sun was warm, and Spotty felt very happy to be a cow."
+      },
+      "knowledge": {
+        "title": "Why can cows give milk?",
+        "body": "A mother cow makes nutritious milk to feed her baby calf. Farmers collect some of this milk, clean it, and we get to drink it. Isn’t it amazing that cows eat grass but make white milk?"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_cow_intro.mp3",
+        "story": "../item-audio/en/animal_cow_story.mp3"
+      }
+    }
+  }
+}

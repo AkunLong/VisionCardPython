@@ -1,0 +1,99 @@
+{
+  "id": "plant_rosemary",
+  "sku_id": "card_plant_rosemary",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "herb",
+      "color_green"
+    ],
+    "secondary": [
+      "fragrant",
+      "has_flower",
+      "in_garden"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "herb"
+    ],
+    "color": [
+      "green",
+      "purple"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "leaves",
+      "stems",
+      "flowers",
+      "roots"
+    ],
+    "scenes": [
+      "garden",
+      "balcony",
+      "kitchen"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": true,
+    "is_drinkable": true,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "迷迭香",
+      "aloud": "mí dié xiāng",
+      "words": "rosemary",
+      "intro": "迷迭香是一种香香的绿色小草，叶子细细长长的。轻轻摸一摸，手上就会有清香。它可以做菜、泡茶，还会开出小小的紫色花儿呢。",
+      "story": {
+        "title": "🌿迷迭香的小秘密",
+        "body": "阳台上，有一盆迷迭香。夏天来了，太阳火辣辣的，小叶子们热得卷了起来。小主人给它们喝了水，还轻轻摸摸叶子说：“你们好香呀！”迷迭香开心地摇了摇身子。晚上，妈妈摘下几根迷迭香放进鱼汤里，汤变得特别好喝。有一天，迷迭香开花了，一朵朵紫色的小花像星星一样。小蜜蜂飞来采蜜，嗡嗡嗡地唱歌。迷迭香想：原来我不仅能让人闻到香味，还能开出这么好看的花，给大家带来快乐。从此，它更加努力地生长，叶子更绿，花香更浓了。"
+      },
+      "knowledge": {
+        "title": "迷迭香有什么本领？",
+        "body": "迷迭香的叶子香香的，能帮饭菜变好吃，还能泡成香香的茶。它的香味能让人心情变好，记住更多事情。而且它还能开出美丽的小紫花，吸引小蜜蜂来玩耍。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_rosemary_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_rosemary_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Rosemary",
+      "aloud": "/ˈroʊzˌmɛri/",
+      "words": "",
+      "intro": "Rosemary is a fragrant green herb with thin, long leaves. When you touch it gently, a lovely scent stays on your hand. It can be used in cooking and tea, and it grows tiny purple flowers.",
+      "story": {
+        "title": "🌿Rosemary's Little Secret",
+        "body": "On the balcony was a pot of rosemary. In summer, the sun was hot and the little leaves curled up. The little owner gave them water and gently touched the leaves, saying, “You smell so good!” Rosemary shook happily. At night, Mom picked some rosemary and added it to the fish soup, making the soup extra delicious. One day, rosemary bloomed with tiny purple flowers like stars. A little bee came to collect nectar and buzzed a song. Rosemary thought: I can not only smell nice but also bloom such pretty flowers and bring joy to everyone. From then on, it grew even stronger, with greener leaves and a richer scent."
+      },
+      "knowledge": {
+        "title": "What can rosemary do?",
+        "body": "Rosemary leaves smell wonderful and can make food tastier, and can be brewed into fragrant tea. Its scent can lift your mood and help you remember things. Plus, it blooms beautiful little purple flowers that attract bees to play."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_rosemary_intro.mp3",
+        "story": "../item-audio/en/plant_rosemary_story.mp3"
+      }
+    }
+  }
+}

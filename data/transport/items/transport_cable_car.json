@@ -1,0 +1,95 @@
+{
+  "id": "transport_cable_car",
+  "sku_id": "card_transport_cable_car",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "public_transport",
+      "in_sky"
+    ],
+    "secondary": [
+      "can_carry_people",
+      "safe",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "cable_car"
+    ],
+    "color": [
+      "red",
+      "yellow",
+      "blue"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "mountain",
+      "cable_station",
+      "scenic_area"
+    ],
+    "fuel": [
+      "electricity"
+    ],
+    "features": [
+      "cabin",
+      "cable"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "缆车",
+      "aloud": "lǎn chē",
+      "words": "cable car",
+      "intro": "缆车是一种挂在高高铁索上的小房子，能带着人们飞过高山和大河。它慢慢走，稳稳的，可以看到好远好远的风景。",
+      "story": {
+        "title": "🚡小红缆车看世界",
+        "body": "清晨，小红缆车挂上索道，出发啦！第一波上来的是爷爷奶奶，他们笑呵呵地说：“能坐着看山，真舒服。”小红慢慢升到半空，白云飘在身边，一只小鸟飞过来打招呼。接着，上来一群小朋友，他们趴在窗边，指着山下大喊：“看，房子像积木！”小红心里美美的。后来，一位叔叔扛着大背包上来，他说要去山顶看日落。小红载着他穿过树林尖尖，越过小溪弯弯。一整天，小红上上下下，看到不同的笑脸和风景。夕阳把天空染成橘子色，小红回到站台，安静地摇一摇，说：“明天我还要带大家看更多美丽的地方。”"
+      },
+      "knowledge": {
+        "title": "缆车有什么好处？",
+        "body": "缆车可以轻松爬上陡峭的高山，不用费力走路。它一次能带好多人，又安全又看得远。有了缆车，老人和小孩也能到山顶看风景，真是登山的翅膀！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_cable_car_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_cable_car_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cable Car",
+      "aloud": "/ˈkeɪbəl kɑːr/",
+      "words": "",
+      "intro": "A cable car is a little house hanging from a high wire. It takes people over mountains and rivers, moving slowly and safely. You can see far, far away from its windows.",
+      "story": {
+        "title": "🚡Little Red Cable Car Sees the World",
+        "body": "Early in the morning, Little Red Cable Car hooked onto the cable and set off! The first riders were grandparents. They smiled and said, “So comfy to see the mountains while sitting.” Little Red rose into the air, with white clouds floating nearby. A little bird flew by to say hello. Next, a group of children hopped on. They pressed against the windows and shouted, “Look, the houses are like toy blocks!” Little Red felt so proud. Later, a man with a big backpack got on. He said he wanted to watch the sunset from the mountaintop. Little Red carried him through the tips of trees and over curving streams. All day long, Little Red went up and down, seeing different smiles and sights. As the sunset turned the sky orange, Little Red returned to the station and swayed gently, whispering, “Tomorrow I’ll show everyone even more beautiful places.”"
+      },
+      "knowledge": {
+        "title": "Why are cable cars good?",
+        "body": "Cable cars can easily climb steep mountains without much effort. They carry many people at once, and they are safe and offer great views. With cable cars, even the elderly and children can reach the mountaintop—truly wings for climbing!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_cable_car_intro.mp3",
+        "story": "../item-audio/en/transport_cable_car_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_green_onion",
+  "sku_id": "card_vegetable_green_onion",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "leafy_vegetable"
+    ],
+    "secondary": [
+      "long",
+      "spicy",
+      "fragrant"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green",
+      "white"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "spicy"
+    ],
+    "grow_location": [
+      "underground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "大葱",
+      "aloud": "dà cōng",
+      "words": "green onion",
+      "intro": "大葱是一种长长的蔬菜，下面是白白的，上面是绿绿的，闻起来香香的，吃起来有点辣辣的。它长在泥土里，可以炒菜、煮汤，味道可好啦！",
+      "story": {
+        "title": "🧅大葱的香气",
+        "body": "小兔子跟着妈妈去菜园，看见一丛绿绿的大葱，白白的茎笔直地站着。小兔子轻轻拔了一根，闻到一股特别的清香。兔妈妈说：晚上我们用大葱做一锅香香的汤吧！小兔子帮忙洗葱，可是刚凑近，就打了一个大喷嚏，逗得妈妈哈哈大笑。傍晚，厨房里飘出葱花的香气，一家人围坐喝汤，又鲜又暖。小兔子说：大葱的香味真神奇，让汤变得这么好喝！妈妈摸摸它的头：是呀，大葱虽然普通，却能带来大大的幸福。"
+      },
+      "knowledge": {
+        "title": "吃大葱有什么好处？",
+        "body": "大葱含有维生素和特别的香味，可以帮助我们的身体打败小细菌，让我们不容易感冒。它还能让饭菜变得更香，吃起来更有滋味哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_green_onion_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_green_onion_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Green Onion",
+      "aloud": "/ɡriːn ˈʌnjən/",
+      "words": "",
+      "intro": "A green onion is a long vegetable with a white bottom and green top. It smells fragrant and tastes a little spicy. It grows in the soil and is used in cooking to make food tasty.",
+      "story": {
+        "title": "🧅The Fragrant Green Onion",
+        "body": "Little Rabbit followed Mama Rabbit to the garden and saw a bunch of green onions standing tall with white stems. Little Rabbit gently pulled one and sniffed its fresh, sharp scent. Mama Rabbit said, 'Let's make a pot of soup tonight!' Little Rabbit helped wash the onions, but when she got too close, she let out a big sneeze, making Mama laugh. In the evening, the kitchen was filled with the aroma of green onions. The family sat together, sipping the warm soup. Little Rabbit said, 'The smell of green onions is so magical – it makes the soup so delicious!' Mama patted her head and said, 'Yes, even a simple green onion can bring big happiness.'"
+      },
+      "knowledge": {
+        "title": "Why is eating green onions good for you?",
+        "body": "Green onions have vitamins and a special fragrance that help your body fight off little germs, so you get sick less often. They also make your food smell wonderful and taste even better!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_green_onion_intro.mp3",
+        "story": "../item-audio/en/vegetable_green_onion_story.mp3"
+      }
+    }
+  }
+}

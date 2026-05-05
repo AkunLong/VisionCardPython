@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_t",
+  "sku_id": "card_number_t",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "letter_stage",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 20,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "20th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母T",
+      "aloud": "tì",
+      "words": "t",
+      "intro": "字母T是英文字母表里的大写字母，它的形状像一棵大树，也像一把雨伞。让我们一起认识它吧！",
+      "story": {
+        "title": "🌳T像大树",
+        "body": "小朋友，你看，大写字母T像什么？像一棵高高的大树！树干笔直笔直的，上面伸开两根粗粗的树枝。春天来了，树枝上长出绿绿的叶子。小鸟在树枝上唱歌。夏天，大树给我们挡住火辣辣的太阳。秋天，树叶变黄了，一片一片飘下来。冬天，树枝光秃秃的，但是树根还在睡觉。字母T真有趣，它就是我们学习字母的好朋友！"
+      },
+      "knowledge": {
+        "title": "字母T的发音是什么？",
+        "body": "字母T发/t/的音，像轻轻敲东西的声音。发这个音时，舌尖轻轻碰一下上牙齿的后面，然后弹开。很多好玩的词语里都有T，比如“太阳”、“糖果”和“兔子”。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_t_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_t_story.mp3"
+      }
+    },
+    "en": {
+      "name": "T",
+      "aloud": "/tiː/",
+      "words": "",
+      "intro": "T is a big letter in the alphabet. It looks like a tall tree or an umbrella. Let's learn about it!",
+      "story": {
+        "title": "🌳T is for Tree",
+        "body": "Look, children! The uppercase letter T looks like a tall tree. The trunk stands straight and strong, with two big branches spreading out at the top. In spring, little green leaves pop out on the branches. Birds come and sing sweet songs. In summer, the tree gives us cool shade from the hot sun. In autumn, the leaves turn yellow and fall down one by one. In winter, the branches are bare, but the roots are sleeping underground. The letter T is so much fun! It’s our good friend in learning the alphabet!"
+      },
+      "knowledge": {
+        "title": "How does the letter T sound?",
+        "body": "The letter T makes a /t/ sound, like a light tapping noise. To make this sound, touch the tip of your tongue to the back of your top teeth and then pop it away. Many fun words have T, like 'tiger', 'train', and 'teddy'."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_t_intro.mp3",
+        "story": "../item-audio/en/number_letter_t_story.mp3"
+      }
+    }
+  }
+}

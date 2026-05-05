@@ -1,0 +1,99 @@
+{
+  "id": "plant_masson_pine",
+  "sku_id": "card_plant_masson_pine",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "color_green"
+    ],
+    "secondary": [
+      "has_trunk",
+      "has_leaf",
+      "in_forest"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "trunk",
+      "branches",
+      "leaves",
+      "roots"
+    ],
+    "scenes": [
+      "forest",
+      "park",
+      "roadside"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "马尾松",
+      "aloud": "mǎ wěi sōng",
+      "words": "pine",
+      "intro": "马尾松长得高高的，树皮棕棕的，叶子像针一样尖尖的。它不怕热也不怕冷，一年四季都是绿绿的，是小动物们的好朋友。",
+      "story": {
+        "title": "🌲小松鼠和马尾松",
+        "body": "森林边有一棵高高的马尾松，它有很多尖尖的绿叶子。有一天，一只小松鼠跑过来，对马尾松说：‘我能住在你这里吗？’马尾松摇摇树枝说：‘欢迎你呀！’小松鼠在树枝上跳来跳去，找到了一个舒服的地方，它把松果藏在这里当食物。秋天到了，风呼呼地吹，小松鼠有点怕冷，马尾松用密密的叶子帮它挡风。小松鼠觉得好暖和。冬天，马尾松还是绿绿的，小松鼠就在旁边玩游戏。它们成了最好的朋友，每天都开心的在一起。"
+      },
+      "knowledge": {
+        "title": "马尾松有什么用处？",
+        "body": "马尾松的木头硬硬的，可以造小房子和做家具。它的叶子细细尖尖的，可以做成有香味的枕头。树上还会长出松果，小松鼠很喜欢吃里面的松子。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_masson_pine_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_masson_pine_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Masson Pine",
+      "aloud": "/ˈmæsən paɪn/",
+      "words": "",
+      "intro": "This pine tree is tall, with brown bark and pointy needle leaves. It stays green all year, and is a good friend to the animals in the forest.",
+      "story": {
+        "title": "🌲The Little Squirrel and the Masson Pine",
+        "body": "Near the forest stood a tall Masson pine with many pointy green leaves. One day, a little squirrel came and asked, 'May I live here?' The pine waved its branches and said, 'Welcome!' The squirrel jumped happily and found a cozy spot among the branches. It hid pine cones for food. When autumn winds blew cold, the pine used its thick leaves to keep the squirrel warm. In winter, the pine was still green, and the squirrel played nearby. They became best friends and were happy together every day."
+      },
+      "knowledge": {
+        "title": "What are Masson pines good for?",
+        "body": "The wood of the Masson pine is strong and can be used to build houses and make furniture. Its needle leaves can be turned into scented pillows. The tree also grows pine cones, and squirrels love the pine nuts inside."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_masson_pine_intro.mp3",
+        "story": "../item-audio/en/plant_masson_pine_story.mp3"
+      }
+    }
+  }
+}

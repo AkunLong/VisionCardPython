@@ -1,0 +1,90 @@
+{
+  "id": "food_coffee",
+  "sku_id": "card_food_coffee",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "drink",
+      "color_brown",
+      "drinkable"
+    ],
+    "secondary": [
+      "hot_food",
+      "at_breakfast",
+      "western_food"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "drink"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "bitter"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "cafe",
+      "office"
+    ],
+    "is_edible": false,
+    "is_drinkable": true,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "咖啡",
+      "aloud": "kā fēi",
+      "words": "coffee",
+      "intro": "咖啡是大人喜欢喝的一种饮料，闻起来香香的，颜色是深棕色的。它可以让我们早上更有精神。",
+      "story": {
+        "title": "☕小咖啡豆的旅行",
+        "body": "小豆豆是一颗咖啡豆，它长在很远很远的山坡上。那里有高高的树，还有温暖的风。小豆豆和好多兄弟姐妹一起，在阳光下长大。有一天，农夫叔叔把它们摘下来，洗得干干净净，然后放在太阳下晒啊晒。晒干了，它们被送进一个大机器里，转啊转，脱掉了外衣，变成了生的咖啡豆。接着，它们又被放到一个热热的锅里，炒啊炒，颜色慢慢变深，香味也飘出来了。最后，它们被磨成粉，放进咖啡壶，倒上热水，就变成了一杯香浓的咖啡。虽然有点苦，但是大人喜欢它。"
+      },
+      "knowledge": {
+        "title": "咖啡是怎么来的？",
+        "body": "咖啡豆是咖啡树的种子，成熟后采摘下来，经过晾晒、去皮、烘焙，再磨成粉，用热水冲泡，就得到好喝的咖啡啦。咖啡最早来自遥远的非洲。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_coffee_intro.mp3",
+        "story": "../item-audio/zh-CN/food_coffee_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Coffee",
+      "aloud": "/ˈkɒfi/",
+      "words": "",
+      "intro": "Coffee is a drink that grown-ups like. It smells wonderful and has a dark brown color. It can help us feel awake in the morning.",
+      "story": {
+        "title": "☕ The Little Coffee Bean",
+        "body": "Little Bean is a coffee bean. It grew on a faraway hillside, where there were tall trees and warm winds. Little Bean and many brothers and sisters grew together under the sun. One day, the farmer picked them, washed them clean, and laid them in the sun to dry. After drying, they went into a big machine that spun around and took off their coats, turning them into green coffee beans. Then they were put into a hot pan and stirred. Slowly, their color deepened and a lovely smell came out. Finally, they were ground into powder, put in a pot, and hot water was poured over them, making a fragrant cup of coffee. It's a little bitter, but grown-ups love it."
+      },
+      "knowledge": {
+        "title": "Where does coffee come from?",
+        "body": "Coffee beans are the seeds of the coffee tree. After they are picked, they are dried, hulled, roasted, and ground into powder. Then hot water is poured over the ground coffee to make the drink we love. Coffee originally comes from Africa."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_coffee_intro.mp3",
+        "story": "../item-audio/en/food_coffee_story.mp3"
+      }
+    }
+  }
+}

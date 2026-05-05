@@ -1,0 +1,90 @@
+{
+  "id": "flower_lily",
+  "sku_id": "card_flower_lily",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_white",
+      "fragrant"
+    ],
+    "secondary": [
+      "bell_shape",
+      "potted_flower",
+      "spring_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "white"
+    ],
+    "size": [
+      "tall"
+    ],
+    "scenes": [
+      "garden",
+      "balcony",
+      "indoor"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "smell": [
+      "strong"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "百合",
+      "aloud": "bǎi hé",
+      "words": "lily",
+      "intro": "百合是一种美丽的花，花瓣大大的，颜色洁白，闻起来香香的。它常常被种在花盆里或者花园中。",
+      "story": {
+        "title": "🌺小百合开花啦",
+        "body": "花园的角落里，有一个圆圆的小球，那是百合花的种子。春天来了，小球喝饱了雨水，慢慢伸出绿绿的小芽。小芽一天天长高，长出了好多绿叶子。有一天，顶端冒出了一个小花苞。小花苞一天比一天大，终于在一个温暖的早晨，张开了洁白的花瓣。哇，好漂亮啊！花瓣像小喇叭，中间还有黄黄的花蕊。风一吹，阵阵香气飘散开来，引来了小蝴蝶和小蜜蜂。小百合开心地说：欢迎你们来我家做客！"
+      },
+      "knowledge": {
+        "title": "百合花是怎么长的？",
+        "body": "百合花从地下的球茎里长出来。球茎就像一个小仓库，存满了营养。春天温暖时，球茎发出芽，慢慢长成高高的茎和花。花开完以后，球茎会再存营养，明年又能开花。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_lily_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_lily_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Lily",
+      "aloud": "/ˈlɪli/",
+      "words": "",
+      "intro": "Lily is a beautiful flower with big white petals and a lovely fragrance. It is often grown in pots or gardens.",
+      "story": {
+        "title": "🌺The Little Lily Blooms",
+        "body": "In the corner of the garden, there was a round little ball—it was a lily bulb. When spring came, the little bulb drank lots of rain and slowly sent out a green sprout. Day by day, the sprout grew taller and put out many green leaves. One day, a little bud appeared at the top. The bud grew bigger and bigger, and finally, on a warm morning, it opened into pure white petals. Wow, how beautiful! The petals looked like little trumpets with yellow stamens inside. When the wind blew, sweet fragrance spread around, attracting little butterflies and bees. The little lily said happily, Welcome to my home!"
+      },
+      "knowledge": {
+        "title": "How does a lily grow?",
+        "body": "Lilies grow from bulbs underground. The bulb is like a little storeroom full of nutrients. When it gets warm in spring, the bulb sprouts and slowly grows into a tall stem and flowers. After blooming, the bulb stores more nutrients so it can bloom again next year."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_lily_intro.mp3",
+        "story": "../item-audio/en/flower_lily_story.mp3"
+      }
+    }
+  }
+}

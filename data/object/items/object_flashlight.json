@@ -1,0 +1,91 @@
+{
+  "id": "object_flashlight",
+  "sku_id": "card_object_flashlight",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "electronic_item",
+      "color_black"
+    ],
+    "secondary": [
+      "at_home",
+      "can_light",
+      "long"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "black",
+      "yellow"
+    ],
+    "shape": [
+      "long",
+      "round"
+    ],
+    "material": [
+      "plastic"
+    ],
+    "scenes": [
+      "home",
+      "school",
+      "outdoor"
+    ],
+    "function": [
+      "provide_light"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "手电筒",
+      "aloud": "shǒu diàn tǒng",
+      "words": "flashlight",
+      "intro": "手电筒可以发出明亮的光，帮我们在黑暗中看清东西。它像一个小小的光使者，一按开关就会亮起来。",
+      "story": {
+        "title": "🔦小电筒找朋友",
+        "body": "冬天快到了，小主人要找一个丢失的玩具熊。屋里黑黑的，小主人很着急。这时，手电筒跳了出来，拍拍胸脯说：“别怕，我来帮你！”它“咔嗒”一声亮了起来，一束光像长长的胳膊伸向床底。“找到啦！”玩具熊正躲在床下睡大觉呢。小主人抱起玩具熊，亲了亲手电筒：“谢谢你，小电筒，你真是黑暗里的小英雄！”手电筒害羞地眨眨眼，心里暖暖的。从此以后，每到夜晚，手电筒就守在小主人床边，随时准备照亮每一个角落。"
+      },
+      "knowledge": {
+        "title": "手电筒为什么能发光？",
+        "body": "手电筒里面有电池和灯泡。按下开关，电池的电就流到灯泡里，灯泡就会发出光来。它像一个小小的太阳，帮我们在黑暗里看见东西。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_flashlight_intro.mp3",
+        "story": "../item-audio/zh-CN/object_flashlight_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Flashlight",
+      "aloud": "/ˈflæʃlaɪt/",
+      "words": "",
+      "intro": "A flashlight gives us light in the dark. It has a button, and when you press it, it shines brightly.",
+      "story": {
+        "title": "🔦Little Flashlight Finds a Friend",
+        "body": "One evening, Lily couldn't find her teddy bear. The room was dark and she was scared. Suddenly, Flashlight hopped off the table and said, 'Don't worry! I'll help you!' Click! It turned on and sent a beam of light under the bed. 'Found you!' There was Teddy, sleeping soundly. Lily hugged Teddy tight and kissed Flashlight. 'Thank you, Flashlight, you're a dark-night hero!' Flashlight glowed with happiness. The next night, Flashlight helped Lily find her missing sock. It became her brave helper, always ready to light the way."
+      },
+      "knowledge": {
+        "title": "How does a flashlight work?",
+        "body": "A flashlight has batteries and a bulb inside. When you press the switch, the batteries send electricity to the bulb, making it glow. It's like a tiny sun in your hand, helping you see in the dark."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_flashlight_intro.mp3",
+        "story": "../item-audio/en/object_flashlight_story.mp3"
+      }
+    }
+  }
+}

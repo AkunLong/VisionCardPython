@@ -1,0 +1,97 @@
+{
+  "id": "person_electrician",
+  "sku_id": "card_person_electrician",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "build_repair"
+    ],
+    "secondary": [
+      "adult",
+      "worker_job",
+      "at_workplace"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "electrician"
+    ],
+    "workplace": [
+      "home",
+      "office",
+      "construction site"
+    ],
+    "tools": [
+      "screwdriver",
+      "pliers",
+      "voltage tester",
+      "wire stripper"
+    ],
+    "clothing": [
+      "hard hat",
+      "safety gloves",
+      "work boots"
+    ],
+    "actions": [
+      "install",
+      "repair",
+      "test",
+      "inspect"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "电工",
+      "aloud": "diàn gōng",
+      "words": "electrician",
+      "intro": "电工是修理电线和电器的人。当家里的电灯不亮了，或者插座坏了，电工叔叔会来帮忙，让电恢复正常。",
+      "story": {
+        "title": "💡小企鹅家电灯亮了",
+        "body": "小企鹅家里突然黑了，原来是电灯不亮了。企鹅妈妈打电话请电工海狸来帮忙。海狸叔叔背着工具包来了，他头戴安全帽，脚穿绝缘鞋。先用试电笔检查插座，又用螺丝刀拧开开关面板，发现是里面一根电线松了。海狸叔叔小心地把线接好，再打开开关，灯亮了！小企鹅高兴地拍翅膀：“海狸叔叔真厉害！”海狸叔叔笑着说：“用电要注意安全，不能自己动电线哦。”"
+      },
+      "knowledge": {
+        "title": "电工用什么工具？",
+        "body": "电工有很多工具：试电笔能检测是否有电，螺丝刀可以拧螺丝，剥线钳用来剥开电线外皮，绝缘胶带能保护连接处。电工工作时会戴安全帽和绝缘手套，保护自己不触电。记住，小朋友千万不能自己碰电哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_electrician_intro.mp3",
+        "story": "../item-audio/zh-CN/person_electrician_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Electrician",
+      "aloud": "/ɪˌlekˈtrɪʃən/",
+      "words": "",
+      "intro": "An electrician is someone who fixes wires and electrical things. When the lights go out or a socket breaks at home, the electrician comes to help get the electricity working again.",
+      "story": {
+        "title": "💡The Little Penguin's Light Comes Back",
+        "body": "Little Penguin's home went dark—the lamp didn't work. Mama Penguin called Electrician Beaver for help. Uncle Beaver came with his tool bag, wearing a hard hat and insulated boots. First, he used a voltage tester to check the outlet, then unscrewed the switch cover with a screwdriver and found a loose wire inside. Carefully, Uncle Beaver reconnected the wire, flipped the switch, and the light came on! Little Penguin clapped his wings happily: 'Uncle Beaver, you're amazing!' Uncle Beaver smiled: 'Remember, electricity is safe only when handled by grown-ups. Never touch wires yourself.'"
+      },
+      "knowledge": {
+        "title": "What tools does an electrician use?",
+        "body": "Electricians use many tools: a voltage tester checks for electricity, a screwdriver tightens screws, wire strippers remove insulation, and electrical tape protects connections. They wear hard hats and insulated gloves to stay safe. Remember, never touch electrical outlets or wires—always ask an adult for help!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_electrician_intro.mp3",
+        "story": "../item-audio/en/person_electrician_story.mp3"
+      }
+    }
+  }
+}

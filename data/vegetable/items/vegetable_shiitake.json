@@ -1,0 +1,89 @@
+{
+  "id": "vegetable_shiitake",
+  "sku_id": "card_vegetable_shiitake",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_brown",
+      "mushroom_vegetable"
+    ],
+    "secondary": [
+      "fragrant",
+      "soft",
+      "can_cook"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "brown"
+    ],
+    "shape": [
+      "flower_shape"
+    ],
+    "taste": [
+      "fragrant"
+    ],
+    "grow_location": [
+      "on wood"
+    ],
+    "scenes": [
+      "in_kitchen",
+      "on_table",
+      "in_soup"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "香菇",
+      "aloud": "xiāng gū",
+      "words": "shiitake",
+      "intro": "香菇是一种棕色的蘑菇，长得像一把小伞。它闻起来香香的，吃起来软软的，很有营养哦。",
+      "story": {
+        "title": "🍄小香菇的旅行",
+        "body": "森林里，一场小雨过后，小兔子在木头上发现了一朵小香菇。小香菇撑着棕色的小伞，散发出淡淡的香味。小兔子轻轻把它采下来，带回家给妈妈。兔妈妈高兴地说：“这是香菇，可以做美味的汤哦！”她把香菇洗干净，放进咕嘟咕嘟的锅里。不一会儿，厨房里飘满了香气。小兔子和小伙伴们一起喝了香菇汤，大家都说：“真好喝呀！”小香菇虽然离开了木头，却变成了温暖的美味，让大家快乐地在一起。"
+      },
+      "knowledge": {
+        "title": "吃香菇有什么好处？",
+        "body": "香菇含有丰富的营养，能帮助小朋友长身体，增强抵抗力。它味道鲜美，可以煮汤、炒菜，宝宝吃了身体棒！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_shiitake_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_shiitake_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Shiitake",
+      "aloud": "/ʃɪˈtɑːki/",
+      "words": "",
+      "intro": "Shiitake is a brown mushroom that looks like a small umbrella. It smells nice and is soft to eat. It is very healthy for you.",
+      "story": {
+        "title": "🍄The Little Shiitake's Journey",
+        "body": "After a light rain in the forest, a little rabbit found a small shiitake on a log. The brown mushroom held up its little umbrella and gave off a gentle fragrance. The rabbit carefully picked it and brought it home to his mother. Mama rabbit said happily, 'This is shiitake! We can make yummy soup with it.' She washed the mushroom and put it into the bubbling pot. Soon, the kitchen was filled with a lovely aroma. The rabbit and his friends shared the shiitake soup. Everyone said, 'So delicious!' Even though the little shiitake left its log, it turned into a warm treat that brought everyone together."
+      },
+      "knowledge": {
+        "title": "Why is eating shiitake good for you?",
+        "body": "Shiitake mushrooms are full of nutrients that help children grow strong and healthy. They taste wonderful in soups and stir-fries, making meals both delicious and good for you."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_shiitake_intro.mp3",
+        "story": "../item-audio/en/vegetable_shiitake_story.mp3"
+      }
+    }
+  }
+}

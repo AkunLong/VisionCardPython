@@ -1,0 +1,103 @@
+{
+  "id": "animal_sea_lion",
+  "sku_id": "card_animal_sea_lion",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "sea_animal",
+      "clever"
+    ],
+    "secondary": [
+      "can_swim",
+      "has_fur",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "marine"
+    ],
+    "color": [
+      "brown",
+      "gray"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "fur",
+      "flippers",
+      "whiskers",
+      "tail"
+    ],
+    "scenes": [
+      "ocean",
+      "beach",
+      "rock"
+    ],
+    "actions": [
+      "swim",
+      "dive",
+      "walk",
+      "bark"
+    ],
+    "sound": [
+      "bark"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "海狮",
+      "aloud": "hǎi shī",
+      "words": "sea lion",
+      "intro": "海狮是一种生活在海洋里的哺乳动物，身上有短短的毛，长着圆圆的脑袋和长长的胡须。海狮很聪明，会顶球、拍手，还会发出响亮的叫声。",
+      "story": {
+        "title": "🐟小海狮学游泳",
+        "body": "小海狮斑斑刚出生不久，还不太会游泳。海狮妈妈温柔地用鼻子碰碰它，带着它慢慢走进大海。海水凉凉的，斑斑有点害怕。妈妈在它身边游来游去，用鳍轻轻拍水，好像在说：“别怕，跟我来。”斑斑鼓起勇气，学着妈妈的样子摆动前鳍，小尾巴摇呀摇。一开始，它只能漂在水面上，慢慢地，它学会了潜水，看到了彩色的鱼群和摇摆的海草。斑斑高兴地跃出水面，转了个圈，溅起一片水花。太阳暖暖地照在沙滩上，斑斑游累了，爬上一块大岩石，挨着妈妈，闭上眼睛，做了一个甜甜的梦。"
+      },
+      "knowledge": {
+        "title": "海狮为什么能顶球？",
+        "body": "海狮很聪明，经过训练可以顶球、拍手。它们在海洋馆里表演，是因为喜欢得到食物奖励。海狮用胡须感受水流，用前鳍游泳和走路，还能在水里灵活地转圈。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_sea_lion_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_sea_lion_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Sea Lion",
+      "aloud": "/ˈsiː ˌlaɪən/",
+      "words": "",
+      "intro": "A sea lion is a marine mammal with short fur, a round head, and long whiskers. Sea lions are clever and can balance balls, clap, and make loud barking sounds.",
+      "story": {
+        "title": "🐟The Little Sea Lion Learns to Swim",
+        "body": "Banban the little sea lion was just born and didn’t know how to swim yet. His mother gently nudged him with her nose and slowly led him into the ocean. The water felt cool, and Banban was a little scared. His mother swam around him, softly splashing with her flippers as if to say, “Don’t be afraid, follow me.” Banban gathered his courage, moved his front flippers like mom, and wagged his little tail. At first, he just floated, but soon he learned to dive and saw colorful fish and swaying seaweed. Banban happily jumped out of the water, spun around, and made a splash. The sun warmed the beach, and after swimming, Banban climbed onto a big rock, snuggled close to his mom, closed his eyes, and had a sweet dream."
+      },
+      "knowledge": {
+        "title": "Why can sea lions balance balls?",
+        "body": "Sea lions are very smart. With training, they can balance balls and clap. They perform in ocean parks because they enjoy getting food treats. Sea lions use their whiskers to feel water movements, swim and walk with their front flippers, and can spin nimbly in the water."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_sea_lion_intro.mp3",
+        "story": "../item-audio/en/animal_sea_lion_story.mp3"
+      }
+    }
+  }
+}

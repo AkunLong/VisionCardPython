@@ -1,0 +1,92 @@
+{
+  "id": "plant_pothos",
+  "sku_id": "card_plant_pothos",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "potted_plant",
+      "color_green"
+    ],
+    "secondary": [
+      "has_leaf",
+      "at_home",
+      "can_grow"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "vine"
+    ],
+    "color": [
+      "green"
+    ],
+    "size": [
+      "trailing"
+    ],
+    "parts": [
+      "leaves",
+      "stems",
+      "roots"
+    ],
+    "scenes": [
+      "indoor"
+    ],
+    "season": [
+      "all_year"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "绿萝",
+      "aloud": "lǜ luó",
+      "words": "pothos",
+      "intro": "绿萝有绿绿的叶子，像一颗颗小爱心。它喜欢住在家里，长长的藤蔓从花盆里垂下来，好像绿色的瀑布。它给我们带来新鲜空气，让房间变得更漂亮。",
+      "story": {
+        "title": "🌿绿萝的小旅行",
+        "body": "客厅的角落里，有一盆绿萝，它叫小绿。每天，小绿都看着窗外，心想：外面的世界是什么样呢？一天，它鼓起勇气，慢慢伸出最长的藤蔓。藤蔓爬呀爬，爬过了沙发，爬上了窗台。哇！阳光暖暖的，微风轻轻的。一只小鸟飞过来，停在窗边：“嗨，你的叶子真漂亮！”小绿害羞地摇了摇叶子。小鸟给小绿讲远方的故事，小绿听得入了迷。到了晚上，小绿又悄悄缩回藤蔓，心里美滋滋的。它想：虽然我不能走出去，但我的藤蔓可以带我看到更多风景。从那天起，小绿每天都努力生长，藤蔓越来越长，绿叶子也越来越多。全家人看到它，都开心地笑了，说：“小绿让我们的家更有生气啦！”"
+      },
+      "knowledge": {
+        "title": "绿萝有什么用？",
+        "body": "绿萝可以净化空气，吸收房间里的异味，让我们呼吸更健康。它很好养，不用天天浇水，绿油油的叶子还能让眼睛放松，心情变好。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_pothos_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_pothos_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Pothos",
+      "aloud": "/ˈpoʊθɒs/",
+      "words": "",
+      "intro": "Pothos has lovely green leaves shaped like hearts. It loves living indoors, with long vines trailing down from its pot like a green waterfall. It brings fresh air and makes your room more beautiful.",
+      "story": {
+        "title": "🌿Pothos's Little Adventure",
+        "body": "In the corner of the living room, there was a pothos plant named Little Green. Every day, Little Green looked out the window and wondered, 'What is the world outside like?' One day, it grew braver and stretched out its longest vine. The vine crept and crawled, over the sofa, and up the windowsill. Wow! The sun was warm, and the breeze was gentle. A little bird flew over and perched by the window. 'Hi, your leaves are so pretty!' said the bird. Little Green shyly shook its leaves. The bird told stories of faraway places, and Little Green listened, fascinated. When night came, Little Green quietly pulled its vine back, feeling happy inside. It thought, 'Even though I can't go outside, my vines can show me more sights.' From that day on, Little Green grew with all its might, its vines longer and leaves greener than ever. The whole family saw it and smiled, saying, 'Little Green makes our home so lively!'"
+      },
+      "knowledge": {
+        "title": "What are pothos good for?",
+        "body": "Pothos cleans the air by absorbing bad smells, making it healthier to breathe. It's easy to care for and doesn't need daily watering. Its green leaves also help relax your eyes and lift your mood."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_pothos_intro.mp3",
+        "story": "../item-audio/en/plant_pothos_story.mp3"
+      }
+    }
+  }
+}

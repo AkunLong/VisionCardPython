@@ -1,0 +1,92 @@
+{
+  "id": "vegetable_winter_melon",
+  "sku_id": "card_vegetable_winter_melon",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "melon_vegetable",
+      "color_white"
+    ],
+    "secondary": [
+      "soft",
+      "juicy",
+      "sweet"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "white"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "soft",
+      "juicy"
+    ],
+    "grow_location": [
+      "on the vine on the ground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "冬瓜",
+      "aloud": "dōng guā",
+      "words": "winter melon",
+      "intro": "冬瓜是一种大大的蔬菜，皮绿绿的或者白白的，里面是白色的，吃起来软软的、水水的。它长在藤上，可以煮汤或者炒菜，很好吃。",
+      "story": {
+        "title": "🥒大冬瓜",
+        "body": "夏天到了，小兔子在菜园里发现了一个圆滚滚的大冬瓜。它抱了抱，抱不动，就叫来小松鼠一起推。它们嘿哟嘿哟，把冬瓜滚回了家。兔妈妈把冬瓜切开，露出白白的瓤，切成小块放进锅里煮汤。咕嘟咕嘟，汤的香味飘了出来。小兔子和小松鼠喝着暖暖的冬瓜汤，肚子饱饱的，心里甜甜的。小松鼠说：“冬瓜真神奇，这么大，还能变得这么好吃！”小兔子点点头：“明年我们要种更多的冬瓜，和朋友们一起分享。”"
+      },
+      "knowledge": {
+        "title": "吃冬瓜的好处",
+        "body": "冬瓜水分很多，夏天吃了能解渴，还能帮身体排掉多余的水，让我们不容易中暑。它软软的，容易消化，小朋友和老人都爱吃。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_winter_melon_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_winter_melon_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Winter Melon",
+      "aloud": "/ˈwɪntər ˈmelən/",
+      "words": "",
+      "intro": "Winter melon is a big vegetable with green or white skin and white flesh inside. It tastes soft and juicy and grows on vines. You can cook it in soup or stir-fry, and it's delicious.",
+      "story": {
+        "title": "🥒The Big Winter Melon",
+        "body": "Summer arrived, and Little Rabbit found a huge, round winter melon in the garden. It tried to lift it but couldn't, so it called Little Squirrel to help. Together, they pushed and rolled the melon all the way home. Mama Rabbit cut it open to reveal the white flesh and cooked it into soup. The soup bubbled and smelled wonderful. Little Rabbit and Little Squirrel drank the warm winter melon soup, feeling full and happy. Little Squirrel said, \"Winter melon is amazing—so big and so yummy!\" Little Rabbit nodded, \"Next year we'll grow more winter melons to share with all our friends.\""
+      },
+      "knowledge": {
+        "title": "Why is winter melon good for you?",
+        "body": "Winter melon has lots of water, so it helps keep you cool in summer and supports your body in staying hydrated. It's soft and easy to digest, making it a great choice for little ones and the elderly."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_winter_melon_intro.mp3",
+        "story": "../item-audio/en/vegetable_winter_melon_story.mp3"
+      }
+    }
+  }
+}

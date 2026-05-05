@@ -1,0 +1,90 @@
+{
+  "id": "vegetable_bean_sprout",
+  "sku_id": "card_vegetable_bean_sprout",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_white",
+      "bean_vegetable"
+    ],
+    "secondary": [
+      "long",
+      "crisp",
+      "in_soup"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "white"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "crisp"
+    ],
+    "grow_location": [
+      "water"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "豆芽",
+      "aloud": "dòu yá",
+      "words": "bean sprout",
+      "intro": "豆芽是一种白色的蔬菜，长得长长的，吃起来咔嚓咔嚓脆。它从小小的豆子里变出来，只要泡在水里，就会慢慢发芽长大。",
+      "story": {
+        "title": "🌱小豆子变魔法",
+        "body": "小胖鼠在厨房里发现了一袋绿豆，圆圆的、硬硬的，一点也不好吃。它想起妈妈说过豆子可以发芽，就找了一个小盘子，把豆子放进去，浇上水，放在窗台上。第二天，豆子变得更大了。第三天，豆子裂开，冒出白白的、长长的小芽。小胖鼠高兴地叫起来：“豆芽出来啦！”又过了几天，豆芽长得更高更脆。小胖鼠请来好朋友小兔子和小刺猬，大家一起炒豆芽、煮豆芽汤，吃得开心极了。小胖鼠说：“原来小小的豆子能变出这么好吃的菜，真是太神奇了！”"
+      },
+      "knowledge": {
+        "title": "豆芽有什么营养？",
+        "body": "豆芽里有好多维生素和水分，吃了能让我们身体长得壮壮的，还能让肚子很舒服。豆芽可以炒着吃，也可以放进汤里，怎么做都很好吃！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_bean_sprout_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_bean_sprout_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Bean Sprout",
+      "aloud": "/biːn spraʊt/",
+      "words": "",
+      "intro": "A bean sprout is a white vegetable that is long and crispy. It grows from tiny beans when you put them in water and give them light.",
+      "story": {
+        "title": "🌱The Magic Bean Sprouter",
+        "body": "Little Chubby Mouse found a bag of mung beans in the kitchen. They were round and hard, not yummy at all. He remembered his mom saying beans can sprout, so he put some in a dish, added water, and placed them by the window. The next day, the beans were bigger. The day after, they cracked and tiny white sprouts popped out! Chubby Mouse cheered, “Bean sprouts are here!” A few days later, the sprouts grew tall and crispy. He invited his friends Bunny and Hedgehog over. They stir-fried some sprouts and made a tasty soup. Chubby Mouse said, “It’s so magical that tiny beans can turn into such yummy food!”"
+      },
+      "knowledge": {
+        "title": "Why are bean sprouts good for us?",
+        "body": "Bean sprouts are full of vitamins and water. They help you grow strong and keep your tummy happy. You can stir-fry them or put them in soup—they're delicious both ways!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_bean_sprout_intro.mp3",
+        "story": "../item-audio/en/vegetable_bean_sprout_story.mp3"
+      }
+    }
+  }
+}

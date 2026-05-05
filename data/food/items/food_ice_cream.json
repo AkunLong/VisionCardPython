@@ -1,0 +1,89 @@
+{
+  "id": "food_ice_cream",
+  "sku_id": "card_food_ice_cream",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "dessert",
+      "color_white",
+      "edible"
+    ],
+    "secondary": [
+      "cold_food",
+      "sweet",
+      "at_party"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dessert"
+    ],
+    "color": [
+      "white"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "cold"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "冰淇淋",
+      "aloud": "bīng qí lín",
+      "words": "ice cream",
+      "intro": "冰淇淋是小朋友最喜欢的甜点，冰冰凉凉的，甜甜的，有好多颜色和口味。夏天吃一个，好舒服呀！",
+      "story": {
+        "title": "🍦小兔子的冰淇淋日",
+        "body": "炎热的夏天来啦，太阳公公笑眯眯地挂在天上，把大地烤得暖烘烘的。小兔子贝贝热得耳朵都耷拉下来了，它拉着妈妈的手说：'妈妈，我好热呀，好想吃一个冰冰凉凉的冰淇淋！'妈妈笑着带贝贝来到了森林里的小小冰淇淋屋，屋子是粉色的，屋顶上还有一颗大草莓。小兔子踮起脚尖，看着玻璃柜里一排排五颜六色的冰淇淋，有黄的芒果味、绿的抹茶味、粉的草莓味……它开心地跳起来：'我要草莓味！'店员熊阿姨给贝贝挖了一个大大的草莓球，放在脆脆的蛋筒上，还插了一把小纸伞。贝贝小心翼翼地舔了一口，哇，甜甜的草莓味在嘴巴里跳舞，凉凉的感觉一直滑到肚子里，全身的热气一下子就不见了！贝贝舍不得一个人吃，它跑去叫来好朋友小松鼠跳跳，两个小家伙坐在树荫下，你一口我一口，分享着冰淇淋，笑得眼睛都眯成了缝。妈妈在旁边温柔地说：'冰淇淋再好吃，也要慢慢吃，一次不能吃太多哦，不然小肚子会闹脾气的。'贝贝和跳跳懂事地点点头，吃完最后一口，还舔了舔手指呢！晚上，贝贝躺在床上，闭上眼，梦见自己坐在一朵冰淇淋做的大云朵上，飘啊飘，飘到了甜甜的梦里。"
+      },
+      "knowledge": {
+        "title": "冰淇淋是怎么做的？",
+        "body": "冰淇淋是用牛奶、奶油和糖搅匀，再加入草莓等水果味道，然后放到机器里不停搅拌，变得又冷又滑，就成了好吃的冰淇淋啦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_ice_cream_intro.mp3",
+        "story": "../item-audio/zh-CN/food_ice_cream_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Ice Cream",
+      "aloud": "/aɪs kriːm/",
+      "words": "",
+      "intro": "Ice cream is children's favorite dessert. It's cold, sweet, and comes in many colors and flavors. On a hot day, having one scoop feels so nice!",
+      "story": {
+        "title": "🍦Bunny's Ice Cream Day",
+        "body": "Summer came, and the sun was blazing hot. Bunny felt so warm that her ears drooped. She pulled Mama's hand and said, 'Mama, I'm so hot! I really want a cold ice cream!' Mama took her to the little ice cream shop in the forest. It was pink with a big strawberry on the roof. Bunny saw rows of colorful ice cream: yellow mango, green matcha, pink strawberry... She chose strawberry. The bear lady gave her a big scoop on a crispy cone with a tiny umbrella. Bunny licked it—wow! Sweet strawberry flavor danced in her mouth, and the cold feeling slid to her tummy. She felt so cool! She shared with her best friend, Squirrel. They took turns licking the ice cream under the tree, giggling happily. Mama reminded them not to eat too much or their tummies might hurt. They nodded and finished the last bit. That night, Bunny dreamed of floating on a giant ice cream cloud, drifting into a sweet sleep."
+      },
+      "knowledge": {
+        "title": "How is ice cream made?",
+        "body": "Ice cream is made by mixing milk, cream, and sugar, then adding flavors like strawberry. The mixture is churned in a machine while it freezes, turning it smooth and cold. That's how we get delicious ice cream!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_ice_cream_intro.mp3",
+        "story": "../item-audio/en/food_ice_cream_story.mp3"
+      }
+    }
+  }
+}

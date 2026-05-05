@@ -1,0 +1,91 @@
+{
+  "id": "food_french_fries",
+  "sku_id": "card_food_french_fries",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "snack",
+      "color_yellow",
+      "edible"
+    ],
+    "secondary": [
+      "crispy",
+      "hot_food",
+      "at_snack_time"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "snack",
+      "western_food"
+    ],
+    "color": [
+      "yellow"
+    ],
+    "taste": [
+      "salty"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "薯条",
+      "aloud": "shǔ tiáo",
+      "words": "french fries",
+      "intro": "薯条是把土豆切成条，炸得金黄金黄的小零食。吃起来脆脆的、香香的，蘸上番茄酱更好吃哦！",
+      "story": {
+        "title": "🍟薯条宝宝的生日派对",
+        "body": "有一天，薯条宝宝们要开生日派对啦！土豆妈妈把土豆洗干净，切成一条一条的小棒。然后放进热热的油锅里，滋啦滋啦，小棒们开心地游泳。不一会儿，它们就穿上了金黄色的脆脆外衣。番茄酱姐姐也来参加派对，她红红的，甜甜的。薯条宝宝们排好队，一个接一个跳进番茄酱小泳池，滚一滚，沾满红红的酱。小朋友们拿起一根，咔嚓咔嚓，好吃得眯起了眼睛。薯条宝宝们说：“我们是最好吃的派对小明星！”大家笑着，吃着，真开心呀！"
+      },
+      "knowledge": {
+        "title": "薯条是怎么做出来的？",
+        "body": "先把土豆洗干净，削掉皮，切成一条一条的形状。然后把它们放进热热的油里炸，等到变成金黄色就捞出来，撒上一点盐，香喷喷的薯条就做好啦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_french_fries_intro.mp3",
+        "story": "../item-audio/zh-CN/food_french_fries_story.mp3"
+      }
+    },
+    "en": {
+      "name": "French Fries",
+      "aloud": "/frɛntʃ fraɪz/",
+      "words": "",
+      "intro": "French fries are little snacks made by cutting potatoes into strips and frying them until golden. They are crispy, yummy, and even better with tomato ketchup!",
+      "story": {
+        "title": "🍟The French Fries' Birthday Party",
+        "body": "One day, the little french fries decided to have a birthday party! Potato Mommy washed the potatoes, cut them into long sticks. Then she put them into a hot oil bath, sizzle sizzle, the sticks swam happily. Soon they put on golden, crispy coats. Ketchup Sister came to the party too, all red and sweet. The fries lined up, one after another, jumped into the ketchup pool, and rolled around until they were covered in red sauce. Children picked up one, crunch crunch, so delicious they closed their eyes. The fries said, 'We are the best party stars!' Everyone laughed and ate, what a happy time!"
+      },
+      "knowledge": {
+        "title": "How are french fries made?",
+        "body": "First wash the potatoes, peel off the skin, and cut them into long strips. Then put them into hot oil and fry until they turn golden. Take them out, sprinkle a little salt, and the yummy french fries are ready!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_french_fries_intro.mp3",
+        "story": "../item-audio/en/food_french_fries_story.mp3"
+      }
+    }
+  }
+}

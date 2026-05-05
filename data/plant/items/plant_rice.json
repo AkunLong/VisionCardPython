@@ -1,0 +1,99 @@
+{
+  "id": "plant_rice",
+  "sku_id": "card_plant_rice",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "crop",
+      "aquatic_plant"
+    ],
+    "secondary": [
+      "can_eat",
+      "has_leaf",
+      "in_field"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "grass",
+      "crop"
+    ],
+    "color": [
+      "green",
+      "yellow"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "stem",
+      "leaves",
+      "grains",
+      "roots"
+    ],
+    "scenes": [
+      "field",
+      "water",
+      "farm"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "水稻",
+      "aloud": "shuǐ dào",
+      "words": "rice",
+      "intro": "水稻长在水田里，绿绿的叶子，弯弯的稻穗。它给我们白白的大米，是我们每天吃的米饭的好朋友。",
+      "story": {
+        "title": "🌾水稻的成长故事",
+        "body": "春天，农民伯伯把小小的稻种撒进水田里。没过多久，嫩嫩的绿芽从水里钻了出来。小芽一天天长大，变成了高高的水稻。夏天到了，水稻开出了小小的白花，真好看！花谢了，就长出一串串稻穗。秋天，稻穗变黄了，沉甸甸的，像是在说：“我成熟啦！”农民伯伯用镰刀收割水稻，打下的谷粒晒干后脱壳，就成了白白的大米。大米煮成香喷喷的米饭，小朋友吃了长高长壮。水稻真了不起！"
+      },
+      "knowledge": {
+        "title": "水稻有什么用处？",
+        "body": "水稻结出的谷粒可以变成我们吃的米饭。稻草可以编草鞋、做饲料，还能造纸。水稻全身都是宝！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_rice_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_rice_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Rice",
+      "aloud": "/raɪs/",
+      "words": "",
+      "intro": "Rice grows in water fields. It has green leaves and golden grains. It gives us white rice, which we eat every day.",
+      "story": {
+        "title": "🌾The Little Rice Grain's Journey",
+        "body": "In spring, the farmer sows tiny rice seeds into the paddy field. Soon, little green sprouts push out of the water. They grow taller and taller. In summer, the rice plants bloom with small white flowers. Then the flowers turn into grains. By autumn, the grains turn golden and heavy, nodding in the wind. The farmer harvests them and threshes the grains. After drying, the husks are removed, and we get white rice! The rice is cooked into fluffy rice, and children eat it to grow strong. Rice is amazing!"
+      },
+      "knowledge": {
+        "title": "What is rice good for?",
+        "body": "Rice grains give us the rice we eat. Rice straw can be used to make shoes, feed animals, and even make paper. Rice is a wonderful plant!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_rice_intro.mp3",
+        "story": "../item-audio/en/plant_rice_story.mp3"
+      }
+    }
+  }
+}

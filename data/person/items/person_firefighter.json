@@ -1,0 +1,93 @@
+{
+  "id": "person_firefighter",
+  "sku_id": "card_person_firefighter",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "rescue"
+    ],
+    "secondary": [
+      "adult",
+      "protect",
+      "public_service"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "firefighter"
+    ],
+    "workplace": [
+      "fire station",
+      "scene"
+    ],
+    "tools": [
+      "fire hose",
+      "ladder",
+      "fire extinguisher"
+    ],
+    "clothing": [
+      "firefighter suit",
+      "helmet"
+    ],
+    "actions": [
+      "extinguish",
+      "rescue",
+      "drive fire truck"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "消防员",
+      "aloud": "xiāo fáng yuán",
+      "words": "firefighter",
+      "intro": "消防员是勇敢的叔叔和阿姨，他们穿着厚厚的防护服，开着红色的大车，去扑灭大火，帮助遇到危险的人。",
+      "story": {
+        "title": "🚒小猫咪家着火了",
+        "body": "一天晚上，小猫咪和妈妈正在睡觉，突然闻到一股烟味。猫咪妈妈醒来一看，厨房起火了！她赶紧打电话给消防员。不一会儿，呜呜叫的红色消防车来了。消防员叔叔穿着亮亮的衣服，戴着头盔，拿着水枪冲了进去。他们很快找到小猫咪，用湿毛巾捂住它的鼻子，把它抱了出来。然后用水把火扑灭了。小猫咪有点害怕，消防员叔叔摸摸它的头说：“别怕，我们是来帮助你的。”小猫咪看着高大的消防员，觉得他们真像超级英雄。从那天起，小猫咪也想当一名消防员，保护大家。"
+      },
+      "knowledge": {
+        "title": "消防员用什么工具？",
+        "body": "消防员有很多特殊的工具：水枪可以喷出强大的水流来灭火，长梯子可以爬上高楼救人，还有防火服和头盔保护自己不被火烧伤。消防车上有警灯和警笛，告诉路上的人让一让，快快到达现场。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_firefighter_intro.mp3",
+        "story": "../item-audio/zh-CN/person_firefighter_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Firefighter",
+      "aloud": "/ˈfaɪərfaɪtər/",
+      "words": "",
+      "intro": "Firefighters are brave men and women. They wear thick protective suits and drive big red trucks to put out fires and help people in danger.",
+      "story": {
+        "title": "🚒A Fire at Little Cat's House",
+        "body": "One night, Little Cat and Mama Cat were sleeping when they smelled smoke. Mama Cat woke up and saw the kitchen was on fire! She quickly called the firefighters. Soon, a red fire truck came with a loud siren. The firefighters, wearing shiny suits and helmets, rushed inside with a water hose. They found Little Cat, covered its nose with a wet cloth, and carried it out safely. Then they put out the fire with water. Little Cat was a bit scared, but a firefighter patted its head and said, 'Don't be afraid. We're here to help you.' Looking at the tall firefighters, Little Cat thought they were like superheroes. From that day on, Little Cat wanted to be a firefighter too, to protect everyone."
+      },
+      "knowledge": {
+        "title": "What tools do firefighters use?",
+        "body": "Firefighters have many special tools: a water hose shoots strong water to put out fires, a long ladder helps them climb up tall buildings to rescue people, and firefighters wear suits and helmets to protect themselves from heat and flames. The fire truck has flashing lights and sirens to tell others to make way so they can arrive quickly."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_firefighter_intro.mp3",
+        "story": "../item-audio/en/person_firefighter_story.mp3"
+      }
+    }
+  }
+}

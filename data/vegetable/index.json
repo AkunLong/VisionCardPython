@@ -1,0 +1,74 @@
+{
+  "id": "vegetable_set_v1",
+  "category": "vegetable",
+  "name": "蔬菜认知卡排序",
+  "description": "适合3-6岁儿童的蔬菜认知顺序，优先展示生活中常见、颜色鲜明、形态容易识别的蔬菜，再逐步扩展到叶菜类、根茎类、豆类、菌菇类和低频蔬菜。",
+  "nav": {
+    "id": "vegetable",
+    "name": "蔬菜图卡合集",
+    "description": "45种常见蔬菜认知卡",
+    "available": true,
+    "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/vegetable/images/story/vegetable_bok_choy_story.jpg",
+    "title": {
+        "zh-CN": "从泥土到餐桌的色彩之旅",
+        "en": "From Soil to Table, a Colorful Journey"
+      },
+      "subtitle": {
+        "zh-CN": "看看蔬菜变魔术",
+        "en": "Discover the Magic of Veggies"
+      },
+      "small_title": {
+        "zh-CN": "红番茄，绿西兰花，紫茄子，菜园是个大调色盘",
+        "en": "Red tomatoes, green broccoli, purple eggplant — a garden rainbow"
+      },
+      "background_color_image":"#269236",
+      "background_color_card":"#1D8C2D"
+  },
+  "total": 45,
+  "items": [
+    { "id": "vegetable_tomato", "name": "西红柿", "enName": "Tomato" },
+    { "id": "vegetable_cucumber", "name": "黄瓜", "enName": "Cucumber" },
+    { "id": "vegetable_carrot", "name": "胡萝卜", "enName": "Carrot" },
+    { "id": "vegetable_potato", "name": "土豆", "enName": "Potato" },
+    { "id": "vegetable_sweet_potato", "name": "红薯", "enName": "Sweet Potato" },
+    { "id": "vegetable_pumpkin", "name": "南瓜", "enName": "Pumpkin" },
+    { "id": "vegetable_eggplant", "name": "茄子", "enName": "Eggplant" },
+    { "id": "vegetable_broccoli", "name": "西兰花", "enName": "Broccoli" },
+    { "id": "vegetable_cauliflower", "name": "花菜", "enName": "Cauliflower" },
+
+    { "id": "vegetable_chinese_cabbage", "name": "大白菜", "enName": "Chinese Cabbage" },
+    { "id": "vegetable_bok_choy", "name": "小青菜", "enName": "Bok Choy" },
+    { "id": "vegetable_cabbage", "name": "卷心菜", "enName": "Cabbage" },
+    { "id": "vegetable_purple_cabbage", "name": "紫甘蓝", "enName": "Purple Cabbage" },
+    { "id": "vegetable_lettuce", "name": "生菜", "enName": "Lettuce" },
+    { "id": "vegetable_stem_lettuce", "name": "莴苣", "enName": "Stem Lettuce" },
+    { "id": "vegetable_spinach", "name": "菠菜", "enName": "Spinach" },
+    { "id": "vegetable_lotus_root", "name": "莲藕", "enName": "Lotus Root" },
+    { "id": "vegetable_winter_melon", "name": "冬瓜", "enName": "Winter Melon" },
+
+    { "id": "vegetable_green_pepper", "name": "大青椒", "enName": "Green Pepper" },
+    { "id": "vegetable_colored_pepper", "name": "彩椒", "enName": "Colored Pepper" },
+    { "id": "vegetable_chili_pepper", "name": "细尖椒", "enName": "Chili Pepper" },
+    { "id": "vegetable_onion", "name": "洋葱", "enName": "Onion" },
+    { "id": "vegetable_green_onion", "name": "大葱", "enName": "Green Onion" },
+    { "id": "vegetable_scallion", "name": "小香葱", "enName": "Scallion" },
+    { "id": "vegetable_garlic", "name": "大蒜", "enName": "Garlic" },
+    { "id": "vegetable_ginger", "name": "生姜", "enName": "Ginger" },
+    { "id": "vegetable_celery", "name": "芹菜", "enName": "Celery" },
+    { "id": "vegetable_cilantro", "name": "香菜", "enName": "Cilantro" },
+
+    { "id": "vegetable_asparagus", "name": "芦笋", "enName": "Asparagus" },
+    { "id": "vegetable_okra", "name": "秋葵", "enName": "Okra" },
+    { "id": "vegetable_bitter_melon", "name": "苦瓜", "enName": "Bitter Melon" },
+    { "id": "vegetable_bean_sprout", "name": "豆芽", "enName": "Bean Sprout" },
+    { "id": "vegetable_pea", "name": "豌豆", "enName": "Pea" },
+    { "id": "vegetable_soybean", "name": "黄豆", "enName": "Soybean" },
+    { "id": "vegetable_mung_bean", "name": "绿豆", "enName": "Mung Bean" },
+    { "id": "vegetable_broad_bean", "name": "蚕豆", "enName": "Broad Bean" },
+    { "id": "vegetable_white_kidney_bean", "name": "白芸豆", "enName": "White Kidney Bean" },
+
+    { "id": "vegetable_shiitake", "name": "香菇", "enName": "Shiitake" },
+    { "id": "vegetable_seafood_mushroom", "name": "海鲜菇", "enName": "Seafood Mushroom" },
+    { "id": "vegetable_tea_tree_mushroom", "name": "茶树菇", "enName": "Tea Tree Mushroom" }
+  ]
+}

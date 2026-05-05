@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_r",
+  "sku_id": "card_number_letter_r",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "consonant_letter",
+      "uppercase_letter"
+    ],
+    "secondary": [
+      "can_say",
+      "alphabet_order",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 18,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "18th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母R",
+      "aloud": "r",
+      "words": "r",
+      "intro": "R 是英文字母表里第十八个字母。它有个小尾巴，像小兔子蹦蹦跳。宝宝，跟我一起读：R！",
+      "story": {
+        "title": "🐰R 像小兔子",
+        "body": "字母 R，真有趣，长长的腿，圆圆的头，还有一个小尾巴。花园里，小兔子蹦蹦跳，它的身体就像 R。小兔子说：“我是 Rabbit，我的名字开头就是 R！”宝宝伸出小手，画一个大 R：一竖下来，再上去画个半圆，最后斜斜来一笔。看，R 站起来啦！和妈妈一起找找，哪里还藏着 R？"
+      },
+      "knowledge": {
+        "title": "R 的来历",
+        "body": "很久以前，R 的样子像一个人头。古埃及人把它画成头的形状，后来慢慢变成了现在的样子。R 在单词里常常发出“rrr”的声音，像小汽车发动。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_r_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_r_story.mp3"
+      }
+    },
+    "en": {
+      "name": "R",
+      "aloud": "/ɑːr/",
+      "words": "",
+      "intro": "R is the eighteenth letter of the alphabet. It has a little tail, like a hopping bunny. Let's say R together!",
+      "story": {
+        "title": "🐰R is for Rabbit",
+        "body": "Letter R is so funny! It has a long leg, a round head, and a little tail. In the garden, a bunny hops around, and its body looks just like R. The bunny says, “I am Rabbit, and my name starts with R!” Stretch out your little hand and draw a big R: a line down, then up and around for a half circle, and a slanted line at the end. Look, R stands up! Let's find more R's together!"
+      },
+      "knowledge": {
+        "title": "Where does R come from?",
+        "body": "Long ago, R looked like a person's head. Ancient Egyptians drew it as a head shape, and slowly it became the R we know today. In words, R often makes a “rrr” sound, like a car engine starting."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_r_intro.mp3",
+        "story": "../item-audio/en/number_letter_r_story.mp3"
+      }
+    }
+  }
+}

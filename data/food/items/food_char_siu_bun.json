@@ -1,0 +1,90 @@
+{
+  "id": "food_char_siu_bun",
+  "sku_id": "card_food_char_siu_bun",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "meat_food",
+      "color_white",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "sweet",
+      "hot_food"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "snack"
+    ],
+    "color": [
+      "white"
+    ],
+    "taste": [
+      "sweet",
+      "salty"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "叉烧包",
+      "aloud": "chā shāo bāo",
+      "words": "char siu bun",
+      "intro": "叉烧包是一种香香软软的蒸包，里面包着甜甜咸咸的叉烧馅，蒸好后白白胖胖，吃起来又松软又美味。",
+      "story": {
+        "title": "🥟乐乐的叉烧包",
+        "body": "星期天的早上，爸爸带乐乐去茶楼喝早茶。茶楼里热热闹闹的，乐乐一进门就闻到了香喷喷的味道。蒸笼一层一层叠得高高的，服务员叔叔端上来一笼叉烧包，盖子一打开，白白的热气冒出来。乐乐看见一个个白白胖胖的包子，上面还裂开了小口子，露出里面红红的叉烧馅。爸爸说：这是叉烧包，是你最喜欢的哦。乐乐高兴地拿了一个，咬了一大口，外面的皮像云朵一样软软的，里面的叉烧馅甜甜的、咸咸的，还有一点点蜜糖的味道。乐乐吃得满嘴都是酱汁，爸爸笑着帮他擦嘴。乐乐说：爸爸，叉烧包太好吃了，我们明天再来吃吧！爸爸摸摸他的头说：好啊，不过要慢慢吃，不要着急。乐乐点点头，一小口一小口地品尝，觉得每一口都幸福极了。"
+      },
+      "knowledge": {
+        "title": "叉烧包是怎么做的？",
+        "body": "叉烧包是广东的一种蒸点心。用面粉加上糖和酵母做成软软的面团，包进甜甜咸咸的叉烧馅，然后放进蒸笼里蒸。蒸好以后，包子白白胖胖的，上面会裂开一个小口子，露出里面红红的叉烧馅。叉烧馅是用猪肉加上酱油、蜂蜜等调料炒出来的，甜甜的、香香的。叉烧包是广东人喝早茶时最爱吃的点心之一！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_char_siu_bun_intro.mp3",
+        "story": "../item-audio/zh-CN/food_char_siu_bun_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Char Siu Bun",
+      "aloud": "/ˈtʃɑːr ˈsuː ˌbʌn/",
+      "words": "",
+      "intro": "A char siu bun is a soft, fluffy steamed bun filled with sweet and savory barbecued pork. It's a delicious Cantonese dim sum treat that kids love!",
+      "story": {
+        "title": "🥟Lily's First Char Siu Bun",
+        "body": "One Sunday morning, Dad took Lily to a Cantonese teahouse for dim sum. The teahouse was bustling and lively, and as soon as Lily walked in, she smelled the wonderful aromas. The bamboo steamers were stacked high, and a server brought over a basket of char siu buns. When the lid was lifted, white steam rose up, revealing plump white buns with little cracks on top showing the red barbecued pork filling inside. Dad said, 'These are char siu buns, your favorite!' Lily grabbed one excitedly and took a big bite. The outside was as soft as a cloud, and the filling was sweet, salty, with a hint of honey. Lily got sauce all over her face, and Dad laughed while wiping it off. Lily said, 'Dad, char siu buns are so yummy! Let's come back tomorrow!' Dad patted her head and said, 'Sure, but eat slowly — no need to rush.' Lily nodded and savored every bite, feeling so happy."
+      },
+      "knowledge": {
+        "title": "How is a char siu bun made?",
+        "body": "A char siu bun is a Cantonese steamed dim sum. Soft dough made from flour, sugar, and yeast is wrapped around sweet and savory barbecued pork filling, then steamed in a bamboo basket. When steamed, the buns become white and plump, and the top cracks open to reveal the red char siu filling inside. The filling is made from pork cooked with soy sauce, honey, and spices — sweet and fragrant. Char siu buns are one of the most popular dim sum dishes!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_char_siu_bun_intro.mp3",
+        "story": "../item-audio/en/food_char_siu_bun_story.mp3"
+      }
+    }
+  }
+}

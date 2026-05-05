@@ -1,0 +1,90 @@
+{
+  "id": "food_caramel_pudding",
+  "sku_id": "card_food_caramel_pudding",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "dessert",
+      "color_brown",
+      "sweet"
+    ],
+    "secondary": [
+      "smooth",
+      "cold_food",
+      "at_snack_time"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dessert"
+    ],
+    "color": [
+      "brown",
+      "yellow"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "cold"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "焦糖布丁",
+      "aloud": "jiāo táng bù dīng",
+      "words": "caramel pudding",
+      "intro": "焦糖布丁是滑滑嫩嫩的小甜点，上面有一层亮晶晶的焦糖，甜甜的、软软的，用小勺子舀一口，满满都是幸福的味道。",
+      "story": {
+        "title": "🍮小布丁的甜梦",
+        "body": "星期天，妈妈在厨房里忙来忙去，说要做一个神奇的甜点。小宝好奇地踮起脚尖看，妈妈把鸡蛋、牛奶和糖轻轻搅在一起，还熬了一锅金黄色的焦糖，香喷喷的。焦糖倒进小碗里，再倒上布丁液，放进烤箱。小宝等呀等，布丁终于出炉了！妈妈把它放凉后，倒扣在盘子里，哇，亮晶晶的焦糖像小帽子一样戴在布丁上。小宝尝了一口，滑滑的布丁在嘴里化开，焦糖的甜味暖到心里。他开心地说：妈妈，这是我吃过最好吃的布丁！妈妈笑了：这就是焦糖布丁，充满爱的甜梦。"
+      },
+      "knowledge": {
+        "title": "焦糖布丁是怎么做的？",
+        "body": "焦糖布丁用鸡蛋、牛奶和糖做成。先把糖熬成焦糖色，倒在碗底，再倒入布丁液，烤熟后放凉，倒扣出来，焦糖就在布丁上面啦。吃起来甜甜滑滑的。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_caramel_pudding_intro.mp3",
+        "story": "../item-audio/zh-CN/food_caramel_pudding_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Caramel Pudding",
+      "aloud": "/ˈkærəməl ˈpʊdɪŋ/",
+      "words": "",
+      "intro": "Caramel pudding is a smooth and soft dessert. It has a shiny caramel layer on top and tastes sweet and creamy. Little spoons love it!",
+      "story": {
+        "title": "🍮A Sweet Dream of Pudding",
+        "body": "One Sunday, Mom was busy in the kitchen making a magic dessert. Little Bao stood on tiptoe to watch. Mom gently mixed eggs, milk, and sugar, and cooked a golden caramel sauce that smelled wonderful. She poured the caramel into little bowls, added the pudding mix, and put it in the oven. Little Bao waited and waited. When it was ready, Mom cooled it and turned it onto a plate. Wow, the shiny caramel looked like a little hat on the pudding! Little Bao took a bite—the silky pudding melted in his mouth, and the caramel sweetness warmed his heart. He said happily, This is the best pudding ever! Mom smiled: That's caramel pudding, a sweet dream full of love."
+      },
+      "knowledge": {
+        "title": "How is caramel pudding made?",
+        "body": "Caramel pudding is made with eggs, milk, and sugar. First, cook sugar until it turns golden, pour it in a bowl, then add the pudding mix. After baking and cooling, flip it over, and the caramel sits on top. It's sweet and smooth!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_caramel_pudding_intro.mp3",
+        "story": "../item-audio/en/food_caramel_pudding_story.mp3"
+      }
+    }
+  }
+}

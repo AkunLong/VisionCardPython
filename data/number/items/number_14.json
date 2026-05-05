@@ -1,0 +1,76 @@
+{
+  "id": "number_14",
+  "sku_id": "card_number_fourteen",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "two_digit",
+      "even_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "medium_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 14,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "14th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字14",
+      "aloud": "shí sì",
+      "words": "fourteen",
+      "intro": "14是比13多1的数字，也是比15少1的数字。它由1和4组成，是个两位数。14可以帮我们数更多的东西哦！",
+      "story": {
+        "title": "🌸14朵小蘑菇",
+        "body": "森林里住着一只小兔子，它最喜欢采蘑菇。一天早上，小兔子提着篮子出门啦。它先采了1朵、2朵、3朵……一直采到14朵！篮子里满满的，香香的。小兔子开心地跳起来说：“我有14朵小蘑菇啦！”回家的路上，它遇见小松鼠，送了2朵；遇见小鸭子，又送了2朵。现在还剩10朵，正好可以给妈妈做香喷喷的蘑菇汤。小兔子数了好几遍，从1数到14，1, 2, 3, ..., 14！它学会了数14，真高兴！每次数到14，它就想起好朋友们的笑脸。14真是个快乐的数字！"
+      },
+      "knowledge": {
+        "title": "14有什么特别的？",
+        "body": "14是一个两位数，由1和4组成。一星期有7天，两星期就是14天。月亮从弯弯的月牙变圆圆，大约需要14天呢。14天里可以做很多有趣的事！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_14_intro.mp3",
+        "story": "../item-audio/zh-CN/number_14_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Fourteen",
+      "aloud": "/ˌfɔːrˈtiːn/",
+      "words": "",
+      "intro": "14 is the number that is one more than 13 and one less than 15. It is made of 1 and 4, and it's a two-digit number. 14 helps us count more things!",
+      "story": {
+        "title": "🌸14 Little Mushrooms",
+        "body": "In the forest, there lived a little rabbit who loved picking mushrooms. One morning, the rabbit took a basket and went out. First it picked 1, then 2, then 3... all the way up to 14! The basket was full and smelled so good. The rabbit jumped happily and said, \"I have 14 little mushrooms!\" On the way home, it met a squirrel and gave 2 mushrooms, then met a duck and gave another 2. Now there were 10 left, just enough to make yummy mushroom soup for mom. The rabbit counted many times: 1, 2, 3... 14! It learned to count to 14 and felt so proud. Every time it counted to 14, it remembered the smiles of its friends. 14 is such a happy number!"
+      },
+      "knowledge": {
+        "title": "What's special about 14?",
+        "body": "14 is a two-digit number made of 1 and 4. A week has 7 days, and two weeks make 14 days. The moon takes about 14 days to go from a thin crescent to a full round moon. You can do so many fun things in 14 days!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_14_intro.mp3",
+        "story": "../item-audio/en/number_14_story.mp3"
+      }
+    }
+  }
+}

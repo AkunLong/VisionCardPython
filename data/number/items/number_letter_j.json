@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_j",
+  "sku_id": "card_number_letter_j",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "can_say",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 10,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "10th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母J",
+      "aloud": "jī",
+      "words": "jam",
+      "intro": "字母J是英文字母表里的大写字母，长得像一根小钩子。它经常在果酱、果汁这些甜甜的东西名字里出现，一起来认识它吧！",
+      "story": {
+        "title": "🔤 调皮的字母J",
+        "body": "在字母王国里，住着可爱的字母J。它身形瘦瘦，头顶弯弯，就像个小钩子。一天，J在草地上散步，遇见了字母A和C。J说：我们组个单词吧！A跳上来说：当我们的队长！C也凑过来。三个字母手拉手，变成了单词JAC（杰克）。其他字母看了都鼓掌：好棒呀！J开心极了，它知道，只要和朋友们在一起，就能变出好多好多有趣的词语。从此，J成了大家最喜欢的小伙伴，每天一起拼出果酱（JAM）、蹦跳（JUMP）这些快乐的词。"
+      },
+      "knowledge": {
+        "title": "为什么字母J长得像钩子？",
+        "body": "很久以前，人们在书写时把J写成一个带钩的线条，这样既好写又容易认。现在大写J顶端的弯钩就像一个小问号，帮助我们记住它特别的发音。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_j_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_j_story.mp3"
+      }
+    },
+    "en": {
+      "name": "J",
+      "aloud": "/dʒeɪ/",
+      "words": "",
+      "intro": "J is a capital letter that looks like a hook. It makes the sound 'jay' and appears in words like jam and jump. Let's learn about J!",
+      "story": {
+        "title": "🔤 Playful Letter J",
+        "body": "In Alphabet Land, there lived a letter J. It was thin with a curved top, just like a little hook. One day, J was walking in the meadow and met letters A and C. J said, Let's make a word! A jumped up and said, I'll be the start! C joined in too. The three letters held hands and became the word JAC. All the other letters clapped and said, Well done! J was so happy. It learned that with friends, it could make lots of fun words. From then on, J became everyone's favorite pal, spelling out happy words like JAM and JUMP every day."
+      },
+      "knowledge": {
+        "title": "Why does J look like a hook?",
+        "body": "Long ago, people wrote J with a curving tail to make it easy to write and recognize. The hook at the top of capital J helps us remember its special sound, a bit like a tiny question mark."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_j_intro.mp3",
+        "story": "../item-audio/en/number_letter_j_story.mp3"
+      }
+    }
+  }
+}

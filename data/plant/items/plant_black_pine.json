@@ -1,0 +1,99 @@
+{
+  "id": "plant_black_pine",
+  "sku_id": "card_plant_black_pine",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "color_green"
+    ],
+    "secondary": [
+      "has_trunk",
+      "has_leaf",
+      "in_park"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "trunk",
+      "branches",
+      "leaves",
+      "roots"
+    ],
+    "scenes": [
+      "park",
+      "forest",
+      "garden"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "黑松",
+      "aloud": "hēi sōng",
+      "words": "pine",
+      "intro": "黑松是一种高高的大树，树叶像针一样细细尖尖的。它一年四季都是绿色的，树皮摸起来粗糙糙的。黑松是森林里坚强的好朋友。",
+      "story": {
+        "title": "🌲小黑松的四季",
+        "body": "公园里有一棵小黑松。春天来了，小雨沙沙地下，小黑松的针叶被洗得绿油油的，像新的一样。一只小松鼠跑过来，在树枝上跳来跳去，说：“你的树枝真结实！”夏天，太阳火辣辣的，小黑松伸出长长的枝条，给小花小草撑起一把大伞。小花说：“谢谢你，真凉快！”秋天，别的树叶子都变黄了，一片片落下来，可小黑松还是穿着绿衣裳，一点也没变。冬天，北风呼呼地吹，小黑松挺直了腰，不怕冷。小朋友来公园玩，摸着它粗糙的树皮说：“你真勇敢！”小黑松心里暖暖的，它想：一年四季和大家在一起，真开心！"
+      },
+      "knowledge": {
+        "title": "黑松有什么特点？",
+        "body": "黑松是常绿树，一年四季都是绿色的。它的叶子像针，可以少蒸发水分，所以不怕干。黑松的树根很深，能抓住泥土，不怕大风吹。它的木材可以做家具和纸。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_black_pine_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_black_pine_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Black Pine",
+      "aloud": "/blæk paɪn/",
+      "words": "",
+      "intro": "The black pine is a tall tree with long, needle-like leaves. It is green all year round, and its bark is rough. It is a strong friend in the forest.",
+      "story": {
+        "title": "🌲The Little Black Pine's Four Seasons",
+        "body": "There is a little black pine in the park. In spring, the rain patters down, washing its needle leaves bright green. A little squirrel jumps on its branches and says, 'Your branches are so strong!' In summer, the sun is hot. The little black pine spreads its long branches to give shade to the flowers and grass. The flowers say, 'Thank you, it's so cool!' In autumn, other trees' leaves turn yellow and fall, but the little black pine keeps its green clothes. It doesn't change. In winter, the north wind blows hard. The little black pine stands tall and is not afraid of the cold. Children come to the park and touch its rough bark, saying, 'You are so brave!' The little black pine feels warm inside. It thinks: Being with friends all year round is so happy!"
+      },
+      "knowledge": {
+        "title": "What is special about the black pine?",
+        "body": "The black pine is an evergreen tree, so it stays green all year. Its leaves are like needles, which help it save water and survive in dry weather. Its deep roots hold the soil and stand strong against strong winds. Its wood can be used to make furniture and paper."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_black_pine_intro.mp3",
+        "story": "../item-audio/en/plant_black_pine_story.mp3"
+      }
+    }
+  }
+}

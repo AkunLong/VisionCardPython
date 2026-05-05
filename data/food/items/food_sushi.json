@@ -1,0 +1,95 @@
+{
+  "id": "food_sushi",
+  "sku_id": "card_food_sushi",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "seafood",
+      "color_white",
+      "edible"
+    ],
+    "secondary": [
+      "cold_food",
+      "soft",
+      "snack"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "seafood",
+      "rice"
+    ],
+    "color": [
+      "white",
+      "orange",
+      "green",
+      "red"
+    ],
+    "taste": [
+      "mild",
+      "salty",
+      "sour"
+    ],
+    "temperature": [
+      "cold"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "寿司",
+      "aloud": "shòu sī",
+      "words": "sushi",
+      "intro": "寿司是一种用米饭和鱼肉做的小饭团，软软的、凉凉的，色彩鲜艳，好看又好吃。",
+      "story": {
+        "title": "🍣第一次吃寿司",
+        "body": "小兔子白白第一次跟妈妈去寿司店。她看到一个个小枕头一样的寿司，有红的、绿的、黄的。白白拿起一个三文鱼寿司，轻轻咬一口，米饭酸酸甜甜的，鱼肉滑滑嫩嫩的。她又尝了一个黄瓜卷，脆脆的很清爽。白白开心地说：“寿司真好吃，像小玩具一样可爱！”妈妈告诉她，寿司是日本的传统美食，要用新鲜的鱼和特别的寿司米来做。白白吃完后，还学着用筷子夹。以后每次家庭聚会，白白都最喜欢吃寿司了。"
+      },
+      "knowledge": {
+        "title": "寿司是怎么做出来的？",
+        "body": "先把米饭煮好，拌入寿司醋，放凉。然后捏成小团，放上生鱼片、虾或者蔬菜，有时会用紫菜卷起来。吃的时候蘸一点点酱油，味道更鲜美。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_sushi_intro.mp3",
+        "story": "../item-audio/zh-CN/food_sushi_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Sushi",
+      "aloud": "/ˈsuːʃi/",
+      "words": "",
+      "intro": "Sushi is a little rice ball with fresh fish or vegetables on top. It's soft, cool, and colorful, fun to eat.",
+      "story": {
+        "title": "🍣First Time Eating Sushi",
+        "body": "Little Bunny Bai Bai went to a sushi shop with her mom for the first time. She saw little pillow-shaped sushi in red, green, and yellow. Bai Bai picked up a salmon sushi and took a small bite. The rice was sweet and sour, and the fish was smooth and tender. Then she tried a cucumber roll, which was crisp and refreshing. Bai Bai happily said, 'Sushi is so yummy, and it looks as cute as a toy!' Mom told her that sushi is a traditional Japanese food, made with fresh fish and special sushi rice. After eating, Bai Bai even practiced using chopsticks. From then on, Bai Bai always loved eating sushi at family parties."
+      },
+      "knowledge": {
+        "title": "How is sushi made?",
+        "body": "Cook the rice, mix it with sushi vinegar, and let it cool. Then shape it into small balls and top with slices of raw fish, shrimp, or vegetables. Sometimes it's rolled with seaweed. Dip in a little soy sauce before eating for extra flavor."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_sushi_intro.mp3",
+        "story": "../item-audio/en/food_sushi_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "fruit_papaya",
+  "sku_id": "card_fruit_papaya",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_yellow",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "oval",
+      "sweet",
+      "tropical_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "yellow"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sweet",
+      "juicy"
+    ],
+    "scenes": [
+      "tropical_region",
+      "orchard",
+      "home"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "木瓜",
+      "aloud": "mù guā",
+      "words": "papaya",
+      "intro": "木瓜是一种椭圆形的热带水果，皮黄黄的，果肉软软的，吃起来又甜又多汁，营养很丰富。",
+      "story": {
+        "title": "🐒小猴子摘木瓜",
+        "body": "一天，小猴子在热带果园里玩耍，看到一棵高高的木瓜树上挂满了黄灿灿的木瓜。木瓜像一个个小皮球，圆鼓鼓的，闻起来香香的。小猴子轻轻摘下一个熟透的木瓜，抱在怀里，感觉软软的。它用小刀切开，里面是金黄色的果肉，还有黑黑的小籽。小猴子尝了一口，哇，好甜呀！果汁顺着嘴角流下来。它想到好朋友小鹦鹉生病了，就把另一半木瓜用叶子包好，送到小鹦鹉的家里。小鹦鹉吃了甜甜的木瓜，感觉舒服多了，高兴地说：“谢谢你，小猴子！”小猴子心里美滋滋的，原来分享木瓜，可以让快乐变成两份。"
+      },
+      "knowledge": {
+        "title": "木瓜长在哪里？",
+        "body": "木瓜是热带水果，喜欢温暖的阳光。它长在高高的木瓜树上，果实成熟后会变成黄色，里面的果肉软软的，有许多黑色的小籽，是可以吃的种子哦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_papaya_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_papaya_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Papaya",
+      "aloud": "/pəˈpaɪə/",
+      "words": "",
+      "intro": "Papaya is an oval-shaped tropical fruit with yellow skin, soft flesh, and a sweet, juicy taste. It is very nutritious.",
+      "story": {
+        "title": "🐒Little Monkey Picks a Papaya",
+        "body": "The little monkey played in the tropical orchard one day and saw a tall papaya tree heavy with bright yellow fruits. They looked like soft, oval balls and smelled wonderfully sweet. He picked a ripe one, cut it open to find golden flesh and many black seeds. Tasting it, he smiled—so sweet and juicy! Remembering his sick friend, a little parrot, he saved half and brought it to her. The parrot ate the soft, sweet papaya and felt much better, chirping, “Thank you!” The monkey felt a happy glow; sharing the fruit made the joy twice as big."
+      },
+      "knowledge": {
+        "title": "Where do papayas grow?",
+        "body": "Papayas are tropical fruits that love warm sunshine. They grow on tall papaya trees, and when ripe, they turn yellow with soft, golden flesh and many small black seeds inside—yes, you can eat the seeds too."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_papaya_intro.mp3",
+        "story": "../item-audio/en/fruit_papaya_story.mp3"
+      }
+    }
+  }
+}

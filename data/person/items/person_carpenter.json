@@ -1,0 +1,93 @@
+{
+  "id": "person_carpenter",
+  "sku_id": "card_person_carpenter",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "build_repair"
+    ],
+    "secondary": [
+      "adult",
+      "at_workplace",
+      "create_art"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "carpenter"
+    ],
+    "workplace": [
+      "workshop",
+      "construction_site"
+    ],
+    "tools": [
+      "hammer",
+      "saw",
+      "plane"
+    ],
+    "clothing": [
+      "apron",
+      "safety_glasses"
+    ],
+    "actions": [
+      "measure",
+      "cut",
+      "assemble"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "木匠",
+      "aloud": "mù jiàng",
+      "words": "carpenter",
+      "intro": "木匠是用木头做东西的人。他们会做桌子、椅子、小床，让我们的家更漂亮。",
+      "story": {
+        "title": "🪚小猫咪的木匠爷爷",
+        "body": "小猫咪花花想要一个玩具箱，可是家里没有。爷爷笑着说：别担心，爷爷是木匠，给你做一个！爷爷穿上围裙，戴上眼镜，拿出锤子、锯子和刨子。他先量好木板，再轻轻地锯，木屑像雪花一样飘下来。然后爷爷用刨子刨平木板，表面变得光滑极了。他叮叮当当地敲打，把小木板拼在一起。花花在旁边帮忙递钉子，爷爷夸它真能干。几天后，一个漂亮的玩具箱做好了，上面还刻了一朵小花。花花开心地把玩具放进去，对爷爷说：爷爷的手真神奇，我也要学木工！"
+      },
+      "knowledge": {
+        "title": "木匠用什么工具？",
+        "body": "木匠有好几样宝贝工具。锤子可以敲钉子，把木板连起来；锯子像鳄鱼牙齿，能把木头锯开；刨子像小推车，推过去木头就变平了。还有尺子量尺寸，凿子雕花纹呢。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_carpenter_intro.mp3",
+        "story": "../item-audio/zh-CN/person_carpenter_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Carpenter",
+      "aloud": "/ˈkɑːrpəntər/",
+      "words": "",
+      "intro": "A carpenter is a person who makes things out of wood. They build tables, chairs, and beds to make our homes beautiful.",
+      "story": {
+        "title": "🪚Little Cat's Carpenter Grandpa",
+        "body": "Little Cat Hua Hua wanted a toy box, but there wasn't one at home. Grandpa smiled and said, Don't worry, I'm a carpenter. I'll make you one! Grandpa put on his apron and safety glasses, and took out his hammer, saw, and plane. First, he measured the wood, then he gently sawed, and sawdust fell like snowflakes. Then he planed the wood until it became very smooth. He knocked and tapped, joining the small boards together. Hua Hua helped pass the nails, and Grandpa praised her for being so helpful. A few days later, a beautiful toy box was finished, with a little flower carved on it. Hua Hua happily put her toys inside and said, Grandpa, your hands are magical! I want to learn carpentry too!"
+      },
+      "knowledge": {
+        "title": "What tools do carpenters use?",
+        "body": "Carpenters have many special tools. A hammer hits nails to join wood together. A saw, with teeth like a crocodile, cuts wood into pieces. A plane is like a little cart that makes wood smooth. They also use rulers to measure and chisels to carve patterns."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_carpenter_intro.mp3",
+        "story": "../item-audio/en/person_carpenter_story.mp3"
+      }
+    }
+  }
+}

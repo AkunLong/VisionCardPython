@@ -1,0 +1,86 @@
+{
+  "id": "fruit_olive",
+  "sku_id": "card_fruit_olive",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_green",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "oval",
+      "sour",
+      "tree_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sour"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "橄榄",
+      "aloud": "gǎn lǎn",
+      "words": "olive",
+      "intro": "橄榄是一种小小的、椭圆形的绿色果子，吃起来有点酸酸的。它长在树上，可以当零食吃，也可以做成好吃的菜肴。",
+      "story": {
+        "title": "🐿️小松鼠的橄榄果",
+        "body": "小松鼠在树林里发现了一棵橄榄树，树上结满了绿油油的小果子。橄榄看起来像小鸡蛋，摸起来滑滑的。小松鼠摘了一颗，放进嘴里尝了尝。“呀，有点酸！”它皱了皱眉。不过，它想到可以分享给朋友们。于是它装了一篮子橄榄，分给小兔、小熊和小鹿。开始大家觉得酸，但慢慢嚼一嚼，觉得挺香的。大家开心地说：“虽然酸酸的，但是和朋友们一起吃，味道就变好啦！”"
+      },
+      "knowledge": {
+        "title": "橄榄有什么营养？",
+        "body": "橄榄生长在温暖的地区，春天开花，秋天结果。它含有丰富的维生素，吃起来有点酸，但能帮助小朋友消化和长得更强壮。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_olive_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_olive_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Olive",
+      "aloud": "/ˈɑlɪv/",
+      "words": "",
+      "intro": "An olive is a small, oval green fruit that tastes slightly sour. It grows on trees and is a healthy snack.",
+      "story": {
+        "title": "🐿️Little Squirrel's Olives",
+        "body": "A little squirrel found an olive tree in the forest, full of small green fruits. The olives looked like tiny eggs and felt smooth. The squirrel picked one and tasted it. “Oh, it's a bit sour!” he frowned. But then he thought of sharing them with friends. So he filled a basket and shared with the little rabbit, little bear, and little deer. At first, everyone thought they were sour, but after chewing a bit, they found them quite fragrant. They all said happily, “Although it's sour, when we eat together, it tastes much better!”"
+      },
+      "knowledge": {
+        "title": "What is special about olives?",
+        "body": "Olives grow in warm regions. They bloom in spring and bear fruit in autumn. Olives are rich in vitamins and good for children's health. They can be eaten directly or made into olive oil."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_olive_intro.mp3",
+        "story": "../item-audio/en/fruit_olive_story.mp3"
+      }
+    }
+  }
+}

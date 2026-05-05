@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_s",
+  "sku_id": "card_number_letter_s",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "alphabet_order",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": "S",
+    "is_even": false,
+    "is_prime": false,
+    "ordinal": "19th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母S",
+      "aloud": "S",
+      "words": "s",
+      "intro": "字母S弯弯的，像一条小蛇。它经常出现在太阳、星星这些美好的词里，是个很特别的字母！",
+      "story": {
+        "title": "🐍弯弯的字母S",
+        "body": "字母S长得弯弯绕绕，像一条可爱的小蛇。小蛇S最喜欢在阳光下扭来扭去。它说：“我的名字叫S，我能变出好多东西！”它变成太阳sun，照得小朋友暖洋洋；它变成星星star，一闪一闪亮晶晶；它变成大海sea，哗啦哗啦唱着歌。小朋友，我们一起找到更多的S吧！你看，滑梯是slide，蛇是snake，它们都有S的声音。小蛇S扭呀扭，带你认识大世界！"
+      },
+      "knowledge": {
+        "title": "字母S是第几个字母？",
+        "body": "字母S是字母表里的第19个字母，它的发音是/s/，像蛇发出的嘶嘶声。很多有趣的词都以S开头，比如太阳和星星。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_s_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_s_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Letter S",
+      "aloud": "/ɛs/",
+      "words": "",
+      "intro": "Letter S is curvy, like a little snake. It often appears in nice words like sun and star. It’s a very special letter!",
+      "story": {
+        "title": "🐍Curvy Letter S",
+        "body": "Letter S is curvy and curly, just like a cute little snake. S the snake loves to wiggle in the sunshine. It says, “My name is S, and I can turn into many things!” It becomes the sun, warming the children; it becomes a star, twinkling bright; it becomes the sea, singing splashy songs. Kids, let’s find more S words! Look, slide is S, snake is S, they all have the S sound. The little snake S wiggles and shows you the big world!"
+      },
+      "knowledge": {
+        "title": "Which letter is S?",
+        "body": "Letter S is the 19th letter in the alphabet. It makes the sound /s/, like a snake hissing. Many fun words start with S, such as sun and star."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_s_intro.mp3",
+        "story": "../item-audio/en/number_letter_s_story.mp3"
+      }
+    }
+  }
+}

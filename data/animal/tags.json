@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "color_black",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "black",
+    "content": {
+      "zh-CN": {
+        "name": "黑色",
+        "audio_url": "audio/tags-audio/zh-CN/animal_color_black.mp3"
+      },
+      "en": {
+        "name": "Black",
+        "audio_url": "audio/tags-audio/en/animal_color_black.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_white",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "white",
+    "content": {
+      "zh-CN": {
+        "name": "白色",
+        "audio_url": "audio/tags-audio/zh-CN/animal_color_white.mp3"
+      },
+      "en": {
+        "name": "White",
+        "audio_url": "audio/tags-audio/en/animal_color_white.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_brown",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "brown",
+    "content": {
+      "zh-CN": {
+        "name": "棕色",
+        "audio_url": "audio/tags-audio/zh-CN/animal_color_brown.mp3"
+      },
+      "en": {
+        "name": "Brown",
+        "audio_url": "audio/tags-audio/en/animal_color_brown.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_gray",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "gray",
+    "content": {
+      "zh-CN": {
+        "name": "灰色",
+        "audio_url": "audio/tags-audio/zh-CN/animal_color_gray.mp3"
+      },
+      "en": {
+        "name": "Gray",
+        "audio_url": "audio/tags-audio/en/animal_color_gray.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_yellow",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "黄色",
+        "audio_url": "audio/tags-audio/zh-CN/animal_color_yellow.mp3"
+      },
+      "en": {
+        "name": "Yellow",
+        "audio_url": "audio/tags-audio/en/animal_color_yellow.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_orange",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "橙色",
+        "audio_url": "audio/tags-audio/zh-CN/animal_color_orange.mp3"
+      },
+      "en": {
+        "name": "Orange",
+        "audio_url": "audio/tags-audio/en/animal_color_orange.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_green",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "绿色",
+        "audio_url": "audio/tags-audio/zh-CN/animal_color_green.mp3"
+      },
+      "en": {
+        "name": "Green",
+        "audio_url": "audio/tags-audio/en/animal_color_green.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_blue",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "蓝色",
+        "audio_url": "audio/tags-audio/zh-CN/animal_color_blue.mp3"
+      },
+      "en": {
+        "name": "Blue",
+        "audio_url": "audio/tags-audio/en/animal_color_blue.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_pink",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "粉色",
+        "audio_url": "audio/tags-audio/zh-CN/animal_color_pink.mp3"
+      },
+      "en": {
+        "name": "Pink",
+        "audio_url": "audio/tags-audio/en/animal_color_pink.mp3"
+      }
+    }
+  },
+  {
+    "id": "animal",
+    "type": "category",
+    "icon": "paw-print",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "动物",
+        "audio_url": "audio/tags-audio/zh-CN/animal_animal.mp3"
+      },
+      "en": {
+        "name": "Animal",
+        "audio_url": "audio/tags-audio/en/animal_animal.mp3"
+      }
+    }
+  },
+  {
+    "id": "mammal",
+    "type": "category",
+    "icon": "rabbit",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "哺乳动物",
+        "audio_url": "audio/tags-audio/zh-CN/animal_mammal.mp3"
+      },
+      "en": {
+        "name": "Mammal",
+        "audio_url": "audio/tags-audio/en/animal_mammal.mp3"
+      }
+    }
+  },
+  {
+    "id": "bird",
+    "type": "category",
+    "icon": "bird",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "鸟类",
+        "audio_url": "audio/tags-audio/zh-CN/animal_bird.mp3"
+      },
+      "en": {
+        "name": "Bird",
+        "audio_url": "audio/tags-audio/en/animal_bird.mp3"
+      }
+    }
+  },
+  {
+    "id": "fish",
+    "type": "category",
+    "icon": "fish",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "鱼类",
+        "audio_url": "audio/tags-audio/zh-CN/animal_fish.mp3"
+      },
+      "en": {
+        "name": "Fish",
+        "audio_url": "audio/tags-audio/en/animal_fish.mp3"
+      }
+    }
+  },
+  {
+    "id": "insect",
+    "type": "category",
+    "icon": "bug",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "昆虫",
+        "audio_url": "audio/tags-audio/zh-CN/animal_insect.mp3"
+      },
+      "en": {
+        "name": "Insect",
+        "audio_url": "audio/tags-audio/en/animal_insect.mp3"
+      }
+    }
+  },
+  {
+    "id": "reptile",
+    "type": "category",
+    "icon": "shell",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "爬行动物",
+        "audio_url": "audio/tags-audio/zh-CN/animal_reptile.mp3"
+      },
+      "en": {
+        "name": "Reptile",
+        "audio_url": "audio/tags-audio/en/animal_reptile.mp3"
+      }
+    }
+  },
+  {
+    "id": "sea_animal",
+    "type": "category",
+    "icon": "waves",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "海洋动物",
+        "audio_url": "audio/tags-audio/zh-CN/animal_sea_animal.mp3"
+      },
+      "en": {
+        "name": "Sea animal",
+        "audio_url": "audio/tags-audio/en/animal_sea_animal.mp3"
+      }
+    }
+  },
+  {
+    "id": "small",
+    "type": "size",
+    "icon": "minimize",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "小小的",
+        "audio_url": "audio/tags-audio/zh-CN/animal_small.mp3"
+      },
+      "en": {
+        "name": "Small",
+        "audio_url": "audio/tags-audio/en/animal_small.mp3"
+      }
+    }
+  },
+  {
+    "id": "big",
+    "type": "size",
+    "icon": "maximize",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "大大的",
+        "audio_url": "audio/tags-audio/zh-CN/animal_big.mp3"
+      },
+      "en": {
+        "name": "Big",
+        "audio_url": "audio/tags-audio/en/animal_big.mp3"
+      }
+    }
+  },
+  {
+    "id": "tall",
+    "type": "size",
+    "icon": "arrow-up",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "高高的",
+        "audio_url": "audio/tags-audio/zh-CN/animal_tall.mp3"
+      },
+      "en": {
+        "name": "Tall",
+        "audio_url": "audio/tags-audio/en/animal_tall.mp3"
+      }
+    }
+  },
+  {
+    "id": "long",
+    "type": "shape",
+    "icon": "ruler",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "长长的",
+        "audio_url": "audio/tags-audio/zh-CN/animal_long.mp3"
+      },
+      "en": {
+        "name": "Long",
+        "audio_url": "audio/tags-audio/en/animal_long.mp3"
+      }
+    }
+  },
+  {
+    "id": "round",
+    "type": "shape",
+    "icon": "circle",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "圆圆的",
+        "audio_url": "audio/tags-audio/zh-CN/animal_round.mp3"
+      },
+      "en": {
+        "name": "Round",
+        "audio_url": "audio/tags-audio/en/animal_round.mp3"
+      }
+    }
+  },
+  {
+    "id": "has_fur",
+    "type": "body",
+    "icon": "feather",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "有毛毛",
+        "audio_url": "audio/tags-audio/zh-CN/animal_has_fur.mp3"
+      },
+      "en": {
+        "name": "Has fur",
+        "audio_url": "audio/tags-audio/en/animal_has_fur.mp3"
+      }
+    }
+  },
+  {
+    "id": "has_feathers",
+    "type": "body",
+    "icon": "feather",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "有羽毛",
+        "audio_url": "audio/tags-audio/zh-CN/animal_has_feathers.mp3"
+      },
+      "en": {
+        "name": "Has feathers",
+        "audio_url": "audio/tags-audio/en/animal_has_feathers.mp3"
+      }
+    }
+  },
+  {
+    "id": "has_scales",
+    "type": "body",
+    "icon": "sparkles",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "有鳞片",
+        "audio_url": "audio/tags-audio/zh-CN/animal_has_scales.mp3"
+      },
+      "en": {
+        "name": "Has scales",
+        "audio_url": "audio/tags-audio/en/animal_has_scales.mp3"
+      }
+    }
+  },
+  {
+    "id": "has_shell",
+    "type": "body",
+    "icon": "shield",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "有壳",
+        "audio_url": "audio/tags-audio/zh-CN/animal_has_shell.mp3"
+      },
+      "en": {
+        "name": "Has a shell",
+        "audio_url": "audio/tags-audio/en/animal_has_shell.mp3"
+      }
+    }
+  },
+  {
+    "id": "has_tail",
+    "type": "body",
+    "icon": "squirrel",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "有尾巴",
+        "audio_url": "audio/tags-audio/zh-CN/animal_has_tail.mp3"
+      },
+      "en": {
+        "name": "Has a tail",
+        "audio_url": "audio/tags-audio/en/animal_has_tail.mp3"
+      }
+    }
+  },
+  {
+    "id": "has_wings",
+    "type": "body",
+    "icon": "feather",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "有翅膀",
+        "audio_url": "audio/tags-audio/zh-CN/animal_has_wings.mp3"
+      },
+      "en": {
+        "name": "Has wings",
+        "audio_url": "audio/tags-audio/en/animal_has_wings.mp3"
+      }
+    }
+  },
+  {
+    "id": "has_horns",
+    "type": "body",
+    "icon": "mountain",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "有角",
+        "audio_url": "audio/tags-audio/zh-CN/animal_has_horns.mp3"
+      },
+      "en": {
+        "name": "Has horns",
+        "audio_url": "audio/tags-audio/en/animal_has_horns.mp3"
+      }
+    }
+  },
+  {
+    "id": "has_long_neck",
+    "type": "body",
+    "icon": "move-vertical",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "脖子长",
+        "audio_url": "audio/tags-audio/zh-CN/animal_has_long_neck.mp3"
+      },
+      "en": {
+        "name": "Long neck",
+        "audio_url": "audio/tags-audio/en/animal_has_long_neck.mp3"
+      }
+    }
+  },
+  {
+    "id": "has_long_nose",
+    "type": "body",
+    "icon": "move-horizontal",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "鼻子长",
+        "audio_url": "audio/tags-audio/zh-CN/animal_has_long_nose.mp3"
+      },
+      "en": {
+        "name": "Long nose",
+        "audio_url": "audio/tags-audio/en/animal_has_long_nose.mp3"
+      }
+    }
+  },
+  {
+    "id": "black_white",
+    "type": "feature",
+    "icon": "circle-dot",
+    "styleKey": "black",
+    "content": {
+      "zh-CN": {
+        "name": "黑白花纹",
+        "audio_url": "audio/tags-audio/zh-CN/animal_black_white.mp3"
+      },
+      "en": {
+        "name": "Black and white pattern",
+        "audio_url": "audio/tags-audio/en/animal_black_white.mp3"
+      }
+    }
+  },
+  {
+    "id": "striped",
+    "type": "feature",
+    "icon": "grip",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "有条纹",
+        "audio_url": "audio/tags-audio/zh-CN/animal_striped.mp3"
+      },
+      "en": {
+        "name": "Striped",
+        "audio_url": "audio/tags-audio/en/animal_striped.mp3"
+      }
+    }
+  },
+  {
+    "id": "spotted",
+    "type": "feature",
+    "icon": "circle-dot",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "有斑点",
+        "audio_url": "audio/tags-audio/zh-CN/animal_spotted.mp3"
+      },
+      "en": {
+        "name": "Spotted",
+        "audio_url": "audio/tags-audio/en/animal_spotted.mp3"
+      }
+    }
+  },
+  {
+    "id": "soft",
+    "type": "texture",
+    "icon": "feather",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "软软的",
+        "audio_url": "audio/tags-audio/zh-CN/animal_soft.mp3"
+      },
+      "en": {
+        "name": "Soft",
+        "audio_url": "audio/tags-audio/en/animal_soft.mp3"
+      }
+    }
+  },
+  {
+    "id": "hard",
+    "type": "texture",
+    "icon": "shield",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "硬硬的",
+        "audio_url": "audio/tags-audio/zh-CN/animal_hard.mp3"
+      },
+      "en": {
+        "name": "Hard",
+        "audio_url": "audio/tags-audio/en/animal_hard.mp3"
+      }
+    }
+  },
+  {
+    "id": "home_animal",
+    "type": "scene",
+    "icon": "home",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "家里常见",
+        "audio_url": "audio/tags-audio/zh-CN/animal_home_animal.mp3"
+      },
+      "en": {
+        "name": "Common at home",
+        "audio_url": "audio/tags-audio/en/animal_home_animal.mp3"
+      }
+    }
+  },
+  {
+    "id": "farm_animal",
+    "type": "scene",
+    "icon": "barn",
+    "styleKey": "brown",
+    "content": {
+      "zh-CN": {
+        "name": "农场里",
+        "audio_url": "audio/tags-audio/zh-CN/animal_farm_animal.mp3"
+      },
+      "en": {
+        "name": "On the farm",
+        "audio_url": "audio/tags-audio/en/animal_farm_animal.mp3"
+      }
+    }
+  },
+  {
+    "id": "forest_animal",
+    "type": "scene",
+    "icon": "trees",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "森林里",
+        "audio_url": "audio/tags-audio/zh-CN/animal_forest_animal.mp3"
+      },
+      "en": {
+        "name": "In the forest",
+        "audio_url": "audio/tags-audio/en/animal_forest_animal.mp3"
+      }
+    }
+  },
+  {
+    "id": "grassland_animal",
+    "type": "scene",
+    "icon": "sprout",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "草原上",
+        "audio_url": "audio/tags-audio/zh-CN/animal_grassland_animal.mp3"
+      },
+      "en": {
+        "name": "On the grassland",
+        "audio_url": "audio/tags-audio/en/animal_grassland_animal.mp3"
+      }
+    }
+  },
+  {
+    "id": "ocean_animal",
+    "type": "scene",
+    "icon": "waves",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "大海里",
+        "audio_url": "audio/tags-audio/zh-CN/animal_ocean_animal.mp3"
+      },
+      "en": {
+        "name": "In the ocean",
+        "audio_url": "audio/tags-audio/en/animal_ocean_animal.mp3"
+      }
+    }
+  },
+  {
+    "id": "river_animal",
+    "type": "scene",
+    "icon": "waves",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "河里湖里",
+        "audio_url": "audio/tags-audio/zh-CN/animal_river_animal.mp3"
+      },
+      "en": {
+        "name": "In rivers and lakes",
+        "audio_url": "audio/tags-audio/en/animal_river_animal.mp3"
+      }
+    }
+  },
+  {
+    "id": "polar_animal",
+    "type": "scene",
+    "icon": "snowflake",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "寒冷地方",
+        "audio_url": "audio/tags-audio/zh-CN/animal_polar_animal.mp3"
+      },
+      "en": {
+        "name": "Cold places",
+        "audio_url": "audio/tags-audio/en/animal_polar_animal.mp3"
+      }
+    }
+  },
+  {
+    "id": "desert_animal",
+    "type": "scene",
+    "icon": "sun",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "沙漠里",
+        "audio_url": "audio/tags-audio/zh-CN/animal_desert_animal.mp3"
+      },
+      "en": {
+        "name": "In the desert",
+        "audio_url": "audio/tags-audio/en/animal_desert_animal.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_walk",
+    "type": "action",
+    "icon": "footprints",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "会走路",
+        "audio_url": "audio/tags-audio/zh-CN/animal_can_walk.mp3"
+      },
+      "en": {
+        "name": "Can walk",
+        "audio_url": "audio/tags-audio/en/animal_can_walk.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_run",
+    "type": "action",
+    "icon": "zap",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "跑得快",
+        "audio_url": "audio/tags-audio/zh-CN/animal_can_run.mp3"
+      },
+      "en": {
+        "name": "Runs fast",
+        "audio_url": "audio/tags-audio/en/animal_can_run.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_jump",
+    "type": "action",
+    "icon": "arrow-up",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "会跳",
+        "audio_url": "audio/tags-audio/zh-CN/animal_can_jump.mp3"
+      },
+      "en": {
+        "name": "Can jump",
+        "audio_url": "audio/tags-audio/en/animal_can_jump.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_fly",
+    "type": "action",
+    "icon": "plane",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "会飞",
+        "audio_url": "audio/tags-audio/zh-CN/animal_can_fly.mp3"
+      },
+      "en": {
+        "name": "Can fly",
+        "audio_url": "audio/tags-audio/en/animal_can_fly.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_swim",
+    "type": "action",
+    "icon": "waves",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "会游泳",
+        "audio_url": "audio/tags-audio/zh-CN/animal_can_swim.mp3"
+      },
+      "en": {
+        "name": "Can swim",
+        "audio_url": "audio/tags-audio/en/animal_can_swim.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_climb",
+    "type": "action",
+    "icon": "trees",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "会爬树",
+        "audio_url": "audio/tags-audio/zh-CN/animal_can_climb.mp3"
+      },
+      "en": {
+        "name": "Can climb trees",
+        "audio_url": "audio/tags-audio/en/animal_can_climb.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_crawl",
+    "type": "action",
+    "icon": "worm",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "会爬行",
+        "audio_url": "audio/tags-audio/zh-CN/animal_can_crawl.mp3"
+      },
+      "en": {
+        "name": "Can crawl",
+        "audio_url": "audio/tags-audio/en/animal_can_crawl.mp3"
+      }
+    }
+  },
+  {
+    "id": "friendly",
+    "type": "personality",
+    "icon": "heart",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "很亲近",
+        "audio_url": "audio/tags-audio/zh-CN/animal_friendly.mp3"
+      },
+      "en": {
+        "name": "Friendly",
+        "audio_url": "audio/tags-audio/en/animal_friendly.mp3"
+      }
+    }
+  },
+  {
+    "id": "cute",
+    "type": "personality",
+    "icon": "smile",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "可爱的",
+        "audio_url": "audio/tags-audio/zh-CN/animal_cute.mp3"
+      },
+      "en": {
+        "name": "Cute",
+        "audio_url": "audio/tags-audio/en/animal_cute.mp3"
+      }
+    }
+  },
+  {
+    "id": "gentle",
+    "type": "personality",
+    "icon": "leaf",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "温顺的",
+        "audio_url": "audio/tags-audio/zh-CN/animal_gentle.mp3"
+      },
+      "en": {
+        "name": "Gentle",
+        "audio_url": "audio/tags-audio/en/animal_gentle.mp3"
+      }
+    }
+  },
+  {
+    "id": "strong",
+    "type": "personality",
+    "icon": "dumbbell",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "强壮的",
+        "audio_url": "audio/tags-audio/zh-CN/animal_strong.mp3"
+      },
+      "en": {
+        "name": "Strong",
+        "audio_url": "audio/tags-audio/en/animal_strong.mp3"
+      }
+    }
+  },
+  {
+    "id": "clever",
+    "type": "personality",
+    "icon": "brain",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "聪明的",
+        "audio_url": "audio/tags-audio/zh-CN/animal_clever.mp3"
+      },
+      "en": {
+        "name": "Clever",
+        "audio_url": "audio/tags-audio/en/animal_clever.mp3"
+      }
+    }
+  },
+  {
+    "id": "moo",
+    "type": "sound",
+    "icon": "volume-2",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "哞哞叫",
+        "audio_url": "audio/tags-audio/zh-CN/animal_moo.mp3"
+      },
+      "en": {
+        "name": "Moos",
+        "audio_url": "audio/tags-audio/en/animal_moo.mp3"
+      }
+    }
+  },
+  {
+    "id": "meow",
+    "type": "sound",
+    "icon": "volume-2",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "喵喵叫",
+        "audio_url": "audio/tags-audio/zh-CN/animal_meow.mp3"
+      },
+      "en": {
+        "name": "Meows",
+        "audio_url": "audio/tags-audio/en/animal_meow.mp3"
+      }
+    }
+  },
+  {
+    "id": "woof",
+    "type": "sound",
+    "icon": "volume-2",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "汪汪叫",
+        "audio_url": "audio/tags-audio/zh-CN/animal_woof.mp3"
+      },
+      "en": {
+        "name": "Barks",
+        "audio_url": "audio/tags-audio/en/animal_woof.mp3"
+      }
+    }
+  },
+  {
+    "id": "quack",
+    "type": "sound",
+    "icon": "volume-2",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "嘎嘎叫",
+        "audio_url": "audio/tags-audio/zh-CN/animal_quack.mp3"
+      },
+      "en": {
+        "name": "Quacks",
+        "audio_url": "audio/tags-audio/en/animal_quack.mp3"
+      }
+    }
+  },
+  {
+    "id": "crow",
+    "type": "sound",
+    "icon": "volume-2",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "喔喔叫",
+        "audio_url": "audio/tags-audio/zh-CN/animal_crow.mp3"
+      },
+      "en": {
+        "name": "Crows",
+        "audio_url": "audio/tags-audio/en/animal_crow.mp3"
+      }
+    }
+  },
+  {
+    "id": "roar",
+    "type": "sound",
+    "icon": "volume-2",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "会吼叫",
+        "audio_url": "audio/tags-audio/zh-CN/animal_roar.mp3"
+      },
+      "en": {
+        "name": "Roars",
+        "audio_url": "audio/tags-audio/en/animal_roar.mp3"
+      }
+    }
+  },
+  {
+    "id": "chirp",
+    "type": "sound",
+    "icon": "volume-2",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "叽叽叫",
+        "audio_url": "audio/tags-audio/zh-CN/animal_chirp.mp3"
+      },
+      "en": {
+        "name": "Chirps",
+        "audio_url": "audio/tags-audio/en/animal_chirp.mp3"
+      }
+    }
+  },
+  {
+    "id": "eats_grass",
+    "type": "food",
+    "icon": "leaf",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "爱吃草",
+        "audio_url": "audio/tags-audio/zh-CN/animal_eats_grass.mp3"
+      },
+      "en": {
+        "name": "Eats grass",
+        "audio_url": "audio/tags-audio/en/animal_eats_grass.mp3"
+      }
+    }
+  },
+  {
+    "id": "eats_bamboo",
+    "type": "food",
+    "icon": "sprout",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "爱吃竹子",
+        "audio_url": "audio/tags-audio/zh-CN/animal_eats_bamboo.mp3"
+      },
+      "en": {
+        "name": "Eats bamboo",
+        "audio_url": "audio/tags-audio/en/animal_eats_bamboo.mp3"
+      }
+    }
+  },
+  {
+    "id": "eats_fish",
+    "type": "food",
+    "icon": "fish",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "爱吃鱼",
+        "audio_url": "audio/tags-audio/zh-CN/animal_eats_fish.mp3"
+      },
+      "en": {
+        "name": "Eats fish",
+        "audio_url": "audio/tags-audio/en/animal_eats_fish.mp3"
+      }
+    }
+  },
+  {
+    "id": "eats_carrot",
+    "type": "food",
+    "icon": "carrot",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "爱吃胡萝卜",
+        "audio_url": "audio/tags-audio/zh-CN/animal_eats_carrot.mp3"
+      },
+      "en": {
+        "name": "Eats carrots",
+        "audio_url": "audio/tags-audio/en/animal_eats_carrot.mp3"
+      }
+    }
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "_基本字段配置": "↓",
+  "id": "number_five",
+  "sku_id": "card_number_five",
+  "category": "number",
+  "_年龄及难度": "↓",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "_图片链接信息": "↓",
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "_标签信息": "↓",
+  "tags": {
+    "primary": [
+      "number",
+      "single_digit",
+      "odd_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "_属性信息": "↓",
+  "attributes": {
+    "object_type": "number",
+    "value": 5,
+    "is_even": false,
+    "is_prime": true,
+    "ordinal": "5th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "_核心内容字段": "↓",
+  "content": {
+    "zh-CN": {
+      "name": "五",
+      "aloud": "wǔ",
+      "words": "five",
+      "intro": "五是比四多一的数字。一只手有五根手指，可以帮助我们数数。五是个很有用的数字哦！",
+      "story": {
+        "title": "🖐五根手指",
+        "body": "小手伸出来，数一数：一、二、三、四、五！五根手指排排站。大拇指说：我最粗！食指说：我最灵活！中指说：我最高！无名指说：我最好看！小拇指说：我最小，但我能拉勾！五根手指各有各的本领，一起合作才能做好多事情：拿筷子、画画、拍手鼓掌。五根手指手拉手，永远不分开！"
+      },
+      "knowledge": {
+        "title": "为什么一只手有五根手指？",
+        "body": "人类的祖先在很久以前就长出了五根手指，这样刚好能灵活地抓东西。五根手指配合起来，可以做很多精细的动作。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_five_intro.mp3",
+        "story": "../item-audio/zh-CN/number_five_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Five",
+      "aloud": "/faɪv/",
+      "words": "",
+      "intro": "Five is the number that comes after four. One hand has five fingers, which helps us count things. Five is a very useful number!",
+      "story": {
+        "title": "🖐Five Fingers",
+        "body": "Stretch out your little hand and count: one, two, three, four, five! Five fingers standing in a row. The thumb said, I'm the thickest! The index finger said, I'm the most flexible! The middle finger said, I'm the tallest! The ring finger said, I'm the prettiest! The pinky said, I'm the smallest, but I can make pinky promises! Each finger has its own special talent, and together they can do so many things: hold chopsticks, draw pictures, and clap hands. Five fingers holding hands, never apart!"
+      },
+      "knowledge": {
+        "title": "Why does one hand have five fingers?",
+        "body": "Human ancestors developed five fingers a long time ago, which is just the right number to grab things flexibly. Five fingers working together can do many detailed movements."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_five_intro.mp3",
+        "story": "../item-audio/en/number_five_story.mp3"
+      }
+    }
+  }
+}

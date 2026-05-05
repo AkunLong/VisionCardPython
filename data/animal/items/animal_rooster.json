@@ -1,0 +1,105 @@
+{
+  "id": "animal_rooster",
+  "sku_id": "card_animal_rooster",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "bird",
+      "farm_animal"
+    ],
+    "secondary": [
+      "has_feathers",
+      "can_fly",
+      "crow"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "bird",
+      "farm_animal"
+    ],
+    "color": [
+      "color_red",
+      "color_brown",
+      "color_gold",
+      "color_white"
+    ],
+    "size": [
+      "medium"
+    ],
+    "body": [
+      "feathers",
+      "wings",
+      "tail",
+      "comb",
+      "beak"
+    ],
+    "scenes": [
+      "farm",
+      "yard"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "fly",
+      "crow"
+    ],
+    "sound": [
+      "crow"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "大公鸡",
+      "aloud": "dà gōng jī",
+      "words": "rooster",
+      "intro": "大公鸡是一种漂亮的家禽，头上长着红红的鸡冠，身上有彩色的羽毛，尾巴高高翘起。每天早晨，大公鸡会喔喔啼叫，叫大家起床。",
+      "story": {
+        "title": "🐔大公鸡的早晨",
+        "body": "农场里住着一只大公鸡，名字叫喔喔。每天天还没有亮，喔喔就跳到篱笆上，伸长脖子，大声地叫：“喔喔喔！起床啦！”小鸭子、小羊和小牛听到喔喔的叫声，都慢慢睁开了眼睛。太阳公公也露出了笑脸，把金色的阳光洒在草地上。喔喔从篱笆上跳下来，在院子里走来走去，找好吃的小虫子。它用尖尖的爪子刨一刨土，找到一条小虫子，开心地吃掉了。吃完早餐，喔喔又去和小伙伴们玩，大家一起在农场里跑来跑去，可高兴了。等到太阳落山，喔喔回到鸡舍里，舒舒服服地睡觉了。"
+      },
+      "knowledge": {
+        "title": "大公鸡为什么打鸣？",
+        "body": "大公鸡打鸣是天生的本领。它们用响亮的叫声告诉我们天亮了，该起床啦。公鸡的叫声还能告诉其他公鸡这里是它的家，它们用声音保护自己的地盘。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_rooster_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_rooster_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Rooster",
+      "aloud": "/ˈruːstər/",
+      "words": "",
+      "intro": "A rooster is a beautiful farm bird with a red comb on its head, colorful feathers, and a tall tail. Every morning, the rooster crows to wake everyone up.",
+      "story": {
+        "title": "🐔The Rooster’s Morning",
+        "body": "On the farm lived a rooster named Cock-a-doodle-doo. Every day before sunrise, he jumped onto the fence, stretched his neck, and crowed loudly, “Cock-a-doodle-doo! Time to get up!” The little duck, lamb, and calf heard him and slowly opened their eyes. Then the sun peeked out and spread golden light across the grass. Cock-a-doodle-doo hopped down and walked around the yard, looking for yummy bugs. He scratched the dirt with his sharp claws, found a worm, and happily ate it. After breakfast, he played with his friends. They ran and ran on the farm, having so much fun. When the sun went down, Cock-a-doodle-doo went back to the coop and fell fast asleep."
+      },
+      "knowledge": {
+        "title": "Why do roosters crow?",
+        "body": "Crowing is a natural behavior for roosters. They use their loud calls to tell everyone that it’s morning and time to wake up. Roosters also crow to mark their territory and let other roosters know where they live."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_rooster_intro.mp3",
+        "story": "../item-audio/en/animal_rooster_story.mp3"
+      }
+    }
+  }
+}

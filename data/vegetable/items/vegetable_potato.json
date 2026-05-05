@@ -1,0 +1,90 @@
+{
+  "id": "vegetable_potato",
+  "sku_id": "card_vegetable_potato",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_brown",
+      "root_vegetable"
+    ],
+    "secondary": [
+      "round",
+      "soft",
+      "can_cook"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "brown"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "soft"
+    ],
+    "grow_location": [
+      "underground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "土豆",
+      "aloud": "tǔ dòu",
+      "words": "potato",
+      "intro": "土豆是一种棕色的蔬菜，圆圆的，长在泥土下面。它吃起来软软的，可以做成薯条、土豆泥，好多好吃的！",
+      "story": {
+        "title": "🥔挖土豆",
+        "body": "小鼹鼠在花园里钻来钻去，突然碰到一个硬硬的东西。它用小爪子挖开泥土，哇，是一个圆滚滚的土豆！小鼹鼠高兴地把土豆滚回家。妈妈笑着说：我们来煮土豆汤吧！小鼹鼠帮忙洗土豆，皮上还有细细的根呢。水开了，土豆在锅里咕嘟咕嘟地煮着，慢慢变软了。厨房里飘出香香的味道。邻居小田鼠闻到香味，探进头来。小鼹鼠盛了一碗汤给它，两个小伙伴一起喝汤，心里暖暖的。小鼹鼠说：原来地下的土豆这么美味呀！"
+      },
+      "knowledge": {
+        "title": "吃土豆有什么好处？",
+        "body": "土豆有很多淀粉，能给我们身体提供能量，让我们有力气跑跑跳跳。土豆还能做成薯条、薯片、土豆泥，是很棒的蔬菜！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_potato_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_potato_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Potato",
+      "aloud": "/pəˈteɪtoʊ/",
+      "words": "",
+      "intro": "A potato is a brown vegetable that is round and grows underground. It tastes soft and can be made into french fries, mashed potatoes, and many yummy foods!",
+      "story": {
+        "title": "🥔Digging Potatoes",
+        "body": "Little Mole was burrowing in the garden when he bumped into something hard. He used his paws to dig away the dirt and wow — a round, plump potato! Overjoyed, he rolled the potato home. Mama smiled and said, Let's make potato soup! Little Mole helped wash the potato; it had tiny roots on its skin. The water boiled, and the potato cooked with a bubbling sound, slowly turning soft. A delicious smell drifted through the kitchen. Neighbor Vole sniffed the air and peeked in. Little Mole poured him a bowl of soup, and the two friends sipped together, feeling warm inside. Little Mole said, Potatoes from underground are so tasty!"
+      },
+      "knowledge": {
+        "title": "Why is eating potatoes good for you?",
+        "body": "Potatoes are full of starch, which gives your body energy to run and play. You can make french fries, chips, or mashed potatoes — they are a wonderful vegetable!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_potato_intro.mp3",
+        "story": "../item-audio/en/vegetable_potato_story.mp3"
+      }
+    }
+  }
+}

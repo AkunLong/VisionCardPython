@@ -1,0 +1,96 @@
+{
+  "id": "transport_airplane",
+  "sku_id": "card_transport_airplane",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "air_transport",
+      "can_fly"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_carry_people",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "airplane"
+    ],
+    "color": [
+      "white",
+      "blue",
+      "red"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "sky",
+      "airport",
+      "runway"
+    ],
+    "fuel": [
+      "jet_fuel"
+    ],
+    "features": [
+      "wings",
+      "engines",
+      "wheels"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "飞机",
+      "aloud": "fēi jī",
+      "words": "airplane",
+      "intro": "飞机是一种在天上飞的大铁鸟，有两只大大的翅膀。它飞得很快很快，可以带我们去很远的地方。它在机场起飞和降落。",
+      "story": {
+        "title": "✈️小白飞机的旅行",
+        "body": "蓝蓝的天空中，小白飞机要出发啦！轰隆隆，它在长长的跑道上跑呀跑，越跑越快，然后一下子飞了起来。机舱里坐满了乘客，有去奶奶家的小朋友，有出差的叔叔阿姨。小白飞机飞过软软的白云，像棉花糖一样。飞过绿色的小山，飞过闪闪的河流。小朋友趴在窗边，开心地数着云朵。飞了好久，小白飞机慢慢下降，轻轻落在另一座城市的机场。乘客们拍着手说：“谢谢小白飞机！”小白飞机摇了摇翅膀，说：“下次再带你们飞高高！”天黑了，它安静地停在机库里，做着明天飞行的梦。"
+      },
+      "knowledge": {
+        "title": "飞机为什么会飞？",
+        "body": "飞机有强大的发动机，能让它飞快地向前冲。翅膀的形状很特别，空气在翅膀下面托着它，就像一只手把它举起来。这样飞机就能在天上稳稳地飞，带我们去很远很远的地方。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_airplane_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_airplane_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Airplane",
+      "aloud": "/ˈɛrpleɪn/",
+      "words": "",
+      "intro": "An airplane is a big metal bird that flies in the sky. It has two big wings and goes very fast. It can take us to faraway places. It takes off and lands at the airport.",
+      "story": {
+        "title": "✈️Little White Plane's Journey",
+        "body": "In the bright blue sky, Little White Plane was ready to go! Vroom! It ran faster and faster on the long runway, then zoomed up into the air. The cabin was full of passengers: children visiting Grandma, and grown-ups on business trips. Little White Plane flew past soft white clouds like cotton candy, over green hills, and above sparkling rivers. A child at the window happily counted the clouds. After a long flight, Little White Plane slowly went down and landed gently at another city's airport. The passengers clapped and said, “Thank you, Little White Plane!” It wiggled its wings and said, “I’ll take you high again next time!” When it got dark, it rested quietly in the hangar, dreaming of tomorrow’s flight."
+      },
+      "knowledge": {
+        "title": "Why does an airplane fly?",
+        "body": "An airplane has powerful engines that push it forward very fast. Its wings have a special shape. The air underneath the wings lifts it up, like a giant hand holding it in the sky. That’s how an airplane can fly smoothly and take us very far."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_airplane_intro.mp3",
+        "story": "../item-audio/en/transport_airplane_story.mp3"
+      }
+    }
+  }
+}

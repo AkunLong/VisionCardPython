@@ -1,0 +1,90 @@
+{
+  "id": "flower_lotus",
+  "sku_id": "card_flower_lotus",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_pink",
+      "water_flower"
+    ],
+    "secondary": [
+      "summer_flower",
+      "fragrant",
+      "big_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "pink",
+      "white"
+    ],
+    "size": [
+      "large"
+    ],
+    "scenes": [
+      "pond",
+      "lake",
+      "water garden"
+    ],
+    "season": [
+      "summer"
+    ],
+    "smell": [
+      "fragrant"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "荷花",
+      "aloud": "hé huā",
+      "words": "lotus",
+      "intro": "荷花是长在水里的花，花瓣粉粉的，又大又香，像一把漂亮的小伞。夏天的时候，荷花会从绿绿的大叶子里钻出来，特别好看。",
+      "story": {
+        "title": "🌸小荷花找朋友",
+        "body": "池塘里有一朵小荷花，它粉粉的花苞圆圆的，躲在绿绿的大叶子下面。小荷花想和大家玩，可是小鱼游走了，小青蛙跳开了。小荷花有点难过。这时，一只小蜻蜓飞过来，停在花瓣上。小荷花问：你愿意和我做朋友吗？小蜻蜓说：当然愿意！你的花瓣又香又软，我喜欢你。小荷花开心地张开了花瓣，越开越大，香味飘满了整个池塘。小鱼和小青蛙也游回来了，大家都说：小荷花，你真漂亮！从那以后，池塘里每天都有笑声。"
+      },
+      "knowledge": {
+        "title": "荷花为什么能出淤泥而不染？",
+        "body": "荷花长在泥巴水里，但花瓣和叶子表面有一层特别的东西，让水和脏东西都沾不上去，所以它总是干干净净的。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_lotus_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_lotus_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Lotus",
+      "aloud": "/ˈloʊtəs/",
+      "words": "",
+      "intro": "A lotus is a flower that grows in water. It has big, pink, fragrant petals that look like a pretty umbrella. In summer, lotus flowers bloom from large green leaves, and they are very beautiful.",
+      "story": {
+        "title": "🌸Little Lotus Finds a Friend",
+        "body": "In a pond, there was a little lotus flower. Its pink bud was round and hid under a big green leaf. The little lotus wanted to play, but the little fish swam away, and the little frog hopped away. The little lotus felt a bit sad. Then a little dragonfly flew over and landed on its petal. The little lotus asked, Will you be my friend? The dragonfly said, Of course! Your petals are so soft and sweet, I like you. The little lotus happily opened its petals wider and wider, and its fragrance filled the whole pond. The little fish and frog came back and said, Little lotus, you are so beautiful! From then on, the pond was always filled with laughter."
+      },
+      "knowledge": {
+        "title": "Why does the lotus stay clean in muddy water?",
+        "body": "Lotus grows in muddy water, but its petals and leaves have a special surface that keeps water and dirt away, so it always looks fresh and clean."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_lotus_intro.mp3",
+        "story": "../item-audio/en/flower_lotus_story.mp3"
+      }
+    }
+  }
+}

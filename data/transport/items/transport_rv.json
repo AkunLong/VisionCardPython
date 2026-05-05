@@ -1,0 +1,97 @@
+{
+  "id": "transport_rv",
+  "sku_id": "card_transport_rv",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "special_vehicle",
+      "on_road"
+    ],
+    "secondary": [
+      "big",
+      "has_wheels",
+      "can_carry_people"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "rv"
+    ],
+    "color": [
+      "white",
+      "gray",
+      "blue"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "road",
+      "campground",
+      "nature"
+    ],
+    "fuel": [
+      "diesel",
+      "gasoline"
+    ],
+    "features": [
+      "living_quarters",
+      "wheels",
+      "kitchen"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "房车",
+      "aloud": "fáng chē",
+      "words": "rv",
+      "intro": "房车就像一座会跑的小房子。它有轮子，可以开着去很远的地方。车里面有床、小厨房，还有小桌子，旅行的时候可以住在里面，舒服又好玩。",
+      "story": {
+        "title": "🚐小房车的第一次旅行",
+        "body": "小房车白白亮亮的，今天它要带一家人去海边玩。爸爸开着它，妈妈坐在旁边，小朋友在后边看窗外的风景。路上经过大山，小朋友喊：好高的山！经过小河，小朋友又喊：好清的水！中午，房车停在一片绿草地上，妈妈在小厨房里做了香喷喷的午饭。吃完饭，小朋友在床上睡了个午觉，醒来就到了海边。他们一起玩沙子、捡贝壳，晚上就睡在房车里，听着海浪声进入梦乡。小房车觉得，这样带着家人到处走，真幸福。"
+      },
+      "knowledge": {
+        "title": "房车有什么特别的？",
+        "body": "房车把家安在了轮子上，里面可以睡觉、做饭、上厕所。出去玩不用找旅馆，停在安全的地方就能休息，就像带着家去旅行，又自由又方便。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_rv_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_rv_story.mp3"
+      }
+    },
+    "en": {
+      "name": "RV",
+      "aloud": "/ˌɑːr ˈviː/",
+      "words": "",
+      "intro": "An RV is like a little house on wheels. It can drive to faraway places. Inside, there is a bed, a small kitchen, and a table. You can live in it while traveling—it’s comfortable and fun!",
+      "story": {
+        "title": "🚐The Little RV’s First Trip",
+        "body": "The little white RV was so excited—today it would take a family to the beach. Dad drove, Mom sat beside him, and the child looked out the window. They passed tall mountains, and the child shouted, “So high!” They passed a clear river, and the child shouted, “So pretty!” At noon, the RV stopped on a green meadow. Mom made a yummy lunch in the tiny kitchen. After eating, the child took a nap on the bed. When they woke up, they had arrived at the beach! They played in the sand, collected shells, and at night, slept in the RV, listening to the waves. The little RV felt so happy to take the family everywhere."
+      },
+      "knowledge": {
+        "title": "What’s special about an RV?",
+        "body": "An RV puts a home on wheels. You can sleep, cook, and use the bathroom inside. When you travel, you don’t need a hotel—just park in a safe place and rest. It’s like bringing your home along, so free and easy."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_rv_intro.mp3",
+        "story": "../item-audio/en/transport_rv_story.mp3"
+      }
+    }
+  }
+}

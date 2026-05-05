@@ -1,0 +1,253 @@
+日志文件: /Users/kun/PycharmProjects/VisionCardPython/logs/pipeline_20260501_221802.log
+
+============================================================
+  [步骤1-items_make] 品类: animal
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_make.py --category animal --model deepseek-v4-pro
+============================================================
+  ✅ [步骤1-items_make] animal 完成
+
+============================================================
+  [步骤2-items_audio_make] 品类: animal
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_audio_make.py --category animal --update-json
+============================================================
+  ✅ [步骤2-items_audio_make] animal 完成
+
+============================================================
+  [步骤3-tags_audio_make] 品类: animal
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python tags_audio_make.py --category animal --update-json
+============================================================
+  ✅ [步骤3-tags_audio_make] animal 完成
+
+============================================================
+  [步骤4-items_image_make] 品类: animal
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_image_make.py --category animal
+============================================================
+  ✅ [步骤4-items_image_make] animal 完成
+
+============================================================
+  [步骤1-items_make] 品类: fruit
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_make.py --category fruit --model deepseek-v4-pro
+============================================================
+  ✅ [步骤1-items_make] fruit 完成
+
+============================================================
+  [步骤2-items_audio_make] 品类: fruit
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_audio_make.py --category fruit --update-json
+============================================================
+  ✅ [步骤2-items_audio_make] fruit 完成
+
+============================================================
+  [步骤3-tags_audio_make] 品类: fruit
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python tags_audio_make.py --category fruit --update-json
+============================================================
+  ✅ [步骤3-tags_audio_make] fruit 完成
+
+============================================================
+  [步骤4-items_image_make] 品类: fruit
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_image_make.py --category fruit
+============================================================
+  ✅ [步骤4-items_image_make] fruit 完成
+
+============================================================
+  [步骤1-items_make] 品类: flower
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_make.py --category flower --model deepseek-v4-pro
+============================================================
+  ✅ [步骤1-items_make] flower 完成
+
+============================================================
+  [步骤2-items_audio_make] 品类: flower
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_audio_make.py --category flower --update-json
+============================================================
+  ✅ [步骤2-items_audio_make] flower 完成
+
+============================================================
+  [步骤3-tags_audio_make] 品类: flower
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python tags_audio_make.py --category flower --update-json
+============================================================
+  ✅ [步骤3-tags_audio_make] flower 完成
+
+============================================================
+  [步骤4-items_image_make] 品类: flower
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_image_make.py --category flower
+============================================================
+  ✅ [步骤4-items_image_make] flower 完成
+
+============================================================
+  [步骤1-items_make] 品类: food
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_make.py --category food --model deepseek-v4-pro
+============================================================
+  ✅ [步骤1-items_make] food 完成
+
+============================================================
+  [步骤2-items_audio_make] 品类: food
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_audio_make.py --category food --update-json
+============================================================
+  ✅ [步骤2-items_audio_make] food 完成
+
+============================================================
+  [步骤3-tags_audio_make] 品类: food
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python tags_audio_make.py --category food --update-json
+============================================================
+  ✅ [步骤3-tags_audio_make] food 完成
+
+============================================================
+  [步骤4-items_image_make] 品类: food
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_image_make.py --category food
+============================================================
+  ✅ [步骤4-items_image_make] food 完成
+
+============================================================
+  [步骤1-items_make] 品类: number
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_make.py --category number --model deepseek-v4-pro
+============================================================
+  ✅ [步骤1-items_make] number 完成
+
+============================================================
+  [步骤2-items_audio_make] 品类: number
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_audio_make.py --category number --update-json
+============================================================
+  ✅ [步骤2-items_audio_make] number 完成
+
+============================================================
+  [步骤3-tags_audio_make] 品类: number
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python tags_audio_make.py --category number --update-json
+============================================================
+  ✅ [步骤3-tags_audio_make] number 完成
+
+============================================================
+  [步骤4-items_image_make] 品类: number
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_image_make.py --category number
+============================================================
+  ✅ [步骤4-items_image_make] number 完成
+
+============================================================
+  [步骤1-items_make] 品类: object
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_make.py --category object --model deepseek-v4-pro
+============================================================
+  ✅ [步骤1-items_make] object 完成
+
+============================================================
+  [步骤2-items_audio_make] 品类: object
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_audio_make.py --category object --update-json
+============================================================
+  ✅ [步骤2-items_audio_make] object 完成
+
+============================================================
+  [步骤3-tags_audio_make] 品类: object
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python tags_audio_make.py --category object --update-json
+============================================================
+  ✅ [步骤3-tags_audio_make] object 完成
+
+============================================================
+  [步骤4-items_image_make] 品类: object
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_image_make.py --category object
+============================================================
+  ✅ [步骤4-items_image_make] object 完成
+
+============================================================
+  [步骤1-items_make] 品类: person
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_make.py --category person --model deepseek-v4-pro
+============================================================
+  ✅ [步骤1-items_make] person 完成
+
+============================================================
+  [步骤2-items_audio_make] 品类: person
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_audio_make.py --category person --update-json
+============================================================
+  ✅ [步骤2-items_audio_make] person 完成
+
+============================================================
+  [步骤3-tags_audio_make] 品类: person
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python tags_audio_make.py --category person --update-json
+============================================================
+  ✅ [步骤3-tags_audio_make] person 完成
+
+============================================================
+  [步骤4-items_image_make] 品类: person
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_image_make.py --category person
+============================================================
+  ✅ [步骤4-items_image_make] person 完成
+
+============================================================
+  [步骤1-items_make] 品类: plant
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_make.py --category plant --model deepseek-v4-pro
+============================================================
+  ✅ [步骤1-items_make] plant 完成
+
+============================================================
+  [步骤2-items_audio_make] 品类: plant
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_audio_make.py --category plant --update-json
+============================================================
+  ✅ [步骤2-items_audio_make] plant 完成
+
+============================================================
+  [步骤3-tags_audio_make] 品类: plant
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python tags_audio_make.py --category plant --update-json
+============================================================
+  ✅ [步骤3-tags_audio_make] plant 完成
+
+============================================================
+  [步骤4-items_image_make] 品类: plant
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_image_make.py --category plant
+============================================================
+  ✅ [步骤4-items_image_make] plant 完成
+
+============================================================
+  [步骤1-items_make] 品类: transport
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_make.py --category transport --model deepseek-v4-pro
+============================================================
+  ✅ [步骤1-items_make] transport 完成
+
+============================================================
+  [步骤2-items_audio_make] 品类: transport
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_audio_make.py --category transport --update-json
+============================================================
+  ✅ [步骤2-items_audio_make] transport 完成
+
+============================================================
+  [步骤3-tags_audio_make] 品类: transport
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python tags_audio_make.py --category transport --update-json
+============================================================
+  ✅ [步骤3-tags_audio_make] transport 完成
+
+============================================================
+  [步骤4-items_image_make] 品类: transport
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_image_make.py --category transport
+============================================================
+  ✅ [步骤4-items_image_make] transport 完成
+
+============================================================
+  [步骤1-items_make] 品类: vegetable
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_make.py --category vegetable --model deepseek-v4-pro
+============================================================
+  ✅ [步骤1-items_make] vegetable 完成
+
+============================================================
+  [步骤2-items_audio_make] 品类: vegetable
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_audio_make.py --category vegetable --update-json
+============================================================
+Traceback (most recent call last):
+  File "/Users/kun/PycharmProjects/VisionCardPython/pipeline_make.py", line 152, in <module>
+    if __name__ == "__main__":
+        ^^^^^^
+  File "/Users/kun/PycharmProjects/VisionCardPython/pipeline_make.py", line 115, in main
+    ok = run_step(cmd, "步骤2-items_audio_make", cat)
+         ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kun/PycharmProjects/VisionCardPython/pipeline_make.py", line 66, in run_step
+    result = subprocess.run(cmd, cwd=Path(__file__).parent)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/subprocess.py", line 556, in run
+    stdout, stderr = process.communicate(input, timeout=timeout)
+                     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/subprocess.py", line 1211, in communicate
+    self.wait()
+    ~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/subprocess.py", line 1274, in wait
+    return self._wait(timeout=timeout)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/subprocess.py", line 2060, in _wait
+    (pid, sts) = self._try_wait(0)
+                 ~~~~~~~~~~~~~~^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/subprocess.py", line 2018, in _try_wait
+    (pid, sts) = os.waitpid(self.pid, wait_flags)
+                 ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

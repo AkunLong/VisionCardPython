@@ -1,0 +1,98 @@
+{
+  "id": "plant_water_lily",
+  "sku_id": "card_plant_water_lily",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "aquatic_plant",
+      "flower"
+    ],
+    "secondary": [
+      "in_water",
+      "has_flower",
+      "big_leaf"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "aquatic_plant"
+    ],
+    "color": [
+      "green",
+      "white"
+    ],
+    "size": [
+      "medium"
+    ],
+    "parts": [
+      "leaves",
+      "flower",
+      "roots",
+      "stem"
+    ],
+    "scenes": [
+      "pond",
+      "lake",
+      "garden"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "睡莲",
+      "aloud": "shuì lián",
+      "words": "water lily",
+      "intro": "睡莲静静地躺在水面上，圆圆的绿叶像小船，漂亮的花朵粉白粉白的，白天张开，晚上合拢，像个爱睡觉的小宝宝。",
+      "story": {
+        "title": "🌺小睡莲的一天",
+        "body": "池塘里有一朵小睡莲，她每天早上醒来，慢慢张开雪白的花瓣，对着太阳笑。小青蛙跳上她的叶子唱歌，小蜻蜓轻轻落在花瓣上休息。中午，太阳火辣辣的，小鱼儿躲在睡莲大叶子下乘凉，好舒服啊。傍晚，天边红红的，小睡莲要睡觉了，她轻轻地合上花瓣，摇啊摇，像摇篮一样。风儿吹过，她做了一个甜甜的梦，梦见自己飞上了天空，和云朵做游戏。第二天，小睡莲又早早醒来，张开花瓣，等着朋友们来玩。她真快乐，因为有这么多好朋友陪着她！"
+      },
+      "knowledge": {
+        "title": "睡莲有什么特别？",
+        "body": "睡莲是一种生活在水里的植物，它的叶子和花都浮在水面上。睡莲能净化水，让池塘更干净。它的根长在水底的泥土里，花在夏天开放，非常美丽。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_water_lily_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_water_lily_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Water Lily",
+      "aloud": "/ˈwɔːtər ˌlɪli/",
+      "words": "",
+      "intro": "The water lily rests quietly on the water, with round green leaves like little boats and lovely pink-white flowers. They open in the day and close at night, just like a sleepy baby.",
+      "story": {
+        "title": "🌺A Day of Little Water Lily",
+        "body": "In a pond, there lived a little water lily. Every morning, she woke up and slowly opened her snowy white petals, smiling at the sun. A little frog hopped onto her leaf to sing, and a tiny dragonfly rested gently on her petals. At noon, the sun was hot, and little fish swam under her big leaf to cool off—so comfortable! In the evening, the sky turned red, and the little water lily was sleepy. She softly closed her petals, rocking like a cradle. A breeze blew, and she drifted into a sweet dream, flying up to play with the clouds. The next day, she woke early again, opened her petals, and waited for her friends. She was so happy, because she had so many friends to play with!"
+      },
+      "knowledge": {
+        "title": "What is special about water lilies?",
+        "body": "Water lilies are plants that live in water. Their leaves and flowers float on the surface. They help clean the water and make ponds clear. Their roots grow in the muddy bottom, and they bloom beautifully in summer."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_water_lily_intro.mp3",
+        "story": "../item-audio/en/plant_water_lily_story.mp3"
+      }
+    }
+  }
+}

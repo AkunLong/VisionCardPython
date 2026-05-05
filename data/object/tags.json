@@ -1,0 +1,658 @@
+[
+  {
+    "id": "color_red",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "red",
+    "content": {
+      "zh-CN": {
+        "name": "红色",
+        "audio_url": "audio/tags-audio/zh-CN/object_color_red.mp3"
+      },
+      "en": {
+        "name": "Red",
+        "audio_url": "audio/tags-audio/en/object_color_red.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_yellow",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "黄色",
+        "audio_url": "audio/tags-audio/zh-CN/object_color_yellow.mp3"
+      },
+      "en": {
+        "name": "Yellow",
+        "audio_url": "audio/tags-audio/en/object_color_yellow.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_blue",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "蓝色",
+        "audio_url": "audio/tags-audio/zh-CN/object_color_blue.mp3"
+      },
+      "en": {
+        "name": "Blue",
+        "audio_url": "audio/tags-audio/en/object_color_blue.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_green",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "绿色",
+        "audio_url": "audio/tags-audio/zh-CN/object_color_green.mp3"
+      },
+      "en": {
+        "name": "Green",
+        "audio_url": "audio/tags-audio/en/object_color_green.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_white",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "white",
+    "content": {
+      "zh-CN": {
+        "name": "白色",
+        "audio_url": "audio/tags-audio/zh-CN/object_color_white.mp3"
+      },
+      "en": {
+        "name": "White",
+        "audio_url": "audio/tags-audio/en/object_color_white.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_black",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "black",
+    "content": {
+      "zh-CN": {
+        "name": "黑色",
+        "audio_url": "audio/tags-audio/zh-CN/object_color_black.mp3"
+      },
+      "en": {
+        "name": "Black",
+        "audio_url": "audio/tags-audio/en/object_color_black.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_pink",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "粉色",
+        "audio_url": "audio/tags-audio/zh-CN/object_color_pink.mp3"
+      },
+      "en": {
+        "name": "Pink",
+        "audio_url": "audio/tags-audio/en/object_color_pink.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_gray",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "gray",
+    "content": {
+      "zh-CN": {
+        "name": "灰色",
+        "audio_url": "audio/tags-audio/zh-CN/object_color_gray.mp3"
+      },
+      "en": {
+        "name": "Gray",
+        "audio_url": "audio/tags-audio/en/object_color_gray.mp3"
+      }
+    }
+  },
+  {
+    "id": "object",
+    "type": "category",
+    "icon": "box",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "日常物品",
+        "audio_url": "audio/tags-audio/zh-CN/object_object.mp3"
+      },
+      "en": {
+        "name": "Object",
+        "audio_url": "audio/tags-audio/en/object_object.mp3"
+      }
+    }
+  },
+  {
+    "id": "tableware",
+    "type": "category",
+    "icon": "utensils",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "餐具",
+        "audio_url": "audio/tags-audio/zh-CN/object_tableware.mp3"
+      },
+      "en": {
+        "name": "Tableware",
+        "audio_url": "audio/tags-audio/en/object_tableware.mp3"
+      }
+    }
+  },
+  {
+    "id": "clothing",
+    "type": "category",
+    "icon": "shirt",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "穿戴用品",
+        "audio_url": "audio/tags-audio/zh-CN/object_clothing.mp3"
+      },
+      "en": {
+        "name": "Clothing item",
+        "audio_url": "audio/tags-audio/en/object_clothing.mp3"
+      }
+    }
+  },
+  {
+    "id": "study_item",
+    "type": "category",
+    "icon": "book-open",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "学习用品",
+        "audio_url": "audio/tags-audio/zh-CN/object_study_item.mp3"
+      },
+      "en": {
+        "name": "Study item",
+        "audio_url": "audio/tags-audio/en/object_study_item.mp3"
+      }
+    }
+  },
+  {
+    "id": "electronic_item",
+    "type": "category",
+    "icon": "smartphone",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "电子用品",
+        "audio_url": "audio/tags-audio/zh-CN/object_electronic_item.mp3"
+      },
+      "en": {
+        "name": "Electronic item",
+        "audio_url": "audio/tags-audio/en/object_electronic_item.mp3"
+      }
+    }
+  },
+  {
+    "id": "home_appliance",
+    "type": "category",
+    "icon": "plug",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "家用电器",
+        "audio_url": "audio/tags-audio/zh-CN/object_home_appliance.mp3"
+      },
+      "en": {
+        "name": "Home appliance",
+        "audio_url": "audio/tags-audio/en/object_home_appliance.mp3"
+      }
+    }
+  },
+  {
+    "id": "cleaning_item",
+    "type": "category",
+    "icon": "sparkles",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "清洁用品",
+        "audio_url": "audio/tags-audio/zh-CN/object_cleaning_item.mp3"
+      },
+      "en": {
+        "name": "Cleaning item",
+        "audio_url": "audio/tags-audio/en/object_cleaning_item.mp3"
+      }
+    }
+  },
+  {
+    "id": "personal_item",
+    "type": "category",
+    "icon": "user",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "随身物品",
+        "audio_url": "audio/tags-audio/zh-CN/object_personal_item.mp3"
+      },
+      "en": {
+        "name": "Personal item",
+        "audio_url": "audio/tags-audio/en/object_personal_item.mp3"
+      }
+    }
+  },
+  {
+    "id": "toy_item",
+    "type": "category",
+    "icon": "gamepad-2",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "玩具用品",
+        "audio_url": "audio/tags-audio/zh-CN/object_toy_item.mp3"
+      },
+      "en": {
+        "name": "Toy item",
+        "audio_url": "audio/tags-audio/en/object_toy_item.mp3"
+      }
+    }
+  },
+  {
+    "id": "sports_item",
+    "type": "category",
+    "icon": "circle",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "运动用品",
+        "audio_url": "audio/tags-audio/zh-CN/object_sports_item.mp3"
+      },
+      "en": {
+        "name": "Sports item",
+        "audio_url": "audio/tags-audio/en/object_sports_item.mp3"
+      }
+    }
+  },
+  {
+    "id": "at_home",
+    "type": "scene",
+    "icon": "home",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "家里用",
+        "audio_url": "audio/tags-audio/zh-CN/object_at_home.mp3"
+      },
+      "en": {
+        "name": "Used at home",
+        "audio_url": "audio/tags-audio/en/object_at_home.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_bathroom",
+    "type": "scene",
+    "icon": "bath",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "浴室里",
+        "audio_url": "audio/tags-audio/zh-CN/object_in_bathroom.mp3"
+      },
+      "en": {
+        "name": "In the bathroom",
+        "audio_url": "audio/tags-audio/en/object_in_bathroom.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_kitchen",
+    "type": "scene",
+    "icon": "cooking-pot",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "厨房里",
+        "audio_url": "audio/tags-audio/zh-CN/object_in_kitchen.mp3"
+      },
+      "en": {
+        "name": "In the kitchen",
+        "audio_url": "audio/tags-audio/en/object_in_kitchen.mp3"
+      }
+    }
+  },
+  {
+    "id": "at_table",
+    "type": "scene",
+    "icon": "utensils",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "餐桌上",
+        "audio_url": "audio/tags-audio/zh-CN/object_at_table.mp3"
+      },
+      "en": {
+        "name": "At the table",
+        "audio_url": "audio/tags-audio/en/object_at_table.mp3"
+      }
+    }
+  },
+  {
+    "id": "at_school",
+    "type": "scene",
+    "icon": "school",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "在学校",
+        "audio_url": "audio/tags-audio/zh-CN/object_at_school.mp3"
+      },
+      "en": {
+        "name": "At school",
+        "audio_url": "audio/tags-audio/en/object_at_school.mp3"
+      }
+    }
+  },
+  {
+    "id": "go_out",
+    "type": "scene",
+    "icon": "map-pin",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "出门用",
+        "audio_url": "audio/tags-audio/zh-CN/object_go_out.mp3"
+      },
+      "en": {
+        "name": "Used outdoors",
+        "audio_url": "audio/tags-audio/en/object_go_out.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_wear",
+    "type": "function",
+    "icon": "shirt",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "可以穿戴",
+        "audio_url": "audio/tags-audio/zh-CN/object_can_wear.mp3"
+      },
+      "en": {
+        "name": "Can wear",
+        "audio_url": "audio/tags-audio/en/object_can_wear.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_eat_with",
+    "type": "function",
+    "icon": "utensils",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "吃饭用",
+        "audio_url": "audio/tags-audio/zh-CN/object_can_eat_with.mp3"
+      },
+      "en": {
+        "name": "Used for eating",
+        "audio_url": "audio/tags-audio/en/object_can_eat_with.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_drink_with",
+    "type": "function",
+    "icon": "cup-soda",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "喝水用",
+        "audio_url": "audio/tags-audio/zh-CN/object_can_drink_with.mp3"
+      },
+      "en": {
+        "name": "Used for drinking",
+        "audio_url": "audio/tags-audio/en/object_can_drink_with.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_clean",
+    "type": "function",
+    "icon": "sparkles",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "可以清洁",
+        "audio_url": "audio/tags-audio/zh-CN/object_can_clean.mp3"
+      },
+      "en": {
+        "name": "Can clean",
+        "audio_url": "audio/tags-audio/en/object_can_clean.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_write",
+    "type": "function",
+    "icon": "pencil",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "可以写字",
+        "audio_url": "audio/tags-audio/zh-CN/object_can_write.mp3"
+      },
+      "en": {
+        "name": "Can write",
+        "audio_url": "audio/tags-audio/en/object_can_write.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_draw",
+    "type": "function",
+    "icon": "paintbrush",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "可以画画",
+        "audio_url": "audio/tags-audio/zh-CN/object_can_draw.mp3"
+      },
+      "en": {
+        "name": "Can draw",
+        "audio_url": "audio/tags-audio/en/object_can_draw.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_light",
+    "type": "function",
+    "icon": "lightbulb",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "可以照明",
+        "audio_url": "audio/tags-audio/zh-CN/object_can_light.mp3"
+      },
+      "en": {
+        "name": "Can light up",
+        "audio_url": "audio/tags-audio/en/object_can_light.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_store",
+    "type": "function",
+    "icon": "briefcase",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "可以收纳",
+        "audio_url": "audio/tags-audio/zh-CN/object_can_store.mp3"
+      },
+      "en": {
+        "name": "Can store things",
+        "audio_url": "audio/tags-audio/en/object_can_store.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_play",
+    "type": "function",
+    "icon": "smile",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "可以玩",
+        "audio_url": "audio/tags-audio/zh-CN/object_can_play.mp3"
+      },
+      "en": {
+        "name": "Can play with",
+        "audio_url": "audio/tags-audio/en/object_can_play.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_take_picture",
+    "type": "function",
+    "icon": "camera",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "可以拍照",
+        "audio_url": "audio/tags-audio/zh-CN/object_can_take_picture.mp3"
+      },
+      "en": {
+        "name": "Can take pictures",
+        "audio_url": "audio/tags-audio/en/object_can_take_picture.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_call",
+    "type": "function",
+    "icon": "phone",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "可以打电话",
+        "audio_url": "audio/tags-audio/zh-CN/object_can_call.mp3"
+      },
+      "en": {
+        "name": "Can make calls",
+        "audio_url": "audio/tags-audio/en/object_can_call.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_watch",
+    "type": "function",
+    "icon": "tv",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "可以观看",
+        "audio_url": "audio/tags-audio/zh-CN/object_can_watch.mp3"
+      },
+      "en": {
+        "name": "Can watch",
+        "audio_url": "audio/tags-audio/en/object_can_watch.mp3"
+      }
+    }
+  },
+  {
+    "id": "round",
+    "type": "shape",
+    "icon": "circle",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "圆圆的",
+        "audio_url": "audio/tags-audio/zh-CN/object_round.mp3"
+      },
+      "en": {
+        "name": "Round",
+        "audio_url": "audio/tags-audio/en/object_round.mp3"
+      }
+    }
+  },
+  {
+    "id": "long",
+    "type": "shape",
+    "icon": "ruler",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "长长的",
+        "audio_url": "audio/tags-audio/zh-CN/object_long.mp3"
+      },
+      "en": {
+        "name": "Long",
+        "audio_url": "audio/tags-audio/en/object_long.mp3"
+      }
+    }
+  },
+  {
+    "id": "soft",
+    "type": "texture",
+    "icon": "feather",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "软软的",
+        "audio_url": "audio/tags-audio/zh-CN/object_soft.mp3"
+      },
+      "en": {
+        "name": "Soft",
+        "audio_url": "audio/tags-audio/en/object_soft.mp3"
+      }
+    }
+  },
+  {
+    "id": "hard",
+    "type": "texture",
+    "icon": "shield",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "硬硬的",
+        "audio_url": "audio/tags-audio/zh-CN/object_hard.mp3"
+      },
+      "en": {
+        "name": "Hard",
+        "audio_url": "audio/tags-audio/en/object_hard.mp3"
+      }
+    }
+  },
+  {
+    "id": "safe",
+    "type": "feature",
+    "icon": "shield-check",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "安全使用",
+        "audio_url": "audio/tags-audio/zh-CN/object_safe.mp3"
+      },
+      "en": {
+        "name": "Safe to use",
+        "audio_url": "audio/tags-audio/en/object_safe.mp3"
+      }
+    }
+  }
+]

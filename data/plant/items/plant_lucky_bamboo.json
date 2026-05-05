@@ -1,0 +1,94 @@
+{
+  "id": "plant_lucky_bamboo",
+  "sku_id": "card_plant_lucky_bamboo",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "bamboo",
+      "color_green"
+    ],
+    "secondary": [
+      "aquatic_plant",
+      "at_home",
+      "potted_plant"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "bamboo"
+    ],
+    "color": [
+      "green"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "stem",
+      "leaves",
+      "roots"
+    ],
+    "scenes": [
+      "home",
+      "indoor",
+      "office"
+    ],
+    "season": [
+      "all_year"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "富贵竹",
+      "aloud": "fù guì zhú",
+      "words": "lucky bamboo",
+      "intro": "富贵竹绿绿的，长长的茎，尖尖的叶子。它喜欢住在水里，放在家里亮亮的地方，不需要晒太阳，也能快快长高，给人带来好运。",
+      "story": {
+        "title": "🎋富贵竹的幸福生活",
+        "body": "家里有一瓶富贵竹，刚买回来时只有几片小叶子。小朋友天天给它换干净的水，放在窗边有亮光的地方。富贵竹咕噜咕噜喝着水，慢慢地长出了白白的根，茎也越长越高，叶子越来越绿。一天，小朋友发现富贵竹旁边冒出了小小的新芽，好开心呀！富贵竹说：“谢谢你照顾我，我要长得高高的，给你带来幸运和快乐！”小朋友还会和富贵竹说悄悄话，告诉它今天的趣事。富贵竹轻轻摇着叶子，好像在听。日子一天天过去，富贵竹越来越茂盛，家里充满了绿色和笑声。"
+      },
+      "knowledge": {
+        "title": "富贵竹有什么特别？",
+        "body": "富贵竹可以养在水里，不需要泥土。它喜欢温暖和亮光，但不能暴晒。它能净化空气，看着它绿绿的叶子，心情也会变好。在人们眼里，它还象征着好运和富贵。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_lucky_bamboo_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_lucky_bamboo_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Lucky Bamboo",
+      "aloud": "/ˈlʌki bæmˈbuː/",
+      "words": "",
+      "intro": "Lucky bamboo is green with long stems and pointy leaves. It likes to live in water, placed in a bright spot at home. It doesn't need strong sun and can grow tall, bringing good luck.",
+      "story": {
+        "title": "🎋The Happy Life of Lucky Bamboo",
+        "body": "There was a bottle of lucky bamboo at home. When it first arrived, it had only a few small leaves. A little child gave it fresh water every day and put it near the window with bright light. The lucky bamboo drank and drank, growing white roots, and its stem grew taller and leaves greener. One day, the child saw a tiny new shoot next to it. How happy! The lucky bamboo said, 'Thank you for taking care of me. I will grow tall and bring you luck and joy!' The child would whisper secrets to it, telling it fun things about the day. The lucky bamboo gently swayed its leaves, as if listening. Day by day, it grew fuller and more lush, filling the home with green and laughter."
+      },
+      "knowledge": {
+        "title": "What's special about lucky bamboo?",
+        "body": "Lucky bamboo can grow in water without soil. It likes warmth and bright light, but not strong sun. It cleans the air, and looking at its green leaves makes us happy. People believe it brings good luck and wealth."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_lucky_bamboo_intro.mp3",
+        "story": "../item-audio/en/plant_lucky_bamboo_story.mp3"
+      }
+    }
+  }
+}

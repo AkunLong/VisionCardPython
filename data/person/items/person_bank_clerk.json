@@ -1,0 +1,92 @@
+{
+  "id": "person_bank_clerk",
+  "sku_id": "card_person_bank_clerk",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "life_service"
+    ],
+    "secondary": [
+      "adult",
+      "at_workplace",
+      "worker_job"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "bank_clerk"
+    ],
+    "workplace": [
+      "bank"
+    ],
+    "tools": [
+      "computer",
+      "cash_drawer",
+      "stamp"
+    ],
+    "clothing": [
+      "uniform",
+      "name_tag"
+    ],
+    "actions": [
+      "serve",
+      "count_money",
+      "assist"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "银行职员",
+      "aloud": "yín háng zhí yuán",
+      "words": "bank clerk",
+      "intro": "银行职员是在银行里工作的人。他们帮我们存钱、取钱，保护我们的钱安全，可亲切啦。",
+      "story": {
+        "title": "💰小熊存钱记",
+        "body": "小熊存钱罐满了，叮叮当当响。妈妈说：我们去银行存钱吧！走进银行，长颈鹿职员笑眯眯地打招呼。小熊踮起脚，把零花钱递给柜台。长颈鹿阿姨用电脑敲敲，又拿小印章啪地一盖，递回一本亮晶晶的存折。她说：你的钱现在睡在银行里啦，安全又香甜，还会慢慢长大哦。小熊高兴极了，抱着存折蹦跳回家，想着钱宝宝在银行里长高，咯咯笑起来。从那天起，小熊每星期的零花钱都去找长颈鹿阿姨，存折上的数字越来越大了。"
+      },
+      "knowledge": {
+        "title": "银行职员做什么？",
+        "body": "银行职员帮我们存钱和取钱。他们用电脑查账户，用小印章盖凭证。把钱存在银行，既安全又能生利息，就像在土里种种子，会慢慢变多。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_bank_clerk_intro.mp3",
+        "story": "../item-audio/zh-CN/person_bank_clerk_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Bank Clerk",
+      "aloud": "/bæŋk klɝːrk/",
+      "words": "",
+      "intro": "A bank clerk is someone who works at a bank. They help us save money, withdraw money, and keep our money safe. They are very friendly.",
+      "story": {
+        "title": "💰The Little Bear Saves Money",
+        "body": "The little bear's piggy bank was full and jingled. Mama said, Let's go to the bank to save money! At the bank, the giraffe clerk welcomed them with a big smile. The little bear tiptoed and handed over the coins. The giraffe tapped on the computer, then stamped a shiny passbook with a little stamp. She said, Your money is now sleeping in the bank—safe and sweet, and it will grow bit by bit. The little bear was so happy, hopping home with the passbook, imagining the money growing taller. From that day on, every week's allowance went to the giraffe clerk, and the numbers in the passbook grew bigger and bigger."
+      },
+      "knowledge": {
+        "title": "What does a bank clerk do?",
+        "body": "Bank clerks help us deposit and withdraw money. They use computers to check accounts and stamp papers. Saving money in a bank keeps it safe and earns interest, so it grows over time, just like planting seeds."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_bank_clerk_intro.mp3",
+        "story": "../item-audio/en/person_bank_clerk_story.mp3"
+      }
+    }
+  }
+}

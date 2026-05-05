@@ -1,0 +1,91 @@
+{
+  "id": "food_pancake",
+  "sku_id": "card_food_pancake",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "breakfast_food",
+      "color_yellow",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "at_breakfast",
+      "hot_food"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "breakfast"
+    ],
+    "color": [
+      "yellow",
+      "brown"
+    ],
+    "taste": [
+      "mild"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "at_breakfast"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "煎饼",
+      "aloud": "jiān bǐng",
+      "words": "pancake",
+      "intro": "煎饼是小朋友最喜欢的早餐之一，圆圆的、金黄色的，香香软软的。它用面糊做成，可以配上甜甜的果酱吃。",
+      "story": {
+        "title": "🥞太阳煎饼",
+        "body": "小美早上醒来，闻到厨房里飘来香香的味道。她跑过去一看，妈妈正在做煎饼。妈妈把面糊倒进平底锅里，面糊嗞嗞地响，变成了一张圆圆的金黄色大饼。妈妈翻了几下，饼就变得软软的。小美帮妈妈涂上果酱，叠起来咬一口，啊，真好吃！妈妈说，煎饼是太阳公公送给我们的早餐，吃了身体棒棒的。小美说，我也要学做煎饼，给妈妈做！"
+      },
+      "knowledge": {
+        "title": "煎饼是怎么做的？",
+        "body": "煎饼的做法很简单。把面粉和水、鸡蛋、一点点盐混合成面糊。平底锅烧热，倒一勺面糊，摊成圆形，两面煎到金黄色就好了。可以配上果酱或蜂蜜吃。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_pancake_intro.mp3",
+        "story": "../item-audio/zh-CN/food_pancake_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Pancake",
+      "aloud": "/ˈpænkeɪk/",
+      "words": "",
+      "intro": "Pancake is one of children's favorite breakfasts. It's round, golden yellow, soft, and smells delicious. It's made from batter, often enjoyed with sweet jam.",
+      "story": {
+        "title": "🥞Sunshine Pancakes",
+        "body": "One morning, Xiao Mei woke up to a lovely smell from the kitchen. She ran over and saw Mom making pancakes. Mom poured batter into the hot pan. It sizzled and turned into a big round golden pancake. Mom flipped it, and it became soft. Xiao Mei helped spread jam on it, folded it, and took a bite. Yummy! Mom said, Pancakes are like a breakfast gift from the sun. They make you strong. Xiao Mei said, I want to learn to make pancakes for you, Mom!"
+      },
+      "knowledge": {
+        "title": "How are pancakes made?",
+        "body": "Pancakes are easy to make. Mix flour, water, egg, and a pinch of salt into a batter. Heat a pan, pour a spoonful of batter, spread it into a circle, and cook both sides until golden brown. Enjoy with jam or honey."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_pancake_intro.mp3",
+        "story": "../item-audio/en/food_pancake_story.mp3"
+      }
+    }
+  }
+}

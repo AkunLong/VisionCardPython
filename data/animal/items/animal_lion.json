@@ -1,0 +1,103 @@
+{
+  "id": "animal_lion",
+  "sku_id": "card_animal_lion",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "grassland_animal",
+      "big"
+    ],
+    "secondary": [
+      "has_fur",
+      "has_tail",
+      "roar"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "wild"
+    ],
+    "color": [
+      "golden",
+      "brown"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "mane",
+      "ears",
+      "whiskers"
+    ],
+    "scenes": [
+      "grassland",
+      "savanna"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "jump",
+      "roar"
+    ],
+    "sound": [
+      "roar"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "狮子",
+      "aloud": "shī zi",
+      "words": "lion",
+      "intro": "狮子是生活在草原上的大动物，雄狮子有威风的长鬃毛，吼叫的声音特别响亮。它们喜欢和家人在一起，是草原上的大王。",
+      "story": {
+        "title": "🦁小狮子学吼叫",
+        "body": "小狮子乐乐最近很认真地跟着爸爸学吼叫。爸爸吼一声，整个草原都能听见。乐乐试了一次，只发出了“啊呜”小小的声音。它鼓起勇气，再试一次，还是小小的。乐乐有点着急了。爸爸笑着说：“别着急，像这样，深吸一口气，然后用力——”乐乐学着爸爸的样子，深深吸了一口气，然后使劲吼了出来。“吼——！”这一次，声音大了一些，连旁边的小鸟都飞起来了。乐乐高兴地跳了起来。虽然还不够响亮，但爸爸夸它进步很大。乐乐开心地跑去找妈妈，想给妈妈表演一下。妈妈听着乐乐的吼声，温柔地舔了舔它的毛。乐乐想，明天还要继续练习，总有一天，它也能像爸爸一样威风。"
+      },
+      "knowledge": {
+        "title": "狮子为什么有鬃毛？",
+        "body": "雄狮子的鬃毛是它的标志，可以让它看起来更威武。鬃毛还能在打架时保护脖子。年纪越大，鬃毛颜色越深，就像大人的胡子一样。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_lion_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_lion_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Lion",
+      "aloud": "/ˈlaɪən/",
+      "words": "",
+      "intro": "A lion is a big animal that lives on the grasslands. Male lions have a long, majestic mane, and their roar can be heard from far away. They like to stay with their family and are known as the kings of the savanna.",
+      "story": {
+        "title": "🦁Little Lion Learns to Roar",
+        "body": "Leo the little lion was learning how to roar with his dad. Dad let out a loud roar that echoed across the grassland. Leo tried, but only a tiny “ah-woo” came out. He tried again, but it was still small. Leo felt a little upset. Dad smiled and said, “Don’t worry. Take a deep breath, and push it out like this—” Leo copied his dad, took a big breath, and roared as hard as he could. “Roar—!” This time it was a bit louder, and even the birds nearby flew up. Leo jumped with joy. It wasn’t very loud yet, but Dad praised him for doing so well. Leo happily ran to show his mom. Mom listened and gently licked his fur. Leo thought, tomorrow I’ll practice again, and one day I’ll roar as strong as Dad."
+      },
+      "knowledge": {
+        "title": "Why do lions have manes?",
+        "body": "A male lion’s mane is its famous feature. It makes the lion look stronger and more powerful. The mane also helps protect its neck during fights. As a lion gets older, the mane becomes darker, just like a person’s beard."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_lion_intro.mp3",
+        "story": "../item-audio/en/animal_lion_story.mp3"
+      }
+    }
+  }
+}

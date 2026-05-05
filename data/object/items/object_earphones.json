@@ -1,0 +1,92 @@
+{
+  "id": "object_earphones",
+  "sku_id": "card_object_earphones",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "electronic_item",
+      "color_black"
+    ],
+    "secondary": [
+      "at_home",
+      "soft",
+      "can_wear"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "black"
+    ],
+    "shape": [
+      "round"
+    ],
+    "material": [
+      "plastic",
+      "metal",
+      "fabric"
+    ],
+    "scenes": [
+      "home",
+      "outside",
+      "travel"
+    ],
+    "function": [
+      "listen_music",
+      "talk_on_phone"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "耳机",
+      "aloud": "ěr jī",
+      "words": "headphones",
+      "intro": "耳机可以把好听的声音送进你的耳朵里。戴上它，你就能听到音乐、故事，还不会打扰别人哦。",
+      "story": {
+        "title": "🎧 耳机的悄悄话",
+        "body": "小兔子有一副软软的黑色耳机，她最喜欢戴着它听妈妈唱的歌。一天，耳机突然说话了：“小主人，你知道为什么我能把声音只给你一个人听吗？”小兔子摇摇头。耳机笑了：“因为我有两个小耳朵，它们像小手一样轻轻抱住你的耳朵，把声音包在里面，不让它跑出去。我里面还有细细的线，能把声音从手机里拉过来，再轻轻告诉你。”小兔子把耳机抱在怀里说：“你真的好神奇呀！”从此，她更喜欢和耳机一起，安静地听故事，有时候还会跟着音乐跳舞，耳机也开心地微微震动。"
+      },
+      "knowledge": {
+        "title": "耳机是怎么工作的？",
+        "body": "耳机里面有小小的喇叭，能把电信号变成声音。它的耳罩软软的，可以挡住外面的噪音，让你只听想听的声音。有的耳机还有长长的线，把声音从手机或电脑里传过来。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_earphones_intro.mp3",
+        "story": "../item-audio/zh-CN/object_earphones_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Earphones",
+      "aloud": "/ˈɪəfəʊnz/",
+      "words": "",
+      "intro": "Earphones send sweet sounds right into your ears. Put them on, and you can hear music or stories without bothering anyone else.",
+      "story": {
+        "title": "🎧 The Earphone's Whisper",
+        "body": "Little Rabbit had a soft pair of black earphones. She loved wearing them to listen to her mother's songs. One day, the earphones suddenly spoke: \"Little master, do you know why I can send the sound only to you?\" Little Rabbit shook her head. The earphones smiled: \"Because I have two little ears—they hug your ears gently and keep the sound inside, not letting it escape. Inside me are thin wires that pull the sound from your phone and whisper it to you.\" Little Rabbit hugged the earphones and said, \"You are truly magical!\" From then on, she loved listening to stories quietly with her earphones even more. Sometimes she danced to the music, and the earphones hummed happily along."
+      },
+      "knowledge": {
+        "title": "How do earphones work?",
+        "body": "Inside earphones are tiny speakers that turn electric signals into sound. Their soft cushions block outside noise so you can focus on what you want to hear. Some earphones have a long cord that carries sound from a phone or computer."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_earphones_intro.mp3",
+        "story": "../item-audio/en/object_earphones_story.mp3"
+      }
+    }
+  }
+}

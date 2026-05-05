@@ -1,0 +1,92 @@
+{
+  "id": "vegetable_scallion",
+  "sku_id": "card_vegetable_scallion",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "leafy_vegetable"
+    ],
+    "secondary": [
+      "long",
+      "fragrant",
+      "crisp"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green",
+      "white"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "fragrant",
+      "crisp"
+    ],
+    "grow_location": [
+      "in_soil"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "小香葱",
+      "aloud": "xiǎo xiāng cōng",
+      "words": "scallion",
+      "intro": "小香葱是一种绿色的蔬菜，细细长长的，闻起来香香的，吃起来脆脆的，有一点点特别的味道。它长在泥土里，绿叶在上面，白白的根在下面。",
+      "story": {
+        "title": "🌱拔小香葱",
+        "body": "小兔子来到菜园里，看见一片绿绿的小香葱。细细长长的叶子像一根根绿色的发丝，在风中轻轻摇摆。小兔子想：“这些葱闻起来真香，用来做汤一定很好喝！”它抓住葱叶子，轻轻一拉，一根小香葱就出来了！根部还带着一点泥土。小兔子高兴地又拔了好几根。这时，小狗狗蹦蹦跳跳地走过来，闻到葱的香味，好奇地问：“这是什么呀？好香呀！”小兔子说：“这是小香葱，可以做美味的汤哦。”它们一起回到厨房，把葱洗干净，切成小段，放进煮开的水里。很快，汤烧好了，满屋子都飘着葱的香味。小兔子和小狗狗尝了一口，热乎乎的汤带着葱的清香，真好喝！它们喝完汤，决定在菜园里多种些小香葱，以后就有喝不完的香葱汤啦。"
+      },
+      "knowledge": {
+        "title": "吃小香葱有什么好处？",
+        "body": "小香葱含有维生素和矿物质，可以促进消化，让身体更健康。葱的香味还能让饭菜变得更美味，吃饭时加一点，食欲会更好哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_scallion_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_scallion_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Scallion",
+      "aloud": "/ˈskæliən/",
+      "words": "",
+      "intro": "A scallion is a green vegetable that is long and thin. It smells fragrant and tastes crisp with a little zing. It grows in the soil, with green leaves above and white roots below.",
+      "story": {
+        "title": "🌱Pulling Scallions",
+        "body": "The little rabbit came to the garden and saw a patch of green scallions. Their leaves were long and thin, swaying in the wind. The rabbit thought the scallions smelled fragrant. It pulled out a few scallions carefully. Just then, a puppy came over and asked what they were. The rabbit said, 'These are scallions. Let's make soup!' They went into the kitchen, washed the scallions, and cut them small. They put them in boiling water. Soon, the soup was ready. It filled the room with a wonderful smell. The rabbit and the puppy tasted the soup. It was warm and delicious. They decided to plant more scallions so they could have this soup again."
+      },
+      "knowledge": {
+        "title": "Why is eating scallions good for you?",
+        "body": "Scallions have vitamins and minerals that help your body stay healthy. They can make food taste better and aid digestion. Adding scallions to your meal can boost your appetite."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_scallion_intro.mp3",
+        "story": "../item-audio/en/vegetable_scallion_story.mp3"
+      }
+    }
+  }
+}

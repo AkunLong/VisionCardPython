@@ -1,0 +1,105 @@
+{
+  "id": "animal_bird",
+  "sku_id": "card_animal_bird",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "bird",
+      "cute"
+    ],
+    "secondary": [
+      "small",
+      "has_feathers",
+      "chirp"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "bird"
+    ],
+    "color": [
+      "brown",
+      "gray",
+      "white",
+      "yellow"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "feathers",
+      "wings",
+      "tail",
+      "beak"
+    ],
+    "scenes": [
+      "tree",
+      "garden",
+      "nest",
+      "sky"
+    ],
+    "actions": [
+      "fly",
+      "chirp",
+      "hop",
+      "peck"
+    ],
+    "sound": [
+      "chirp"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "小鸟",
+      "aloud": "xiǎo niǎo",
+      "words": "bird",
+      "intro": "小鸟是一种可爱的小动物，身上长着软软的羽毛，有尖尖的小嘴和一对轻盈的翅膀。小鸟喜欢在树上唱歌，飞来飞去，给我们的生活带来快乐。",
+      "story": {
+        "title": "🐤小鸟找树枝",
+        "body": "小麻雀豆豆最喜欢收集小树枝。一天早上，豆豆醒来后，发现心爱的小树枝不见了。它拍拍翅膀，轻轻地飞到屋檐下，用小嘴啄啄窗台，没有找到。它又飞到院子里的花盆旁边，跳来跳去，歪着小脑袋看了又看，还是没有找到。豆豆有点着急了，它叽叽喳喳地叫着，好像在问小树枝去哪儿了。忽然，豆豆听见“喳喳”的声音，原来小树枝被风吹到了草地上的落叶堆里。豆豆高兴地飞过去，用小嘴一叼，把小树枝衔了起来。豆豆衔着树枝飞回树上，小心地放进窝里。它左看看，右看看，满意极了。然后，豆豆站在枝头，迎着阳光，唱起了好听的歌。"
+      },
+      "knowledge": {
+        "title": "小鸟为什么会唱歌？",
+        "body": "小鸟唱歌，是在和别的小鸟说话。有时候它在告诉大家这里有好吃的，有时候是在呼唤朋友，有时候是在说“这里是我的家”。小鸟的叫声有高有低，不同的声音有不同的意思。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_bird_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_bird_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Bird",
+      "aloud": "/bɜːrd/",
+      "words": "",
+      "intro": "A bird is a cute little animal with soft feathers, a tiny beak, and a pair of light wings. Birds like to sing in the trees and fly around, bringing joy to our lives.",
+      "story": {
+        "title": "🐤Little Bird Looks for a Twig",
+        "body": "Doudou the little sparrow loved collecting small twigs. One morning, Doudou woke up and found her favorite twig was missing. She flapped her wings and flew softly to the eaves, pecking at the windowsill with her tiny beak, but she couldn’t find it. Then she flew to a flower pot in the yard, hopping around and tilting her head to look carefully, but it still wasn’t there. Suddenly, Doudou heard a chirping sound. The wind had blown the twig onto the grass, under a pile of fallen leaves. Doudou happily flew over, grabbed the twig with her beak, and held it tight. She flew back to the tree with the twig and carefully placed it into her nest. She looked at it from the left and right, feeling very pleased. Then Doudou stood on a branch, facing the sunshine, and sang a beautiful song."
+      },
+      "knowledge": {
+        "title": "Why do birds sing?",
+        "body": "Birds sing to communicate with other birds. Sometimes a bird is telling others where to find food, sometimes it is calling to friends, and sometimes it is saying “this is my home.” Birdsongs can be high or low, and different sounds mean different things."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_bird_intro.mp3",
+        "story": "../item-audio/en/animal_bird_story.mp3"
+      }
+    }
+  }
+}

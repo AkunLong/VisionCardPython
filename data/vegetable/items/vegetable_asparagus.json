@@ -1,0 +1,90 @@
+{
+  "id": "vegetable_asparagus",
+  "sku_id": "card_vegetable_asparagus",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "healthy"
+    ],
+    "secondary": [
+      "long",
+      "crisp",
+      "in_garden"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "crisp"
+    ],
+    "grow_location": [
+      "in the garden"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "芦笋",
+      "aloud": "lú sǔn",
+      "words": "asparagus",
+      "intro": "芦笋是一种绿色的蔬菜，长得长长的，身体像一根小棍子。吃起来脆脆的，很有营养，能让我们长高长大。",
+      "story": {
+        "title": "🌱芦笋是小树吗？",
+        "body": "春天来了，小兔白白和妈妈去菜园。白白看见一排排绿色的小棍子从土里钻出来，尖尖的，像小树苗。白白问妈妈：这些是小树吗？妈妈笑着说：这是芦笋，是一种好吃的蔬菜哦。白白好奇地摸了摸，滑滑的嫩嫩的。妈妈拔了几根，带回家做晚餐。妈妈把芦笋切成小段，炒在锅里，香味飘出来。白白尝了一口，咔嚓咔嚓，真脆呀！白白说：原来芦笋不是小树，是脆脆的小棍子！妈妈点点头：多吃芦笋，你会长得更高更壮。白白开心地吃了好多。"
+      },
+      "knowledge": {
+        "title": "吃芦笋有什么好处？",
+        "body": "芦笋里有好多维生素，吃了能让我们身体棒棒的。它还含有一种叫叶酸的东西，能帮助长高长大。芦笋可以炒着吃、做汤，都很美味！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_asparagus_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_asparagus_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Asparagus",
+      "aloud": "/əˈspærəɡəs/",
+      "words": "",
+      "intro": "Asparagus is a green vegetable that grows long and straight like a little stick. It tastes crisp and is very healthy, helping you grow big and strong.",
+      "story": {
+        "title": "🌱Is Asparagus a Little Tree?",
+        "body": "In spring, Little Rabbit Hop and his mother went to the garden. Hop saw rows of green sticks poking out of the soil, pointy at the top, like little trees. Hop asked his mother: Are these little trees? Mother smiled and said: This is asparagus, a yummy vegetable. Hop touched one curiously—it felt smooth and tender. Mother pulled a few to take home for dinner. She cut the asparagus into small pieces and stir-fried them in a pan. A wonderful smell filled the kitchen. Hop took a bite—crunch crunch, so crisp! Hop said: Asparagus isn't a little tree, it's a crunchy little stick! Mother nodded: Eat more asparagus, and you'll grow taller and stronger. Hop happily ate lots of it."
+      },
+      "knowledge": {
+        "title": "Why is eating asparagus good for you?",
+        "body": "Asparagus has lots of vitamins to keep your body strong. It also has something called folate that helps you grow. You can stir-fry it, put it in soup, or steam it—it's delicious any way!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_asparagus_intro.mp3",
+        "story": "../item-audio/en/vegetable_asparagus_story.mp3"
+      }
+    }
+  }
+}

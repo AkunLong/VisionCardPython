@@ -1,0 +1,91 @@
+{
+  "id": "transport_dash_cam",
+  "sku_id": "card_transport_dash_cam",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "vehicle_part",
+      "safety_item"
+    ],
+    "secondary": [
+      "small",
+      "safe",
+      "color_black"
+    ]
+  },
+  "attributes": {
+    "object_type": "vehicle_part",
+    "transport_type": [
+      "dash_cam"
+    ],
+    "color": [
+      "black"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "car",
+      "road"
+    ],
+    "fuel": [],
+    "features": [
+      "record",
+      "camera",
+      "screen"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "行车记录仪",
+      "aloud": "xíng chē jì lù yí",
+      "words": "dash cam",
+      "intro": "行车记录仪是一个小小的相机，装在车里，它可以把开车时看到的东西都录下来。这样如果发生了什么事情，就可以看录像，知道发生了什么，很安全！",
+      "story": {
+        "title": "📷小录录的守护日记",
+        "body": "小录录是一台行车记录仪，它每天安安静静地贴在汽车玻璃上，睁着圆圆的眼睛往外看。早上，爸爸开车送宝宝去幼儿园，小录录就把路上的风景都录下来：路过公园，看到小鸟在树上唱歌；经过面包店，闻到香香的味道。突然，前面一辆车猛地停下来，爸爸赶紧刹车，小录录晃了一下，但还是稳稳地录下了全部。到了幼儿园，宝宝下车前对着小录录摆摆手：“谢谢你保护我们，小录录！”小录录心里暖暖的，眼睛继续亮着，等待下一次出行。晚上，爸爸把录像传到电脑里，和小宝宝一起看，小宝宝高兴地说：“看，那是我们的车车！”小录录真开心，它知道自己很重要，它守护着全家人的安全。"
+      },
+      "knowledge": {
+        "title": "行车记录仪有什么用？",
+        "body": "行车记录仪就像车的小眼睛，它能把开车时遇到的事情都记录下来。万一发生碰撞，录像能帮助大家知道是谁的错。它还能记录好看的风景，就像一本移动的相册。现在很多车都有行车记录仪，让出行更安全。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_dash_cam_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_dash_cam_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Dash Cam",
+      "aloud": "/dæʃ kæm/",
+      "words": "",
+      "intro": "A dash cam is a small camera that goes in a car. It records everything that happens while driving, so if there is an accident, we can see what really happened. It helps keep us safe.",
+      "story": {
+        "title": "📷Little Cam's Guarding Day",
+        "body": "Little Cam is a dash cam. Every day, it quietly sticks to the car window, looking outside with its round eye. In the morning, Daddy drives the baby to kindergarten. Little Cam records the scenery along the way: passing the park, seeing birds singing in the trees; passing the bakery, smelling a yummy scent. Suddenly, a car in front stops quickly. Daddy brakes hard. Little Cam shakes a bit but still records everything steadily. When they arrive at kindergarten, the baby waves at Little Cam and says, \"Thank you for protecting us, Little Cam!\" Little Cam feels warm inside, and its eye stays bright, waiting for the next trip. In the evening, Daddy uploads the video to the computer and watches it with the baby. The baby says happily, \"Look, that's our car!\" Little Cam is so glad. It knows it's important. It guards the whole family's safety."
+      },
+      "knowledge": {
+        "title": "Why use a dash cam?",
+        "body": "A dash cam is like a car's little eye. It records everything that happens on the road. If an accident happens, the video can help show what happened. It can also capture beautiful scenery, like a moving photo album. Now, many cars have dash cams to make driving safer."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_dash_cam_intro.mp3",
+        "story": "../item-audio/en/transport_dash_cam_story.mp3"
+      }
+    }
+  }
+}

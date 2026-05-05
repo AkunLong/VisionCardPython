@@ -1,0 +1,89 @@
+{
+  "id": "food_puff",
+  "sku_id": "card_food_puff",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "dessert",
+      "sweet",
+      "edible"
+    ],
+    "secondary": [
+      "crispy",
+      "soft",
+      "at_snack_time"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dessert"
+    ],
+    "color": [
+      "yellow"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "cold"
+    ],
+    "scenes": [
+      "home",
+      "party",
+      "cafe"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "泡芙",
+      "aloud": "pào fú",
+      "words": "puff",
+      "intro": "泡芙是一种圆圆的、金黄色的甜点，外面有点脆，里面藏着软软的奶油，咬一口，甜甜的，让人好开心。",
+      "story": {
+        "title": "🍰第一口泡芙",
+        "body": "妈妈带小雅去甜品店，玻璃柜里摆着一排圆鼓鼓的小点心。小雅指着问：“妈妈，这是什么呀？”“这是泡芙，里面藏着甜甜的小云朵哦。”妈妈笑着说。小雅拿起一个，轻轻一咬，“咔嚓”一声，外面脆脆的，里面却涌出一团软软的、白白的奶油，凉凉的，甜丝丝的。小雅眼睛一下子亮了：“哇，好好吃！像在吃冰淇淋一样！”她又小心地咬了一口，奶油沾到了鼻尖上，逗得妈妈哈哈笑。从那以后，每次路过甜品店，小雅都会想起那个藏着云朵的泡芙，心里甜滋滋的。"
+      },
+      "knowledge": {
+        "title": "泡芙是怎么做出来的？",
+        "body": "先用水、黄油和面粉搅成糊糊，再加入鸡蛋拌匀，挤成一个小球放进烤箱。烤好后，泡芙变得空空的、脆脆的，最后挤进甜甜的奶油就完成啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_puff_intro.mp3",
+        "story": "../item-audio/zh-CN/food_puff_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Puff",
+      "aloud": "/pʌf/",
+      "words": "",
+      "intro": "A puff is a round, golden dessert. It's a little crispy on the outside, and inside, there's soft, sweet cream. One bite makes you feel so happy!",
+      "story": {
+        "title": "🍰The First Bite of a Puff",
+        "body": "Mama took Xiao Ya to a dessert shop. In the glass case, there were rows of plump little pastries. Xiao Ya pointed and asked, \"Mama, what are those?\" \"They're puffs, with sweet little clouds hiding inside,\" Mama said with a smile. Xiao Ya picked one up and took a small bite. Crunch! The outside was crispy, and a swirl of soft, white, cool, and sweet cream came out. Xiao Ya's eyes lit up. \"Wow, it's so yummy! It's like eating ice cream!\" She took another careful bite, and a dab of cream landed on her nose, making Mama laugh. From then on, every time they passed the shop, Xiao Ya would remember the puff with a cloud inside, and her heart would feel sweet."
+      },
+      "knowledge": {
+        "title": "How is a puff made?",
+        "body": "First, mix water, butter, and flour into a paste. Then add eggs and stir well. Pipe the mixture into small balls and bake them in the oven. After baking, the puffs become hollow and crispy. Finally, fill them with sweet cream."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_puff_intro.mp3",
+        "story": "../item-audio/en/food_puff_story.mp3"
+      }
+    }
+  }
+}

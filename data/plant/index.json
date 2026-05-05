@@ -1,0 +1,82 @@
+{
+  "id": "plant_set_v1",
+  "category": "plant",
+  "name": "植物认知卡排序",
+  "description": "适合3-6岁儿童的植物认知顺序，优先展示生活中常见、容易观察、形态特征明显的植物，再逐步扩展到家庭绿植、常见树木、粮食作物、香草植物、水生植物和低频植物。",
+  "nav": {
+    "id": "plant",
+    "name": "植物图卡合集",
+    "description": "45种常见植物认知卡",
+    "available": true,
+    "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/plant/images/story/plant_money_tree_story.jpg",
+    "title": {
+        "zh-CN": "一粒种子的奇妙旅程",
+        "en": "The Incredible Journey of a Seed"
+      },
+      "subtitle": {
+        "zh-CN": "看看绿色怎么长大",
+        "en": "Watch Green Come to Life"
+      },
+      "small_title": {
+        "zh-CN": "蒲公英随风飞，仙人掌不怕晒，水稻变成白米饭",
+        "en": "Dandelions in the wind, cacti in the sun — plants are amazing"
+      },
+      "background_color_image":"#B65E3A",
+      "background_color_card":"#B45731"
+  },
+  "total": 45,
+  "items": [
+  { "id": "plant_lucky_bamboo", "name": "富贵竹", "enName": "Lucky Bamboo" },
+  { "id": "plant_dandelion", "name": "蒲公英", "enName": "Dandelion" },
+  { "id": "plant_moss", "name": "苔藓", "enName": "Moss" },
+  { "id": "plant_cactus", "name": "仙人掌", "enName": "Cactus" },
+  { "id": "plant_aloe", "name": "芦荟", "enName": "Aloe" },
+  { "id": "plant_mint", "name": "薄荷", "enName": "Mint" },
+
+  { "id": "plant_pothos", "name": "绿萝", "enName": "Pothos" },
+  { "id": "plant_spider_plant", "name": "吊兰", "enName": "Spider Plant" },
+
+  { "id": "plant_money_tree", "name": "发财树", "enName": "Money Tree" },
+  { "id": "plant_money_plant", "name": "金钱树", "enName": "Money Plant" },
+  { "id": "plant_monstera", "name": "龟背竹", "enName": "Monstera" },
+  { "id": "plant_snake_plant", "name": "虎皮兰", "enName": "Snake Plant" },
+  { "id": "plant_anthurium", "name": "红掌", "enName": "Anthurium" },
+  { "id": "plant_chinese_evergreen", "name": "如意皇后", "enName": "Chinese Evergreen" },
+  { "id": "plant_air_plant", "name": "空气凤梨", "enName": "Air Plant" },
+
+  { "id": "plant_bamboo", "name": "米竹", "enName": "Bamboo" },
+  { "id": "plant_fernleaf_bamboo", "name": "凤尾竹", "enName": "Fernleaf Bamboo" },
+  { "id": "plant_willow", "name": "柳树", "enName": "Willow" },
+  { "id": "plant_maple", "name": "枫树", "enName": "Maple" },
+  { "id": "plant_ginkgo", "name": "银杏", "enName": "Ginkgo" },
+  { "id": "plant_osmanthus_tree", "name": "桂花树", "enName": "Osmanthus Tree" },
+  { "id": "plant_magnolia_tree", "name": "玉兰树", "enName": "Magnolia Tree" },
+  { "id": "plant_kumquat_tree", "name": "金桔树", "enName": "Kumquat Tree" },
+  { "id": "plant_gardenia", "name": "栀子树", "enName": "Gardenia" },
+
+  { "id": "plant_coconut_tree", "name": "椰子树", "enName": "Coconut Tree" },
+  { "id": "plant_banana_tree", "name": "香蕉树", "enName": "Banana Tree" },
+  { "id": "plant_grapevine", "name": "葡萄藤", "enName": "Grapevine" },
+
+  { "id": "plant_rice", "name": "水稻", "enName": "Rice" },
+  { "id": "plant_wheat", "name": "小麦", "enName": "Wheat" },
+  { "id": "plant_red_sorghum", "name": "红高粱", "enName": "Red Sorghum" },
+
+  { "id": "plant_water_lily", "name": "睡莲", "enName": "Water Lily" },
+  { "id": "plant_reed", "name": "芦苇", "enName": "Reed" },
+  { "id": "plant_bulrush", "name": "蒲棒草", "enName": "Bulrush" },
+  { "id": "plant_pickerelweed", "name": "梭鱼草", "enName": "Pickerelweed" },
+
+  { "id": "plant_rosemary", "name": "迷迭香", "enName": "Rosemary" },
+  { "id": "plant_thyme", "name": "百里香", "enName": "Thyme" },
+  { "id": "plant_holly", "name": "冬青", "enName": "Holly" },
+  { "id": "plant_shrub", "name": "灌木", "enName": "Shrub" },
+  { "id": "plant_luohan_pine", "name": "罗汉松", "enName": "Luohan Pine" },
+  { "id": "plant_masson_pine", "name": "马尾松", "enName": "Masson Pine" },
+  { "id": "plant_black_pine", "name": "黑松", "enName": "Black Pine" },
+  { "id": "plant_fortune_fern", "name": "富贵蕨", "enName": "Fortune Fern" },
+  { "id": "plant_hypericum", "name": "金丝桃", "enName": "Hypericum" },
+  { "id": "plant_ginseng", "name": "人参", "enName": "Ginseng" },
+  { "id": "plant_baobab", "name": "猴面包树", "enName": "Baobab" }
+]
+}

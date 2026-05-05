@@ -1,0 +1,91 @@
+{
+  "id": "object_toothpaste",
+  "sku_id": "card_object_toothpaste",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "personal_item",
+      "color_white"
+    ],
+    "secondary": [
+      "in_bathroom",
+      "soft",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "white",
+      "blue",
+      "green"
+    ],
+    "shape": [
+      "tube"
+    ],
+    "material": [
+      "plastic",
+      "paste"
+    ],
+    "scenes": [
+      "bathroom",
+      "home"
+    ],
+    "function": [
+      "clean_teeth"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "牙膏",
+      "aloud": "yá gāo",
+      "words": "toothpaste",
+      "intro": "牙膏可以帮助我们清洁牙齿，让牙齿白白的、健健康康的。每天刷牙时，在牙刷上挤一点牙膏，就能刷出好多泡泡。",
+      "story": {
+        "title": "✨牙膏宝宝的魔法泡泡",
+        "body": "每天晚上，小主人都会拿起牙刷，请出牙膏宝宝。牙膏宝宝穿着白白的外衣，香香的，它说：“我来帮你打败蛀牙菌！”小主人把牙膏挤在牙刷上，牙膏宝宝变成软软的条，然后开始刷牙。刷刷刷，左边刷刷，右边刷刷，上边刷刷，下边刷刷，满嘴都是白白的泡泡。蛀牙菌们最怕这些泡泡了，它们吓得赶紧逃跑：“救命啊，泡泡来啦！”泡泡们追着蛀牙菌，把它们全部赶走。刷完牙，小主人漱漱口，哇，牙齿变得又白又亮。牙膏宝宝开心地说：“明天我们还要一起保护牙齿哦！”"
+      },
+      "knowledge": {
+        "title": "牙膏为什么能清洁牙齿？",
+        "body": "牙膏里有清洁剂和摩擦剂，能帮助刷掉牙齿上的食物残渣和牙菌斑。它还含有氟化物，可以让牙齿更坚固，预防蛀牙。每次用豌豆大小的牙膏就够了。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_toothpaste_intro.mp3",
+        "story": "../item-audio/zh-CN/object_toothpaste_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Toothpaste",
+      "aloud": "/ˈtuːθpeɪst/",
+      "words": "",
+      "intro": "Toothpaste helps us clean our teeth, making them white and healthy. Every day when we brush, we put a little toothpaste on the toothbrush, and it makes lots of bubbles.",
+      "story": {
+        "title": "✨The Magic Bubbles of Toothpaste",
+        "body": "Every night, the little master picks up his toothbrush and calls out the toothpaste. The toothpaste wears a white coat and smells nice. It says, “Let me help you fight the cavity germs!” The little master squeezes the toothpaste onto the brush, and it turns into a soft strip. Then he starts brushing—left, right, up, down—until his whole mouth is full of white bubbles. The cavity germs are most afraid of these bubbles. They get scared and run away: “Help! The bubbles are coming!” The bubbles chase the germs and chase them all away. After brushing, the little master rinses his mouth. Wow! His teeth become white and shiny. The toothpaste happily says, “Tomorrow we’ll protect your teeth again!”"
+      },
+      "knowledge": {
+        "title": "Why can toothpaste clean teeth?",
+        "body": "Toothpaste contains cleaners and abrasives that help scrub away food bits and plaque on teeth. It also has fluoride, which makes teeth stronger and prevents cavities. Just a pea-sized amount is enough each time."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_toothpaste_intro.mp3",
+        "story": "../item-audio/en/object_toothpaste_story.mp3"
+      }
+    }
+  }
+}

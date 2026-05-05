@@ -1,0 +1,102 @@
+{
+  "_基本字段配置": "↓",
+  "id": "transport_bus",
+  "sku_id": "card_transport_bus",
+  "category": "transport",
+  "_年龄及难度": "↓",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "_图片链接信息": "↓",
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "_标签信息": "↓",
+  "tags": {
+    "primary": [
+      "transport",
+      "public_transport",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_carry_people",
+      "big"
+    ]
+  },
+  "_属性信息": "↓",
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "bus"
+    ],
+    "color": [
+      "yellow",
+      "blue",
+      "green"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "road",
+      "bus_stop",
+      "city"
+    ],
+    "fuel": [
+      "electricity",
+      "diesel"
+    ],
+    "features": [
+      "many_seats",
+      "wheels"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "_核心内容字段": "↓",
+  "content": {
+    "zh-CN": {
+      "name": "公共汽车",
+      "aloud": "gōng gòng qì chē",
+      "words": "bus",
+      "intro": "公共汽车是一种大大的车，有很多座位，可以坐好多好多人。它在马路上跑，到了站就停下来，让大家上车下车。",
+      "story": {
+        "title": "🚌小黄车的一天",
+        "body": "天刚亮，小黄车就出发了。第一站，上来一位老奶奶，小黄车轻轻地开，怕颠着奶奶。第二站，上来一群小朋友，他们要去学校，车上一下子热闹起来。第三站，上来一位叔叔，他提着大大的行李箱，大家帮他往里挪了挪。一整天，小黄车跑了一站又一站，接了好多好多乘客。天黑了，小黄车回到车库，它开心地说：虽然很累，但我送了这么多人回家，真开心！说完，它安安静静地休息了，准备明天再出发。"
+      },
+      "knowledge": {
+        "title": "为什么要坐公共汽车？",
+        "body": "公共汽车一次可以载很多人，这样路上就不用那么多小汽车了，道路不会太拥挤，空气也更干净。坐公共汽车又便宜又环保，真是一举两得！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_bus_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_bus_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Bus",
+      "aloud": "/bʌs/",
+      "words": "",
+      "intro": "A bus is a big vehicle with lots of seats that can carry many people. It drives along the road and stops at stations to let people get on and off.",
+      "story": {
+        "title": "🚌The Little Yellow Bus's Day",
+        "body": "As soon as the sun came up, the little yellow bus set off. At the first stop, a grandma got on. The bus drove extra gently so she wouldn't be bumped. At the second stop, a group of children got on, heading to school. The bus became lively right away! At the third stop, a man with a big suitcase got on, and everyone helped make room for him. All day long, the little yellow bus went from stop to stop, picking up lots and lots of passengers. When it got dark, the bus returned to the garage. It said happily, I'm tired, but I helped so many people get home. What a great day! Then it rested quietly, ready to set off again tomorrow."
+      },
+      "knowledge": {
+        "title": "Why should we take the bus?",
+        "body": "A bus can carry many people at once, so we don't need as many cars on the road. This means less traffic and cleaner air. Riding the bus is cheap and good for the environment — a win-win!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_bus_intro.mp3",
+        "story": "../item-audio/en/transport_bus_story.mp3"
+      }
+    }
+  }
+}

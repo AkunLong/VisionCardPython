@@ -1,0 +1,100 @@
+{
+  "id": "animal_snake",
+  "sku_id": "card_animal_snake",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "reptile",
+      "cute"
+    ],
+    "secondary": [
+      "has_scales",
+      "long",
+      "can_crawl"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "reptile"
+    ],
+    "color": [
+      "green",
+      "brown",
+      "yellow"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "scales",
+      "tail"
+    ],
+    "scenes": [
+      "forest",
+      "grassland",
+      "trees"
+    ],
+    "actions": [
+      "crawl",
+      "climb",
+      "swim"
+    ],
+    "sound": [
+      "hiss"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "小蛇",
+      "aloud": "xiǎo shé",
+      "words": "snake",
+      "intro": "小蛇是一种身体长长的动物，身上有滑滑的鳞片。小蛇没有腿，喜欢在草地和树林里爬来爬去。",
+      "story": {
+        "title": "🐍小蛇丝丝找朋友",
+        "body": "小蛇丝丝住在绿绿的草丛里。一天，它想找一个好朋友一起玩。丝丝轻轻地爬呀爬，看见一只小兔子在吃胡萝卜。丝丝友好地摇摇尾巴，可是小兔子吓了一跳，跳走了。丝丝有点难过，继续往前爬。它又遇见一只小麻雀，小麻雀在树上唱歌。丝丝抬起头，轻声说：“你好。”小麻雀看了看它，飞走了。丝丝想：为什么大家都不和我玩呢？这时候，一只小乌龟慢慢爬过来，说：“我愿意和你做朋友。”丝丝开心极了！它们一起在阳光下爬来爬去，玩得真高兴。"
+      },
+      "knowledge": {
+        "title": "小蛇怎么走路？",
+        "body": "小蛇没有腿，它用身体扭来扭去向前爬。小蛇的鳞片能帮助它在草地上滑行。有的小蛇还会爬树和游泳呢。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_snake_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_snake_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Snake",
+      "aloud": "/sneɪk/",
+      "words": "",
+      "intro": "A snake is a long animal with smooth scales. It has no legs and likes to crawl in the grass and forest.",
+      "story": {
+        "title": "🐍Little Snake Sisi Looks for a Friend",
+        "body": "Little snake Sisi lived in the green grass. One day, she wanted to find a friend to play with. Sisi crawled softly and saw a little rabbit eating a carrot. She wagged her tail in a friendly way, but the rabbit was scared and hopped away. Sisi felt a little sad and kept crawling. Then she met a little bird singing in a tree. Sisi looked up and whispered, “Hello.” The bird looked at her and flew away. Sisi thought, “Why doesn’t anyone want to play with me?” Just then, a little turtle crawled slowly over and said, “I’d like to be your friend.” Sisi was so happy! They crawled together under the warm sun and had a wonderful time."
+      },
+      "knowledge": {
+        "title": "How do snakes move?",
+        "body": "Snakes have no legs. They wiggle their bodies to crawl forward. Their scales help them slide on the grass. Some snakes can also climb trees and swim."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_snake_intro.mp3",
+        "story": "../item-audio/en/animal_snake_story.mp3"
+      }
+    }
+  }
+}

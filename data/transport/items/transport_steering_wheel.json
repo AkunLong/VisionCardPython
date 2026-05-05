@@ -1,0 +1,96 @@
+{
+  "id": "transport_steering_wheel",
+  "sku_id": "card_transport_steering_wheel",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "vehicle_part",
+      "on_road"
+    ],
+    "secondary": [
+      "small",
+      "color_black",
+      "safety_item"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "steering_wheel"
+    ],
+    "color": [
+      "black"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "road",
+      "inside_vehicle",
+      "city"
+    ],
+    "fuel": [
+      "electricity",
+      "gasoline",
+      "diesel"
+    ],
+    "features": [
+      "round",
+      "grip",
+      "controls_direction"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "方向盘",
+      "aloud": "fāng xiàng pán",
+      "words": "steering wheel",
+      "intro": "方向盘是车里一个圆圆的东西，司机叔叔用手转它，车子就会往左或者往右拐弯。这样我们就能安全地去想去的地方啦！",
+      "story": {
+        "title": "🚗小方向盘的一天",
+        "body": "早上，爸爸带着宝宝开车去公园。宝宝坐在安全座椅上，看着爸爸转方向盘，车子就乖乖地转弯。宝宝说：“爸爸，方向盘真神奇！”到了公园，宝宝玩起了玩具方向盘，转啊转，嘴里还发出“滴滴”的声音。下午，一家人开车回家，路上看到一只小狗过马路，爸爸轻轻转动方向盘，绕过了小狗。宝宝拍手说：“方向盘真棒，保护了小狗！”晚上，车子回到车库，方向盘静静地等着明天的新旅程。它喜欢带着一家人去好玩的地方，每天都很开心。"
+      },
+      "knowledge": {
+        "title": "方向盘有什么用？",
+        "body": "方向盘是汽车的重要部分，它连着前轮。司机转动方向盘，前轮就会转向，车子就能左转、右转或直行。有了方向盘，我们才能安全地去各个地方。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_steering_wheel_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_steering_wheel_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Steering Wheel",
+      "aloud": "/ˈstɪrɪŋ wiːl/",
+      "words": "",
+      "intro": "A steering wheel is a round thing inside a car. The driver turns it to make the car go left or right. It helps us travel safely to where we want to go!",
+      "story": {
+        "title": "🚗The Little Steering Wheel's Day",
+        "body": "In the morning, Daddy drove the car to the park with the baby. The baby sat in the car seat and watched Daddy turn the steering wheel. The car turned smoothly. \"Daddy, the steering wheel is magic!\" said the baby. At the park, the baby played with a toy steering wheel, turning it and making \"beep beep\" sounds. In the afternoon, on the way home, they saw a puppy crossing the road. Daddy gently turned the steering wheel and went around the puppy. \"Hooray! The steering wheel kept the puppy safe!\" cheered the baby. At night, the car rested in the garage. The steering wheel waited quietly for tomorrow's new journey. It loved taking the family to fun places and was happy every day."
+      },
+      "knowledge": {
+        "title": "What does a steering wheel do?",
+        "body": "The steering wheel is an important part of a car. It is connected to the front wheels. When the driver turns it, the front wheels turn, and the car can go left, right, or straight. With a steering wheel, we can travel safely to many places."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_steering_wheel_intro.mp3",
+        "story": "../item-audio/en/transport_steering_wheel_story.mp3"
+      }
+    }
+  }
+}

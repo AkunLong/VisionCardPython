@@ -1,0 +1,98 @@
+{
+  "id": "plant_red_sorghum",
+  "sku_id": "card_plant_red_sorghum",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "crop",
+      "color_red"
+    ],
+    "secondary": [
+      "has_fruit",
+      "in_field",
+      "can_eat"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "grass",
+      "crop"
+    ],
+    "color": [
+      "red",
+      "green"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "stems",
+      "leaves",
+      "ears",
+      "roots",
+      "grains"
+    ],
+    "scenes": [
+      "in_field",
+      "farmland"
+    ],
+    "season": [
+      "summer",
+      "autumn"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "红高粱",
+      "aloud": "hóng gāo liáng",
+      "words": "red sorghum",
+      "intro": "红高粱高高地站在田野里，头顶红红的穗子，真好看。风一吹，它就摇摇摆摆，像在跳舞。它的籽粒可以做好多好吃的。",
+      "story": {
+        "title": "🌾红高粱的秋天",
+        "body": "秋天来了，田野里的红高粱成熟了。红红的高粱穗像一把把小火炬，照亮了整个田野。小麻雀飞过来，叽叽喳喳地说：“高粱姐姐，你红红的穗子真漂亮！”红高粱害羞地摇了摇身子，说：“谢谢你们呀。等农民伯伯把我收下来，我的籽粒可以做成香香的高粱米饭，还有甜甜的高粱饴糖。”小麻雀听了，高兴地唱着歌。过了几天，农民伯伯开着收割机来了，把红高粱都收到了车上。红高粱和朋友们一起，被送到了磨坊。它们变成了面粉、米粒，最后做成了一碗碗热腾腾的饭。红高粱觉得，能让大家吃得饱饱的，是世界上最幸福的事。"
+      },
+      "knowledge": {
+        "title": "红高粱能做什么？",
+        "body": "红高粱的籽粒可以吃，能煮成高粱米饭，还能磨成面粉做饼。高粱也可以酿酒，是很重要的粮食作物。在北方的一些地方，高粱还用来做扫帚呢！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_red_sorghum_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_red_sorghum_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Red Sorghum",
+      "aloud": "/rɛd ˈsɔrɡəm/",
+      "words": "",
+      "intro": "Red sorghum stands tall in the field with pretty red grains on top. When the wind blows, it sways like dancing. Its grains can be made into yummy food.",
+      "story": {
+        "title": "🌾Red Sorghum's Autumn",
+        "body": "Autumn came, and the red sorghum in the field was ripe. The red grain heads looked like little torches, lighting up the whole field. A sparrow flew over and chirped, \"Miss Sorghum, your red head is so pretty!\" The red sorghum shook shyly and said, \"Thank you! When the farmer harvests me, my grains can be made into fragrant sorghum rice and sweet sorghum candy.\" The sparrow sang happily. A few days later, the farmer came with a harvester and gathered all the red sorghum into the cart. The red sorghum and its friends were taken to the mill. They were ground into flour and grains, and finally became bowls of steaming hot rice. The red sorghum thought, making everyone full is the happiest thing in the world."
+      },
+      "knowledge": {
+        "title": "What can red sorghum do?",
+        "body": "Red sorghum grains can be eaten as rice or ground into flour for pancakes. It can also be used to make wine. In some northern places, sorghum is even used to make brooms!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_red_sorghum_intro.mp3",
+        "story": "../item-audio/en/plant_red_sorghum_story.mp3"
+      }
+    }
+  }
+}

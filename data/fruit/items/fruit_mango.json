@@ -1,0 +1,87 @@
+{
+  "id": "fruit_mango",
+  "sku_id": "card_fruit_mango",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_yellow",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "oval",
+      "sweet",
+      "tropical_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "yellow"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sweet",
+      "juicy"
+    ],
+    "scenes": [
+      "orchard",
+      "supermarket",
+      "home"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "芒果",
+      "aloud": "máng guǒ",
+      "words": "mango",
+      "intro": "芒果是一种热带水果，形状椭圆，果肉金黄，吃起来香甜多汁，含有丰富的维生素，可以帮助小朋友健康长大。",
+      "story": {
+        "title": "🐒小猴子的芒果",
+        "body": "夏天来了，小猴子在果园里发现了一棵高高的芒果树。树上挂着一个个金黄金黄的芒果，像小太阳一样，闻起来香香的。小猴子轻轻摘下一个大芒果，用清水洗干净，剥开薄薄的皮，露出黄澄澄的果肉。它咬了一口，甜甜的汁水充满了嘴巴，“真好吃呀！”小猴子想把这份甜蜜分享给好朋友。它把芒果切成小块，送给小兔子、小鸟和小熊。大家一起坐在树下，吃着甜甜的芒果，开心的笑声传遍了整个果园。小猴子觉得，和朋友一起分享，芒果变得更甜了。"
+      },
+      "knowledge": {
+        "title": "芒果生长在哪里？",
+        "body": "芒果喜欢温暖、阳光充足的地方，大多生长在热带地区。夏天是芒果成熟的季节，这时候的芒果最香甜多汁，是品尝的好时候。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_mango_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_mango_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Mango",
+      "aloud": "/ˈmæŋɡoʊ/",
+      "words": "",
+      "intro": "A mango is a tropical fruit with an oval shape and golden-yellow flesh. It tastes sweet and juicy, and is rich in vitamins that help children grow healthy.",
+      "story": {
+        "title": "🐒The Little Monkey's Mango",
+        "body": "Summer arrived, and the little monkey found a tall mango tree in the orchard. The tree was full of golden-yellow mangoes, shining like little suns and smelling so fragrant. The little monkey gently picked a big mango, washed it with clean water, peeled off the thin skin, and saw the bright yellow flesh. He took a bite, and the sweet juice filled his mouth. “So yummy!” He wanted to share this sweetness with his friends. So he cut the mango into small pieces and gave them to the little rabbit, the little bird, and the little bear. They all sat under the tree, eating the sweet mango, and their happy laughter spread through the orchard. The little monkey felt that sharing with friends made the mango taste even sweeter."
+      },
+      "knowledge": {
+        "title": "Where do mangoes grow?",
+        "body": "Mangoes love warm, sunny places and mostly grow in tropical regions. Summer is the season when mangoes ripen, and that’s when they are the sweetest and juiciest—a perfect time to enjoy them."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_mango_intro.mp3",
+        "story": "../item-audio/en/fruit_mango_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "animal_tropical_fish",
+  "sku_id": "card_animal_tropical_fish",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "fish",
+      "cute"
+    ],
+    "secondary": [
+      "small",
+      "has_scales",
+      "can_swim"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "fish"
+    ],
+    "color": [
+      "color_orange",
+      "color_yellow",
+      "color_blue",
+      "color_white"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "scales",
+      "tail",
+      "fins"
+    ],
+    "scenes": [
+      "ocean",
+      "coral_reef",
+      "aquarium"
+    ],
+    "actions": [
+      "swim",
+      "hide",
+      "play"
+    ],
+    "sound": [],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "热带鱼",
+      "aloud": "rè dài yú",
+      "words": "tropicalfish",
+      "intro": "热带鱼是一种生活在大海里的彩色小鱼，身上有亮亮的鳞片，游起来摆来摆去。它们喜欢在水里自由自在地游动，给人们带来快乐。",
+      "story": {
+        "title": "🐠热带鱼找朋友",
+        "body": "有一条小小的热带鱼，名字叫彩彩，它住在一片美丽的珊瑚礁里。彩彩身上的颜色很漂亮，可是它没有朋友，每天只能自己游来游去。一天，彩彩决定去找朋友。它游过红色的珊瑚，游过绿色的海草，看见一条小丑鱼躲在海葵里。彩彩轻声问：“你好，我是彩彩，可以和你做朋友吗？”小丑鱼点点头，快乐地游了出来。接着，它们又遇见了一条蓝色的小热带鱼，三条小鱼一起游来游去，玩起了捉迷藏。彩彩开心极了，它再也不孤单了。晚上，彩彩和朋友们一起在软软的珊瑚上睡着了，梦里有好多好多彩色的泡泡。"
+      },
+      "knowledge": {
+        "title": "热带鱼为什么是彩色的？",
+        "body": "热带鱼身上有鲜艳的颜色，是为了在五彩斑斓的珊瑚礁里保护自己，不让大个子鱼轻易发现它们。有时候，漂亮的颜色也能帮助它们找到好朋友。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_tropical_fish_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_tropical_fish_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Tropical Fish",
+      "aloud": "/ˈtrɒp.ɪ.kəl fɪʃ/",
+      "words": "",
+      "intro": "A tropical fish is a colorful little fish that lives in the ocean. It has shiny scales and sways as it swims. Tropical fish love to swim freely in the water and bring joy to people.",
+      "story": {
+        "title": "🐠The Tropical Fish Looks for a Friend",
+        "body": "There was a little tropical fish named Cai Cai. She lived in a beautiful coral reef. Cai Cai had colorful scales, but she had no friends. Every day, she swam all alone. One day, Cai Cai decided to look for friends. She swam past red corals and green seaweeds. She saw a small clownfish hiding in an anemone. Cai Cai asked softly, 'Hi, I’m Cai Cai. Can I be your friend?' The clownfish nodded and came out happily. Then they met another little blue tropical fish. The three fish swam together and played hide-and-seek. Cai Cai was so happy; she was no longer lonely. At night, Cai Cai and her friends fell asleep on the soft coral, dreaming of many colorful bubbles."
+      },
+      "knowledge": {
+        "title": "Why are tropical fish colorful?",
+        "body": "Tropical fish have bright colors to help them blend in with colorful coral reefs. This protects them from bigger fish. Sometimes, their colors also help them find friends."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_tropical_fish_intro.mp3",
+        "story": "../item-audio/en/animal_tropical_fish_story.mp3"
+      }
+    }
+  }
+}

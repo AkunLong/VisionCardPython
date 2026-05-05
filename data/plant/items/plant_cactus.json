@@ -1,0 +1,95 @@
+{
+  "id": "plant_cactus",
+  "sku_id": "card_plant_cactus",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "succulent_plant",
+      "color_green"
+    ],
+    "secondary": [
+      "has_thorns",
+      "in_desert",
+      "potted_plant"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "succulent_plant"
+    ],
+    "color": [
+      "green"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "stem",
+      "thorns"
+    ],
+    "scenes": [
+      "desert",
+      "home"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "仙人掌",
+      "aloud": "xiān rén zhǎng",
+      "words": "cactus",
+      "intro": "仙人掌生活在沙漠里，它全身绿绿的，身上长满了小刺。它不怕太阳晒，也不怕口渴，是个坚强的小植物。",
+      "story": {
+        "title": "🌵坚强的小仙人掌",
+        "body": "在很远很远的沙漠里，住着一棵小仙人掌。沙漠里太阳好大好热，很久才下一场雨。别的小花小草都受不了，但小仙人掌一点也不怕。它把喝到的水藏在胖胖的身体里，这样好多天不喝水也没关系。有一天，一只小蜥蜴路过，问它：“仙人掌，你为什么有那么多刺呀？”小仙人掌说：“我的刺是保护自己的，也是我的小叶子变的。这样水就不会跑掉啦！”小蜥蜴点点头，在仙人掌的影子下乘凉。小仙人掌很开心，它能给朋友带来凉快。又过了几天，小仙人掌开出了漂亮的小花，沙漠里的小动物都来欣赏。小仙人掌觉得自己真有用，它喜欢沙漠的家。"
+      },
+      "knowledge": {
+        "title": "仙人掌有什么本领？",
+        "body": "仙人掌的厚身体能存水，所以很久不淋雨也不怕。它的尖刺能保护自己，还是小叶子变的。仙人掌还会开出美丽的花，是沙漠里的小卫士。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_cactus_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_cactus_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cactus",
+      "aloud": "/ˈkæk.təs/",
+      "words": "",
+      "intro": "The cactus lives in the desert. It is green all over and covered with little thorns. It is not afraid of the hot sun or of being thirsty. It is a tough little plant.",
+      "story": {
+        "title": "🌵The Brave Little Cactus",
+        "body": "Far, far away in the desert lived a little cactus. The sun was so big and hot, and it rained only once in a long while. Other plants could not stand it, but the little cactus was not afraid. It stored the water it drank in its chubby body, so it could go many days without water. One day, a little lizard came by and asked, 'Cactus, why do you have so many thorns?' The little cactus said, 'My thorns protect me, and they are also my tiny leaves. That way, water won't run away!' The lizard nodded and rested in the cactus's shade. The little cactus was happy to help its friend. A few days later, the cactus bloomed with pretty flowers. All the desert animals came to see. The little cactus felt so useful. It loved its desert home."
+      },
+      "knowledge": {
+        "title": "What can a cactus do?",
+        "body": "A cactus stores water in its thick body, so it can live without rain for a long time. Its sharp thorns protect it and are actually tiny leaves. Cacti can also bloom with beautiful flowers. They are little guardians of the desert."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_cactus_intro.mp3",
+        "story": "../item-audio/en/plant_cactus_story.mp3"
+      }
+    }
+  }
+}

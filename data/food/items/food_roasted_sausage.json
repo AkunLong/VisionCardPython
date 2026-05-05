@@ -1,0 +1,89 @@
+{
+  "id": "food_roasted_sausage",
+  "sku_id": "card_food_roasted_sausage",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "meat_food",
+      "color_brown",
+      "edible"
+    ],
+    "secondary": [
+      "hot_food",
+      "salty",
+      "at_snack_time"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "meat"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "salty"
+    ],
+    "temperature": [
+      "hot"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "烤肠",
+      "aloud": "kǎo cháng",
+      "words": "roasted sausage",
+      "intro": "烤肠是一根香喷喷的肉肠，在烤架上烤得滋滋响，外皮有点脆，咬一口热乎乎的，真好吃！",
+      "story": {
+        "title": "🌭小熊的烤肠派对",
+        "body": "冬天快到了，小熊决定开一个烤肠派对，邀请朋友们来暖一暖。小兔子、小松鼠和小鹿都来了。小熊把炉子烧得旺旺的，放上一根根胖乎乎的烤肠。烤肠在火上慢慢转动，表皮变得金黄金黄的，还发出好听的滋啦声。香味飘呀飘，小兔子吸吸鼻子说：“好香啊！”烤肠终于好了，小熊用夹子夹起来，分给大家。小松鼠咬了一口，眼睛亮亮的：“哇，外面脆脆的，里面软软的，太好吃了！”大家都吃得笑眯眯的。小熊说：“热热的烤肠，让冬天也暖暖的。”朋友们一起点头，心里也热乎乎的。"
+      },
+      "knowledge": {
+        "title": "烤肠是怎么做的？",
+        "body": "先把肉搅碎，加上调料，装进肠衣里，变成一根根生肠。然后放在烤架上，用火慢慢烤熟，外皮变得焦脆，里面热透，香香的烤肠就好啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_roasted_sausage_intro.mp3",
+        "story": "../item-audio/zh-CN/food_roasted_sausage_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Roasted Sausage",
+      "aloud": "/ˈroʊstɪd ˈsɔːsɪdʒ/",
+      "words": "",
+      "intro": "A roasted sausage is a yummy meat stick that sizzles on the grill. The skin gets a little crispy, and when you bite, it's hot and delicious!",
+      "story": {
+        "title": "🌭Little Bear's Sausage Party",
+        "body": "Winter was coming, so Little Bear decided to have a roasted sausage party and invite friends to warm up. Little Rabbit, Little Squirrel, and Little Deer all came. Little Bear got the grill hot and placed plump sausages on it. The sausages slowly turned as they cooked, their skins becoming golden brown and making a cheerful sizzling sound. The smell floated around, and Little Rabbit sniffed and said, 'It smells so good!' When the sausages were done, Little Bear picked them up with tongs and shared them. Little Squirrel took a bite, and his eyes lit up. 'Wow, crispy outside and soft inside, so yummy!' Everyone ate with big smiles. Little Bear said, 'Hot sausages make winter feel warm.' All the friends nodded, feeling cozy inside."
+      },
+      "knowledge": {
+        "title": "How is a roasted sausage made?",
+        "body": "First, the meat is ground and mixed with spices, then stuffed into a casing to make raw sausages. They are cooked slowly over a grill until the outside turns crispy and the inside is hot. That's how a tasty roasted sausage is made!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_roasted_sausage_intro.mp3",
+        "story": "../item-audio/en/food_roasted_sausage_story.mp3"
+      }
+    }
+  }
+}

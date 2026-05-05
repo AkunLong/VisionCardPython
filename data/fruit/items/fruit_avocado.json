@@ -1,0 +1,86 @@
+{
+  "id": "fruit_avocado",
+  "sku_id": "card_fruit_avocado",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_green",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "oval",
+      "soft_flesh",
+      "has_seeds"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "soft"
+    ],
+    "scenes": [
+      "supermarket",
+      "home",
+      "tropical_fruit"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "牛油果",
+      "aloud": "niú yóu guǒ",
+      "words": "avocado",
+      "intro": "牛油果是一种绿色的水果，形状像小梨，摸起来软软的。它吃起来香香的，很滑很糯，含有好多营养，能帮助小朋友变得聪明又强壮。",
+      "story": {
+        "title": "🥑小猴子的牛油果",
+        "body": "小猴子在热带果园里发现了一棵牛油果树。树上挂着一个个绿绿的、椭圆形的牛油果，像可爱的胖水滴。小猴子摘下一个，摸一摸，有点软。它用小刀切开，看见里面有一个圆圆的大种子，果肉是黄绿色的，闻起来香香的。小猴子用小勺子挖了一勺放进嘴里，“哇，滑滑的，软软的，真好吃！”可是，小猴子没有一个人吃完。它把牛油果捣成泥，抹在小饼干上，分给小鸟、小兔和小熊。大家一边吃一边说：“原来水果还可以这样吃呀！”小猴子开心地笑了：和朋友一起分享美味，是世界上最快乐的事。"
+      },
+      "knowledge": {
+        "title": "牛油果是什么时候成熟的？",
+        "body": "牛油果一年四季都能买到，但最好吃的时候是秋天和冬天。它在树上成熟后会变软，我们就可以用勺子挖着吃啦。它的果肉又软又香，也叫“森林黄油”。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_avocado_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_avocado_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Avocado",
+      "aloud": "/ˌævəˈkɑːdoʊ/",
+      "words": "",
+      "intro": "An avocado is a green fruit shaped like a small pear, with a soft touch. It tastes creamy and smooth, and is full of nutrients to help children become smart and strong.",
+      "story": {
+        "title": "🥑Little Monkey's Avocado",
+        "body": "In the tropical orchard, little monkey found an avocado tree. Green, oval-shaped avocados hung from the branches like cute, chubby water drops. He picked one and felt it was a little soft. He cut it open with a small knife and saw a big round seed inside, with yellowish-green flesh that smelled nice. Using a little spoon, he scooped some into his mouth. “Wow, so slippery and soft, so yummy!” But he didn’t finish it all by himself. He mashed the avocado and spread it on little crackers, sharing them with the bird, the rabbit, and the bear. Everyone ate and said, “We didn’t know fruit could be eaten this way!” Little monkey smiled happily: sharing delicious food with friends is the happiest thing in the world."
+      },
+      "knowledge": {
+        "title": "When do avocados ripen?",
+        "body": "Avocados are available all year round, but they taste best in fall and winter. They become soft after ripening on the tree, and we can scoop out the creamy, fragrant flesh with a spoon. It’s also called “forest butter”."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_avocado_intro.mp3",
+        "story": "../item-audio/en/fruit_avocado_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_p",
+  "sku_id": "card_number_letter_p",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "first_learning",
+      "can_say",
+      "easy_level"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 16,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "16th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母P",
+      "aloud": "pī",
+      "words": "p",
+      "intro": "P是英语字母表里的大写字母，它看起来像一面小旗子。字母P会发出‘啪’的音，就像吹泡泡的声音哦！",
+      "story": {
+        "title": "🅿️小旗子P",
+        "body": "大大字母P，长得就像公园里的小旗子。风儿吹来，小旗P飘呀飘，真神气！小猪佩奇最喜欢字母P，因为她的名字开头就是P。她画了一个大大的P，涂上粉红色，贴在小屋门上。小羊苏西说：‘这是你的专属字母，P就是佩奇！’佩奇高兴地跳起来：‘P，P，我是Peppa！’小朋友们，你们也来找找看，身边有什么东西长得像P呢？半圆加一竖，就是快乐的字母P。P还会发出‘噗噗’的声音，像小汽车放气，真好玩！"
+      },
+      "knowledge": {
+        "title": "字母P有什么用？",
+        "body": "字母P是英语字母表中的第16个字母。很多单词都以P开头，比如‘pig’（猪）、‘pink’（粉色）。学会P的发音，就能读出很多有趣的单词啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_p_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_p_story.mp3"
+      }
+    },
+    "en": {
+      "name": "P",
+      "aloud": "/piː/",
+      "words": "",
+      "intro": "P is a big letter in the alphabet. It looks like a little flag. The letter P makes a 'puh' sound, just like blowing bubbles!",
+      "story": {
+        "title": "🅿️Little Flag P",
+        "body": "Big letter P looks just like a little flag in the park. When the wind blows, the flag P waves proudly! Peppa Pig loves the letter P because her name starts with P. She draws a big P, colors it pink, and sticks it on her playhouse door. Suzy Sheep says, 'That's your special letter—P is for Peppa!' Peppa jumps with joy: 'P, P, I'm Peppa!' Boys and girls, look around you—can you find anything shaped like P? A half circle and a straight line—that’s our happy letter P. P also makes a ‘puff’ sound, like a little car letting out air. So much fun!"
+      },
+      "knowledge": {
+        "title": "What is letter P for?",
+        "body": "P is the 16th letter in the English alphabet. Many words start with P, like ‘pig’ and ‘pink’. When you learn to say P, you can read lots of fun words!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_p_intro.mp3",
+        "story": "../item-audio/en/number_letter_p_story.mp3"
+      }
+    }
+  }
+}

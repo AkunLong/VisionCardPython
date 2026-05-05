@@ -1,0 +1,91 @@
+{
+  "id": "object_desk_lamp",
+  "sku_id": "card_object_desk_lamp",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "electronic_item",
+      "color_white"
+    ],
+    "secondary": [
+      "at_home",
+      "at_table",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "white",
+      "black"
+    ],
+    "shape": [
+      "round"
+    ],
+    "material": [
+      "plastic",
+      "metal"
+    ],
+    "scenes": [
+      "home",
+      "school",
+      "office"
+    ],
+    "function": [
+      "give_light"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "台灯",
+      "aloud": "tái dēng",
+      "words": "desk lamp",
+      "intro": "台灯可以发出亮亮的光，陪我们看书、画画。它有一个圆圆的灯罩，还有一个亮亮的灯泡，一按开关就亮啦。",
+      "story": {
+        "title": "💡小台灯的温暖",
+        "body": "晚上，小主人坐在书桌前，打开台灯。小台灯发出柔柔的光，把书本照得亮亮的。小主人说：谢谢你，小台灯，你让我看清了字。小台灯很开心，它想：我能帮到小主人，真好！有一天，灯泡闪了几下，忽然不亮了。小主人难过地说：小台灯，你怎么了？爸爸拿来一个新灯泡换上，小台灯又亮了，比之前更亮！小主人笑了，小台灯也笑了。它知道，只要有自己的光，就能一直陪着小主人。"
+      },
+      "knowledge": {
+        "title": "台灯为什么能亮？",
+        "body": "台灯里面有灯泡，灯泡里有细细的灯丝。通电后，灯丝就会发热发光，照亮我们的书本。记得要小心，灯泡很烫哦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_desk_lamp_intro.mp3",
+        "story": "../item-audio/zh-CN/object_desk_lamp_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Desk Lamp",
+      "aloud": "/desk læmp/",
+      "words": "",
+      "intro": "A desk lamp gives us bright light. It has a round lampshade and a shiny bulb. Just press the switch and it lights up.",
+      "story": {
+        "title": "💡The Warm Light of Little Desk Lamp",
+        "body": "At night, the little master sits at the desk and turns on the lamp. The little desk lamp gives a soft light, making the book bright. The little master says, Thank you, little desk lamp. You help me see the words clearly. The little desk lamp is very happy. It thinks, I can help my little master. How nice! One day, the bulb flickers and then goes out. The little master says sadly, What happened to you, little desk lamp? Dad puts in a new bulb, and the lamp shines again, even brighter than before! The little master smiles, and so does the little desk lamp. It knows that as long as it has its light, it can always stay with its little master."
+      },
+      "knowledge": {
+        "title": "Why can a desk lamp shine?",
+        "body": "Inside the desk lamp, there is a bulb with a thin wire inside called a filament. When electricity passes through, the filament heats up and glows, giving us light to read. Be careful, the bulb gets hot!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_desk_lamp_intro.mp3",
+        "story": "../item-audio/en/object_desk_lamp_story.mp3"
+      }
+    }
+  }
+}

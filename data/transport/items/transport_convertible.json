@@ -1,0 +1,97 @@
+{
+  "id": "transport_convertible",
+  "sku_id": "card_transport_convertible",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "road_vehicle",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "fast",
+      "can_carry_people"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "convertible"
+    ],
+    "color": [
+      "red",
+      "blue",
+      "yellow"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "road",
+      "city",
+      "park"
+    ],
+    "fuel": [
+      "gasoline",
+      "electricity"
+    ],
+    "features": [
+      "wheels",
+      "retractable_roof",
+      "seats"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "敞篷车",
+      "aloud": "chǎng péng chē",
+      "words": "convertible",
+      "intro": "敞篷车是一种特别的小汽车，它的车顶可以打开或收起来。天气好的时候，打开车顶，就能感受到凉凉的风和暖暖的阳光。",
+      "story": {
+        "title": "🚗小红色敞篷车去兜风",
+        "body": "今天天气真好，太阳暖洋洋的。小红色敞篷车决定去兜风。它按下按钮，车顶慢慢打开，风一下子吹了进来。它开过公园，看到小兔子在草地上跳，开心地按了按喇叭：‘嘀嘀！’小兔子朝它挥挥手。它又开到小河边，看到小鸭子在水里游，小红色敞篷车停下来，打开车顶，让阳光洒满座位。小鸭子游过来，夸它：‘你的车顶真神奇！’小敞篷车骄傲地说：‘是呀，打开车顶，就能把蓝天当帽子呢！’兜了一圈，小敞篷车回到家，收起车顶，安安静静地睡觉了。梦里它还在唱着歌，吹着风，真是一个快乐的下午。"
+      },
+      "knowledge": {
+        "title": "敞篷车为什么特别？",
+        "body": "敞篷车的车顶可以折叠起来，让车里的人更靠近外面的风景，享受阳光和空气。它很适合在好天气里慢慢开，是一种有趣又自由的车。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_convertible_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_convertible_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Convertible",
+      "aloud": "/kənˈvɜːtəbl/",
+      "words": "",
+      "intro": "A convertible is a special car with a roof that can open or fold away. On nice days, you can open the roof and feel the cool breeze and warm sunshine.",
+      "story": {
+        "title": "🚗Little Red Convertible Goes for a Spin",
+        "body": "It was a beautiful day with warm sunshine. Little Red Convertible decided to go for a spin. It pressed the button, and the roof slowly opened. The wind rushed in right away! It drove past the park and saw Bunny hopping on the grass. It honked happily: 'Beep beep!' Bunny waved back. Then it drove to the river and saw Duck swimming in the water. Little Red Convertible stopped and opened the roof wide to let the sunshine fill the seats. Duck swam over and said, 'Your roof is really magical!' The little convertible said proudly, 'Yes! When I open the roof, the blue sky becomes my hat!' After the ride, Little Red Convertible went home, closed the roof, and quietly went to sleep. In its dreams, it was still singing and feeling the breeze—what a joyful afternoon."
+      },
+      "knowledge": {
+        "title": "Why is a convertible special?",
+        "body": "A convertible's roof can fold down, letting people feel closer to the outdoors, enjoy sunshine and fresh air. It's perfect for slow drives on nice days—a fun and free kind of car."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_convertible_intro.mp3",
+        "story": "../item-audio/en/transport_convertible_story.mp3"
+      }
+    }
+  }
+}

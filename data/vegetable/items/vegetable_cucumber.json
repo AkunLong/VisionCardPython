@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_cucumber",
+  "sku_id": "card_vegetable_cucumber",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "melon_vegetable"
+    ],
+    "secondary": [
+      "long",
+      "crisp",
+      "juicy"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "crisp",
+      "juicy"
+    ],
+    "grow_location": [
+      "vine"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "黄瓜",
+      "aloud": "huáng guā",
+      "words": "cucumber",
+      "intro": "黄瓜是一种绿色的蔬菜，长长的，吃起来脆脆的，水分很多。它长在藤上，夏天的时候可以摘下来吃。",
+      "story": {
+        "title": "🥒小象摘黄瓜",
+        "body": "小象来到菜园里，看见架子上挂着好多绿色的黄瓜。黄瓜长长的，身上还有一点点的小刺。小象用长鼻子轻轻一卷，摘下一根黄瓜。它咬了一口，咔嚓咔嚓，真脆呀！凉凉的，好多汁水，真解渴！这时候，飞来一只小鸟，看着黄瓜也想吃。小象把黄瓜分成两段，一段递给小鸟，一段自己吃。小鸟啄了一口，高兴地说：好清爽呀！吃完后，小象还给黄瓜藤浇水，希望明年长出更多的黄瓜。"
+      },
+      "knowledge": {
+        "title": "吃黄瓜有什么好处？",
+        "body": "黄瓜水分很多，吃起来凉凉的，夏天吃特别舒服。它还能帮助皮肤变得水嫩，让身体更健康。黄瓜可以生吃、拌沙拉，也可以炒着吃，都很美味。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_cucumber_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_cucumber_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cucumber",
+      "aloud": "/ˈkjuːkʌmbər/",
+      "words": "",
+      "intro": "A cucumber is a green vegetable that is long, crisp, and very juicy. It grows on vines and can be picked in summer.",
+      "story": {
+        "title": "🥒Little Elephant Picks a Cucumber",
+        "body": "The little elephant came to the garden and saw many green cucumbers hanging on the trellis. The cucumbers were long with tiny little spines on them. The elephant gently curled its trunk and picked one. It took a bite—crunch, crunch, so crisp! It was cool and juicy, very refreshing. Just then, a little bird flew by and looked at the cucumber, wanting some too. The elephant broke the cucumber into two pieces, gave one to the bird, and ate the other. The bird pecked at it and chirped happily, So cool and fresh! After eating, the elephant watered the cucumber vine, hoping it would grow more cucumbers next year."
+      },
+      "knowledge": {
+        "title": "Why is eating cucumbers good for you?",
+        "body": "Cucumbers have lots of water and taste cool and refreshing, especially in summer. They help keep your skin soft and your body healthy. You can enjoy them raw, in salads, or cooked—always delicious."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_cucumber_intro.mp3",
+        "story": "../item-audio/en/vegetable_cucumber_story.mp3"
+      }
+    }
+  }
+}

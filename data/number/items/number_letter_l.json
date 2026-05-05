@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_l",
+  "sku_id": "card_number_l",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "alphabet_order",
+      "can_say",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 12,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "12th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母L",
+      "aloud": "āi le",
+      "words": "lion",
+      "intro": "L 是一个高高的字母，像一根小棍子。很多可爱的东西都以 L 开头哦！",
+      "story": {
+        "title": "🧒🏼L 的小故事",
+        "body": "小狮子乐乐特别喜欢字母 L。它说：L 像我的身体，站得直直的！乐乐用树枝在地上画了一个大 L。这时，一只小狐狸路过，问：乐乐，你在画什么呀？乐乐笑着说：我画的是字母 L，也是我名字的开头！小狐狸也学着画，横一笔，竖一笔，一个 L 就画好啦。乐乐说：太棒啦！L 还像一根小棍子，能变出很多字呢。比如，加上一个圈圈，就变成了‘乐’字！字母 L 真有趣。"
+      },
+      "knowledge": {
+        "title": "🎓字母L的小知识",
+        "body": "L 是英文字母里的第 12 个字母。它的发音有点像我们说的“了”。L 常常出现在 lion（狮子）、love（爱）这些词的开头。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_l_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_l_story.mp3"
+      }
+    },
+    "en": {
+      "name": "L",
+      "aloud": "/ɛl/",
+      "words": "",
+      "intro": "L is a tall letter, just like a little stick. Many lovely things start with L!",
+      "story": {
+        "title": "🧒🏼The Story of L",
+        "body": "Little lion Leo loves the letter L. He says, L looks like my body, standing up straight! Leo draws a big L on the ground with a stick. A little fox passes by and asks, Leo, what are you drawing? Leo smiles and says, I'm drawing the letter L, and it's the start of my name! The little fox tries to draw it too—one line across, one line down, and an L is made. Leo says, Great! L also looks like a stick that can become many words. For example, adding a circle makes the word 'love'! Letter L is so fun."
+      },
+      "knowledge": {
+        "title": "🎓Fun Fact about L",
+        "body": "L is the 12th letter of the alphabet. It sounds a bit like 'luh'. L often starts words like lion, love, and leaf."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_l_intro.mp3",
+        "story": "../item-audio/en/number_letter_l_story.mp3"
+      }
+    }
+  }
+}

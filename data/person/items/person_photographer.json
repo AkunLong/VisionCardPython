@@ -1,0 +1,92 @@
+{
+  "id": "person_photographer",
+  "sku_id": "card_person_photographer",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "at_workplace"
+    ],
+    "secondary": [
+      "adult",
+      "art_job",
+      "in_nature"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "photographer"
+    ],
+    "workplace": [
+      "studio",
+      "outdoors"
+    ],
+    "tools": [
+      "camera",
+      "tripod"
+    ],
+    "clothing": [
+      "vest",
+      "hat"
+    ],
+    "actions": [
+      "photograph",
+      "compose",
+      "capture"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "摄影师",
+      "aloud": "shè yǐng shī",
+      "words": "photographer",
+      "intro": "摄影师是用相机拍照片的人。他们能抓住最美丽的瞬间，把快乐的记忆永远留下来。",
+      "story": {
+        "title": "📷小熊学拍照",
+        "body": "小熊得到了一台小相机，他想给家人拍好看的照片。可是，照片要么糊了，要么妈妈的头没拍全。小熊有点难过。这时候，邻居长颈鹿叔叔来了，他是位摄影师。长颈鹿叔叔耐心地说：拍照要站稳，轻轻按快门，还要找好的光线哦。小熊学着做，先拍了一朵小花，很清楚！又给爸爸拍了一张，爸爸笑得真好看。妈妈端来蜂蜜蛋糕，小熊赶紧拍下来。全家人都夸小熊是小小摄影师。小熊开心极了，说：拍照真好，能把幸福装进相片里！"
+      },
+      "knowledge": {
+        "title": "摄影师用什么工具？",
+        "body": "摄影师最常用的工具是相机，它像眼睛一样捕捉画面。还有三脚架，让相机稳稳的。镜头有不同的种类，有的能拍很远的景物，有的能拍很大的范围。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_photographer_intro.mp3",
+        "story": "../item-audio/zh-CN/person_photographer_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Photographer",
+      "aloud": "/fəˈtɒɡrəfər/",
+      "words": "",
+      "intro": "A photographer is someone who takes pictures with a camera. They capture beautiful moments and keep happy memories forever.",
+      "story": {
+        "title": "📷Little Bear Learns to Take Photos",
+        "body": "Little Bear got a small camera. He wanted to take nice photos of his family. But the photos were blurry, or Mom's head was not fully in the picture. Little Bear felt a bit sad. Just then, their neighbor Mr. Giraffe came by. He is a photographer. Mr. Giraffe said kindly: To take a photo, stand steady, press the button gently, and find good light. Little Bear followed his advice. He first took a picture of a little flower – it was very clear! Then he took a photo of Dad, and Dad's smile looked wonderful. Mom brought out a honey cake, and Little Bear quickly took a snapshot. The whole family praised Little Bear as a little photographer. Little Bear was so happy and said: Taking photos is great, it can keep happiness inside the pictures!"
+      },
+      "knowledge": {
+        "title": "What tools does a photographer use?",
+        "body": "A photographer's main tool is a camera, which captures images like an eye. There is also a tripod to keep the camera steady. Lenses come in different types; some can take pictures of faraway things, others can capture a wide view."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_photographer_intro.mp3",
+        "story": "../item-audio/en/person_photographer_story.mp3"
+      }
+    }
+  }
+}

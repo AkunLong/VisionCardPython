@@ -1,0 +1,101 @@
+{
+  "id": "animal_cheetah",
+  "sku_id": "card_animal_cheetah",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "grassland_animal",
+      "spotted"
+    ],
+    "secondary": [
+      "can_run",
+      "has_tail",
+      "has_fur"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "wild"
+    ],
+    "color": [
+      "yellow",
+      "black"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "spots"
+    ],
+    "scenes": [
+      "grassland",
+      "savanna"
+    ],
+    "actions": [
+      "run",
+      "walk",
+      "jump",
+      "climb"
+    ],
+    "sound": [
+      "chirp"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "猎豹",
+      "aloud": "liè bào",
+      "words": "cheetah",
+      "intro": "猎豹是草原上跑得最快的动物，身上有漂亮的黑点点，像穿着花衣服。它喜欢在金色的草地里奔跑，追着风一起玩。",
+      "story": {
+        "title": "🐆小猎豹学跑步",
+        "body": "小猎豹点点想和妈妈跑得一样快。一天早上，阳光洒在草原上，点点跟着妈妈学跑步。妈妈跑起来像一阵风，点点在后面努力追。一开始，点点总是追不上，停下来有点累。妈妈走过来，温柔地说：“慢慢来，多跑跑就会越来越快。”点点又鼓起勇气，小爪子轻轻刨地，嗖地一下冲了出去。这一次，它跑得比昨天快多了。它跳过小土坑，绕过金合欢树，欢快地大喊：“妈妈，看我跑得多快！”妈妈笑着蹭蹭它，一起在夕阳下慢慢走回家。"
+      },
+      "knowledge": {
+        "title": "猎豹为什么跑得那么快？",
+        "body": "猎豹的身体又细又长，四条腿很有力气。它的爪子不能缩回去，像穿着跑步鞋，抓地很稳。长长的尾巴帮它转弯时保持平衡。不过跑一会儿就要休息，因为会太热。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_cheetah_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_cheetah_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cheetah",
+      "aloud": "/ˈtʃiːtə/",
+      "words": "",
+      "intro": "A cheetah is the fastest animal on the grassland. It has beautiful black spots all over its body, like a flowery coat. It loves to run in the golden grass, chasing the wind.",
+      "story": {
+        "title": "🐆Little Cheetah Learns to Run",
+        "body": "Dian Dian the little cheetah wanted to run as fast as his mom. One morning, the sun shone on the grassland. Dian Dian followed his mom to practice running. Mom ran like the wind, and Dian Dian tried hard to catch up. At first, Dian Dian could not catch up and felt a little tired. Mom came over and said softly, \"Take it easy. The more you run, the faster you will become.\" Dian Dian felt brave again. He pawed the ground, then whoosh—he dashed forward. This time, he ran much faster than yesterday. He jumped over a small hole and ran around an acacia tree. He shouted happily, \"Mom, look how fast I am!\" Mom smiled and nuzzled him. Together, they walked home in the sunset."
+      },
+      "knowledge": {
+        "title": "Why can cheetahs run so fast?",
+        "body": "A cheetah has a long, slim body and strong legs. Its claws do not pull back, like running shoes that grip the ground well. Its long tail helps it balance when turning. But it can only run for a short time because it gets too hot."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_cheetah_intro.mp3",
+        "story": "../item-audio/en/animal_cheetah_story.mp3"
+      }
+    }
+  }
+}

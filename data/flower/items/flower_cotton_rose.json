@@ -1,0 +1,88 @@
+{
+  "id": "flower_cotton_rose",
+  "sku_id": "card_flower_cotton_rose",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_pink",
+      "autumn_flower"
+    ],
+    "secondary": [
+      "big_flower",
+      "many_petals",
+      "tree_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "pink"
+    ],
+    "size": [
+      "tall"
+    ],
+    "scenes": [
+      "garden",
+      "park"
+    ],
+    "season": [
+      "autumn"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "木芙蓉",
+      "aloud": "mù fú róng",
+      "words": "cotton rose",
+      "intro": "木芙蓉是一种秋天开的花，花瓣粉粉的，层层叠叠像小裙子。神奇的是，它早上的时候是白色，到了中午就变成粉色，像变魔术一样。",
+      "story": {
+        "title": "🌸小木芙蓉的变色魔法",
+        "body": "花园里有一棵木芙蓉，每年秋天，它都会开出漂亮的花。有一朵小花苞，悄悄地从树枝上钻出来。早晨，太阳刚刚升起，小花苞慢慢打开，是一朵雪白雪白的花。小蝴蝶飞过来说：“你的白裙子真好看！”小花摇摇头：“别急，等一会儿我还会变呢！”到了中午，阳光暖暖的，小花的颜色真的变了，从白色变成了粉红色，就像小脸蛋上涂了淡淡的胭脂。小蝴蝶惊讶极了：“你真的会魔法呀！”小花开心地笑，在秋风里轻轻跳舞。每天，小花都会这样变一变，让花园里的小朋友们都来看它的神奇表演。"
+      },
+      "knowledge": {
+        "title": "木芙蓉为什么会变色？",
+        "body": "木芙蓉的花瓣里有一种特别的东西，遇到阳光和温度变化，颜色就会从白色变成粉红色。这是它在告诉小蜜蜂：我准备好授粉啦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_cotton_rose_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_cotton_rose_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cotton Rose",
+      "aloud": "/ˈkɑːtn roʊz/",
+      "words": "",
+      "intro": "Cotton rose is a flower that blooms in autumn. Its petals are soft pink and many-layered, like a little skirt. In the morning, the flower is white, but by noon it turns pink, like magic!",
+      "story": {
+        "title": "🌸The Little Cotton Rose's Color Magic",
+        "body": "There was a cotton rose in the garden. Every autumn, it bloomed with many beautiful flowers. One little bud quietly appeared on a branch. In the morning, as the sun rose, the bud slowly opened into a pure white flower. A small butterfly flew by and said, 'Your white dress is so pretty!' The little flower shook its head and said, 'Wait, I'll change soon!' By noon, the warm sunshine made the flower's color change from white to pink, just like blush on cheeks. The butterfly was amazed and said, 'You really can do magic!' The little flower laughed and danced gently in the autumn breeze. Every day, the flower would change like this, and all the little friends in the garden came to see its magical show."
+      },
+      "knowledge": {
+        "title": "Why does the cotton rose change color?",
+        "body": "The petals of the cotton rose contain a special substance that reacts to sunlight and temperature, changing from white to pink. This is the flower's way of telling bees that it's ready for pollination."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_cotton_rose_intro.mp3",
+        "story": "../item-audio/en/flower_cotton_rose_story.mp3"
+      }
+    }
+  }
+}

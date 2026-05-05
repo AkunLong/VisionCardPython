@@ -1,0 +1,92 @@
+{
+  "id": "vegetable_pea",
+  "sku_id": "card_vegetable_pea",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "bean_vegetable"
+    ],
+    "secondary": [
+      "round",
+      "sweet",
+      "crisp"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "crisp"
+    ],
+    "grow_location": [
+      "garden",
+      "field"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "豌豆",
+      "aloud": "wān dòu",
+      "words": "pea",
+      "intro": "豌豆是一种小小的、圆圆的绿色蔬菜，住在豆荚里，吃起来甜甜脆脆的。你可以一颗一颗地剥开，看看里面住着几个豌豆宝宝。",
+      "story": {
+        "title": "小豌豆的旅行",
+        "body": "一天，一颗小豌豆从豆荚里蹦了出来。它滚啊滚，滚到了小兔子家。小兔子说：“你好呀，小豌豆！”小豌豆说：“我想到土里去，长出更多豌豆！”小兔子帮它挖了一个小坑，小豌豆跳了进去。下雨了，小豌豆喝饱了水。太阳出来了，小豌豆伸了个懒腰。过了几天，土里冒出一根绿绿的小芽。又过了几天，小芽变成了长长的藤，上面开出了白色的小花。小花谢了，长出了小小的豆荚。豆荚越长越大，里面住满了圆圆的豌豆宝宝。小兔子高兴地叫起来：“好多小豌豆呀！我们一起分享吧！”"
+      },
+      "knowledge": {
+        "title": "吃豌豆有什么好处？",
+        "body": "豌豆含有丰富的蛋白质和维生素，吃了让身体长得壮壮的。它还可以煮着吃、炒着吃，或者做成豌豆泥，香香甜甜的，小朋友都喜欢。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_pea_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_pea_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Pea",
+      "aloud": "/piː/",
+      "words": "",
+      "intro": "A pea is a small, round, green vegetable that lives in a pod and tastes sweet and crisp. You can pop them out one by one and see how many pea babies are inside.",
+      "story": {
+        "title": "Little Pea's Journey",
+        "body": "One day, a little pea popped out of its pod. It rolled and rolled until it reached the little rabbit's house. The rabbit said, “Hello, little pea!” The pea said, “I want to go into the soil and grow more peas!” The rabbit helped it dig a small hole, and the pea jumped in. It rained, and the pea drank up the water. The sun came out, and the pea stretched. After a few days, a tiny green sprout pushed through the soil. After more days, the sprout grew into a long vine with pretty white flowers. The flowers faded, and little pods appeared. The pods grew bigger and bigger, full of round pea babies. The rabbit shouted, “So many little peas! Let’s share them together!”"
+      },
+      "knowledge": {
+        "title": "Why is eating peas good for you?",
+        "body": "Peas are packed with protein and vitamins that help you grow strong. You can eat them boiled, stir-fried, or mashed—they’re sweet and delicious, and kids love them."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_pea_intro.mp3",
+        "story": "../item-audio/en/vegetable_pea_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "food_chicken_drumstick",
+  "sku_id": "card_food_chicken_drumstick",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "meat_food",
+      "color_brown",
+      "edible"
+    ],
+    "secondary": [
+      "salty",
+      "hot_food",
+      "at_meal"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "meat"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "salty"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "school",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "鸡腿",
+      "aloud": "jī tuǐ",
+      "words": "chicken drumstick",
+      "intro": "鸡腿是我们常吃的肉食，外面香香的，里面的肉嫩嫩的。我们可以用手拿着啃，是小朋友们喜欢的食物。",
+      "story": {
+        "title": "🍗香香的鸡腿",
+        "body": "小明今天过生日，妈妈做了他最爱吃的鸡腿。鸡腿金黄金黄的，闻起来香喷喷。小明伸手就想拿，妈妈说：等等，我们先洗手。洗完手，小明拿起一个鸡腿，咬了一大口。外皮脆脆的，里面的肉又嫩又多汁。小明开心地说：鸡腿真好吃！爸爸说：鸡腿来自鸡的身上，农民伯伯辛苦养大鸡，我们才能吃到美味的鸡腿。小明点点头，把鸡腿吃得干干净净，连骨头上的一点肉都不剩。"
+      },
+      "knowledge": {
+        "title": "鸡腿是从哪里来的？",
+        "body": "鸡腿是鸡身体的一部分，是鸡用来走路和站立的重要部位。我们把鸡腿用调料腌制，然后烤、炸或煮，就变成了我们餐桌上的美味鸡腿。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_chicken_drumstick_intro.mp3",
+        "story": "../item-audio/zh-CN/food_chicken_drumstick_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Chicken Drumstick",
+      "aloud": "/ˈtʃɪkɪn ˈdrʌmstɪk/",
+      "words": "",
+      "intro": "A chicken drumstick is a popular meat we eat. It has a crispy outside and tender, juicy meat inside. Kids love to hold it and enjoy every bite!",
+      "story": {
+        "title": "🍗The Yummy Drumstick",
+        "body": "It was Xiao Ming's birthday, and Mom made his favorite chicken drumsticks. The drumsticks were golden and smelled delicious. Xiao Ming reached out to grab one, but Mom said, 'Wait, let's wash our hands first.' After washing hands, Xiao Ming picked up a drumstick and took a big bite. The skin was crispy, and the meat inside was tender and juicy. Xiao Ming happily said, 'Drumsticks are so yummy!' Dad said, 'Drumsticks come from chickens. Farmers work hard to raise chickens so we can enjoy tasty drumsticks.' Xiao Ming nodded, ate every bit of meat off the bone, and didn't waste any."
+      },
+      "knowledge": {
+        "title": "Where do chicken drumsticks come from?",
+        "body": "A chicken drumstick is part of a chicken's leg, which the chicken uses for walking and standing. We marinate it with seasonings, then roast, fry, or boil it, turning it into the delicious dish on our table."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_chicken_drumstick_intro.mp3",
+        "story": "../item-audio/en/food_chicken_drumstick_story.mp3"
+      }
+    }
+  }
+}

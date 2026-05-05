@@ -1,0 +1,91 @@
+{
+  "id": "object_sunglasses",
+  "sku_id": "card_object_sunglasses",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "can_wear",
+      "color_black"
+    ],
+    "secondary": [
+      "go_out",
+      "safe",
+      "personal_item"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "black",
+      "gray"
+    ],
+    "shape": [
+      "round"
+    ],
+    "material": [
+      "plastic",
+      "metal"
+    ],
+    "scenes": [
+      "outdoor",
+      "beach",
+      "driving"
+    ],
+    "function": [
+      "protect_eyes"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "墨镜",
+      "aloud": "mò jìng",
+      "words": "sunglasses",
+      "intro": "墨镜可以保护我们的眼睛，挡住刺眼的阳光。它有深色的镜片，还有两个镜腿架在耳朵上。",
+      "story": {
+        "title": "🕶️墨镜的魔法",
+        "body": "夏天到了，太阳公公发出耀眼的光芒。小兔戴上妈妈新买的墨镜，哇！世界变成了茶色，好舒服呀！小兔走到哪里都戴着它。小鸟问：小兔，你为什么戴黑眼镜呀？小兔说：这是墨镜，它可以保护眼睛，不让太阳公公刺伤我。小鸟说：我也想要！小兔从包里拿出另一副墨镜，送给了小鸟。两个好朋友戴着墨镜，在花园里开心地玩耍。太阳公公看见了，微笑着说：真是好孩子，知道保护自己的眼睛。"
+      },
+      "knowledge": {
+        "title": "墨镜为什么能保护眼睛？",
+        "body": "墨镜的镜片有特殊涂层，可以阻挡强烈的紫外线和刺眼的光线。戴上它，眼睛就不容易被晒伤，看东西也更清楚、更舒服。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_sunglasses_intro.mp3",
+        "story": "../item-audio/zh-CN/object_sunglasses_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Sunglasses",
+      "aloud": "/ˈsʌnˌɡlæsɪz/",
+      "words": "",
+      "intro": "Sunglasses protect our eyes from bright sunlight. They have dark lenses and two arms that rest on our ears.",
+      "story": {
+        "title": "🕶️The Magic of Sunglasses",
+        "body": "Summer came, and the sun shone brightly. Little Rabbit put on the new sunglasses that Mommy bought. Wow! The world turned into a soft brown color—everything looked calm and cool. Little Rabbit wore them everywhere: to the park, to the store, even while eating carrots. A little bird chirped, \"Little Rabbit, why are you wearing those dark glasses?\" Little Rabbit explained, \"These are sunglasses! They protect my eyes from the sun's bright rays so I won't have to squint.\" The little bird tilted its head, \"I want a pair too!\" Little Rabbit smiled and pulled out a tiny pair of sunglasses from her backpack. \"Here, these are for you!\" The little bird put them on and tweeted with joy. Together, they hopped and flew under the warm sun, feeling safe and stylish. The sun beamed down and said, \"You are wise to protect your eyes, my little friends.\""
+      },
+      "knowledge": {
+        "title": "Why do sunglasses protect our eyes?",
+        "body": "Sunglasses have special coatings on the lenses that block harmful UV rays and bright light. Wearing them helps prevent eye damage and makes seeing more comfortable."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_sunglasses_intro.mp3",
+        "story": "../item-audio/en/object_sunglasses_story.mp3"
+      }
+    }
+  }
+}

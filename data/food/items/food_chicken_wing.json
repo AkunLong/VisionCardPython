@@ -1,0 +1,90 @@
+{
+  "id": "food_chicken_wing",
+  "sku_id": "card_food_chicken_wing",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "meat_food",
+      "color_brown",
+      "edible"
+    ],
+    "secondary": [
+      "salty",
+      "hot_food",
+      "at_meal"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "meat"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "salty"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "鸡翅",
+      "aloud": "jī chì",
+      "words": "chicken wing",
+      "intro": "鸡翅是鸡的翅膀，肉嫩嫩的，皮香香的。它可以烤着吃、炸着吃，是小朋友很喜欢的食物哦！",
+      "story": {
+        "title": "🍗小小鸡翅的冒险",
+        "body": "小杰最喜欢吃妈妈做的烤鸡翅。一天下午，妈妈带回来一盒新鲜的鸡翅。小杰好奇地问：妈妈，鸡翅是怎么来的呀？妈妈笑着说：鸡翅是来自农场的鸡，它们每天在阳光下走来走去，扇动翅膀。等到它们长大了，农民叔叔把鸡翅取下来，经过清洗、调味，再送到超市。我们买回家后，放进烤箱里慢慢烤，一边烤一边滋滋响，香味飘满屋子，鸡翅就变成金黄色的啦。小杰听了，点点头说：原来鸡翅要经过这么多人的劳动才到我们餐桌呀！晚餐时，小杰大口吃着香喷喷的鸡翅，觉得格外美味。"
+      },
+      "knowledge": {
+        "title": "鸡翅怎么做才好吃？",
+        "body": "先把鸡翅洗干净，用酱油、蜂蜜、蒜末腌一腌，然后放进烤箱或空气炸锅，烤到两面焦黄、滋滋冒油。咬一口，外皮有点脆，里面的肉嫩嫩的，特别香！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_chicken_wing_intro.mp3",
+        "story": "../item-audio/zh-CN/food_chicken_wing_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Chicken Wing",
+      "aloud": "/ˈtʃɪkɪn wɪŋ/",
+      "words": "",
+      "intro": "A chicken wing is the wing of a chicken. The meat is tender and the skin is fragrant. You can bake or fry it, and kids love it!",
+      "story": {
+        "title": "🍗The Adventure of a Little Chicken Wing",
+        "body": "Xiao Jie's favorite food is his mom's baked chicken wings. One afternoon, Mom brought home a box of fresh chicken wings. Xiao Jie asked curiously, 'Mom, where do chicken wings come from?' Mom smiled and said, 'Chicken wings come from chickens on the farm. They walk around in the sun and flap their wings every day. When they grow up, farmers take the wings, clean them, season them, and send them to the supermarket. When we bring them home, we put them in the oven and bake them slowly. You can hear them sizzle, and the yummy smell fills the house. Then they turn golden brown.' Xiao Jie nodded and said, 'So chicken wings need so many people's work to get to our table!' At dinner, he ate the delicious wings happily."
+      },
+      "knowledge": {
+        "title": "How to make yummy chicken wings?",
+        "body": "First, wash the chicken wings and marinate them with soy sauce, honey, and minced garlic. Then bake them in an oven or air fryer until they are golden and sizzling on both sides. Take a bite: the skin is a little crispy, and the meat inside is tender and full of flavor!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_chicken_wing_intro.mp3",
+        "story": "../item-audio/en/food_chicken_wing_story.mp3"
+      }
+    }
+  }
+}

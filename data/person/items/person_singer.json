@@ -1,0 +1,93 @@
+{
+  "id": "person_singer",
+  "sku_id": "card_person_singer",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "perform"
+    ],
+    "secondary": [
+      "adult",
+      "art_job",
+      "female"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "singer"
+    ],
+    "workplace": [
+      "stage",
+      "recording_studio",
+      "concert_hall"
+    ],
+    "tools": [
+      "microphone",
+      "guitar"
+    ],
+    "clothing": [
+      "dress",
+      "suit"
+    ],
+    "actions": [
+      "sing",
+      "perform",
+      "entertain"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "歌手",
+      "aloud": "gē shǒu",
+      "words": "singer",
+      "intro": "歌手是用歌声给大家带来快乐的人。他们站在舞台上，拿着麦克风，唱出好听的歌。小朋友们可以跟着一起唱哦！",
+      "story": {
+        "title": "🎤小黄鹂学唱歌",
+        "body": "春天来了，森林里要举办歌唱比赛。小黄鹂很想去，可是它有点害羞，怕唱不好。妈妈说：只要你用心唱，大家都会喜欢的。小黄鹂开始每天练习，清晨它在枝头练声，中午对着小溪唱歌。比赛那天，小黄鹂站在舞台上，看到那么多观众，心怦怦跳。它深呼吸，想起妈妈的话，就开始唱起来。歌声像清泉一样流淌，大家都被迷住了。最后，小黄鹂得了第一名，它开心地说：唱歌真快乐！从此，它成了一名小歌手，到处给大家带去歌声。"
+      },
+      "knowledge": {
+        "title": "歌手是怎么唱歌的？",
+        "body": "歌手用美妙的嗓音演唱。他们唱歌时会用麦克风，把声音传得更远。歌手每天要练声，保护嗓子，就像我们保护小花朵一样。有的歌手边唱边弹吉他或跳舞，让表演更好看。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_singer_intro.mp3",
+        "story": "../item-audio/zh-CN/person_singer_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Singer",
+      "aloud": "/ˈsɪŋər/",
+      "words": "",
+      "intro": "A singer is someone who makes us happy with their beautiful voice. They stand on stage, hold a microphone, and sing wonderful songs. You can sing along too!",
+      "story": {
+        "title": "🎤Little Oriole Learns to Sing",
+        "body": "Spring arrived, and the forest decided to hold a singing contest. Little Oriole wanted to join, but she was a bit shy, afraid she wouldn't sing well. Mama said, 'As long as you sing from your heart, everyone will like it.' So Little Oriole began practicing every day. Morning time, she practiced her voice on a branch; noon, she sang to the brook. On the day of the contest, Little Oriole stood on the stage. Seeing so many audience members, her heart pounded. She took a deep breath, remembered her mama's words, and began to sing. Her voice flowed like a clear spring, and everyone was enchanted. In the end, Little Oriole won first prize. She said happily, 'Singing is so joyful!' From then on, she became a little singer, bringing songs everywhere."
+      },
+      "knowledge": {
+        "title": "How do singers sing?",
+        "body": "Singers use their beautiful voices to perform. They use a microphone to make their sound travel far. Singers practice vocal exercises every day and take care of their throat, just like we care for a little flower. Some singers also play guitar or dance while singing, making the show more exciting."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_singer_intro.mp3",
+        "story": "../item-audio/en/person_singer_story.mp3"
+      }
+    }
+  }
+}

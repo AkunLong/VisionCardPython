@@ -1,0 +1,87 @@
+{
+  "id": "fruit_pineapple",
+  "sku_id": "card_fruit_pineapple",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_yellow",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "oval",
+      "sweet",
+      "tropical_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "yellow"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sweet",
+      "sour"
+    ],
+    "scenes": [
+      "farm",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "菠萝",
+      "aloud": "bō luó",
+      "words": "pineapple",
+      "intro": "菠萝是一种热带水果，外皮硬硬的，果肉黄黄的，味道酸酸甜甜，多汁又好吃。它含有丰富的维生素，能让小朋友身体棒棒。",
+      "story": {
+        "title": "🐻小熊的菠萝",
+        "body": "小熊第一次在水果店里看到菠萝，它觉得菠萝的样子真有趣：圆圆的，穿着黄绿色的硬衣服，头上还顶着一簇绿色的头发。小熊把菠萝买回家，妈妈帮它切开了菠萝。哇！里面的果肉是金黄色的，闻起来香喷喷的。小熊咬了一口，酸酸甜甜的汁水在嘴里跳舞。“真好吃！”小熊笑着说。它把菠萝切成小块，放进了水果盘里，和来家里做客的小象、小猴子一起分享。大家你一块我一块，吃得开心极了。小猴子说：“菠萝的味道像夏天！”小熊知道了，好朋友一起分享，快乐会变得更多。"
+      },
+      "knowledge": {
+        "title": "菠萝是长在树上的吗？",
+        "body": "菠萝不是长在树上的，而是长在地上的。一棵菠萝植株只会结一个果实，它喜欢温暖的气候，需要很长时间才能成熟。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_pineapple_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_pineapple_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Pineapple",
+      "aloud": "/ˈpaɪnæpəl/",
+      "words": "",
+      "intro": "Pineapple is a tropical fruit with a hard, prickly skin and sweet, juicy yellow flesh. It tastes a little sour and a little sweet, and it’s full of vitamins to help children stay strong.",
+      "story": {
+        "title": "🐻Little Bear’s Pineapple",
+        "body": "Little Bear went to the fruit shop and saw a pineapple for the first time. He thought it looked so interesting—round, wearing a yellow-green hard coat, with a crown of green leaves on top. Little Bear bought the pineapple and took it home. Mom helped him cut it open. Wow! The inside was golden yellow and smelled so sweet. Little Bear took a bite, and the sour-sweet juice danced in his mouth. “Yummy!” he said with a smile. He cut the pineapple into small pieces and put them in a fruit bowl to share with his friends Little Elephant and Little Monkey. They all ate happily. Little Monkey said, “Pineapple tastes like summer!” Little Bear learned that sharing with friends makes happiness grow."
+      },
+      "knowledge": {
+        "title": "Do pineapples grow on trees?",
+        "body": "No, pineapples don’t grow on trees. They grow close to the ground, each plant producing just one fruit. Pineapples love warm weather and take a long time to ripen."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_pineapple_intro.mp3",
+        "story": "../item-audio/en/fruit_pineapple_story.mp3"
+      }
+    }
+  }
+}

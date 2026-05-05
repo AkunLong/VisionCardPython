@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_green_pepper",
+  "sku_id": "card_vegetable_green_pepper",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "pepper_vegetable"
+    ],
+    "secondary": [
+      "round",
+      "crisp",
+      "sweet"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "crisp",
+      "sweet"
+    ],
+    "grow_location": [
+      "above_ground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "大青椒",
+      "aloud": "dà qīng jiāo",
+      "words": "green pepper",
+      "intro": "大青椒是一种绿色的蔬菜，圆圆的，吃起来脆脆的，有点甜。它长在田地里的植株上，像一个个绿色的小灯笼。",
+      "story": {
+        "title": "🫑青椒灯笼节",
+        "body": "小兔子的菜园里，挂着许多青青的小灯笼。那不是灯笼，是大青椒！有一天，小兔子邀请朋友们来参加青椒灯笼节。小刺猬、小松鼠和小田鼠都来了。它们每人摘下一个青椒，握在手里，真像一盏小灯笼。小兔子提议：“我们来比赛，看谁能不用手，只用嘴巴把青椒运到桌子那边！”大家觉得好玩，都答应了。小刺猬用嘴叼着青椒蒂，慢慢爬过去；小松鼠用爪子抱着青椒，跳过去；小田鼠个子最小，它推着青椒滚过去。最后大家都成功了，虽然有点累，但很开心。小兔子把青椒切成条，蘸一点甜甜的酱，分给大家吃。咔嚓咔嚓，又脆又甜。朋友们都说：“青椒灯笼节真好玩！”"
+      },
+      "knowledge": {
+        "title": "吃大青椒有什么好处？",
+        "body": "大青椒含有丰富的维生素C，比橙子还多呢！吃了能让身体更强壮，皮肤更健康。它可以生吃、炒着吃，怎么吃都脆脆的。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_green_pepper_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_green_pepper_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Green Pepper",
+      "aloud": "/ɡriːn ˈpepər/",
+      "words": "",
+      "intro": "A green pepper is a green vegetable that is round and tastes crisp and a little sweet. It grows on plants in the field, looking like little green lanterns.",
+      "story": {
+        "title": "🫑Green Pepper Lantern Festival",
+        "body": "In the rabbit's garden, many little green lanterns were hanging. They weren't lanterns—they were green peppers! One day, the rabbit invited friends to a Green Pepper Lantern Festival. The little hedgehog, squirrel, and field mouse all came. Each one picked a pepper and held it in their paws—just like a tiny lantern. The rabbit suggested, \"Let's have a race! Carry the pepper to the table without using your hands, only your mouth!\" Everyone thought it was fun and agreed. The hedgehog held the stem in its mouth and slowly crawled over. The squirrel hugged the pepper and hopped along. The field mouse, the smallest, pushed the pepper and rolled it over. In the end, everyone succeeded. Though a little tired, they were very happy. The rabbit sliced the peppers into strips and served them with a sweet dip. Crunch, crunch—crispy and sweet. All the friends said, \"The Green Pepper Lantern Festival is so much fun!\""
+      },
+      "knowledge": {
+        "title": "Why is eating green peppers good for you?",
+        "body": "Green peppers are full of vitamin C—even more than oranges! They help you stay strong and keep your skin healthy. You can eat them raw or cooked, and they always stay crunchy."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_green_pepper_intro.mp3",
+        "story": "../item-audio/en/vegetable_green_pepper_story.mp3"
+      }
+    }
+  }
+}

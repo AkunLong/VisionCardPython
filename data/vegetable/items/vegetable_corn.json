@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_corn",
+  "sku_id": "card_vegetable_corn",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_yellow",
+      "sweet"
+    ],
+    "secondary": [
+      "long",
+      "soft",
+      "juicy"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "yellow"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "sweet",
+      "soft"
+    ],
+    "grow_location": [
+      "field"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "玉米",
+      "aloud": "yù mǐ",
+      "words": "corn",
+      "intro": "玉米是一种黄色的蔬菜，长得长长的，剥开绿叶子，里面是一粒一粒的金黄小珠子。吃起来甜甜软软的，好香呀！",
+      "story": {
+        "title": "🌽好朋友的玉米",
+        "body": "夏天的风吹过田野，高高的玉米秆摇来摇去。小熊拉着小兔钻进玉米地，想要掰几根玉米带回家。小熊踮起脚，抓住一根大玉米，使劲一扭——咔嚓！它掰下来了！小兔也学着掰了一根，可是玉米太重，它一屁股坐到了地上，两个好朋友都哈哈大笑。回到家，他们把玉米放进热乎乎的锅里煮。不一会儿，甜甜的香味飘满了整个屋子。小熊剥开玉米叶子，一粒粒金黄的玉米像小太阳。它递给小兔一根，小兔咬了一口，呀，真甜！小熊也咬了一口，软软的，真好吃。它们一起吃完了玉米，还把玉米秆拿到院子里，说下次还要一起种玉米呢！"
+      },
+      "knowledge": {
+        "title": "吃玉米有什么好处？",
+        "body": "玉米里有好多纤维和维生素，吃了可以让小肚子舒服，拉臭臭也轻松。它还能给我们能量，让我们跑跑跳跳有力气，长得又高又壮呢！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_corn_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_corn_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Corn",
+      "aloud": "/kɔːrn/",
+      "words": "",
+      "intro": "Corn is a yellow vegetable that is long. When you peel off the green leaves, you see rows of little golden seeds. They taste sweet and soft, so delicious!",
+      "story": {
+        "title": "🌽 Friends and Corn",
+        "body": "The summer wind blew over the field, and tall corn stalks swayed. Little Bear and Little Rabbit sneaked into the cornfield to pick some corn. Little Bear stood on tiptoes, grabbed a big ear of corn, and twisted hard — Snap! He got it! Little Rabbit tried to copy but the corn was so heavy that he fell on his bottom. Both friends laughed and laughed. Back home, they put the corn into a hot pot to boil. Soon, the sweet smell filled the whole house. Little Bear peeled back the leaves and the golden kernels shone like little suns. He handed one to Little Rabbit, who took a bite — Mmm, so sweet! Little Bear took a bite too — soft and yummy. They ate every last kernel, then took the stalks outside, promising to plant corn together next time."
+      },
+      "knowledge": {
+        "title": "Why is corn good for you?",
+        "body": "Corn gives you energy and helps your tummy feel good. It has lots of fiber and vitamins that help you grow strong and tall!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_corn_intro.mp3",
+        "story": "../item-audio/en/vegetable_corn_story.mp3"
+      }
+    }
+  }
+}

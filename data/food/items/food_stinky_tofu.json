@@ -1,0 +1,91 @@
+{
+  "id": "food_stinky_tofu",
+  "sku_id": "card_food_stinky_tofu",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "dish",
+      "color_brown",
+      "edible"
+    ],
+    "secondary": [
+      "crispy",
+      "spicy",
+      "hot_food"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "snack",
+      "dish"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "spicy",
+      "salty"
+    ],
+    "temperature": [
+      "hot"
+    ],
+    "scenes": [
+      "street",
+      "night_market",
+      "restaurant"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "臭豆腐",
+      "aloud": "chòu dòu fu",
+      "words": "stinky tofu",
+      "intro": "臭豆腐是一种闻起来臭臭的，但吃起来特别香的小吃。它外皮炸得金黄酥脆，里面软软的，蘸上辣椒酱，又香又辣，很多人都爱吃。",
+      "story": {
+        "title": "🍢第一次尝臭豆腐",
+        "body": "妈妈带小乐去夜市，远远地就闻到一股特别的味道。小乐捂住鼻子说：“好臭呀！”妈妈笑着说：“这是臭豆腐，虽然闻着臭，吃着可香啦！”妈妈买了一份炸得金黄的臭豆腐，上面浇了红红的辣椒酱。小乐试着咬了一小口，外皮咔嚓脆，里面嫩嫩的，辣椒酱让嘴巴有点辣，但是好香啊！小乐眼睛亮了：“真的好吃！”他一口接一口，把一整份都吃光了。从那以后，小乐再也不怕闻着臭的食物了，因为他知道，有的食物闻起来臭，吃起来却是香喷喷的惊喜。"
+      },
+      "knowledge": {
+        "title": "臭豆腐是怎么变好吃的？",
+        "body": "豆腐在特别的汤汁里发酵，变成臭豆腐。然后放进热油锅里炸，炸到外皮金黄酥脆，再浇上辣椒酱或甜酱，蘸着吃，味道又香又特别。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_stinky_tofu_intro.mp3",
+        "story": "../item-audio/zh-CN/food_stinky_tofu_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Stinky tofu",
+      "aloud": "/stɪŋki ˈtoʊfuː/",
+      "words": "",
+      "intro": "Stinky tofu is a snack that smells stinky but tastes really yummy. It's deep-fried until golden and crispy on the outside, but soft inside. Add some chili sauce, and it's savory and spicy—many people love it!",
+      "story": {
+        "title": "🍢First Try of Stinky Tofu",
+        "body": "Mom took Xiao Le to the night market. From far away, a strong smell came. Xiao Le covered his nose and said, “It stinks!” Mom smiled and said, “This is stinky tofu. It smells strong, but it tastes amazing!” Mom bought a serving of golden fried stinky tofu with red chili sauce on top. Xiao Le took a tiny bite—crunchy outside, soft inside, and the sauce made his mouth a little tingly but so tasty! His eyes lit up: “It really is delicious!” He ate the whole serving bite after bite. From that day on, Xiao Le was never afraid of smelly foods again, because he learned that some foods smell stinky but taste like a yummy surprise."
+      },
+      "knowledge": {
+        "title": "How does stinky tofu become yummy?",
+        "body": "Tofu is fermented in a special brine to become stinky tofu. Then it's deep-fried in hot oil until the outside is golden and crispy. Served with spicy or sweet sauce, it tastes uniquely delicious."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_stinky_tofu_intro.mp3",
+        "story": "../item-audio/en/food_stinky_tofu_story.mp3"
+      }
+    }
+  }
+}

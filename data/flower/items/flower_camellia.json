@@ -1,0 +1,89 @@
+{
+  "id": "flower_camellia",
+  "sku_id": "card_flower_camellia",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_pink",
+      "in_garden"
+    ],
+    "secondary": [
+      "big_flower",
+      "spring_flower",
+      "many_petals"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "pink"
+    ],
+    "size": [
+      "tall"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "balcony"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "山茶花",
+      "aloud": "shān chá huā",
+      "words": "camellia",
+      "intro": "山茶花是一种漂亮的花，花瓣一层一层的，像公主的裙子。它有粉色、红色和白色，在冷冷的冬天开放，一点都不怕冷。",
+      "story": {
+        "title": "🌺山茶花的冬日礼物",
+        "body": "冬天到了，花园里静悄悄的，很多花都睡着了。只有山茶花醒着，它穿着粉红色的裙子，站在枝头微笑。小麻雀飞过来说：“山茶花，你不冷吗？”山茶花摇摇花瓣说：“我的花瓣又厚又多，就像穿了好多层衣服，暖暖的！”小兔子蹦蹦跳跳地跑来，送给山茶花一片小叶子当围巾。山茶花笑了，说：“谢谢你们，我们一起等春天吧。”日子一天天过去，雪下了又化了，山茶花依然美丽。终于，春天来了，山茶花把第一缕阳光送给朋友们。大家都说，山茶花是冬天里最勇敢的花。"
+      },
+      "knowledge": {
+        "title": "山茶花为什么冬天开放？",
+        "body": "山茶花喜欢凉爽的天气，它的花瓣有很多层，能保护花心不怕冷。在冬天，很多花都休息了，山茶花却开得漂亮，给冷天增添温暖的颜色。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_camellia_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_camellia_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Camellia",
+      "aloud": "/kəˈmiːliə/",
+      "words": "",
+      "intro": "A camellia is a lovely flower with many layered petals, like a princess's dress. It comes in pink, red, and white, and blooms in the cold winter without being afraid of the chill.",
+      "story": {
+        "title": "🌺The Camellia's Winter Gift",
+        "body": "Winter came, and the garden was quiet. Many flowers were sleeping, but the camellia was awake. It wore a pink dress and smiled on the branch. A little sparrow flew by and asked, 'Camellia, aren't you cold?' The camellia shook its petals and said, 'My petals are thick and many, just like wearing lots of layers — so I'm warm!' A bunny hopped over and gave the camellia a small leaf as a scarf. The camellia laughed, 'Thank you! Let's wait for spring together.' Day after day, snow fell and melted, but the camellia stayed beautiful. At last, spring arrived, and the camellia shared the first sunlight with its friends. Everyone said, 'Camellia is the bravest flower of winter.'"
+      },
+      "knowledge": {
+        "title": "Why do camellias bloom in winter?",
+        "body": "Camellias enjoy cool weather. Their petals grow in many layers, which protect the center from the cold. While many flowers rest in winter, camellias bloom beautifully, adding warm colors to the chilly days."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_camellia_intro.mp3",
+        "story": "../item-audio/en/flower_camellia_story.mp3"
+      }
+    }
+  }
+}

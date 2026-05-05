@@ -1,0 +1,96 @@
+{
+  "id": "food_eel_rice",
+  "sku_id": "card_food_eel_rice",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "dish",
+      "color_brown",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "sweet",
+      "hot_food"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dish",
+      "seafood"
+    ],
+    "color": [
+      "brown",
+      "white"
+    ],
+    "taste": [
+      "sweet",
+      "salty"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "restaurant",
+      "home"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "鳗鱼饭",
+      "aloud": "mán yú fàn",
+      "words": "eel rice",
+      "intro": "鳗鱼饭是一道香喷喷的饭，软软的鳗鱼铺在白米饭上，淋上甜甜的酱汁，闻起来就让人流口水。它能让小朋友吃得饱饱的，身体棒棒的！",
+      "story": {
+        "title": "🍱小鳗鱼的奇妙旅程",
+        "body": "小美今天和妈妈去餐厅，点了一碗鳗鱼饭。小美看着黑亮的鳗鱼问妈妈：“鳗鱼是从哪里来的呀？”妈妈笑着说：“鳗鱼宝宝出生在很远很远的海洋里，身体像透明的叶子。它们游啊游，游过大海，游进河流，慢慢长大。渔民伯伯在河里捕到它们，送到厨房。厨师叔叔仔细地烤，再刷上甜甜的酱汁，就变成了你碗里的美味啦！”小美听了，夹起一小块鳗鱼放进嘴里，软软的，甜甜的，和米饭一起吃真香呀。她高兴地说：“原来小小的鳗鱼有这么长的旅行，我们一定要好好吃完！”"
+      },
+      "knowledge": {
+        "title": "鳗鱼饭为什么这么好吃？",
+        "body": "鳗鱼是一种滑滑的鱼，厨师把它切开，用火烤得香香的，再涂上用酱油和糖调成的甜酱汁，放在热米饭上。米饭吸饱了酱汁，吃起来又软又甜，特别美味！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_eel_rice_intro.mp3",
+        "story": "../item-audio/zh-CN/food_eel_rice_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Eel Rice",
+      "aloud": "/iːl raɪs/",
+      "words": "",
+      "intro": "Eel rice is a delicious dish with soft, grilled eel on top of white rice, covered in a sweet sauce. It smells wonderful and makes you strong and full!",
+      "story": {
+        "title": "🍱 The Little Eel's Big Journey",
+        "body": "Mei went to a restaurant with her mom and ordered eel rice. Staring at the shiny dark eel, Mei asked, “Where do eels come from?” Mom smiled and said, “Baby eels are born in the faraway ocean, looking like tiny transparent leaves. They swim and swim, crossing the sea, entering rivers, and slowly grow up. Fishermen catch them in the river and send them to the kitchen. The chef grills them carefully and brushes on a sweet sauce, and that’s how they become the yummy dish in your bowl!” Mei took a small bite—soft and sweet, perfect with rice. She happily said, “A little eel has such a long trip! We must finish every grain!”",
+        "audio_url": {
+          "intro": "",
+          "story": ""
+        }
+      },
+      "knowledge": {
+        "title": "Why is eel rice so tasty?",
+        "body": "Eel is a slippery fish. Chefs cut it open, grill it until fragrant, and coat it with a sweet sauce made from soy sauce and sugar. Then they place it on hot rice. The rice soaks up the sauce and becomes soft and sweet—so yummy!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_eel_rice_intro.mp3",
+        "story": "../item-audio/en/food_eel_rice_story.mp3"
+      }
+    }
+  }
+}

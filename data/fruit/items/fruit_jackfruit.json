@@ -1,0 +1,86 @@
+{
+  "id": "fruit_jackfruit",
+  "sku_id": "card_fruit_jackfruit",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_green",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "big",
+      "sweet",
+      "tropical_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "菠萝蜜",
+      "aloud": "bō luó mì",
+      "words": "jackfruit",
+      "intro": "菠萝蜜是热热地方的大水果，外皮绿绿的、硬硬的，里面的果肉黄黄的，吃起来甜甜软软。它营养丰富，小朋友吃了身体棒！",
+      "story": {
+        "title": "🐻小熊的大发现",
+        "body": "森林边的小熊第一次走进热带果园，看见树上挂着一个好大好大的绿果子。“这是什么呀？”小熊好奇地拍拍它，外壳硬硬的。果园叔叔帮小熊打开菠萝蜜，哇，里面藏着好多黄黄的果肉，香香甜甜的味道飘出来。小熊尝了一口，软软的，像蜜糖一样甜！它高兴地跳起来。小熊没有全部吃掉，而是把果肉分给小鸟、小鹿和小朋友们。大家围在一起，你一口我一口，都觉得这是森林里最棒的礼物。小熊开心地想：分享让甜甜的味道更美了。"
+      },
+      "knowledge": {
+        "title": "菠萝蜜长在哪里？",
+        "body": "菠萝蜜喜欢温暖的天气，长在菠萝蜜树上。它挂在树干上或粗壮的树枝上，慢慢长大，变得沉甸甸的。成熟后外壳还是绿色的，但果肉变得金黄香甜。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_jackfruit_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_jackfruit_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Jackfruit",
+      "aloud": "/ˈdʒækfruːt/",
+      "words": "",
+      "intro": "Jackfruit is a big tropical fruit with green, hard skin and soft, yellow flesh inside. It tastes very sweet and is full of nutrients that help children grow strong.",
+      "story": {
+        "title": "🐻Little Bear's Big Discovery",
+        "body": "Little Bear stepped into a tropical orchard for the first time and saw a huge green fruit hanging from a tree. “What is this?” he wondered, patting its hard shell. The orchard uncle helped Little Bear open the jackfruit. Wow, inside were many yellow pieces of flesh, smelling so sweet and fragrant. Little Bear took a bite—soft and as sweet as honey! He jumped for joy. He didn't eat it all by himself. Instead, he shared the fruit with Little Bird, Little Deer, and other friends. They sat together, eating bite after bite, and agreed it was the best gift in the forest. Little Bear smiled, thinking: sharing made the sweetness even better."
+      },
+      "knowledge": {
+        "title": "Where does jackfruit grow?",
+        "body": "Jackfruit loves warm weather and grows on jackfruit trees. It hangs from the trunk or thick branches, getting heavy as it matures. Even when ripe, the skin stays green, but the flesh turns golden and sweet."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_jackfruit_intro.mp3",
+        "story": "../item-audio/en/fruit_jackfruit_story.mp3"
+      }
+    }
+  }
+}

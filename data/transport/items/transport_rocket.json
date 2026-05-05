@@ -1,0 +1,96 @@
+{
+  "id": "transport_rocket",
+  "sku_id": "card_transport_rocket",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "space_transport",
+      "can_fly"
+    ],
+    "secondary": [
+      "big",
+      "fast",
+      "has_engine"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "rocket"
+    ],
+    "color": [
+      "white",
+      "red",
+      "blue"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "space",
+      "launch_pad",
+      "moon"
+    ],
+    "fuel": [
+      "fuel"
+    ],
+    "features": [
+      "engine",
+      "powerful",
+      "carries_people"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "火箭",
+      "aloud": "huǒ jiàn",
+      "words": "rocket",
+      "intro": "火箭是一种飞得很快的交通工具，可以飞到高高的太空里去，带宇航员去月球、去宇宙探险。",
+      "story": {
+        "title": "🚀小火箭去月球",
+        "body": "小火箭花花今天有一个特别的任务：送一个装满惊喜的包裹到月球上去！她穿好红白相间的外衣，背上燃料罐，轰隆隆——点火，出发！她飞快地穿过了软软的白云，白云像棉花糖一样。星星们眨着眼睛说：花花，加油！花花笑着飞得更高。不一会儿，她看到了弯弯的月亮，上面有银色的山和深深的坑。花花轻轻降落在月球上，一只可爱的玉兔蹦蹦跳跳地跑出来。玉兔接过包裹，打开一看，哇，是地球上的小饼干和图画书！它高兴得耳朵都立起来了。玉兔为了感谢花花，送给她一颗亮晶晶的星星糖。花花把星星糖挂在脖子上，说：下次我带更多好吃的来看你！说完，她又轰隆隆起动，飞回了地球。回到地面，大家都围过来，夸她是一枚勇敢的小火箭。花花心里甜甜的，比星星糖还甜呢！今晚，她睡了个香香的觉，梦里又去了更远的星球探险。"
+      },
+      "knowledge": {
+        "title": "火箭能飞多高？",
+        "body": "火箭可以飞得比飞机高很多很多，能飞到没有空气的太空里。它靠强大的发动机喷出火和烟，把自己推到天上去。火箭能带宇航员和物品去月球，甚至更远的星球，帮助我们了解宇宙的秘密。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_rocket_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_rocket_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Rocket",
+      "aloud": "/ˈrɑkɪt/",
+      "words": "",
+      "intro": "A rocket is a vehicle that flies very fast into space. It carries astronauts to the moon and explores the universe.",
+      "story": {
+        "title": "🚀 Little Rocket's Trip to the Moon",
+        "body": "Little Rocket Hua Hua had a special mission today: to deliver a surprise package to the moon! She put on her red-and-white suit, filled up her fuel tanks, and with a big rumble, she blasted off! She flew through soft white clouds that looked like cotton candy. The stars twinkled and said, 'Go, Hua Hua, go!' Hua Hua smiled and flew higher. Soon she saw the curved moon with silver mountains and deep craters. She landed gently, and a cute jade rabbit hopped out. The rabbit took the package and opened it—wow, cookies and picture books from Earth! Its ears stood up with joy. To thank Hua Hua, the rabbit gave her a shiny star candy. Hua Hua hung it around her neck and said, 'Next time I'll bring more goodies for you!' Then she rumbled again and flew back to Earth. When she landed, everyone gathered around, praising her as a brave little rocket. Hua Hua felt warm inside, even sweeter than the star candy. That night, she slept soundly and dreamed of exploring even farther planets."
+      },
+      "knowledge": {
+        "title": "Why can a rocket fly so high?",
+        "body": "A rocket can fly much higher than an airplane, all the way into space where there is no air. It uses powerful engines that shoot out fire and smoke to push itself up. Rockets can carry astronauts and supplies to the moon and farther planets, helping us learn about the universe."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_rocket_intro.mp3",
+        "story": "../item-audio/en/transport_rocket_story.mp3"
+      }
+    }
+  }
+}

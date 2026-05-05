@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_zucchini",
+  "sku_id": "card_vegetable_zucchini",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "melon_vegetable"
+    ],
+    "secondary": [
+      "long",
+      "soft",
+      "juicy"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "soft",
+      "juicy"
+    ],
+    "grow_location": [
+      "above ground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "西葫芦",
+      "aloud": "xī hú lu",
+      "words": "zucchini",
+      "intro": "西葫芦是一种绿色的蔬菜，长长的，吃起来软软的，有很多水分。它长在藤蔓上，挂在叶子下面，摸起来滑滑的。",
+      "story": {
+        "title": "🥒摘西葫芦",
+        "body": "夏天的早晨，妈妈带宝宝到小菜园。菜园里，藤蔓上挂着一个个绿绿的西葫芦，像小娃娃一样可爱。宝宝伸手摸了摸，滑滑的，凉凉的。妈妈说：“这个西葫芦长大啦，我们把它摘下来吧。”宝宝小心地握住西葫芦，轻轻一拧，它就掉下来了。宝宝高兴地举起来：“妈妈，你看，我摘到了！”回到厨房，妈妈把西葫芦切成小片，和鸡蛋一起炒。宝宝尝了一口，软软的，好香呀！宝宝说：“西葫芦真好吃，我们明天再去摘吧！”"
+      },
+      "knowledge": {
+        "title": "吃西葫芦有什么好处？",
+        "body": "西葫芦里有好多维生素和水分，吃了能让身体变得棒棒的，皮肤水嫩嫩。它很软很容易消化，小宝宝也能吃哦。炒鸡蛋、煮汤都很好吃！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_zucchini_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_zucchini_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Zucchini",
+      "aloud": "/zuːˈkiːni/",
+      "words": "",
+      "intro": "A zucchini is a green vegetable that is long and soft with lots of juice. It grows on vines, hanging under the leaves, and feels smooth.",
+      "story": {
+        "title": "🥒Picking Zucchini",
+        "body": "One summer morning, Mom took the baby to the little garden. Among the vines hung green zucchinis, cute like little dolls. The baby reached out and touched one — it was smooth and cool. Mom said, “This zucchini is all grown up, let’s pick it.” The baby gently held the zucchini and twisted it softly. Off it came! The baby held it up happily, “Mom, look, I picked it!” Back in the kitchen, Mom sliced the zucchini and stir-fried it with eggs. The baby took a bite — so soft and yummy! The baby said, “Zucchini is so delicious, let’s pick more tomorrow!”"
+      },
+      "knowledge": {
+        "title": "Why is eating zucchini good for you?",
+        "body": "Zucchini has lots of vitamins and water, which help your body grow strong and keep your skin soft. It’s very tender and easy to digest, even for little ones. Try it stir-fried with eggs or in soup—it’s tasty!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_zucchini_intro.mp3",
+        "story": "../item-audio/en/vegetable_zucchini_story.mp3"
+      }
+    }
+  }
+}

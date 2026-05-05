@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_q",
+  "sku_id": "card_number_letter_q",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "letter",
+      "uppercase_letter"
+    ],
+    "secondary": [
+      "can_say",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 17,
+    "is_even": false,
+    "is_prime": true,
+    "ordinal": "17th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母Q",
+      "aloud": "q",
+      "words": "q",
+      "intro": "字母Q像一个圆圆的圈，再加上一条小尾巴。它是字母表里第17个字母，也是数字17的好朋友哦！",
+      "story": {
+        "title": "🐧企鹅QQ",
+        "body": "字母Q是个可爱的小家伙，圆圆的肚子像数字0，屁股后面还有一根弯弯的小尾巴。它最喜欢和数字17一起玩，因为17是它的第17个好朋友。一天，Q和17去动物园，看到一群企鹅摇摇摆摆走路。Q开心地说：“看，它们走路的样子和我好像！”17数了数，正好有17只企鹅。Q大声喊：“企鹅朋友们，我们一起拍张照吧！”所有的企鹅排成Q的形状，拍了一张最可爱的照片。从此，Q和企鹅成了最好的朋友，它们一起教小朋友们认识字母和数字。"
+      },
+      "knowledge": {
+        "title": "Q的小秘密",
+        "body": "字母Q常常和字母U手拉手，一起发出“kw”的声音，像“queen”（女王）和“quick”（快）。Q排在字母表第17位，17是个只能被1和它自己整除的质数。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_q_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_q_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Letter Q",
+      "aloud": "/kjuː/",
+      "words": "",
+      "intro": "Letter Q looks like a round circle with a little tail. It is the 17th letter of the alphabet and likes to make the sound 'kw'.",
+      "story": {
+        "title": "🐧Penguin QQ",
+        "body": "Letter Q is a cute little friend. It has a round belly like the number 0, and a curly little tail behind. It loves to play with the number 17, because 17 is its best friend. One day, Q and 17 went to the zoo and saw a group of penguins waddling. Q said happily, \"Look, they walk just like me!\" 17 counted them, and there were exactly 17 penguins. Q shouted, \"Penguins, let's take a picture together!\" All the penguins lined up in the shape of Q and took the cutest photo. From then on, Q and penguins became best friends, helping kids learn letters and numbers together."
+      },
+      "knowledge": {
+        "title": "Q's Little Secret",
+        "body": "Letter Q is almost always followed by U, and together they make the sound 'kw', like in 'queen' and 'quick'. Q is the 17th letter, and 17 is a prime number that can only be divided by 1 and itself."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_q_intro.mp3",
+        "story": "../item-audio/en/number_letter_q_story.mp3"
+      }
+    }
+  }
+}

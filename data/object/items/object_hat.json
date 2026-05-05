@@ -1,0 +1,91 @@
+{
+  "id": "object_hat",
+  "sku_id": "card_object_hat",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "clothing",
+      "color_red"
+    ],
+    "secondary": [
+      "go_out",
+      "soft",
+      "can_wear"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "red"
+    ],
+    "shape": [
+      "round"
+    ],
+    "material": [
+      "cotton",
+      "polyester"
+    ],
+    "scenes": [
+      "outdoor",
+      "playground",
+      "park"
+    ],
+    "function": [
+      "wear",
+      "shade"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "运动帽",
+      "aloud": "yùn dòng mào",
+      "words": "cap",
+      "intro": "运动帽可以戴在头上，帮我们挡住太阳。它有帽檐，像一把小小的雨伞，保护我们的眼睛。",
+      "story": {
+        "title": "🧢小红帽的冒险",
+        "body": "小东有一顶红色的运动帽，他叫它小红。一天，小东戴上小红去公园玩。太阳公公笑眯眯地照着，小红马上伸出长长的帽檐，像小屋顶一样遮住阳光。小东跑呀跑，风姐姐吹过来，小红紧紧抱住小东的头，不让自己飞走。小东说：‘小红，你真是我的好朋友！’小红开心地说：‘我喜欢和你一起出去玩，帮你挡住热热的太阳。’玩累了，小东坐在树下，把小红放在膝盖上。小红轻轻地说：‘下次我们再去爬山吧！’小东点点头，把小红戴回头上，一起回家。现在，小红每天都等着小东带它去新的冒险。"
+      },
+      "knowledge": {
+        "title": "运动帽有什么作用？",
+        "body": "运动帽可以戴在头上遮太阳，保护眼睛和脸。帽檐像一把小伞，挡住阳光。运动的时候戴上它，出汗了还能帮忙吸汗，让小朋友更舒服。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_hat_intro.mp3",
+        "story": "../item-audio/zh-CN/object_hat_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Sports Cap",
+      "aloud": "/spɔːrts kæp/",
+      "words": "",
+      "intro": "A sports cap can be worn on the head to block the sun. It has a brim, like a tiny umbrella, to protect your eyes.",
+      "story": {
+        "title": "🧢Little Red Cap’s Adventure",
+        "body": "Xiao Dong has a red sports cap and calls it Little Red. One day, Xiao Dong puts on Little Red and goes to the park. The sun smiles brightly, and Little Red stretches out its long brim like a little roof to block the light. Xiao Dong runs around, and Sister Wind blows. Little Red holds tight to Xiao Dong’s head and doesn’t fly away. Xiao Dong says, ‘Little Red, you are such a good friend!’ Little Red says happily, ‘I love going out with you and keeping the hot sun away.’ When they get tired, Xiao Dong sits under a tree and puts Little Red on his knees. Little Red whispers, ‘Let’s go to the mountains next time!’ Xiao Dong nods, puts Little Red back on his head, and they go home together. Now Little Red waits every day for a new adventure with Xiao Dong."
+      },
+      "knowledge": {
+        "title": "What does a sports cap do?",
+        "body": "A sports cap can be worn on the head to block the sun and protect your eyes and face. The brim works like a small umbrella, keeping the sunlight away. When you exercise, it also helps absorb sweat, making you more comfortable."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_hat_intro.mp3",
+        "story": "../item-audio/en/object_hat_story.mp3"
+      }
+    }
+  }
+}

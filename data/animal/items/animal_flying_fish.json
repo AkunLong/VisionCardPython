@@ -1,0 +1,100 @@
+{
+  "id": "animal_flying_fish",
+  "sku_id": "card_animal_flying_fish",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "ocean_animal",
+      "clever"
+    ],
+    "secondary": [
+      "small",
+      "has_scales",
+      "can_fly"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "fish",
+      "ocean_animal"
+    ],
+    "color": [
+      "silver",
+      "blue",
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "scales",
+      "fins",
+      "tail"
+    ],
+    "scenes": [
+      "ocean",
+      "water",
+      "sky"
+    ],
+    "actions": [
+      "swim",
+      "fly",
+      "jump"
+    ],
+    "sound": [],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "飞鱼",
+      "aloud": "fēi yú",
+      "words": "flying fish",
+      "intro": "飞鱼是一种神奇的小鱼，住在蓝蓝的大海里。它有一对大大的胸鳍，像翅膀一样，能跳出水面滑翔。飞鱼喜欢在阳光下飞翔，闪闪发亮。",
+      "story": {
+        "title": "🐟飞鱼小飞的第一次飞翔",
+        "body": "小飞是一条小小的飞鱼，它住在温暖的大海里。每天，它都和朋友们一起游泳，但它最羡慕海鸟在天空飞翔的样子。有一天，小飞问妈妈：“妈妈，我也能飞吗？”妈妈笑着说：“当然可以，只要你勇敢地跳出水面，张开胸鳍，风就会带你飞起来。”小飞听了，鼓起勇气，用尾巴使劲拍水，一下子跳出了海面。它张开大大的胸鳍，哇，真的飞起来了！小飞看到蓝蓝的天、白白的云，还有金色的阳光洒在海面上。它滑翔了好远好远，才轻轻落回水里。朋友们都为它鼓掌，小飞开心极了。从那以后，它经常跳出水面，快乐地飞翔。"
+      },
+      "knowledge": {
+        "title": "飞鱼为什么会飞？",
+        "body": "飞鱼的胸鳍又大又宽，像小翅膀。它们用力跳出水面，张开胸鳍，就能在空中滑翔几十米。这样既能躲避大鱼，又能去更远的地方找食物。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_flying_fish_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_flying_fish_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Flying Fish",
+      "aloud": "/ˈflaɪ.ɪŋ fɪʃ/",
+      "words": "",
+      "intro": "A flying fish is a special little fish that lives in the blue ocean. It has big fins that look like wings, and it can glide above the water. Flying fish love to jump and shine in the sunlight.",
+      "story": {
+        "title": "🐟Little Flying Fish's First Glide",
+        "body": "Little Fin was a small flying fish who lived in the warm, blue ocean. Every day, he swam with his friends, but he always dreamed of flying like the seabirds. One day, he asked his mom, \"Mom, can I fly too?\" His mom smiled and said, \"Of course! Just jump out of the water, spread your big fins, and the wind will carry you.\" Little Fin took a deep breath, slapped his tail hard, and leaped out of the sea. He stretched his fins wide—wow, he was gliding! He saw the blue sky, fluffy white clouds, and golden sunlight sparkling on the waves. He glided a long, long way before gently splashing back. All his friends cheered, and Little Fin was so happy. From that day on, he loved leaping out of the water to fly again and again."
+      },
+      "knowledge": {
+        "title": "Why do flying fish fly?",
+        "body": "Flying fish have big, wide fins that look like little wings. They leap out of the water and spread their fins to glide for many meters. This helps them escape from big fish and travel to find food."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_flying_fish_intro.mp3",
+        "story": "../item-audio/en/animal_flying_fish_story.mp3"
+      }
+    }
+  }
+}

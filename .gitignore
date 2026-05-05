@@ -1,0 +1,10 @@
+*.mp3
+*.png
+*.jpg
+*.jpeg
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*_.DS_Store
+.idea/

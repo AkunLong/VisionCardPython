@@ -1,0 +1,96 @@
+{
+  "id": "plant_thyme",
+  "sku_id": "card_plant_thyme",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "herb",
+      "color_green"
+    ],
+    "secondary": [
+      "has_leaf",
+      "fragrant",
+      "in_garden"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "herb"
+    ],
+    "color": [
+      "green"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "stems",
+      "leaves",
+      "roots"
+    ],
+    "scenes": [
+      "garden",
+      "field",
+      "home"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "百里香",
+      "aloud": "bǎi lǐ xiāng",
+      "words": "thyme",
+      "intro": "百里香是一种香香的小植物，叶子小小的，绿绿的。它有一股好闻的香味，妈妈做饭的时候会放一点，让菜变得更美味。它是我们厨房里的小帮手！",
+      "story": {
+        "title": "🌿百里香的小小屋",
+        "body": "在一个小花园里，有一株小小的百里香。它的叶子又小又绿，每一片都香喷喷的。小蜜蜂飞来了，闻一闻，说：“哇，好香呀！我可以采一点蜜吗？”百里香点点头。小蝴蝶也飞来了，停在叶子上，说：“这里真舒服，我喜欢这个味道。”有一天，小主人拿着小篮子来了，她轻轻摘下几片叶子，说：“百里香，我要用你做香香的烤鸡。”百里香很高兴，因为它能让食物变好吃。晚上，小主人一家吃着香喷喷的烤鸡，夸百里香真棒。百里香想：能让别人开心，我真幸福。第二天，它又长出更多新叶子，等待新的朋友。"
+      },
+      "knowledge": {
+        "title": "百里香有什么用？",
+        "body": "百里香的叶子可以调味，让肉和菜变得更香。它还有杀菌的作用，可以帮助我们保持健康。我们可以在花园里种一盆，闻一闻清香，心情也会变好。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_thyme_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_thyme_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Thyme",
+      "aloud": "/taɪm/",
+      "words": "",
+      "intro": "Thyme is a small, fragrant plant with tiny green leaves. It has a lovely smell, and moms put a little in cooking to make food taste better. It's a little helper in the kitchen!",
+      "story": {
+        "title": "🌿The Little Thyme's Gift",
+        "body": "In a little garden, there was a tiny thyme plant. Its leaves were small and green, each one fragrant. A little bee flew by and sniffed, 'How nice! Can I gather nectar?' Thyme nodded. A butterfly came and rested on a leaf, 'This place feels so cozy, I love the smell.' One day, the little owner came with a basket. She gently picked a few leaves, saying, 'Thyme, I will use you to make delicious roasted chicken.' Thyme was happy because it could make food yummy. That evening, the family enjoyed the fragrant chicken and praised Thyme. Thyme thought, 'Making others happy makes me happy too.' The next day, it grew more leaves, waiting for new friends."
+      },
+      "knowledge": {
+        "title": "What is thyme good for?",
+        "body": "Thyme leaves add flavor to meat and vegetables, making them smell wonderful. It can also help kill germs and keep us healthy. You can grow a pot in the garden and enjoy its fresh scent to feel good."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_thyme_intro.mp3",
+        "story": "../item-audio/en/plant_thyme_story.mp3"
+      }
+    }
+  }
+}

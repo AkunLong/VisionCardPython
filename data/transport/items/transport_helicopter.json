@@ -1,0 +1,96 @@
+{
+  "id": "transport_helicopter",
+  "sku_id": "card_transport_helicopter",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "air_transport",
+      "can_fly"
+    ],
+    "secondary": [
+      "can_rescue",
+      "can_carry_people",
+      "fast"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "helicopter"
+    ],
+    "color": [
+      "white",
+      "red",
+      "blue"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "sky",
+      "airport",
+      "mountain"
+    ],
+    "fuel": [
+      "fuel"
+    ],
+    "features": [
+      "rotor",
+      "skids",
+      "can_hover"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "直升机",
+      "aloud": "zhí shēng jī",
+      "words": "helicopter",
+      "intro": "直升机是一种可以在天上飞行的交通工具，它的头顶有大大的旋翼，转起来就能飞得很高很远。它不需要跑道，可以在小地方降落，还能停在半空中哦。",
+      "story": {
+        "title": "🚁小蓝的救援任务",
+        "body": "小蓝是一架勇敢的小直升机，天天在机场待命。这天，电话响了：“山里有人受伤了，请快来帮忙！”小蓝立刻发动引擎，头顶的螺旋桨呼呼地转了起来，它垂直升起，像一只大蜻蜓飞向蓝天。飞过高楼，飞过树林，小蓝来到了大山里。它看见一位叔叔挥着红衣服，旁边躺着一位阿姨。小蓝慢慢地下降，停在一块小小的平地上。医生和担架被放下来，把阿姨小心地抬进机舱。小蓝稳稳地起飞，用最快的速度飞回医院。医生说：“多亏了小蓝，阿姨得救了！”小蓝虽然很累，但心里甜甜的。它轻轻地降落在停机坪上，等待下一次任务的到来。"
+      },
+      "knowledge": {
+        "title": "直升机有什么特别的本领？",
+        "body": "直升机最大的本领是可以垂直起降，不需要长长的跑道。它还能悬在半空中，所以在救援、消防和拥挤的城市里特别有用。它的旋翼就像一把大伞，带着它飞上蓝天。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_helicopter_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_helicopter_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Helicopter",
+      "aloud": "/ˈhelɪkɑːptər/",
+      "words": "",
+      "intro": "A helicopter is an aircraft that flies in the sky. It has a big rotor on top that spins very fast to lift it up. It can take off and land without a runway, and it can even hover in the air.",
+      "story": {
+        "title": "🚁Little Blue's Rescue Mission",
+        "body": "Little Blue is a brave helicopter who always waits at the airport. One day, the phone rang: \"Someone is injured on the mountain, please help!\" Little Blue started its engine right away. The big rotor began to spin round and round, and it lifted straight up into the blue sky like a giant dragonfly. It flew past tall buildings, over forests, and reached the mountains. It saw a man waving a red cloth, with a woman lying nearby. Little Blue slowly went down and landed on a small flat patch of ground. Doctors and a stretcher were lowered. They carefully carried the woman into the cabin. Little Blue took off smoothly and flew back to the hospital as fast as it could. The doctors said, \"Thanks to Little Blue, the woman is saved!\" Little Blue was tired but felt sweet inside. It landed gently on the helipad, waiting for its next mission."
+      },
+      "knowledge": {
+        "title": "What special skills does a helicopter have?",
+        "body": "The greatest skill of a helicopter is that it can take off and land vertically without a long runway. It can also hover in the air, which makes it very useful for rescue, firefighting, and busy cities. Its rotor works like a big umbrella that lifts it into the sky."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_helicopter_intro.mp3",
+        "story": "../item-audio/en/transport_helicopter_story.mp3"
+      }
+    }
+  }
+}

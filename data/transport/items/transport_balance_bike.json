@@ -1,0 +1,96 @@
+{
+  "id": "transport_balance_bike",
+  "sku_id": "card_transport_balance_bike",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "on_road",
+      "can_ride"
+    ],
+    "secondary": [
+      "has_wheels",
+      "small",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "balance_bike"
+    ],
+    "color": [
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "park",
+      "road",
+      "sidewalk"
+    ],
+    "fuel": [
+      "human"
+    ],
+    "features": [
+      "wheels",
+      "balance",
+      "foot_power"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "平衡车",
+      "aloud": "píng héng chē",
+      "words": "balance bike",
+      "intro": "平衡车是一种小小的车，没有脚踏板，小朋友用脚蹬地就可以滑行。它有两个轮子和一个车把，帮助小朋友学习平衡。",
+      "story": {
+        "title": "🚲小蓝的第一次冒险",
+        "body": "公园的早晨，太阳刚刚升起。小明拉着他的蓝色平衡车出门了。小蓝车有两个轮子，亮闪闪的车把，还有一张笑脸贴纸。小明骑上小蓝车，用脚在地上蹬了几下，就滑行起来。风在耳边呼呼地响，小明觉得自己像一只小鸟。他骑过弯弯的小路，绕过花坛，追上了一只小蝴蝶。小蓝车稳稳地，没有摔倒。小明开心地笑了。妈妈说：“小蓝车帮你学会了平衡，真棒！”从此，小明每天都和小蓝车一起玩耍，他们成了最好的朋友。"
+      },
+      "knowledge": {
+        "title": "平衡车有什么好处？",
+        "body": "平衡车是一种没有脚踏板的小自行车。它能帮助小朋友锻炼平衡感，学会控制身体。当小朋友用脚蹬地滑行时，他们需要保持身体平衡，这能增强腿部力量，也为将来骑自行车做好准备。平衡车很安全，适合2-5岁的小朋友。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_balance_bike_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_balance_bike_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Balance Bike",
+      "aloud": "/ˈbæləns baɪk/",
+      "words": "",
+      "intro": "A balance bike is a small bike without pedals. Kids push with their feet to glide. It has two wheels and a handlebar, helping them learn to balance.",
+      "story": {
+        "title": "🚲Little Blue's First Adventure",
+        "body": "On a sunny morning in the park, Mingming took out his blue balance bike. The bike had two wheels, shiny handlebars, and a smiley sticker. Mingming got on and pushed with his feet. Whoosh! He glided along the path. The wind whistled past his ears. He felt like a little bird. He zigzagged around flower beds and chased a butterfly. The balance bike stayed steady, and Mingming didn't fall. His mom said, 'Your balance bike helped you learn to balance. Well done!' After that, Mingming and his blue bike played together every day. They became best friends."
+      },
+      "knowledge": {
+        "title": "What are the benefits of a balance bike?",
+        "body": "A balance bike is a small bicycle without pedals. It helps young children develop balance and coordination. By pushing with their feet and gliding, kids learn to control their body, which strengthens their legs and prepares them for a regular bicycle later. Balance bikes are very safe and suitable for children aged 2 to 5."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_balance_bike_intro.mp3",
+        "story": "../item-audio/en/transport_balance_bike_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "transport_motorcycle",
+  "sku_id": "card_transport_motorcycle",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "road_vehicle",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "has_engine",
+      "can_carry_people"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "motorcycle"
+    ],
+    "color": [
+      "red",
+      "black",
+      "blue"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "road",
+      "city"
+    ],
+    "fuel": [
+      "gasoline",
+      "electricity"
+    ],
+    "features": [
+      "two_wheels",
+      "handlebar",
+      "engine"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "摩托车",
+      "aloud": "mó tuō chē",
+      "words": "motorcycle",
+      "intro": "摩托车是一种灵巧的小车，有两个轮子，跑得很快。它用汽油或者电来发动，骑车的人要戴好安全帽，抓着把手，坐上软软的座垫，脚踩在踏板上。马路上常常能看到它们飞快地穿过。",
+      "story": {
+        "title": "🏍️小摩托嘟嘟去郊游",
+        "body": "早上，太阳公公开出笑脸，小摩托嘟嘟和主人准备出发。主人认真检查轮胎，擦亮后视镜，然后戴上帅气的安全帽。嘟嘟的引擎轻轻哼着歌。他们出发了！嘟嘟跑过绿绿的草地，一只小兔子跳过来，嘟嘟慢慢减速，让小兔子先过去。接着他们骑过弯弯的小路，路边开满了五颜六色的小花，风儿送来阵阵花香。中午，他们来到一片大湖边，停下来休息。主人给嘟嘟喝了香香的汽油，他自己也吃了面包。下午，他们继续往山上骑，从高处看下去，房子小得像积木。太阳下山了，天边染成橘红色。嘟嘟载着主人平平安安地回到家，它觉得今天好幸福呀。明天，还有新的冒险呢！"
+      },
+      "knowledge": {
+        "title": "摩托车有什么特别？",
+        "body": "摩托车只有两个轮子，所以比汽车小，能灵活地在车流中穿行。它用车把来控制方向，一拧油门就跑起来。摩托车很省油，但骑车一定要戴安全帽，保护头部，安全第一！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_motorcycle_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_motorcycle_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Motorcycle",
+      "aloud": "/ˈmoʊtərˌsaɪkəl/",
+      "words": "",
+      "intro": "A motorcycle is a small, fast vehicle with two wheels. It has an engine and handlebars. People ride on the seat, hold the handlebars, and put their feet on the footrests. You can see them zooming on the roads.",
+      "story": {
+        "title": "🏍️Dudu the Little Motorcycle's Outing",
+        "body": "In the morning, the sun smiled, and Dudu the little motorcycle got ready for a trip with his owner. The owner checked the tires, cleaned the mirrors, and put on a cool helmet. Dudu's engine purred softly. Off they went! Dudu rode past green fields, and a little rabbit hopped by. Dudu slowed down to let it pass. Then they rode along a winding road with colorful flowers, and the wind carried a sweet scent. At noon, they stopped by a big lake. The owner gave Dudu some fresh gasoline, and he ate a sandwich. In the afternoon, they went up the hill and saw tiny houses below. As the sun set, the sky turned orange. Dudu carried his owner safely home. He felt so happy. Tomorrow, new adventures await!"
+      },
+      "knowledge": {
+        "title": "What's special about motorcycles?",
+        "body": "Motorcycles have only two wheels, so they are smaller and can move easily through traffic. You steer with the handlebars and twist the throttle to go. They use less fuel than cars. But always wear a helmet to keep your head safe!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_motorcycle_intro.mp3",
+        "story": "../item-audio/en/transport_motorcycle_story.mp3"
+      }
+    }
+  }
+}

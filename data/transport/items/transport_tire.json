@@ -1,0 +1,92 @@
+{
+  "id": "transport_tire",
+  "sku_id": "card_transport_tire",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "vehicle_part",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "color_black",
+      "safety_item"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "tire"
+    ],
+    "color": [
+      "black"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "road",
+      "garage",
+      "city"
+    ],
+    "fuel": [],
+    "features": [
+      "round",
+      "rubber",
+      "grip"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "轮胎",
+      "aloud": "lún tāi",
+      "words": "tire",
+      "intro": "轮胎是圆圆的、黑黑的，装在车轮上，让车跑起来更舒服，也更安全。",
+      "story": {
+        "title": "⚫小黑轮的一天",
+        "body": "清晨，小黑轮醒来，看见自己装在一辆红色小汽车上。小汽车开动了，小黑轮转呀转，带着小朋友去幼儿园。路上，它碾过小石子，感觉痒痒的；它轻轻跳过小坑，不让车身颠簸。到了幼儿园，小朋友下车，拍拍小黑轮说：“你真棒！”下午，小黑轮又帮助一辆货车送水果去超市。它稳稳地抓牢地面，哪怕下雨也不怕滑。晚上，小黑轮回到了车库，它觉得有点累，但心里暖暖的。它说：“今天又保护了大家，真开心！”然后，它合上眼睛，慢慢睡着，等着明天新的冒险。"
+      },
+      "knowledge": {
+        "title": "轮胎有什么用？",
+        "body": "轮胎圆圆的，充满空气，能支撑起汽车的重量。它外面的花纹能抓紧地面，让车不容易打滑。有了轮胎的帮助，汽车才能安全又平稳地带我们去想去的地方。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_tire_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_tire_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Tire",
+      "aloud": "/ˈtaɪər/",
+      "words": "",
+      "intro": "A tire is round and black, and it fits onto a wheel to make riding smoother and safer.",
+      "story": {
+        "title": "⚫Little Black Tire's Day",
+        "body": "One morning, Little Black Tire woke up to find himself on a red car. The car started moving, and Little Black Tire spun around and took a child to kindergarten. On the way, he rolled over tiny stones that tickled a bit, and he gently jumped over small bumps so the car wouldn't shake. When they arrived, the child patted him and said, 'You're so great!' In the afternoon, Little Black Tire helped a truck deliver fruit to the supermarket. He gripped the road tightly, not even slipping when it rained. At night, he returned to the garage. He felt a little tired, but his heart was warm. He whispered, 'Today I kept everyone safe, I'm so happy!' Then he closed his eyes and quietly fell asleep, ready for a new adventure tomorrow."
+      },
+      "knowledge": {
+        "title": "What does a tire do?",
+        "body": "A tire is round and filled with air. It carries the weight of the car and its tread grips the road so the car won't slip. With tires, a car can take us places safely and smoothly."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_tire_intro.mp3",
+        "story": "../item-audio/en/transport_tire_story.mp3"
+      }
+    }
+  }
+}

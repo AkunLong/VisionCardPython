@@ -1,0 +1,90 @@
+{
+  "id": "food_red_bean_cake",
+  "sku_id": "card_food_red_bean_cake",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "dessert",
+      "color_red",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "at_snack_time",
+      "sweet"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dessert"
+    ],
+    "color": [
+      "brown",
+      "red"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "红豆饼",
+      "aloud": "hóng dòu bǐng",
+      "words": "red bean cake",
+      "intro": "红豆饼是一种圆圆的小点心，外皮酥酥的，里面包着甜甜的红豆沙。咬一口，又香又甜，好满足呀！",
+      "story": {
+        "title": "🥮 小兔的红豆饼",
+        "body": "森林里的小兔最爱吃妈妈做的红豆饼。有一天，妈妈教小兔一起做。她们先把红豆泡在水里，泡得胖胖的，再煮熟碾成沙。然后揉面团，把红豆沙包进去，压成小圆饼，放到锅里慢慢煎。小兔等不及了，问：“妈妈，好了没有？”妈妈说：“再等一小会儿，两边都金黄了才好吃。”红豆饼终于煎好了，小兔吹一吹，轻轻咬一口，甜甜的豆沙流出来，小兔开心地说：“这是世界上最好吃的红豆饼！”"
+      },
+      "knowledge": {
+        "title": "红豆饼是用什么做的？",
+        "body": "红豆饼主要由面粉、红豆和糖做成。先把红豆煮软，做成甜甜的红豆沙，再用面团包起来，压成饼煎一煎，就可以吃啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_red_bean_cake_intro.mp3",
+        "story": "../item-audio/zh-CN/food_red_bean_cake_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Red Bean Cake",
+      "aloud": "/rɛd biːn keɪk/",
+      "words": "",
+      "intro": "A red bean cake is a soft, round pastry with sweet red bean paste inside. One bite and you'll love its sweet, warm taste!",
+      "story": {
+        "title": "🥮 Little Rabbit's Red Bean Cake",
+        "body": "Little Rabbit in the forest loves the red bean cakes made by his mom. One day, Mom taught him how to make them. First, they soaked the red beans until they were plump, then cooked and mashed them into a paste. Next, they kneaded dough, wrapped the paste inside, pressed them into small round cakes, and fried them slowly in a pan. Little Rabbit couldn't wait. 'Mom, are they ready?' he asked. 'Just a bit longer, until both sides are golden,' Mom said. At last, the cakes were done. Little Rabbit blew on one, took a tiny bite, and the sweet paste oozed out. 'This is the best red bean cake in the world!' he cheered."
+      },
+      "knowledge": {
+        "title": "What is a red bean cake made of?",
+        "body": "Red bean cakes are made from flour, red beans, and sugar. First, cook the red beans until soft, mash them into a sweet paste, then wrap the paste in dough, press into cakes, and fry them until done."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_red_bean_cake_intro.mp3",
+        "story": "../item-audio/en/food_red_bean_cake_story.mp3"
+      }
+    }
+  }
+}

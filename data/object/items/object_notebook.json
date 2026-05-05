@@ -1,0 +1,89 @@
+{
+  "id": "object_notebook",
+  "sku_id": "card_object_notebook",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "study_item",
+      "can_write"
+    ],
+    "secondary": [
+      "at_home",
+      "at_school",
+      "can_draw"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "white"
+    ],
+    "shape": [
+      "rectangular"
+    ],
+    "material": [
+      "paper"
+    ],
+    "scenes": [
+      "home",
+      "school"
+    ],
+    "function": [
+      "write",
+      "draw"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "记事本",
+      "aloud": "jì shì běn",
+      "words": "notebook",
+      "intro": "记事本是我们写字画画的好朋友。它有漂亮的封面和好多好多白色的纸，我们可以用铅笔、蜡笔在上面留下可爱的痕迹。",
+      "story": {
+        "title": "📒爱画画的记事本",
+        "body": "小美的妈妈送给她一本崭新的记事本。封面上有一只毛茸茸的小熊，笑眯眯地看着她。小美高兴地说：“你好呀，记事本！以后我们一起玩吧！”她拿出彩色蜡笔，在记事本的第一页画了一个红红的太阳，第二页画了一朵黄黄的小花。记事本开心极了，它轻轻翻动着书页，好像在说：“再画一点，再画一点！”小美又把好朋友小宇请来，两个人在记事本上画了一棵大树，树上有唱歌的小鸟。到了晚上，小美把记事本放在枕头边，记事本悄悄地对铅笔说：“今天真幸福，我身上留下了这么多快乐的图画。”第二天，小美带着记事本去幼儿园，小朋友们都围过来看，大家都夸小美画得好，记事本也骄傲地挺起了小胸膛。"
+      },
+      "knowledge": {
+        "title": "记事本可以用来做什么？",
+        "body": "记事本可以用来写字、画画、做笔记。它有封面和内页，封面可以保护里面的纸。我们可以在学校、家里或者出去玩时带着它，记下有趣的事情。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_notebook_intro.mp3",
+        "story": "../item-audio/zh-CN/object_notebook_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Notebook",
+      "aloud": "/ˈnoʊtˌbʊk/",
+      "words": "",
+      "intro": "A notebook is a good friend for writing and drawing. It has a pretty cover and many white pages. We can use pencils and crayons to make lovely marks on it.",
+      "story": {
+        "title": "📒The Drawing-Loving Notebook",
+        "body": "Xiao Mei's mom gave her a brand-new notebook. On the cover was a fluffy little bear, smiling at her. Xiao Mei said happily, \"Hello, notebook! Let's play together from now on!\" She took out her crayons and drew a red sun on the first page, and a yellow flower on the second page. The notebook was so happy, gently flipping its pages as if saying, \"Draw more, draw more!\" Xiao Mei then invited her good friend Xiao Yu over, and together they drew a big tree with singing birds on it. At night, Xiao Mei put the notebook beside her pillow. The notebook whispered to the pencil, \"I'm so happy today. I have so many joyful pictures on me now.\" The next day, Xiao Mei brought the notebook to kindergarten. All the children gathered around and praised her drawings. The notebook proudly puffed out its little chest."
+      },
+      "knowledge": {
+        "title": "What can we do with a notebook?",
+        "body": "We can write, draw, and take notes in a notebook. It has a cover and many inside pages, and the cover protects the pages. We can carry it to school, home, or on trips to record fun things."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_notebook_intro.mp3",
+        "story": "../item-audio/en/object_notebook_story.mp3"
+      }
+    }
+  }
+}

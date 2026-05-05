@@ -1,0 +1,76 @@
+{
+  "id": "number_9",
+  "sku_id": "card_number_nine",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "single_digit",
+      "odd_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 9,
+    "is_even": false,
+    "is_prime": false,
+    "ordinal": "9th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字9",
+      "aloud": "jiǔ",
+      "words": "nine",
+      "intro": "9是比8多1的数字。9像一个小小的气球，拖着长长的线。我们数数的时候，9排在最后，马上就到10啦！",
+      "story": {
+        "title": "🎈9只气球",
+        "body": "宝宝有9只彩色气球，红、橙、黄、绿、蓝、靛、紫、粉、白。一阵风来，1只飞走，还剩8只。又一阵风，再飞走1只，还剩7只。宝宝追着气球跑，一边跑一边数：1、2、3、4、5、6、7、8、9！最后9只气球都飞上了天，在云朵间像小彩灯。宝宝笑哈哈，记住了数字9。风停了，9只气球排成一排，好像天上的彩虹桥。"
+      },
+      "knowledge": {
+        "title": "为什么9是最大的个位数？",
+        "body": "个位数从1到9，9就是最大的。当我们需要比9更大的数字时，就要用到两位数，比如10。9也代表即将完成，就像排队时第九个就快轮到了。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_9_intro.mp3",
+        "story": "../item-audio/zh-CN/number_9_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Nine",
+      "aloud": "/naɪn/",
+      "words": "",
+      "intro": "Nine is the number after eight. It looks like a small balloon with a long string. When we count, nine is the last single digit before ten!",
+      "story": {
+        "title": "🎈Nine Balloons",
+        "body": "Baby has nine colorful balloons: red, orange, yellow, green, blue, indigo, purple, pink, and white. A gust of wind blows one away, leaving eight. Another gust, another one flies, leaving seven. Baby chases the balloons and counts as they go: one, two, three, four, five, six, seven, eight, nine! Finally, all nine balloons float up into the sky, looking like little colored lights among the clouds. Baby giggles and remembers the number nine. When the wind stops, the nine balloons line up, just like a rainbow bridge in the sky."
+      },
+      "knowledge": {
+        "title": "Why is nine the biggest single digit?",
+        "body": "Single digits go from one to nine, and nine is the largest. When we need a number bigger than nine, we use two digits, like ten. Nine also means almost done, just like the ninth in line is about to have a turn."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_9_intro.mp3",
+        "story": "../item-audio/en/number_9_story.mp3"
+      }
+    }
+  }
+}

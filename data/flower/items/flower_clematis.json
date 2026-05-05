@@ -1,0 +1,89 @@
+{
+  "id": "flower_clematis",
+  "sku_id": "card_flower_clematis",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_purple",
+      "in_garden"
+    ],
+    "secondary": [
+      "vine_flower",
+      "big_flower",
+      "spring_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "purple"
+    ],
+    "size": [
+      "tall"
+    ],
+    "scenes": [
+      "garden",
+      "fence",
+      "balcony"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "铁线莲",
+      "aloud": "tiě xiàn lián",
+      "words": "clematis",
+      "intro": "铁线莲是一种藤蔓花，开出的花朵像小星星一样，颜色有紫色、粉色，它经常爬在篱笆上，特别好看。",
+      "story": {
+        "title": "🌸小铁线莲爬高高",
+        "body": "花园里有一棵小铁线莲，它细细的藤蔓上长满了小叶子。小铁线莲抬头看着高高的篱笆，心想：我想爬上去，看看外面的世界。风姐姐吹过来，说：小铁线莲，抓住我的手，我帮你爬！小铁线莲努力地伸出小手一样的卷须，缠住了一丝一丝的篱笆。一天一天，太阳公公给它温暖，雨滴宝宝给它喝水。慢慢地，小铁线莲爬得比小朋友还高了，它开出了紫色的花朵，像一个个小铃铛挂在藤上，漂亮极啦！"
+      },
+      "knowledge": {
+        "title": "铁线莲为什么能爬高？",
+        "body": "铁线莲的叶子会变成细细的卷须，像小弹簧一样，能抓住旁边的篱笆或架子。这样它就能攀着往上长，越爬越高，可以晒到更多的太阳啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_clematis_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_clematis_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Clematis",
+      "aloud": "/ˈklɛmətɪs/",
+      "words": "",
+      "intro": "Clematis is a climbing vine with star-shaped flowers. It often comes in purple, pink, or white and loves to cover fences and trellises.",
+      "story": {
+        "title": "🌸The Little Clematis Climbs High",
+        "body": "A little clematis grew in the garden, its thin vine covered with small leaves. The little clematis looked up at the tall fence and thought, I want to climb up and see the world outside. Sister Wind blew by and said, Little clematis, hold on to my hand, I'll help you climb! The little clematis stretched out its tiny tendrils like little hands and wrapped them around the fence. Day by day, Mr. Sun gave it warmth, and baby raindrops gave it water. Slowly, the clematis climbed higher than the children, and it bloomed with purple flowers, hanging like little bells on the vine — so beautiful!"
+      },
+      "knowledge": {
+        "title": "Why can clematis climb high?",
+        "body": "The leaves of clematis turn into thin tendrils, like tiny springs, that can grab onto fences or trellises. This helps it climb up to catch more sunlight."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_clematis_intro.mp3",
+        "story": "../item-audio/en/flower_clematis_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "transport_speedboat",
+  "sku_id": "card_transport_speedboat",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "water_transport",
+      "in_water"
+    ],
+    "secondary": [
+      "fast",
+      "has_engine",
+      "can_float"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "speedboat"
+    ],
+    "color": [
+      "white",
+      "blue",
+      "red"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "water",
+      "sea",
+      "lake"
+    ],
+    "fuel": [
+      "gasoline"
+    ],
+    "features": [
+      "fast",
+      "engine"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "快艇",
+      "aloud": "kuài tǐng",
+      "words": "speedboat",
+      "intro": "快艇是一种小小的船，有厉害的发动机，能在水面上跑得飞快。它可以在大海、大湖里玩，溅起白色的水花。",
+      "story": {
+        "title": "🚤小快艇去探险",
+        "body": "天气真好，小快艇想去冒险。它突突突地出发了，不一会儿就到了大海。海面上波光闪闪，小快艇开心地转圈圈。突然，它看到远处有一座小岛，就飞快地冲过去。岛上有高高的椰子树，还有一群海鸥在唱歌。小快艇绕着岛转了一圈，和浪花玩起了赛跑。后来，太阳慢慢沉进海里，天空变成了橙色。小快艇觉得有点累了，但它心里美美的。它轻轻地说：今天看到了最美的日落，明天还要来！回到家，小快艇静静地漂在码头，做了一个又一个彩色的梦。"
+      },
+      "knowledge": {
+        "title": "快艇为什么跑得快？",
+        "body": "快艇的底部很光滑，像滑滑梯一样，身体又轻，还有一个很厉害的发动机。它在水里跑的时候，水推不动它，所以它就能像风一样快！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_speedboat_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_speedboat_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Speedboat",
+      "aloud": "/spiːdboʊt/",
+      "words": "",
+      "intro": "A speedboat is a small boat with a strong engine that can go very fast on the water. It can play in the sea or lake and splash white foam.",
+      "story": {
+        "title": "🚤The Little Speedboat's Adventure",
+        "body": "It was a beautiful day, and the little speedboat wanted an adventure. Vroom-vroom, it set off and soon reached the sea. The water sparkled, and the little speedboat happily spun around. Suddenly, it saw a small island far away and rushed over quickly. There were tall coconut trees on the island and seagulls singing. The little speedboat circled the island and raced with the waves. Later, the sun slowly sank into the sea, and the sky turned orange. The little speedboat felt a bit tired but so happy inside. It softly said, I saw the most beautiful sunset today. I'll come back tomorrow! Back home, the little speedboat drifted quietly by the dock, dreaming one colorful dream after another."
+      },
+      "knowledge": {
+        "title": "Why can a speedboat go fast?",
+        "body": "A speedboat has a smooth bottom like a slide and a light body plus a powerful engine. When it moves, the water has little to push against, so it can go as fast as the wind!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_speedboat_intro.mp3",
+        "story": "../item-audio/en/transport_speedboat_story.mp3"
+      }
+    }
+  }
+}

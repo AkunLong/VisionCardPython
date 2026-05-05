@@ -1,0 +1,514 @@
+[
+  {
+    "id": "color_red",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "red",
+    "content": {
+      "zh-CN": {
+        "name": "红色",
+        "audio_url": "audio/tags-audio/zh-CN/flower_color_red.mp3"
+      },
+      "en": {
+        "name": "Red",
+        "audio_url": "audio/tags-audio/en/flower_color_red.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_pink",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "粉色",
+        "audio_url": "audio/tags-audio/zh-CN/flower_color_pink.mp3"
+      },
+      "en": {
+        "name": "Pink",
+        "audio_url": "audio/tags-audio/en/flower_color_pink.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_yellow",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "黄色",
+        "audio_url": "audio/tags-audio/zh-CN/flower_color_yellow.mp3"
+      },
+      "en": {
+        "name": "Yellow",
+        "audio_url": "audio/tags-audio/en/flower_color_yellow.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_white",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "white",
+    "content": {
+      "zh-CN": {
+        "name": "白色",
+        "audio_url": "audio/tags-audio/zh-CN/flower_color_white.mp3"
+      },
+      "en": {
+        "name": "White",
+        "audio_url": "audio/tags-audio/en/flower_color_white.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_purple",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "紫色",
+        "audio_url": "audio/tags-audio/zh-CN/flower_color_purple.mp3"
+      },
+      "en": {
+        "name": "Purple",
+        "audio_url": "audio/tags-audio/en/flower_color_purple.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_blue",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "蓝色",
+        "audio_url": "audio/tags-audio/zh-CN/flower_color_blue.mp3"
+      },
+      "en": {
+        "name": "Blue",
+        "audio_url": "audio/tags-audio/en/flower_color_blue.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_orange",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "橙色",
+        "audio_url": "audio/tags-audio/zh-CN/flower_color_orange.mp3"
+      },
+      "en": {
+        "name": "Orange",
+        "audio_url": "audio/tags-audio/en/flower_color_orange.mp3"
+      }
+    }
+  },
+  {
+    "id": "flower",
+    "type": "category",
+    "icon": "flower-2",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "花卉",
+        "audio_url": "audio/tags-audio/zh-CN/flower_flower.mp3"
+      },
+      "en": {
+        "name": "Flower",
+        "audio_url": "audio/tags-audio/en/flower_flower.mp3"
+      }
+    }
+  },
+  {
+    "id": "garden_flower",
+    "type": "category",
+    "icon": "flower",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "花园花卉",
+        "audio_url": "audio/tags-audio/zh-CN/flower_garden_flower.mp3"
+      },
+      "en": {
+        "name": "Garden flower",
+        "audio_url": "audio/tags-audio/en/flower_garden_flower.mp3"
+      }
+    }
+  },
+  {
+    "id": "tree_flower",
+    "type": "category",
+    "icon": "tree-pine",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "树上开花",
+        "audio_url": "audio/tags-audio/zh-CN/flower_tree_flower.mp3"
+      },
+      "en": {
+        "name": "Tree blossom",
+        "audio_url": "audio/tags-audio/en/flower_tree_flower.mp3"
+      }
+    }
+  },
+  {
+    "id": "water_flower",
+    "type": "category",
+    "icon": "waves",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "水中花",
+        "audio_url": "audio/tags-audio/zh-CN/flower_water_flower.mp3"
+      },
+      "en": {
+        "name": "Water flower",
+        "audio_url": "audio/tags-audio/en/flower_water_flower.mp3"
+      }
+    }
+  },
+  {
+    "id": "potted_flower",
+    "type": "category",
+    "icon": "flower",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "盆栽花卉",
+        "audio_url": "audio/tags-audio/zh-CN/flower_potted_flower.mp3"
+      },
+      "en": {
+        "name": "Potted flower",
+        "audio_url": "audio/tags-audio/en/flower_potted_flower.mp3"
+      }
+    }
+  },
+  {
+    "id": "vine_flower",
+    "type": "category",
+    "icon": "git-branch",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "藤蔓花卉",
+        "audio_url": "audio/tags-audio/zh-CN/flower_vine_flower.mp3"
+      },
+      "en": {
+        "name": "Vine flower",
+        "audio_url": "audio/tags-audio/en/flower_vine_flower.mp3"
+      }
+    }
+  },
+  {
+    "id": "succulent_plant",
+    "type": "category",
+    "icon": "cactus",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "多肉植物",
+        "audio_url": "audio/tags-audio/zh-CN/flower_succulent_plant.mp3"
+      },
+      "en": {
+        "name": "Succulent plant",
+        "audio_url": "audio/tags-audio/en/flower_succulent_plant.mp3"
+      }
+    }
+  },
+  {
+    "id": "round_flower",
+    "type": "shape",
+    "icon": "circle",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "圆圆花朵",
+        "audio_url": "audio/tags-audio/zh-CN/flower_round_flower.mp3"
+      },
+      "en": {
+        "name": "Round flower",
+        "audio_url": "audio/tags-audio/en/flower_round_flower.mp3"
+      }
+    }
+  },
+  {
+    "id": "big_flower",
+    "type": "shape",
+    "icon": "maximize",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "大大的花",
+        "audio_url": "audio/tags-audio/zh-CN/flower_big_flower.mp3"
+      },
+      "en": {
+        "name": "Big flower",
+        "audio_url": "audio/tags-audio/en/flower_big_flower.mp3"
+      }
+    }
+  },
+  {
+    "id": "small_flower",
+    "type": "shape",
+    "icon": "minimize",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "小小的花",
+        "audio_url": "audio/tags-audio/zh-CN/flower_small_flower.mp3"
+      },
+      "en": {
+        "name": "Small flower",
+        "audio_url": "audio/tags-audio/en/flower_small_flower.mp3"
+      }
+    }
+  },
+  {
+    "id": "bell_shape",
+    "type": "shape",
+    "icon": "bell",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "像小铃铛",
+        "audio_url": "audio/tags-audio/zh-CN/flower_bell_shape.mp3"
+      },
+      "en": {
+        "name": "Bell-shaped",
+        "audio_url": "audio/tags-audio/en/flower_bell_shape.mp3"
+      }
+    }
+  },
+  {
+    "id": "star_shape",
+    "type": "shape",
+    "icon": "star",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "像星星",
+        "audio_url": "audio/tags-audio/zh-CN/flower_star_shape.mp3"
+      },
+      "en": {
+        "name": "Star-shaped",
+        "audio_url": "audio/tags-audio/en/flower_star_shape.mp3"
+      }
+    }
+  },
+  {
+    "id": "many_petals",
+    "type": "feature",
+    "icon": "flower-2",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "花瓣多多",
+        "audio_url": "audio/tags-audio/zh-CN/flower_many_petals.mp3"
+      },
+      "en": {
+        "name": "Many petals",
+        "audio_url": "audio/tags-audio/en/flower_many_petals.mp3"
+      }
+    }
+  },
+  {
+    "id": "fragrant",
+    "type": "smell",
+    "icon": "wind",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "香香的",
+        "audio_url": "audio/tags-audio/zh-CN/flower_fragrant.mp3"
+      },
+      "en": {
+        "name": "Fragrant",
+        "audio_url": "audio/tags-audio/en/flower_fragrant.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_garden",
+    "type": "scene",
+    "icon": "flower-2",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "花园里",
+        "audio_url": "audio/tags-audio/zh-CN/flower_in_garden.mp3"
+      },
+      "en": {
+        "name": "In the garden",
+        "audio_url": "audio/tags-audio/en/flower_in_garden.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_park",
+    "type": "scene",
+    "icon": "trees",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "公园里",
+        "audio_url": "audio/tags-audio/zh-CN/flower_in_park.mp3"
+      },
+      "en": {
+        "name": "In the park",
+        "audio_url": "audio/tags-audio/en/flower_in_park.mp3"
+      }
+    }
+  },
+  {
+    "id": "at_home",
+    "type": "scene",
+    "icon": "home",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "家里养",
+        "audio_url": "audio/tags-audio/zh-CN/flower_at_home.mp3"
+      },
+      "en": {
+        "name": "Kept at home",
+        "audio_url": "audio/tags-audio/en/flower_at_home.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_water",
+    "type": "scene",
+    "icon": "waves",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "水里长",
+        "audio_url": "audio/tags-audio/zh-CN/flower_in_water.mp3"
+      },
+      "en": {
+        "name": "Grows in water",
+        "audio_url": "audio/tags-audio/en/flower_in_water.mp3"
+      }
+    }
+  },
+  {
+    "id": "on_tree",
+    "type": "scene",
+    "icon": "tree-pine",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "树上开",
+        "audio_url": "audio/tags-audio/zh-CN/flower_on_tree.mp3"
+      },
+      "en": {
+        "name": "Blooms on trees",
+        "audio_url": "audio/tags-audio/en/flower_on_tree.mp3"
+      }
+    }
+  },
+  {
+    "id": "spring_flower",
+    "type": "season",
+    "icon": "sprout",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "春天开花",
+        "audio_url": "audio/tags-audio/zh-CN/flower_spring_flower.mp3"
+      },
+      "en": {
+        "name": "Spring flower",
+        "audio_url": "audio/tags-audio/en/flower_spring_flower.mp3"
+      }
+    }
+  },
+  {
+    "id": "summer_flower",
+    "type": "season",
+    "icon": "sun",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "夏天开花",
+        "audio_url": "audio/tags-audio/zh-CN/flower_summer_flower.mp3"
+      },
+      "en": {
+        "name": "Summer flower",
+        "audio_url": "audio/tags-audio/en/flower_summer_flower.mp3"
+      }
+    }
+  },
+  {
+    "id": "autumn_flower",
+    "type": "season",
+    "icon": "leaf",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "秋天开花",
+        "audio_url": "audio/tags-audio/zh-CN/flower_autumn_flower.mp3"
+      },
+      "en": {
+        "name": "Autumn flower",
+        "audio_url": "audio/tags-audio/en/flower_autumn_flower.mp3"
+      }
+    }
+  },
+  {
+    "id": "sunny_flower",
+    "type": "feature",
+    "icon": "sun",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "喜欢阳光",
+        "audio_url": "audio/tags-audio/zh-CN/flower_sunny_flower.mp3"
+      },
+      "en": {
+        "name": "Likes sunshine",
+        "audio_url": "audio/tags-audio/en/flower_sunny_flower.mp3"
+      }
+    }
+  },
+  {
+    "id": "decorative",
+    "type": "function",
+    "icon": "eye",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "可以观赏",
+        "audio_url": "audio/tags-audio/zh-CN/flower_decorative.mp3"
+      },
+      "en": {
+        "name": "Decorative",
+        "audio_url": "audio/tags-audio/en/flower_decorative.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_bloom",
+    "type": "function",
+    "icon": "flower-2",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "会开花",
+        "audio_url": "audio/tags-audio/zh-CN/flower_can_bloom.mp3"
+      },
+      "en": {
+        "name": "Can bloom",
+        "audio_url": "audio/tags-audio/en/flower_can_bloom.mp3"
+      }
+    }
+  }
+]

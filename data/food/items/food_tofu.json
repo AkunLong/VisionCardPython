@@ -1,0 +1,90 @@
+{
+  "id": "food_tofu",
+  "sku_id": "card_food_tofu",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "dish",
+      "color_white",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "at_meal",
+      "smooth"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dish"
+    ],
+    "color": [
+      "white"
+    ],
+    "taste": [
+      "mild"
+    ],
+    "temperature": [
+      "cold",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "school"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "豆腐",
+      "aloud": "dòu fu",
+      "words": "tofu",
+      "intro": "豆腐是白白的、软软的食物，是用大豆做出来的。它可以做成很多好吃的菜，比如豆腐汤、麻婆豆腐，吃起来滑滑的。",
+      "story": {
+        "title": "🌸白白嫩嫩的豆腐",
+        "body": "小兔子白白最爱吃豆腐了。一天，妈妈带她去看豆腐是怎么做出来的。她们来到豆腐坊，看见黄豆在水里泡得胖胖的。然后，豆子被磨成白白的豆浆，煮得咕嘟咕嘟冒泡泡。接着，叔叔把一点神奇的卤水倒进去，豆浆慢慢变成了一朵朵软软的豆腐花。最后，把豆腐花压进方方的模具里，去掉一些水，就变成了白白嫩嫩的豆腐啦！白白开心极了，说：“原来豆腐是这样变出来的呀，好神奇！”回到家，妈妈做了香香的豆腐羹，白白吃得小肚子圆滚滚的。"
+      },
+      "knowledge": {
+        "title": "豆腐是怎么做出来的？",
+        "body": "先把黄豆泡水，磨成豆浆，煮开后加入凝固剂（卤水或石膏），豆浆就会变成豆腐花，再压掉一些水，就变成了方方的豆腐。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_tofu_intro.mp3",
+        "story": "../item-audio/zh-CN/food_tofu_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Tofu",
+      "aloud": "/ˈtoʊfu/",
+      "words": "",
+      "intro": "Tofu is a soft, white food made from soybeans. It can be used in many tasty dishes, like tofu soup and mapo tofu. It feels smooth and tender.",
+      "story": {
+        "title": "🌸Soft and Silky Tofu",
+        "body": "Little rabbit Whitey loved tofu the most. One day, her mom took her to see how tofu is made. They went to a tofu workshop and saw soybeans soaking in water, getting plump. Then the beans were ground into white soy milk and boiled, bubbling and steaming. After that, a little magic brine was added, and the soy milk slowly turned into soft, fluffy tofu curds. Finally, the curds were pressed into a square mold, some water was removed, and it became the smooth, tender tofu! Whitey was so happy and said, “So this is how tofu magically appears!” Back home, mom made fragrant tofu soup, and Whitey ate until her little tummy was round and full."
+      },
+      "knowledge": {
+        "title": "How is tofu made?",
+        "body": "Soak soybeans in water, grind them into soy milk, boil it, then add a coagulant like brine or gypsum. The soy milk turns into curds, and after pressing out some water, you get the square blocks of tofu we eat."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_tofu_intro.mp3",
+        "story": "../item-audio/en/food_tofu_story.mp3"
+      }
+    }
+  }
+}

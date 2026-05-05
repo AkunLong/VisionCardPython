@@ -1,0 +1,87 @@
+{
+  "id": "fruit_loquat",
+  "sku_id": "card_fruit_loquat",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_orange",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sweet",
+      "tree_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "orange"
+    ],
+    "shape": [
+      "round",
+      "oval"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "枇杷",
+      "aloud": "pí pá",
+      "words": "loquat",
+      "intro": "枇杷是一种圆圆的、黄澄澄的水果，味道甜甜的，咬下去很多汁。它营养好，小朋友吃了身体棒。",
+      "story": {
+        "title": "🐻小熊的枇杷",
+        "body": "小熊在果园里散步，抬头看见枇杷树上挂着一串串金黄色的枇杷。圆溜溜的，像一个个小太阳。小熊轻轻摘下一颗，摸了摸，皮薄薄的。它小心地剥开皮，橙黄色的果肉露了出来，香香的。小熊咬了一口，甜甜的汁水立刻流了出来，“真好吃！”它开心地眯起眼睛。吃完果肉，吐出了几颗滑滑的核。小熊把枇杷摘了很多，用小篮子装好，带回家和妈妈一起吃。妈妈又用枇杷煮了甜甜的枇杷水，小兔、小鹿都来喝，大家都说小熊真会分享。小熊觉得，好东西要大家一起尝，快乐才会加倍。"
+      },
+      "knowledge": {
+        "title": "枇杷在什么时候成熟？",
+        "body": "枇杷一般在春天到初夏成熟。天气变暖时，枇杷就慢慢变黄变甜，所以我们常常在春末夏初吃到新鲜的枇杷。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_loquat_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_loquat_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Loquat",
+      "aloud": "/ˈloʊkwɑːt/",
+      "words": "",
+      "intro": "A loquat is a round, orange-yellow fruit that tastes sweet and juicy. It’s nutritious and helps children grow strong.",
+      "story": {
+        "title": "🐻Little Bear's Loquats",
+        "body": "Little Bear was walking in the orchard when he looked up and saw clusters of golden loquats on the tree. They were round and bright, like little suns. He gently picked one and felt its thin skin. Carefully, he peeled off the skin, and the orange flesh was revealed, smelling sweet. He took a bite, and sweet juice filled his mouth. “Yummy!” he smiled with delight. After eating the flesh, he spat out a few smooth seeds. Little Bear picked many loquats, put them in a small basket, and brought them home to share with his mother. Mom made sweet loquat drink with them, and Little Rabbit and Little Deer came to have some. Everyone said Little Bear was great at sharing. Little Bear learned that sharing good things makes happiness grow bigger."
+      },
+      "knowledge": {
+        "title": "When do loquats ripen?",
+        "body": "Loquats usually ripen from spring to early summer. As the weather warms up, they turn yellow and sweet, which is why we often see fresh loquats in late spring and early summer."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_loquat_intro.mp3",
+        "story": "../item-audio/en/fruit_loquat_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "food_dumpling",
+  "sku_id": "card_food_dumpling",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "staple_food",
+      "color_white",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "hot_food",
+      "at_meal"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "staple"
+    ],
+    "color": [
+      "white"
+    ],
+    "taste": [
+      "salty"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "school"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "饺子",
+      "aloud": "jiǎo zi",
+      "words": "dumpling",
+      "intro": "饺子是一种好吃的传统食物，白白的面皮包着香香的馅儿。煮熟以后软软的，过节的时候家家户户都爱吃。",
+      "story": {
+        "title": "🥟第一次包饺子",
+        "body": "过年啦！妈妈在厨房里包饺子，小美跑过去也想帮忙。妈妈给了她一张圆圆的饺子皮，小美学着妈妈的样子，舀了一勺馅放在皮中间，可是馅放得太多了，怎么也捏不上。妈妈笑着帮她去掉一点馅，然后手把手教她把边捏成小褶子。小美的第一个饺子虽然有点歪歪扭扭，但是她特别开心。饺子下锅煮熟后，白白胖胖的，全家人都说小美包的饺子最好吃。小美大口吃着自己包的饺子，觉得特别香，心里暖洋洋的。"
+      },
+      "knowledge": {
+        "title": "饺子是怎么做的？",
+        "body": "先用面粉和水揉成面团，擀成薄薄的圆皮。然后把肉和菜剁成馅，加点调料。把馅放在面皮中间，对折捏紧边，就成了饺子，最后煮熟就能吃啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_dumpling_intro.mp3",
+        "story": "../item-audio/zh-CN/food_dumpling_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Dumpling",
+      "aloud": "/ˈdʌmplɪŋ/",
+      "words": "",
+      "intro": "Dumplings are a yummy traditional food. A white dough wrapper holds a tasty filling. After boiling, they become soft, and families love to eat them during festivals.",
+      "story": {
+        "title": "🥟First Time Making Dumplings",
+        "body": "It's Chinese New Year! Mom is making dumplings in the kitchen. Little Mei runs over to help. Mom gives her a round wrapper, and Mei tries to copy — she puts a spoonful of filling in the center, but there's too much, and she can't seal it. Mom smiles and helps remove some filling, then guides her hand to pinch the edges into little pleats. Mei's first dumpling is a bit crooked, but she's so happy. After boiling, the dumplings become plump and white. The whole family says Mei's dumpling tastes the best. Mei takes a big bite and feels warm inside."
+      },
+      "knowledge": {
+        "title": "How are dumplings made?",
+        "body": "Mix flour and water into a dough, then roll it into thin round wrappers. Chop meat and vegetables into a filling, add some seasoning, place it in the center, fold and pinch the edges tight, then boil until cooked."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_dumpling_intro.mp3",
+        "story": "../item-audio/en/food_dumpling_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "flower_lily_of_the_valley",
+  "sku_id": "card_flower_lily_of_the_valley",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_white",
+      "bell_shape"
+    ],
+    "secondary": [
+      "small_flower",
+      "spring_flower",
+      "fragrant"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "garden",
+      "woodland",
+      "shade"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "fragrant"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "铃兰",
+      "aloud": "líng lán",
+      "words": "lily of the valley",
+      "intro": "铃兰是一种小小的花，花朵像白色的小铃铛，一串串挂在茎上，香香的，春天开放。",
+      "story": {
+        "title": "🔔小铃兰摇铃铛",
+        "body": "春天来了，花园里的小铃兰醒了过来。它伸了个懒腰，开出一串白色的小铃铛花。风儿吹过，小铃铛轻轻摇啊摇，发出好闻的香味。小蜜蜂飞过来问：‘你的铃铛会响吗？’小铃兰说：‘我的铃铛不会叮当响，但会散发出甜甜的香，给春天带来温柔的歌。’小蜜蜂听了，开心地跳起舞来。每天早上，小铃兰都摇摇小铃铛，把香味送给小草、小花和路过的小朋友。大家都好喜欢这小小的、白白的小铃兰，说它是春天的小香水。"
+      },
+      "knowledge": {
+        "title": "铃兰的铃铛是什么？",
+        "body": "铃兰的花朵像小铃铛一样，一串串垂下来，非常可爱。它的香味很好闻，但全株有毒，不能吃哦。铃兰喜欢阴凉潮湿的地方，春天开花。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_lily_of_the_valley_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_lily_of_the_valley_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Lily of the Valley",
+      "aloud": "/ˈlɪli əv ðə ˈvæli/",
+      "words": "",
+      "intro": "Lily of the valley is a small flower with white bell-shaped blooms hanging in a row. It is sweetly fragrant and blooms in spring.",
+      "story": {
+        "title": "🔔Little Lily of the Valley Rings Its Bells",
+        "body": "Spring came, and the little lily of the valley in the garden woke up. It stretched and opened a string of little white bell flowers. The wind blew, and the little bells swayed gently, releasing a lovely fragrance. A little bee flew over and asked, 'Do your bells ring?' The lily of the valley said, 'My bells don't go ding-dong, but they give out sweet scent, bringing a gentle song to spring.' The bee happily danced. Every morning, the little lily of the valley would shake its tiny bells, sharing its fragrance with the grass, the flowers, and the children passing by. Everyone loved this small, white lily of the valley, calling it spring's little perfume."
+      },
+      "knowledge": {
+        "title": "What are the bells of lily of the valley?",
+        "body": "Lily of the valley flowers look like tiny bells hanging in a row, very cute. They smell sweet, but the whole plant is poisonous — do not eat! It likes shady, moist places and blooms in spring."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_lily_of_the_valley_intro.mp3",
+        "story": "../item-audio/en/flower_lily_of_the_valley_story.mp3"
+      }
+    }
+  }
+}

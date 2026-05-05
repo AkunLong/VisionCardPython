@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_soybean",
+  "sku_id": "card_vegetable_soybean",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_yellow",
+      "bean_vegetable"
+    ],
+    "secondary": [
+      "round",
+      "healthy",
+      "can_cook"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "yellow"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "mild",
+      "nutty"
+    ],
+    "grow_location": [
+      "field"
+    ],
+    "scenes": [
+      "field",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "黄豆",
+      "aloud": "huáng dòu",
+      "words": "soybean",
+      "intro": "黄豆是一种黄色的小豆子，圆圆的，闻起来香香的。它长在田野里的豆荚中，剥开豆荚就能看到一排排可爱的小黄豆。",
+      "story": {
+        "title": "🥛小黄豆变变变",
+        "body": "小猫咪在田边发现了一颗黄豆，它小心翼翼地捡起来，跑回家问妈妈。猫妈妈说：这是黄豆，可以种到土里。小猫咪听了，立刻在花盆里挖了一个小洞，把黄豆埋进去，每天浇水。过了几天，土里冒出嫩绿的小芽，小芽越长越高，开出了紫色的小花。花谢了以后，结出了毛茸茸的豆荚。小猫咪惊喜地发现，豆荚里藏着好几颗圆圆的黄豆！它和妈妈一起把黄豆摘下来，泡好以后打成豆浆。小猫咪喝了一口，香香甜甜的，真好喝！它还留了几颗黄豆，种到田边，希望明年能收获更多黄豆。"
+      },
+      "knowledge": {
+        "title": "吃黄豆有什么好处？",
+        "body": "黄豆小小的，但营养多多哦！它含有丰富的蛋白质和钙，吃了能让小朋友的身体变得壮壮的，长得高高的。黄豆还能做成豆浆、豆腐、豆皮等好多美食，又香又好吃。每天喝一杯豆浆，能让你的身体更健康！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_soybean_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_soybean_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Soybean",
+      "aloud": "/ˈsoɪbiːn/",
+      "words": "",
+      "intro": "A soybean is a small yellow bean that is round and smells nice. It grows in pods in the field, and when you open a pod, you can see a row of cute little soybeans.",
+      "story": {
+        "title": "🥛The Little Soybean's Journey",
+        "body": "A little kitten found a soybean by the field. She carefully picked it up and ran home to ask her mom. Mom cat said, 'This is a soybean. You can plant it in the soil.' The kitten listened and immediately dug a small hole in a flowerpot, buried the soybean, and watered it every day. After a few days, a tender green sprout came out of the soil. The sprout grew taller and taller, and purple flowers bloomed. After the flowers faded, fuzzy pods appeared. The kitten was surprised to find several round soybeans inside the pods! She and her mom picked them, soaked them, and made soy milk. Mama cat poured some into a little bowl. The kitten took a sip — it was sweet and fragrant, so yummy! They both drank happily. The kitten saved a few soybeans and planted them by the field, hoping to harvest more next year. Mama cat said, 'Next year we'll have even more soy milk!'"
+      },
+      "knowledge": {
+        "title": "Why is eating soybeans good for you?",
+        "body": "Soybeans are small round beans that are full of goodness. They have lots of protein and calcium to help you grow big and strong. You can eat them fresh as edamame, or make soy milk and tofu. They are tasty and healthy!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_soybean_intro.mp3",
+        "story": "../item-audio/en/vegetable_soybean_story.mp3"
+      }
+    }
+  }
+}

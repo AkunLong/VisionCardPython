@@ -1,0 +1,95 @@
+{
+  "id": "transport_hot_air_balloon",
+  "sku_id": "card_transport_hot_air_balloon",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "air_transport",
+      "in_sky"
+    ],
+    "secondary": [
+      "can_fly",
+      "can_carry_people",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "hot_air_balloon"
+    ],
+    "color": [
+      "red",
+      "yellow",
+      "blue"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "sky",
+      "field"
+    ],
+    "fuel": [
+      "hot air"
+    ],
+    "features": [
+      "big_envelope",
+      "basket",
+      "burner"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "热气球",
+      "aloud": "rè qì qiú",
+      "words": "hot air balloon",
+      "intro": "热气球是一个大大的球，下面挂着一个篮子。热气球用热气飞起来，可以带着人们飞到天上去看风景。",
+      "story": {
+        "title": "🎈小红热气球的冒险",
+        "body": "一天早上，小红热气球在草地上醒来。主人点燃了火，小红慢慢鼓起来，变得圆滚滚的。它带着一位小朋友缓缓升上天，小朋友高兴地喊：“我看到小鸟啦！”小红飞过树林，看到小兔子在跳；飞过小河，看到小鱼在游。微风轻轻地吹，小红飘得很平稳。太阳快要下山了，小红慢慢降落，小朋友抱着妈妈说：“我飞到云朵里去了！”小红安安静静地休息，心想：今天真快乐，明天还要带小朋友飞。"
+      },
+      "knowledge": {
+        "title": "热气球是怎么飞起来的？",
+        "body": "热气球里有一个大火炉，火炉把空气烧得热热的。热空气比冷空气轻，所以会往上飘。这样热气球就被热空气带着飞起来啦！坐热气球可以看到很远很远的地方，真奇妙！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_hot_air_balloon_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_hot_air_balloon_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Hot Air Balloon",
+      "aloud": "/hɒt eər bəˈluːn/",
+      "words": "",
+      "intro": "A hot air balloon is a big, colorful balloon with a basket hanging below. It uses hot air to float up into the sky and can carry people for a wonderful ride above the ground.",
+      "story": {
+        "title": "🎈Little Red Balloon's Adventure",
+        "body": "One morning, Little Red Balloon woke up on the green grass. The pilot lit the burner, and Little Red slowly filled with hot air, becoming big and round. It gently lifted off with a little child in the basket. The child shouted happily, 'I can see the birds!' Little Red floated over the trees and saw rabbits hopping. It drifted over the river and saw fish swimming. A soft breeze blew, and Little Red sailed smoothly. As the sun began to set, Little Red slowly descended. The child hugged their mom and said, 'I touched the clouds!' Little Red rested quietly, thinking, 'What a happy day! Tomorrow, I will take another child flying.'"
+      },
+      "knowledge": {
+        "title": "How does a hot air balloon fly?",
+        "body": "Inside the balloon, a big burner heats the air. Hot air rises because it is lighter than cold air. This lifts the balloon up into the sky. You can see far, far away from a hot air balloon — it's like magic!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_hot_air_balloon_intro.mp3",
+        "story": "../item-audio/en/transport_hot_air_balloon_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "person_fathers_sister",
+  "sku_id": "card_person_fathers_sister",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "female"
+    ],
+    "secondary": [
+      "adult",
+      "relative",
+      "take_care"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "aunt"
+    ],
+    "workplace": [
+      "home"
+    ],
+    "tools": [],
+    "clothing": [],
+    "actions": [
+      "care",
+      "play",
+      "cook"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "姑姑",
+      "aloud": "gū gu",
+      "words": "aunt",
+      "intro": "姑姑是爸爸的姐妹，是小朋友的亲人。姑姑像妈妈一样温柔，会陪我们玩，给我们讲故事。",
+      "story": {
+        "title": "姑姑的小惊喜",
+        "body": "星期天，姑姑来我家做客。她一进门就喊：小宝贝，姑姑来看你啦！我开心地跑过去，抱住姑姑。姑姑给我带了一个漂亮的布娃娃，我高兴极了。我们一起给布娃娃穿衣服、梳头发，姑姑还教我唱了一首新儿歌。中午，姑姑和我一起包饺子，我包了一个像小船的饺子，姑姑夸我真有创意。吃完饺子，姑姑带我去公园放风筝，风筝飞得好高好高，像一只快乐的小鸟。我拉着线跑来跑去，姑姑在旁边给我鼓掌。太阳快下山了，姑姑要回家了，我舍不得她，紧紧拉着她的手。姑姑蹲下来对我说：下个星期姑姑再来，我们一起去动物园，好不好？我点点头，和姑姑拉勾勾。姑姑真好，我真喜欢姑姑！"
+      },
+      "knowledge": {
+        "title": "姑姑是谁？",
+        "body": "姑姑是爸爸的姐妹，是爷爷奶奶的女儿。她像爸爸一样，是小朋友的亲人，会关心我们，和我们一起玩耍，分享快乐。姑姑可能住在另一个家，但会经常来看我们。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_fathers_sister_intro.mp3",
+        "story": "../item-audio/zh-CN/person_fathers_sister_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Aunt",
+      "aloud": "/ænt/",
+      "words": "",
+      "intro": "An aunt is the sister of your father. She is a family member who loves you just like Mom and Dad. Your aunt often brings you gifts and plays with you.",
+      "story": {
+        "title": "Aunt’s Little Surprise",
+        "body": "On Sunday, my aunt came to visit. She called out, \"Little sweetheart, your aunt is here to see you!\" I ran over happily and hugged her. She brought me a pretty doll. I was so excited! We dressed the doll and combed its hair together. My aunt also taught me a new song. At noon, we made dumplings together. I made one that looked like a little boat. My aunt praised me for being creative. After eating, she took me to the park to fly a kite. The kite flew high in the sky, like a happy bird. I ran around holding the string, and my aunt clapped for me. When the sun was setting, my aunt had to go home. I didn't want her to leave and held her hand tightly. She crouched down and said, \"I'll come again next week and take you to the zoo, okay?\" I nodded, and we made a pinky promise. I love my aunt so much!"
+      },
+      "knowledge": {
+        "title": "Who is your aunt?",
+        "body": "Your aunt is your father's sister. She is a close family member. She cares about you and loves to spend time with you. She may live in a different house, but she often visits and brings joy."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_fathers_sister_intro.mp3",
+        "story": "../item-audio/en/person_fathers_sister_story.mp3"
+      }
+    }
+  }
+}

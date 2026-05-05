@@ -1,0 +1,255 @@
+{
+  "id": "number_letter_set_v1",
+  "category": "number",
+  "name": "数字字母认知卡排序",
+  "description": "适合3-6岁儿童的数字字母认知顺序，优先展示基础数字0-10，再扩展到11-18，最后按英文字母顺序展示A-Z，帮助儿童建立早期数字和字母认知。",
+  "nav": {
+    "id": "number",
+    "name": "数字字母图卡合集",
+    "description": "45种常见数字字母认知卡",
+    "available": true,
+    "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/number/images/story/number_letter_b_story.jpg",
+    "title": {
+      "zh-CN": "打开知识大门的第一把钥匙",
+      "en": "The First Key to a World of Knowledge"
+    },
+    "subtitle": {
+      "zh-CN": "数一数，认一认",
+      "en": "Count and Discover"
+    },
+    "small_title": {
+      "zh-CN": "数一数1到18，认一认A到Z，和知识做好朋友",
+      "en": "Count 1 to 18, learn A to Z — your first steps into learning"
+    },
+    "background_color_image": "#9B5431",
+    "background_color_card": "#984F2C"
+  },
+  "total": 45,
+  "items": [
+    {
+      "id": "number_0",
+      "name": "数字0",
+      "enName": "Zero"
+    },
+    {
+      "id": "number_1",
+      "name": "数字1",
+      "enName": "One"
+    },
+    {
+      "id": "number_2",
+      "name": "数字2",
+      "enName": "Two"
+    },
+    {
+      "id": "number_3",
+      "name": "数字3",
+      "enName": "Three"
+    },
+    {
+      "id": "number_4",
+      "name": "数字4",
+      "enName": "Four"
+    },
+    {
+      "id": "number_5",
+      "name": "数字5",
+      "enName": "Five"
+    },
+    {
+      "id": "number_6",
+      "name": "数字6",
+      "enName": "Six"
+    },
+    {
+      "id": "number_7",
+      "name": "数字7",
+      "enName": "Seven"
+    },
+    {
+      "id": "number_8",
+      "name": "数字8",
+      "enName": "Eight"
+    },
+    {
+      "id": "number_9",
+      "name": "数字9",
+      "enName": "Nine"
+    },
+    {
+      "id": "number_10",
+      "name": "数字10",
+      "enName": "Ten"
+    },
+    {
+      "id": "number_11",
+      "name": "数字11",
+      "enName": "Eleven"
+    },
+    {
+      "id": "number_12",
+      "name": "数字12",
+      "enName": "Twelve"
+    },
+    {
+      "id": "number_13",
+      "name": "数字13",
+      "enName": "Thirteen"
+    },
+    {
+      "id": "number_14",
+      "name": "数字14",
+      "enName": "Fourteen"
+    },
+    {
+      "id": "number_15",
+      "name": "数字15",
+      "enName": "Fifteen"
+    },
+    {
+      "id": "number_16",
+      "name": "数字16",
+      "enName": "Sixteen"
+    },
+    {
+      "id": "number_17",
+      "name": "数字17",
+      "enName": "Seventeen"
+    },
+    {
+      "id": "number_18",
+      "name": "数字18",
+      "enName": "Eighteen"
+    },
+    {
+      "id": "number_letter_a",
+      "name": "字母A",
+      "enName": "A"
+    },
+    {
+      "id": "number_letter_b",
+      "name": "字母B",
+      "enName": "B"
+    },
+    {
+      "id": "number_letter_c",
+      "name": "字母C",
+      "enName": "C"
+    },
+    {
+      "id": "number_letter_d",
+      "name": "字母D",
+      "enName": "D"
+    },
+    {
+      "id": "number_letter_e",
+      "name": "字母E",
+      "enName": "E"
+    },
+    {
+      "id": "number_letter_f",
+      "name": "字母F",
+      "enName": "F"
+    },
+    {
+      "id": "number_letter_g",
+      "name": "字母G",
+      "enName": "G"
+    },
+    {
+      "id": "number_letter_h",
+      "name": "字母H",
+      "enName": "H"
+    },
+    {
+      "id": "number_letter_i",
+      "name": "字母I",
+      "enName": "I"
+    },
+    {
+      "id": "number_letter_j",
+      "name": "字母J",
+      "enName": "J"
+    },
+    {
+      "id": "number_letter_k",
+      "name": "字母K",
+      "enName": "K"
+    },
+    {
+      "id": "number_letter_l",
+      "name": "字母L",
+      "enName": "L"
+    },
+    {
+      "id": "number_letter_m",
+      "name": "字母M",
+      "enName": "M"
+    },
+    {
+      "id": "number_letter_n",
+      "name": "字母N",
+      "enName": "N"
+    },
+    {
+      "id": "number_letter_o",
+      "name": "字母O",
+      "enName": "O"
+    },
+    {
+      "id": "number_letter_p",
+      "name": "字母P",
+      "enName": "P"
+    },
+    {
+      "id": "number_letter_q",
+      "name": "字母Q",
+      "enName": "Q"
+    },
+    {
+      "id": "number_letter_r",
+      "name": "字母R",
+      "enName": "R"
+    },
+    {
+      "id": "number_letter_s",
+      "name": "字母S",
+      "enName": "S"
+    },
+    {
+      "id": "number_letter_t",
+      "name": "字母T",
+      "enName": "T"
+    },
+    {
+      "id": "number_letter_u",
+      "name": "字母U",
+      "enName": "U"
+    },
+    {
+      "id": "number_letter_v",
+      "name": "字母V",
+      "enName": "V"
+    },
+    {
+      "id": "number_letter_w",
+      "name": "字母W",
+      "enName": "W"
+    },
+    {
+      "id": "number_letter_x",
+      "name": "字母X",
+      "enName": "X"
+    },
+    {
+      "id": "number_letter_y",
+      "name": "字母Y",
+      "enName": "Y"
+    },
+    {
+      "id": "number_letter_z",
+      "name": "字母Z",
+      "enName": "Z"
+    }
+  ]
+}

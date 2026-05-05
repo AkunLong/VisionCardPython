@@ -1,0 +1,89 @@
+{
+  "id": "flower_begonia",
+  "sku_id": "card_flower_begonia",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_pink",
+      "in_garden"
+    ],
+    "secondary": [
+      "autumn_flower",
+      "potted_flower",
+      "many_petals"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "pink"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "garden",
+      "balcony",
+      "indoor"
+    ],
+    "season": [
+      "autumn"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "秋海棠",
+      "aloud": "qiū hǎi táng",
+      "words": "begonia",
+      "intro": "秋海棠是一种很美的花，花瓣一层一层的，颜色有粉红、白色，像小裙子一样。它喜欢温暖的地方，在秋天开得特别好看。",
+      "story": {
+        "title": "🌺勇敢的秋海棠",
+        "body": "阳台上有一盆秋海棠，它长满了绿绿的叶子。秋天到了，天气变凉了，秋海棠想：我要开出漂亮的花，让大家都开心！它喝了好多水，晒了暖暖的太阳。有一天，花苞慢慢打开了，粉色的花瓣露出来，像在跳舞。小蜜蜂飞过来说：哇，你真美！秋海棠害羞地说：谢谢你，我的花是为秋天开的。风轻轻吹，秋海棠摇摆着，阳台变成了漂亮的小花园。小主人看到后，高兴地拍手：我的秋海棠开花了，秋天真美好！"
+      },
+      "knowledge": {
+        "title": "为什么叫秋海棠？",
+        "body": "秋海棠的名字里有‘秋’字，是因为它在秋天开花。它的花朵像海棠花，所以叫秋海棠。秋海棠喜欢湿润的环境，不需要太多阳光。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_begonia_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_begonia_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Begonia",
+      "aloud": "/bɪˈɡoʊniə/",
+      "words": "",
+      "intro": "Begonia is a beautiful flower with layers of petals in pink or white, looking like little skirts. It loves warm places and blooms wonderfully in autumn.",
+      "story": {
+        "title": "🌺The Brave Begonia",
+        "body": "On the balcony, a begonia plant had many green leaves. Autumn came, and the weather turned cool. The begonia thought, I want to bloom pretty flowers to make everyone happy! It drank lots of water and soaked up the warm sun. One day, the buds slowly opened, and the pink petals peeked out, like dancing. A little bee flew by and said, Wow, you're so beautiful! The begonia shyly said, Thank you, my flowers bloom for autumn. The wind blew gently, and the begonia swayed, turning the balcony into a lovely little garden. The little owner clapped happily, My begonia is blooming, autumn is truly wonderful!"
+      },
+      "knowledge": {
+        "title": "Why is it called Begonia?",
+        "body": "The name 'Begonia' may come from a person's name, Michel Bégon. In Chinese, it's called 'Qiu Hai Tang' because it blooms in autumn ('Qiu') and looks like a Chinese flowering crabapple ('Hai Tang'). Begonias like moist soil and don't need much direct sunlight."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_begonia_intro.mp3",
+        "story": "../item-audio/en/flower_begonia_story.mp3"
+      }
+    }
+  }
+}

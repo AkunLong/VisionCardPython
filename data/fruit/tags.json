@@ -1,0 +1,498 @@
+[
+  {
+    "id": "color_red",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "red",
+    "content": {
+      "zh-CN": {
+        "name": "红色",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_color_red.mp3"
+      },
+      "en": {
+        "name": "Red",
+        "audio_url": "audio/tags-audio/en/fruit_color_red.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_purple",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "紫色",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_color_purple.mp3"
+      },
+      "en": {
+        "name": "Purple",
+        "audio_url": "audio/tags-audio/en/fruit_color_purple.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_yellow",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "黄色",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_color_yellow.mp3"
+      },
+      "en": {
+        "name": "Yellow",
+        "audio_url": "audio/tags-audio/en/fruit_color_yellow.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_green",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "绿色",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_color_green.mp3"
+      },
+      "en": {
+        "name": "Green",
+        "audio_url": "audio/tags-audio/en/fruit_color_green.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_orange",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "橙色",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_color_orange.mp3"
+      },
+      "en": {
+        "name": "Orange",
+        "audio_url": "audio/tags-audio/en/fruit_color_orange.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_brown",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "brown",
+    "content": {
+      "zh-CN": {
+        "name": "棕色",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_color_brown.mp3"
+      },
+      "en": {
+        "name": "Brown",
+        "audio_url": "audio/tags-audio/en/fruit_color_brown.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_black",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "black",
+    "content": {
+      "zh-CN": {
+        "name": "黑色",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_color_black.mp3"
+      },
+      "en": {
+        "name": "Black",
+        "audio_url": "audio/tags-audio/en/fruit_color_black.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_white",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "white",
+    "content": {
+      "zh-CN": {
+        "name": "白色",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_color_white.mp3"
+      },
+      "en": {
+        "name": "White",
+        "audio_url": "audio/tags-audio/en/fruit_color_white.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_pink",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "粉色",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_color_pink.mp3"
+      },
+      "en": {
+        "name": "Pink",
+        "audio_url": "audio/tags-audio/en/fruit_color_pink.mp3"
+      }
+    }
+  },
+  {
+    "id": "plant",
+    "type": "category",
+    "icon": "leaf",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "植物",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_plant.mp3"
+      },
+      "en": {
+        "name": "Plant",
+        "audio_url": "audio/tags-audio/en/fruit_plant.mp3"
+      }
+    }
+  },
+  {
+    "id": "edible",
+    "type": "function",
+    "icon": "foods",
+    "styleKey": "red",
+    "content": {
+      "zh-CN": {
+        "name": "可以吃的",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_edible.mp3"
+      },
+      "en": {
+        "name": "Edible",
+        "audio_url": "audio/tags-audio/en/fruit_edible.mp3"
+      }
+    }
+  },
+  {
+    "id": "round",
+    "type": "shape",
+    "icon": "circle",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "圆圆的",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_round.mp3"
+      },
+      "en": {
+        "name": "Round",
+        "audio_url": "audio/tags-audio/en/fruit_round.mp3"
+      }
+    }
+  },
+  {
+    "id": "long",
+    "type": "shape",
+    "icon": "ruler",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "长长的",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_long.mp3"
+      },
+      "en": {
+        "name": "Long",
+        "audio_url": "audio/tags-audio/en/fruit_long.mp3"
+      }
+    }
+  },
+  {
+    "id": "oval",
+    "type": "shape",
+    "icon": "oval",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "椭圆的",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_oval.mp3"
+      },
+      "en": {
+        "name": "Oval",
+        "audio_url": "audio/tags-audio/en/fruit_oval.mp3"
+      }
+    }
+  },
+  {
+    "id": "star_shape",
+    "type": "shape",
+    "icon": "star",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "像星星",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_star_shape.mp3"
+      },
+      "en": {
+        "name": "Star-shaped",
+        "audio_url": "audio/tags-audio/en/fruit_star_shape.mp3"
+      }
+    }
+  },
+  {
+    "id": "small",
+    "type": "size",
+    "icon": "minimize",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "小小的",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_small.mp3"
+      },
+      "en": {
+        "name": "Small",
+        "audio_url": "audio/tags-audio/en/fruit_small.mp3"
+      }
+    }
+  },
+  {
+    "id": "big",
+    "type": "size",
+    "icon": "maximize",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "大大的",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_big.mp3"
+      },
+      "en": {
+        "name": "Big",
+        "audio_url": "audio/tags-audio/en/fruit_big.mp3"
+      }
+    }
+  },
+  {
+    "id": "sweet",
+    "type": "taste",
+    "icon": "candy",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "甜甜的",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_sweet.mp3"
+      },
+      "en": {
+        "name": "Sweet",
+        "audio_url": "audio/tags-audio/en/fruit_sweet.mp3"
+      }
+    }
+  },
+  {
+    "id": "sour",
+    "type": "taste",
+    "icon": "lemon",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "酸酸的",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_sour.mp3"
+      },
+      "en": {
+        "name": "Sour",
+        "audio_url": "audio/tags-audio/en/fruit_sour.mp3"
+      }
+    }
+  },
+  {
+    "id": "juicy",
+    "type": "taste",
+    "icon": "droplets",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "多汁的",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_juicy.mp3"
+      },
+      "en": {
+        "name": "Juicy",
+        "audio_url": "audio/tags-audio/en/fruit_juicy.mp3"
+      }
+    }
+  },
+  {
+    "id": "crisp",
+    "type": "taste",
+    "icon": "sparkle",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "脆脆的",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_crisp.mp3"
+      },
+      "en": {
+        "name": "Crisp",
+        "audio_url": "audio/tags-audio/en/fruit_crisp.mp3"
+      }
+    }
+  },
+  {
+    "id": "soft",
+    "type": "texture",
+    "icon": "feather",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "软软的",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_soft.mp3"
+      },
+      "en": {
+        "name": "Soft",
+        "audio_url": "audio/tags-audio/en/fruit_soft.mp3"
+      }
+    }
+  },
+  {
+    "id": "fragrant",
+    "type": "smell",
+    "icon": "wind",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "香香的",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_fragrant.mp3"
+      },
+      "en": {
+        "name": "Fragrant",
+        "audio_url": "audio/tags-audio/en/fruit_fragrant.mp3"
+      }
+    }
+  },
+  {
+    "id": "orchard",
+    "type": "scene",
+    "icon": "trees",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "果园里",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_orchard.mp3"
+      },
+      "en": {
+        "name": "In the orchard",
+        "audio_url": "audio/tags-audio/en/fruit_orchard.mp3"
+      }
+    }
+  },
+  {
+    "id": "tree_fruit",
+    "type": "scene",
+    "icon": "tree",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "长在树上",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_tree_fruit.mp3"
+      },
+      "en": {
+        "name": "Grows on trees",
+        "audio_url": "audio/tags-audio/en/fruit_tree_fruit.mp3"
+      }
+    }
+  },
+  {
+    "id": "vine_fruit",
+    "type": "scene",
+    "icon": "sprout",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "长在藤上",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_vine_fruit.mp3"
+      },
+      "en": {
+        "name": "Grows on vines",
+        "audio_url": "audio/tags-audio/en/fruit_vine_fruit.mp3"
+      }
+    }
+  },
+  {
+    "id": "tropical_fruit",
+    "type": "scene",
+    "icon": "sun",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "热带水果",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_tropical_fruit.mp3"
+      },
+      "en": {
+        "name": "Tropical fruit",
+        "audio_url": "audio/tags-audio/en/fruit_tropical_fruit.mp3"
+      }
+    }
+  },
+  {
+    "id": "peelable",
+    "type": "action",
+    "icon": "hand",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "可以剥皮",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_peelable.mp3"
+      },
+      "en": {
+        "name": "Peelable",
+        "audio_url": "audio/tags-audio/en/fruit_peelable.mp3"
+      }
+    }
+  },
+  {
+    "id": "has_seeds",
+    "type": "feature",
+    "icon": "seed",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "有籽",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_has_seeds.mp3"
+      },
+      "en": {
+        "name": "Has seeds",
+        "audio_url": "audio/tags-audio/en/fruit_has_seeds.mp3"
+      }
+    }
+  },
+  {
+    "id": "hard_shell",
+    "type": "feature",
+    "icon": "shield",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "硬硬的壳",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_hard_shell.mp3"
+      },
+      "en": {
+        "name": "Hard shell",
+        "audio_url": "audio/tags-audio/en/fruit_hard_shell.mp3"
+      }
+    }
+  },
+  {
+    "id": "soft_flesh",
+    "type": "feature",
+    "icon": "circle-dot",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "果肉软软",
+        "audio_url": "audio/tags-audio/zh-CN/fruit_soft_flesh.mp3"
+      },
+      "en": {
+        "name": "Soft flesh",
+        "audio_url": "audio/tags-audio/en/fruit_soft_flesh.mp3"
+      }
+    }
+  }
+]

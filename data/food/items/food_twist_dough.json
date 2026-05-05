@@ -1,0 +1,87 @@
+{
+  "id": "food_twist_dough",
+  "sku_id": "card_food_twist_dough",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "snack",
+      "color_brown",
+      "edible"
+    ],
+    "secondary": [
+      "crispy",
+      "sweet",
+      "at_snack_time"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "snack"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [],
+    "scenes": [
+      "home",
+      "restaurant",
+      "school"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "麻花",
+      "aloud": "má huā",
+      "words": "fried dough twist",
+      "intro": "麻花是一种香香脆脆的小零食，用面粉做成，扭成漂亮的小辫子形状。咬一口，咔嚓咔嚓，甜甜的，可好吃啦！",
+      "story": {
+        "title": "🥨小麻花的旅行",
+        "body": "有一根小麻花，香喷喷、脆生生的，住在糖果罐子里。一天，罐子被打开了，小麻花滚了出来。它滚呀滚，滚到了花园里。蝴蝶问：你是什么呀？小麻花说：我是麻花，扭扭的小麻花！蝴蝶扇扇翅膀，带着小麻花飞了起来。它们飞过草地，看到了小蚂蚁在运食物。小麻花说：我也想去帮忙！可是它太脆了，一碰就掉渣，小蚂蚁们咯咯笑。小麻花不灰心，它滚到小朋友身边。小朋友捡起它，啊呜一口，甜甜的，真好吃！小麻花开心地笑了，因为它知道，最开心的事就是被小朋友吃掉，变成小小的快乐。"
+      },
+      "knowledge": {
+        "title": "麻花是怎么做出来的？",
+        "body": "先把面粉、鸡蛋、糖和油揉成面团，再搓成细长条，扭成麻花辫子的形状，最后放进油锅里炸得金黄金黄的，香香脆脆的麻花就做好啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_twist_dough_intro.mp3",
+        "story": "../item-audio/zh-CN/food_twist_dough_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Fried Dough Twist",
+      "aloud": "/fraɪd doʊ twɪst/",
+      "words": "",
+      "intro": "Fried dough twist is a crunchy and fragrant snack made from flour, twisted into a pretty braid shape. Take a bite, and it goes crack-crack! It's sweet and so delicious!",
+      "story": {
+        "title": "🥨The Journey of a Little Twist",
+        "body": "Once upon a time, there was a little fried dough twist. It was fragrant and crispy, living in a candy jar. One day, the jar was opened, and the little twist rolled out. It rolled and rolled, all the way to the garden. A butterfly asked, 'What are you?' The twist said, 'I'm a twist, a twisty little twist!' The butterfly fluttered its wings and carried the twist into the air. They flew over the grass and saw little ants carrying food. The twist said, 'I want to help too!' But it was too crispy—when it bumped into things, crumbs fell off. The ants giggled. The twist didn't give up. It rolled over to a child. The child picked it up and took a big bite—so sweet and yummy! The twist smiled happily, because it knew the happiest thing was being eaten by a child and turning into a little bit of joy."
+      },
+      "knowledge": {
+        "title": "How is fried dough twist made?",
+        "body": "Mix flour, eggs, sugar, and oil into a dough. Then roll it into long strips, twist them into braid shapes, and fry them in hot oil until golden and crispy. That's how this crunchy treat is made!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_twist_dough_intro.mp3",
+        "story": "../item-audio/en/food_twist_dough_story.mp3"
+      }
+    }
+  }
+}

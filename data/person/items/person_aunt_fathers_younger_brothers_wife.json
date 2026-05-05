@@ -1,0 +1,85 @@
+{
+  "id": "person_aunt_fathers_younger_brothers_wife",
+  "sku_id": "card_person_aunt",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "relative"
+    ],
+    "secondary": [
+      "adult",
+      "female",
+      "take_care"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "aunt"
+    ],
+    "workplace": [
+      "home"
+    ],
+    "tools": [],
+    "clothing": [],
+    "actions": [
+      "hug",
+      "care",
+      "play"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "婶婶",
+      "aloud": "shěn shen",
+      "words": "aunt",
+      "intro": "婶婶是爸爸弟弟的妻子，也是我们的家人。她会做好吃的，喜欢抱抱我们，像妈妈一样温柔。",
+      "story": {
+        "title": "🏠去婶婶家玩",
+        "body": "星期天，妈妈带我去婶婶家。婶婶住在有花园的房子里，她笑着抱抱我，还做了香香的饼干。我们一起搭积木，婶婶搭了一座高高的城堡。她给我讲故事，说小熊去森林采蜜。我听得咯咯笑。要回家了，婶婶送我一朵自己种的小花。我觉得婶婶真好，像妈妈一样亲。我下次还要来玩！"
+      },
+      "knowledge": {
+        "title": "婶婶是谁？",
+        "body": "婶婶是爸爸弟弟的妻子。在大家庭里，婶婶是我们的长辈，会关心我们、陪我们玩。过年的时候，婶婶还会给小朋友压岁钱，祝福我们快快长大。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_aunt_fathers_younger_brothers_wife_intro.mp3",
+        "story": "../item-audio/zh-CN/person_aunt_fathers_younger_brothers_wife_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Aunt",
+      "aloud": "/ænt/",
+      "words": "",
+      "intro": "An aunt is your father's brother's wife. She is part of your family and loves to give you hugs and tasty treats.",
+      "story": {
+        "title": "🏠 Visiting My Aunt",
+        "body": "On Sunday, my mom took me to visit my aunt. She lives in a house with a little garden. She gave me a warm hug and some yummy cookies. We played with building blocks, and she built a tall tower. Then she told me a funny story about a little bear who went to the forest for honey. I laughed and laughed. When it was time to go home, my aunt gave me a flower from her garden. I love my aunt—she is just like a second mom. I can't wait to visit her again!"
+      },
+      "knowledge": {
+        "title": "Who is an aunt?",
+        "body": "An aunt is your father's younger brother's wife. In a big family, an aunt is a kind elder who takes care of you and plays with you. During Chinese New Year, she may give you lucky money and wish you a happy year."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_aunt_fathers_younger_brothers_wife_intro.mp3",
+        "story": "../item-audio/en/person_aunt_fathers_younger_brothers_wife_story.mp3"
+      }
+    }
+  }
+}

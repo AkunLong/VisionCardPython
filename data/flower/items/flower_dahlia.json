@@ -1,0 +1,91 @@
+{
+  "id": "flower_dahlia",
+  "sku_id": "card_flower_dahlia",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_pink",
+      "in_garden"
+    ],
+    "secondary": [
+      "big_flower",
+      "summer_flower",
+      "many_petals"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "pink",
+      "red"
+    ],
+    "size": [
+      "tall"
+    ],
+    "scenes": [
+      "garden",
+      "field",
+      "balcony"
+    ],
+    "season": [
+      "summer",
+      "autumn"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "大丽花",
+      "aloud": "dà lì huā",
+      "words": "dahlia",
+      "intro": "大丽花是一种大大的花，花瓣一层一层包起来，像彩色的小球。它有粉色、红色、黄色好多颜色，在花园里开得可漂亮啦！",
+      "story": {
+        "title": "🌈大丽花的彩色裙子",
+        "body": "花园里有一棵大丽花，它还是个小花苞的时候，就天天盼着开出最美的花。小蜜蜂飞过来问：“你在等什么呀？”大丽花说：“我要穿一条最漂亮的彩色裙子！”过了几天，花苞慢慢打开了，一层一层花瓣伸出来，粉粉的、红红的，像小公主的蓬蓬裙。小蝴蝶也飞来了，绕着大丽花跳舞。大丽花开得越来越大，比小朋友的手掌还要大呢！旁边的太阳花说：“你真好看！”大丽花开心地说：“谢谢！我们花园里每朵花都好看，我们一起把花园变得更美丽吧！”从那天起，大丽花每天都迎着太阳，努力开得更大更鲜艳。"
+      },
+      "knowledge": {
+        "title": "大丽花的根像什么？",
+        "body": "大丽花的根像一个个小土豆，所以有些地方也叫它地瓜花。把根种在土里，春天浇水晒太阳，夏天就能开出很大很漂亮的花。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_dahlia_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_dahlia_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Dahlia",
+      "aloud": "/ˈdɑːliə/",
+      "words": "",
+      "intro": "A dahlia is a big flower with layers of petals that look like a colorful ball. It comes in pink, red, yellow, and many other colors, and it looks beautiful in the garden!",
+      "story": {
+        "title": "🌈Dahlia's Colorful Dress",
+        "body": "A dahlia grew in the garden. When it was a little bud, it dreamed of blooming into the most beautiful flower. A little bee flew by and asked, “What are you waiting for?” The dahlia said, “I want to wear the prettiest colorful dress!” After a few days, the bud slowly opened, and layer after layer of petals came out, pink and red, just like a princess’s fluffy skirt. A butterfly came dancing around the dahlia. The dahlia bloomed bigger and bigger, even bigger than a child’s hand! The sunflower next to it said, “You look so beautiful!” The dahlia smiled and said, “Thank you! All the flowers in our garden are beautiful. Let’s make the garden even more lovely together!” From that day on, the dahlia faced the sun every day and bloomed brighter and bigger."
+      },
+      "knowledge": {
+        "title": "What do dahlia roots look like?",
+        "body": "Dahlia roots look like little potatoes, so some people call them 'potato flowers.' If you plant the roots in the soil, water them, and give them sunshine in spring, they will grow beautiful big flowers in summer."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_dahlia_intro.mp3",
+        "story": "../item-audio/en/flower_dahlia_story.mp3"
+      }
+    }
+  }
+}

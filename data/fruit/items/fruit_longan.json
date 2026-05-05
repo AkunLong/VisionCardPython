@@ -1,0 +1,86 @@
+{
+  "id": "fruit_longan",
+  "sku_id": "card_fruit_longan",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_brown",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sweet",
+      "tropical_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "brown"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "龙眼",
+      "aloud": "lóng yǎn",
+      "words": "longan",
+      "intro": "龙眼是一种小小的、圆圆的水果，外壳是棕色的，剥开后里面是白白的果肉，吃起来甜甜的，汁水很多。它长在热热的地方，很有营养。",
+      "story": {
+        "title": "🐒小猴子的龙眼树",
+        "body": "小猴子家门前有一棵高高的龙眼树。夏天到了，树上结满了一串串圆圆的龙眼。小猴子抬头一看，龙眼的外壳是棕色的，像一颗颗小圆球。小猴子爬上树，摘下一串，剥开硬硬的壳，露出白嫩嫩的果肉，像一颗亮晶晶的宝石。它轻轻一咬，甜甜的汁水立刻充满了嘴巴。“真好吃呀！”小猴子开心极了。它没有一个人吃，而是摘了好多好多，带回家给妈妈和好朋友们。妈妈把龙眼做成甜甜的龙眼蜜水，朋友小松鼠、小兔子喝了都觉得好幸福。小猴子知道，分享让龙眼变得更甜了。"
+      },
+      "knowledge": {
+        "title": "龙眼长在哪里？",
+        "body": "龙眼是长在树上的热带水果。它喜欢温暖的天气，所以在中国的南方经常可以看到龙眼树。它的果肉甜甜的，里面有一颗黑黑的核。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_longan_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_longan_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Longan",
+      "aloud": "/ˈlɒŋɡən/",
+      "words": "",
+      "intro": "A longan is a small, round fruit with a brown shell. Inside, the flesh is white, sweet, and juicy. It grows in warm places.",
+      "story": {
+        "title": "🐒Little Monkey's Longan Tree",
+        "body": "In front of Little Monkey's house, there was a tall longan tree. In summer, the tree was full of clusters of round longans. Little Monkey looked up; the shells were brown, just like little balls. He climbed the tree and picked a bunch, then peeled the hard shell to reveal the tender white flesh, shining like a jewel. He took a bite, and the sweet juice filled his mouth. “So yummy!” Little Monkey was delighted. He didn't eat them all by himself. He picked many more and brought them home for his mom and friends. Mom made sweet longan honey water, and Little Squirrel and Little Rabbit felt so happy drinking it. Little Monkey learned that sharing makes longans taste even sweeter."
+      },
+      "knowledge": {
+        "title": "Where do longans grow?",
+        "body": "Longans grow on trees in tropical places. They love warm weather, so you can often see longan trees in southern China. The sweet flesh has a black seed inside."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_longan_intro.mp3",
+        "story": "../item-audio/en/fruit_longan_story.mp3"
+      }
+    }
+  }
+}

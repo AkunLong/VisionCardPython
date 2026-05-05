@@ -1,0 +1,91 @@
+{
+  "id": "person_maternal_grandpa",
+  "sku_id": "card_person_maternal_grandpa",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "elder"
+    ],
+    "secondary": [
+      "male",
+      "relative",
+      "take_care"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "grandparent"
+    ],
+    "workplace": [
+      "home"
+    ],
+    "tools": [
+      "glasses",
+      "walking_stick"
+    ],
+    "clothing": [
+      "comfy_clothes",
+      "hat"
+    ],
+    "actions": [
+      "tell_stories",
+      "hug",
+      "go_for_walk"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "外公",
+      "aloud": "wài gōng",
+      "words": "grandpa",
+      "intro": "外公是妈妈的爸爸。外公很爱我们，总是笑眯眯的，会抱着我们讲故事，还会带我们去公园散步，是我们最温暖的大朋友。",
+      "story": {
+        "title": "👴外公的魔法口袋",
+        "body": "每次去外公家，小豆豆都特别开心，因为外公的口袋像有魔法一样，总能变出好东西。今天，小豆豆一进门，外公就神秘地眨眨眼，把手伸进口袋里。一根棒棒糖！小豆豆高兴得跳起来。外公又掏一掏，咦，一个小风车，轻轻一吹就转起来。小豆豆抱着外公的腿说：外公外公，还有吗？外公哈哈大笑，从口袋里拿出一个相册，里面全是小豆豆的照片，从出生到现在。外公戴起老花镜，一页一页地讲给小豆豆听，讲小豆豆第一次走路，第一次叫外公。小豆豆听着听着，靠在外公怀里，觉得外公的口袋里装的不是糖和玩具，而是满满的爱。"
+      },
+      "knowledge": {
+        "title": "外公有那些特点？",
+        "body": "外公通常头发花白，戴着老花镜，脸上有温暖的笑容。他走路慢慢的，但总爱牵着小朋友的手。外公生活经验丰富，知道好多有趣的故事，还特别有耐心，是家里最慈祥的长辈。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_maternal_grandpa_intro.mp3",
+        "story": "../item-audio/zh-CN/person_maternal_grandpa_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Grandpa",
+      "aloud": "/ˈɡrænpɑː/",
+      "words": "",
+      "intro": "Grandpa is the father of your mom or dad. He loves us very much, always smiling, and likes to tell stories and take us for walks. He is our warmest big friend.",
+      "story": {
+        "title": "👴Grandpa's Magic Pocket",
+        "body": "Little Doudou is always excited to visit Grandpa, because Grandpa's pocket seems magical—it always brings out wonderful things. Today, as soon as Doudou arrives, Grandpa winks mysteriously and reaches into his pocket. A lollipop! Doudou jumps with joy. Grandpa reaches in again—oh, a little windmill that spins with a gentle blow. Doudou hugs Grandpa's leg and asks, Grandpa, Grandpa, is there more? Grandpa laughs heartily and takes out a photo album filled with Doudou's pictures, from birth to now. Grandpa puts on his reading glasses and tells Doudou story after story: the first time Doudou walked, the first time he called Grandpa. Doudou listens, leaning against Grandpa's chest, and realizes that Grandpa's pocket isn't filled with candy or toys, but with endless love."
+      },
+      "knowledge": {
+        "title": "What is Grandpa like?",
+        "body": "Grandpa often has gray hair, wears reading glasses, and has a warm smile. He walks slowly but loves to hold children's hands. With rich life experience and lots of patience, he knows many interesting stories and is the kindest elder in the family."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_maternal_grandpa_intro.mp3",
+        "story": "../item-audio/en/person_maternal_grandpa_story.mp3"
+      }
+    }
+  }
+}

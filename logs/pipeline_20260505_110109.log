@@ -1,0 +1,32 @@
+日志文件: /Users/kun/PycharmProjects/VisionCardPython/logs/pipeline_20260505_110109.log
+
+============================================================
+  [步骤1-items_make] 品类: food
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_make.py --category food --model deepseek-v4-pro
+============================================================
+  ✅ [步骤1-items_make] food 完成
+
+============================================================
+  [步骤2-items_audio_make] 品类: food
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_audio_make.py --category food --update-json
+============================================================
+  ✅ [步骤2-items_audio_make] food 完成
+
+============================================================
+  [步骤3-tags_audio_make] 品类: food
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python tags_audio_make.py --category food --update-json
+============================================================
+  ✅ [步骤3-tags_audio_make] food 完成
+
+============================================================
+  [步骤4-items_image_make] 品类: food
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_image_make.py --category food
+============================================================
+  ✅ [步骤4-items_image_make] food 完成
+
+============================================================
+  汇总
+============================================================
+  food: items_make:✅ | items_audio_make:✅ | tags_audio_make:✅ | items_image_make:✅
+
+日志已保存: /Users/kun/PycharmProjects/VisionCardPython/logs/pipeline_20260505_110109.log

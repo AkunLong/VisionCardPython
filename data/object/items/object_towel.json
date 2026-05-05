@@ -1,0 +1,90 @@
+{
+  "id": "object_towel",
+  "sku_id": "card_object_towel",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "personal_item",
+      "color_white"
+    ],
+    "secondary": [
+      "at_home",
+      "in_bathroom",
+      "soft"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "white",
+      "blue",
+      "pink"
+    ],
+    "shape": [
+      "rectangle"
+    ],
+    "material": [
+      "cotton"
+    ],
+    "scenes": [
+      "home",
+      "bathroom"
+    ],
+    "function": [
+      "dry_off"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "毛巾",
+      "aloud": "máo jīn",
+      "words": "towel",
+      "intro": "毛巾软软的，可以帮我们擦干手、脸和身体。洗完脸或洗完澡时，它就是我们最好的伙伴。",
+      "story": {
+        "title": "🧸小熊的毛巾朋友",
+        "body": "小熊每天洗澡后，都会找他的毛巾朋友。毛巾软软的，白白的，像一朵云。一天，小熊洗完澡没擦干就跑了出去，结果感冒了。毛巾担心地说：“小熊，不擦干会着凉的。”小熊很难受，赶紧用毛巾把自己擦得暖暖的、干干的。后来，小熊每次洗完澡都认真擦干，还教其他小动物说：“洗澡后用毛巾擦一擦，身体香香又健康。”毛巾开心极了，它最喜欢帮助大家了。现在，小熊和毛巾成了最好的朋友，每天在一起，香香软软，可舒服了。"
+      },
+      "knowledge": {
+        "title": "毛巾为什么能吸水？",
+        "body": "毛巾是用棉花做的，棉花纤维中间有很多小空隙，能像小海绵一样把水吸进去。所以毛巾能很快擦干我们身上的水珠，保持干爽。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_towel_intro.mp3",
+        "story": "../item-audio/zh-CN/object_towel_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Towel",
+      "aloud": "/ˈtaʊəl/",
+      "words": "",
+      "intro": "A towel is soft and helps us dry our hands, face, and body. It is our best friend after washing up or taking a bath.",
+      "story": {
+        "title": "🧸Little Bear's Towel Friend",
+        "body": "Every day after his bath, Little Bear would look for his towel friend. The towel was soft and white, like a fluffy cloud. One day, Little Bear ran out without drying off after his bath and caught a cold. The towel worried and said, “Little Bear, if you don’t dry off, you might get sick.” Little Bear felt awful and quickly used the towel to dry himself warm and dry. After that, every time he bathed, he dried carefully and even taught other animals, “Dry off with a towel after a bath, and you’ll feel clean and healthy.” The towel was so happy—it loved helping everyone. Now, Little Bear and his towel are best friends, staying soft and snug together every day."
+      },
+      "knowledge": {
+        "title": "Why can a towel absorb water?",
+        "body": "Towels are made of cotton, whose fibers have many tiny gaps that soak up water like little sponges. That’s why a towel can quickly dry the water drops on our skin and keep us dry."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_towel_intro.mp3",
+        "story": "../item-audio/en/object_towel_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "flower_chinese_rose",
+  "sku_id": "card_flower_chinese_rose",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_pink",
+      "in_garden"
+    ],
+    "secondary": [
+      "fragrant",
+      "many_petals",
+      "summer_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "pink"
+    ],
+    "size": [
+      "medium"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "balcony"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "smell": [
+      "fragrant"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "月季花",
+      "aloud": "yuè jì huā",
+      "words": "chinese rose",
+      "intro": "月季花是一种美丽的花，花瓣一层一层的，有粉色、红色，闻起来香香的。它一年四季都能开花，所以叫月季花。",
+      "story": {
+        "title": "🌹小月季找朋友",
+        "body": "春天来了，花园里的小月季花开了。它是粉色的，一层又一层，像穿着小裙子。小月季花想：要是有朋友陪我玩该多好呀！一只小蜜蜂飞过来，说：月季花，你好香啊，我可以在你这里采蜜吗？小月季花开心地说：当然可以呀！小蜜蜂在花朵上轻轻地吸着花蜜。过了一会儿，一只小蝴蝶也来了，它在花瓣上跳舞。小月季花觉得幸福极了，它说：原来，只要盛开，朋友就会来找我啦！从此，小月季花每年都开出最漂亮的花朵，迎接好朋友们。"
+      },
+      "knowledge": {
+        "title": "为什么月季花能月月开花？",
+        "body": "月季花喜欢温暖和阳光，只要天气不太冷，它就能不断地长出新的花苞。所以南方有些地方，月季花一年四季都开花，真的是“月月红”呢！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_chinese_rose_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_chinese_rose_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Chinese Rose",
+      "aloud": "/ˈtʃaɪniːz roʊz/",
+      "words": "",
+      "intro": "The Chinese rose is a beautiful flower with many layers of petals. It comes in pink, red, and smells nice. It blooms almost all year, so it's called the Chinese rose.",
+      "story": {
+        "title": "🌹Little Chinese Rose Finds Friends",
+        "body": "In spring, a little Chinese rose bloomed in the garden. It was pink with many layers of petals, like a little dress. The little rose thought, 'I wish I had friends to play with!' A bee flew over and said, 'Chinese rose, you smell so sweet! May I collect some nectar?' The little rose said happily, 'Of course!' The bee sipped nectar gently. Then a butterfly came and danced on the petals. The little rose felt so happy. It said, 'As long as I bloom, friends will come to me!' From then on, the little Chinese rose bloomed beautifully every year to welcome its friends."
+      },
+      "knowledge": {
+        "title": "Why does the Chinese rose bloom so often?",
+        "body": "The Chinese rose loves warmth and sunshine. As long as the weather is not too cold, it keeps growing new buds. In warm places, it can bloom all year round, making it a true 'monthly rose'."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_chinese_rose_intro.mp3",
+        "story": "../item-audio/en/flower_chinese_rose_story.mp3"
+      }
+    }
+  }
+}

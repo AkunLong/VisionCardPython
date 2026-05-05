@@ -1,0 +1,95 @@
+{
+  "id": "transport_subway",
+  "sku_id": "card_transport_subway",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "public_transport",
+      "on_rail"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_carry_people",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "subway"
+    ],
+    "color": [
+      "white",
+      "blue",
+      "red"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "tunnel",
+      "station",
+      "city"
+    ],
+    "fuel": [
+      "electricity"
+    ],
+    "features": [
+      "many_seats",
+      "wheels"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "地铁",
+      "aloud": "dì tiě",
+      "words": "subway",
+      "intro": "地铁是一种长长的车，有的在地下隧道里跑，有的跑到地面上来。它有很多门和座位，可以坐好多好多人。每到一站就停下来，让大家上车下车。",
+      "story": {
+        "title": "🚇小蓝地铁的一天",
+        "body": "清晨，小蓝地铁从车库里醒来，打了个哈欠，开始了新的一天。第一站，上来一位背着书包的小朋友，他要去上学啦。小蓝地铁开得稳稳的，小朋友在车上还能看图画书呢。第二站，上来好几位叔叔阿姨，他们要去上班。小蓝地铁开得飞快，但一点儿也不颠。第三站，上来一位坐轮椅的爷爷，门一开，地板和站台一样平，爷爷轻松就上来了。一整天，小蓝地铁在隧道里跑呀跑，穿过黑乎乎的通道，经过亮堂堂的车站，接了数不清的乘客。夜晚，最后一位乘客下了车，小蓝地铁回到了车库，它开心地说：‘今天我又帮助了这么多人，真是有意义的一天！’然后安安静静地休息了。"
+      },
+      "knowledge": {
+        "title": "地铁有什么好处？",
+        "body": "地铁在专用的轨道上跑，不会堵车，所以特别快。它一次能带好多好多人，这样马路上的小汽车就少了，空气也更干净。而且地铁用电，没有黑黑的尾气，是很环保的交通工具哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_subway_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_subway_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Subway",
+      "aloud": "/ˈsʌb.weɪ/",
+      "words": "",
+      "intro": "A subway is a long train that runs in tunnels underground and sometimes above ground. It has many doors and seats and can carry lots of people. It stops at stations to let people get on and off.",
+      "story": {
+        "title": "🚇The Little Blue Subway's Day",
+        "body": "In the early morning, the little blue subway woke up in the yard, yawned, and started a new day. At the first station, a child with a backpack got on—he was going to school. The subway ran so smoothly that the child could read a picture book on board. At the second station, several men and women got on, heading to work. The subway went very fast but didn't bump at all. At the third station, a grandpa in a wheelchair got on; the doors opened and the floor was level with the platform, so he rolled right in with ease. All day long, the little blue subway zoomed through tunnels, past dark passages and brightly lit stations, picking up countless passengers. At night, after the last passenger got off, the subway returned to the yard and said happily, 'Today I helped so many people again—what a meaningful day!' Then it rested quietly."
+      },
+      "knowledge": {
+        "title": "What's good about the subway?",
+        "body": "The subway runs on its own tracks, so it never gets stuck in traffic and is very fast. It can carry many people at once, which means fewer cars on the road and cleaner air. Plus, it runs on electricity with no dirty exhaust, making it a green way to travel!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_subway_intro.mp3",
+        "story": "../item-audio/en/transport_subway_story.mp3"
+      }
+    }
+  }
+}

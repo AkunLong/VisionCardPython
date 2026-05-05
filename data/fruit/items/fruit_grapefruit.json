@@ -1,0 +1,87 @@
+{
+  "id": "fruit_grapefruit",
+  "sku_id": "card_fruit_grapefruit",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_pink",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sour",
+      "tree_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "pink"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sour",
+      "sweet"
+    ],
+    "scenes": [
+      "orchard",
+      "supermarket",
+      "home"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "西柚",
+      "aloud": "xī yòu",
+      "words": "grapefruit",
+      "intro": "西柚是一种圆圆的水果，果皮粉粉的，果肉酸酸甜甜、水水的。它有很多维生素，可以让小朋友身体棒棒的。",
+      "story": {
+        "title": "🐵小猴子的西柚",
+        "body": "小猴子跳跳在果园里发现了一个大大的粉红色果子，妈妈告诉它这是西柚。西柚圆滚滚的，像个小皮球，闻起来香香的。跳跳用力剥开厚厚的外皮，露出红红的果肉，一粒一粒的，像水晶一样。它忍不住咬了一大口。“啊，好酸呀！”跳跳皱起了眉头。可是慢慢地，嘴里又有了一丝甜味。跳跳想了想，把西柚一瓣一瓣分开，撒上一点点蜂蜜，再尝一口，酸酸甜甜的，真好吃！它把剩下的西柚剥好，送给小鹿和小兔。小伙伴们都觉得这粉红的果子真特别。跳跳明白了，有些东西第一次吃可能有点酸，但慢慢品尝，就会尝到甜甜的味道。"
+      },
+      "knowledge": {
+        "title": "西柚是从哪里来的？",
+        "body": "西柚长在高高的树上，喜欢温暖湿润的地方。它是柚子和橙子的好伙伴，所以既像柚子一样大，又像橙子一样多汁。西柚的果肉通常是粉红色或红色的，营养很丰富。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_grapefruit_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_grapefruit_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Grapefruit",
+      "aloud": "/ˈɡreɪpfruːt/",
+      "words": "",
+      "intro": "A grapefruit is a round, pink fruit with a sour-sweet and juicy inside. It’s full of vitamins that help children grow strong.",
+      "story": {
+        "title": "🐵The Little Monkey's Grapefruit",
+        "body": "Little monkey Tiaotiao found a big pink fruit in the orchard. Mama told her it was a grapefruit. It was round like a little ball and smelled fresh. Tiaotiao peeled the thick skin and saw red, crystal-like segments. She took a big bite. “Oh, it’s so sour!” She made a funny face. But then a bit of sweetness came. Tiaotiao thought for a moment, separated the segments, added a little honey, and tasted again. Sour and sweet—so delicious! She shared the rest with her friends Deer and Bunny. Everyone found the pink fruit special. Tiaotiao learned that some foods taste sour at first, but with a little patience, you can find the sweetness inside."
+      },
+      "knowledge": {
+        "title": "Where do grapefruits come from?",
+        "body": "Grapefruits grow on tall trees and love warm, moist places. They are relatives of pomelos and oranges, so they are big like pomelos and juicy like oranges. The flesh is often pink or red and full of nutrients."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_grapefruit_intro.mp3",
+        "story": "../item-audio/en/fruit_grapefruit_story.mp3"
+      }
+    }
+  }
+}

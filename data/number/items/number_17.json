@@ -1,0 +1,76 @@
+{
+  "id": "number_17",
+  "sku_id": "card_number_seventeen",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "two_digit",
+      "odd_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 17,
+    "is_even": false,
+    "is_prime": true,
+    "ordinal": "17th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字17",
+      "aloud": "shí qī",
+      "words": "seventeen",
+      "intro": "17是一个两位数，它比16多1，比18少1。它是个奇数，也是一个质数。我们一起来认识吧！",
+      "story": {
+        "title": "🌟17颗小星星",
+        "body": "晚上，小兔子抬头看天空，黑黑的夜空里有好多小星星。它拿起小手指一颗一颗数：1、2、3……数到16，还有一颗呢！17！有17颗小星星在眨眼睛。小星星一闪一闪，好像在说：我们是17个好朋友！小兔子好开心，它找来17颗小石子，在地上摆成一个大爱心。中间放一颗，左边8颗，右边8颗。左边的小石子代表左眼看到的星星，右边的小石子代表右眼看到的星星，中间那颗是月亮。小兔子数了一遍又一遍，17颗小石子整整齐齐。天亮了，小星星回家了，但小兔子记住了这个美丽的数字——17。"
+      },
+      "knowledge": {
+        "title": "17有什么特别？",
+        "body": "17是第7个质数，只能被1和自己整除。日历上每个月的17号都可能有特别的事情发生，比如生日或者节日。17也是一个幸运数字哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_17_intro.mp3",
+        "story": "../item-audio/zh-CN/number_17_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Seventeen",
+      "aloud": "/ˌsɛvənˈtiːn/",
+      "words": "",
+      "intro": "Seventeen is a two-digit number. It comes after sixteen and before eighteen. It's an odd number and a prime number. Let's learn about it!",
+      "story": {
+        "title": "🌟Seventeen Little Stars",
+        "body": "At night, Little Bunny looked up at the sky. The dark sky was full of little stars. He counted them with his tiny paw: one, two, three... up to sixteen, and one more! Seventeen! Seventeen little stars were twinkling. They flickered as if to say, We are seventeen friends! Little Bunny was so happy. He found seventeen pebbles and arranged them on the ground into a big heart. One in the middle, eight on the left, and eight on the right. The left pebbles were for the stars his left eye saw, the right pebbles for the stars his right eye saw, and the middle one was the moon. He counted again and again: seventeen pebbles all neat. When morning came, the stars went home, but Little Bunny remembered this beautiful number—seventeen."
+      },
+      "knowledge": {
+        "title": "What's special about seventeen?",
+        "body": "Seventeen is the seventh prime number, which means it can only be divided by one and itself. On the calendar, the 17th of each month can be a special day, like a birthday or a holiday. Seventeen is also considered a lucky number!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_17_intro.mp3",
+        "story": "../item-audio/en/number_17_story.mp3"
+      }
+    }
+  }
+}

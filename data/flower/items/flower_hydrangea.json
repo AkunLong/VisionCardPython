@@ -1,0 +1,91 @@
+{
+  "id": "flower_hydrangea",
+  "sku_id": "card_flower_hydrangea",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_purple",
+      "in_garden"
+    ],
+    "secondary": [
+      "summer_flower",
+      "big_flower",
+      "round_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "purple",
+      "pink",
+      "blue"
+    ],
+    "size": [
+      "tall"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "yard"
+    ],
+    "season": [
+      "summer"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "绣球花",
+      "aloud": "xiù qiú huā",
+      "words": "hydrangea",
+      "intro": "绣球花像一个大大的花球，上面挤满了许多小花。它的颜色可多啦，有粉色、蓝色、紫色，像彩虹糖一样好看。",
+      "story": {
+        "title": "🌸绣球花的魔法颜色",
+        "body": "花园里有一株绣球花，开出了一团团大花球。一开始是粉色的，亮闪闪的，风一吹像在跳舞。小朋友天天来看它。有一天，花朵慢慢变成了漂亮的蓝色。小蝴蝶飞过来问：“你怎么变蓝了呀？”绣球花摇摇花球说：“因为我脚下的土壤变了呀，酸酸的土让我变蓝。”小朋友拿来不同的水，有的让它变粉，有的让它变紫，真像个魔术师！大家拍手笑，绣球花也更开心了。"
+      },
+      "knowledge": {
+        "title": "绣球花为什么能变颜色？",
+        "body": "绣球花的颜色会随着土壤的酸碱度变化。酸性土壤让它开蓝花，碱性土壤让它开粉花。因为它体内有一种对酸碱很敏感的花青素。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_hydrangea_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_hydrangea_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Hydrangea",
+      "aloud": "/haɪˈdreɪndʒə/",
+      "words": "",
+      "intro": "A hydrangea is a big, round flower ball made up of many tiny flowers. Its colors can be pink, blue, or purple, just like a pretty rainbow candy.",
+      "story": {
+        "title": "🌸The Hydrangea's Magic Colors",
+        "body": "In the garden, there was a hydrangea with big, round flower balls. At first, the flowers were pink and sparkled when the wind blew. The children came to see it every day. One day, the flowers slowly turned into a beautiful blue. A little butterfly flew by and asked, \"Why did you turn blue?\" The hydrangea shook its flower ball and said, \"Because the soil has changed. Sour soil makes me blue.\" The children brought different water, and some made the flowers turn pink, some turned purple. It was just like a magician! Everyone clapped and laughed, and the hydrangea felt even happier."
+      },
+      "knowledge": {
+        "title": "Why do hydrangeas change color?",
+        "body": "The color of hydrangeas changes with the soil's acidity. Acidic soil produces blue flowers, and alkaline soil produces pink flowers. This is because they contain a pigment called anthocyanin that is sensitive to pH."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_hydrangea_intro.mp3",
+        "story": "../item-audio/en/flower_hydrangea_story.mp3"
+      }
+    }
+  }
+}

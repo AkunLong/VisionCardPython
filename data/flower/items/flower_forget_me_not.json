@@ -1,0 +1,90 @@
+{
+  "id": "flower_forget_me_not",
+  "sku_id": "card_flower_forget_me_not",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_blue",
+      "in_garden"
+    ],
+    "secondary": [
+      "small_flower",
+      "spring_flower",
+      "decorative"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "blue"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "garden",
+      "field",
+      "balcony"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "smell": [
+      "none"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "勿忘我",
+      "aloud": "wù wàng wǒ",
+      "words": "forget-me-not",
+      "intro": "勿忘我是一种小小的花，花瓣蓝蓝的，像一颗颗小星星。它的名字好像在说‘请不要忘记我’，很温柔也很特别。",
+      "story": {
+        "title": "💙小勿忘我的新家",
+        "body": "春天来了，花园里开满了五颜六色的花。在墙角边，有一小丛蓝蓝的勿忘我。它的花朵小小的，像一颗颗蓝色的小星星。勿忘我有点难过，‘我这么小，谁会注意我呢？’有一天，一只小蜜蜂飞过来，哭着说：‘我迷路了，找不到回家的路了。’勿忘我说：‘别急，你看着我蓝色的花朵，就像路上的小标记。你跟着我，我送你回家。’小蜜蜂跟着一丛丛勿忘我，飞出了花园，终于找到了家。小蜜蜂感激地说：‘谢谢你，你的花虽然小，但很漂亮，而且你帮助了我。我永远都不会忘记你！’勿忘我开心地笑了，它知道自己虽然小，也是有意义的。从此，勿忘我开得更多，蓝蓝的一片，好像在对每个人说：请不要忘记我呀！"
+      },
+      "knowledge": {
+        "title": "为什么叫勿忘我？",
+        "body": "勿忘我的花朵小小的，蓝蓝的，像星星一样。人们叫它勿忘我，因为它的名字就像在说‘不要忘记我’，提醒我们要记得爱的人。所以，当我们看到勿忘我时，就会想起那些重要的人，永远不会忘记他们。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_forget_me_not_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_forget_me_not_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Forget-me-not",
+      "aloud": "/fərˈɡet mi ˌnɒt/",
+      "words": "",
+      "intro": "Forget-me-nots are tiny flowers with blue petals that look like little stars. Their name seems to say 'please don't forget me', gentle and very special.",
+      "story": {
+        "title": "💙A Home for Little Forget-Me-Not",
+        "body": "Spring came, and the garden was full of colorful flowers. In a corner, there was a tiny clump of blue forget-me-nots. Their flowers were small, like little blue stars. The forget-me-not felt sad. 'I am so small, who would notice me?' One day, a little bee flew over, crying, 'I'm lost! I can't find my way home!' The forget-me-not said, 'Don't worry. Look at my blue flowers; they are like little markers along the way. Follow me, and I'll guide you home.' The bee followed the forget-me-nots, flying through the garden, and finally found its home. The bee said gratefully, 'Thank you! Your flowers may be small, but they are very pretty, and you helped me. I will never forget you!' The forget-me-not smiled happily. It knew that even though it was small, it mattered. From then on, the forget-me-nots bloomed more and more, covering the corner in blue, as if telling everyone: Please don't forget me!"
+      },
+      "knowledge": {
+        "title": "Why is it called forget-me-not?",
+        "body": "Forget-me-nots are tiny blue flowers that look like little stars. People call them forget-me-nots because their name sounds like 'forget me not', reminding us to remember the ones we love. So, when we see forget-me-nots, we think of important people and never forget them."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_forget_me_not_intro.mp3",
+        "story": "../item-audio/en/flower_forget_me_not_story.mp3"
+      }
+    }
+  }
+}

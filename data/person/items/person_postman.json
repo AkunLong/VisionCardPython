@@ -1,0 +1,93 @@
+{
+  "id": "person_postman",
+  "sku_id": "card_person_postman",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "deliver"
+    ],
+    "secondary": [
+      "adult",
+      "on_road",
+      "public_service"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "postman"
+    ],
+    "workplace": [
+      "post_office",
+      "on_road"
+    ],
+    "tools": [
+      "mailbag",
+      "letters",
+      "packages"
+    ],
+    "clothing": [
+      "uniform",
+      "cap"
+    ],
+    "actions": [
+      "deliver",
+      "ride_bike",
+      "sort_mail"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "邮递员",
+      "aloud": "yóu dì yuán",
+      "words": "postman",
+      "intro": "邮递员是帮我们送信和包裹的人。他们每天带着大邮包，把远方的问候送到我们手里。",
+      "story": {
+        "title": "📬小猫邮递员的一天",
+        "body": "清晨，小猫邮递员戴上帽子，推着绿色自行车出发了。邮包里装着满满的信件。第一封信是给小兔的，信封上画着胡萝卜。小兔打开一看，是外婆寄来的生日贺卡，开心得蹦蹦跳跳。第二封信是给小熊的，薄薄的，但小熊读了又读，是远方朋友寄来的问候。小猫继续骑啊骑，虽然有点累，但看到每个人收到信时的笑容，心里暖暖的。太阳下山了，邮包空了，小猫骑车回家，觉得这是世界上最棒的工作。"
+      },
+      "knowledge": {
+        "title": "邮递员怎么送信？",
+        "body": "邮递员认识每条街、每栋楼。他们把信件和包裹按地址分好，然后放进大邮包。骑上自行车或电动车，一路叮铃铃，把信送到信箱里。无论晴天还是雨天，他们都会准时送达。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_postman_intro.mp3",
+        "story": "../item-audio/zh-CN/person_postman_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Postman",
+      "aloud": "/ˈpoʊstmən/",
+      "words": "",
+      "intro": "A postman is someone who delivers letters and packages. Every day they carry a big mailbag and bring greetings from faraway places to our hands.",
+      "story": {
+        "title": "📬A Day of the Little Cat Postman",
+        "body": "In the morning, the little cat postman put on his cap and rode off on his green bicycle. The mailbag was full of letters. The first letter was for Little Rabbit, with a carrot drawn on the envelope. Little Rabbit opened it and found a birthday card from Grandma, hopping with joy. The second letter was for Little Bear, thin but read again and again—it was a greeting from a faraway friend. The cat kept riding. Though a bit tired, seeing the smiles on everyone's faces warmed his heart. The sun set, the mailbag was empty, and the cat rode home, thinking it was the best job in the world."
+      },
+      "knowledge": {
+        "title": "How does a postman deliver mail?",
+        "body": "A postman knows every street and every building. They sort letters and packages by address, put them into a big mailbag, and ride a bike or scooter. With a ring of the bell, they drop the mail into your mailbox. Rain or shine, they deliver on time."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_postman_intro.mp3",
+        "story": "../item-audio/en/person_postman_story.mp3"
+      }
+    }
+  }
+}

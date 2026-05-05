@@ -1,0 +1,96 @@
+{
+  "id": "transport_atv",
+  "sku_id": "card_transport_atv",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "special_vehicle",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_carry_people",
+      "small"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "atv"
+    ],
+    "color": [
+      "red",
+      "blue",
+      "yellow"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "beach",
+      "sand",
+      "trail"
+    ],
+    "fuel": [
+      "gasoline"
+    ],
+    "features": [
+      "four_wheels",
+      "handlebars",
+      "open_body"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "沙滩车",
+      "aloud": "shā tān chē",
+      "words": "atv",
+      "intro": "沙滩车是一种小小的车，有四个大大的轮子，可以在沙滩上跑来跑去。它能载着小朋友在沙子上玩耍，好开心呀！",
+      "story": {
+        "title": "🚗小红车去海滩",
+        "body": "今天天气真好，小红车要去海滩玩。它的轮子又宽又大，在软软的沙子上也不会陷下去。路上，它看见一只小螃蟹横着走，就停下来让小螃蟹先过去。到了海滩，一个小朋友跑过来，高兴地坐上去，小红车带着他在沙滩上转圈圈，还看到了海浪和贝壳。小红车跑得稳稳的，小朋友笑得好开心。太阳下山了，小红车回到车库，它说：今天是我最快乐的一天，因为我和好朋友一起在沙滩上玩。晚安，明天我们再去！"
+      },
+      "knowledge": {
+        "title": "沙滩车为什么能在沙子上开？",
+        "body": "沙滩车的轮子特别宽，像大脚板一样，这样在软软的沙子上就不会陷进去。它跑起来很稳，可以带人们在沙滩上到处玩耍，看看大海，捡捡贝壳，真有趣！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_atv_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_atv_story.mp3"
+      }
+    },
+    "en": {
+      "name": "ATV",
+      "aloud": "/ˌeɪ ˌtiː ˈviː/",
+      "words": "",
+      "intro": "An ATV is a small vehicle with four big wheels. It can drive on sand, dirt, and trails. It is fun to ride at the beach!",
+      "story": {
+        "title": "🚗Little Red ATV Goes to the Beach",
+        "body": "It was a sunny day, and Little Red ATV wanted to go to the beach. Its wheels were wide and big, so it wouldn't get stuck in the soft sand. On the way, it saw a little crab walking sideways and stopped to let it pass. At the beach, a child ran up happily and climbed on. Little Red ATV took him around the sand, spinning in circles, and they saw waves and seashells. The ATV rode smoothly, and the child laughed with joy. When the sun went down, Little Red ATV went back to the garage and said, Today was my happiest day because I played on the beach with my friend. Good night, let's go again tomorrow!"
+      },
+      "knowledge": {
+        "title": "Why can ATVs drive on sand?",
+        "body": "ATVs have wide tires that spread out their weight, so they don't sink into soft sand. They are great for exploring beaches and trails, letting people enjoy the outdoors and collect seashells!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_atv_intro.mp3",
+        "story": "../item-audio/en/transport_atv_story.mp3"
+      }
+    }
+  }
+}

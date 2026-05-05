@@ -1,0 +1,87 @@
+{
+  "id": "fruit_mandarin_orange",
+  "sku_id": "card_fruit_mandarin_orange",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_orange",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sweet",
+      "peelable"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "orange"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "sour"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "橘子",
+      "aloud": "jú zi",
+      "words": "orange",
+      "intro": "橘子是一种圆圆的水果，穿着橙色的外衣，吃起来酸甜多汁，很好吃。它含有维生素，对小朋友的身体很好。",
+      "story": {
+        "title": "🐻小熊的橘子",
+        "body": "冬天快到了，小熊家的橘子树上挂满了小灯笼一样的橘子。橘子的皮是橙色的，摸起来有点软，闻起来香香的。小熊摘下一个橘子，小心地剥开皮，里面是一瓣一瓣的果肉，像弯弯的小月牙。小熊咬了一口，酸甜的汁水在嘴巴里跳起舞来。“真好吃！”小熊开心地眯起眼睛。它把橘子一瓣一瓣分给小鸟、小兔和小刺猬，大家围在一起吃橘子，屋子里飘满了橘子的香味。小熊说：“好吃的东西，大家一起吃会更甜哦。”朋友们都笑着点点头。"
+      },
+      "knowledge": {
+        "title": "橘子是什么季节的水果？",
+        "body": "橘子通常在秋天和冬天成熟。天气变冷的时候，橘子就变得又甜又多汁，所以我们会在冬天吃到好多好吃的橘子。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_mandarin_orange_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_mandarin_orange_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Mandarin Orange",
+      "aloud": "/ˈmændərɪn/",
+      "words": "",
+      "intro": "A mandarin orange is a round, orange fruit that tastes sweet and a little sour. It is juicy and full of vitamins that are good for kids.",
+      "story": {
+        "title": "🐻Little Bear's Orange",
+        "body": "Winter was coming, and the orange tree in Little Bear's yard was full of oranges like little lanterns. The peel was orange, soft to touch, and smelled sweet. Little Bear picked one, carefully peeled it, and saw the segments inside, like tiny crescent moons. He took a bite, and the sweet and sour juice danced in his mouth. “Yummy!” Little Bear smiled happily. He shared the segments with Little Bird, Little Rabbit, and Little Hedgehog. They sat together, eating and enjoying the wonderful orange fragrance. Little Bear said, “Sharing good food makes it even sweeter.” Everyone nodded and smiled."
+      },
+      "knowledge": {
+        "title": "When do mandarin oranges ripen?",
+        "body": "Mandarins usually ripen in fall and winter. When the weather gets cooler, they become sweet and juicy, so we can enjoy them a lot in winter."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_mandarin_orange_intro.mp3",
+        "story": "../item-audio/en/fruit_mandarin_orange_story.mp3"
+      }
+    }
+  }
+}

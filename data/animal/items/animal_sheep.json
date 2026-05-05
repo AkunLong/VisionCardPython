@@ -1,0 +1,99 @@
+{
+  "id": "animal_sheep",
+  "sku_id": "card_animal_sheep",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "farm_animal",
+      "gentle"
+    ],
+    "secondary": [
+      "small",
+      "has_fur",
+      "has_tail"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal"
+    ],
+    "color": [
+      "white",
+      "black"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "ears"
+    ],
+    "scenes": [
+      "farm",
+      "grassland"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "eat"
+    ],
+    "sound": [
+      "baa"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "小绵羊",
+      "aloud": "xiǎo mián yáng",
+      "words": "sheep",
+      "intro": "小绵羊是一种温顺的农场动物，身上长着厚厚的、白白的羊毛，看起来像一团软软的云朵。它们喜欢在草地上吃草，咩咩叫着慢慢散步。",
+      "story": {
+        "title": "🐑小绵羊的云朵衣裳",
+        "body": "小绵羊毛毛有一身又白又软的羊毛，大家都说它像一朵小云朵。一天，毛毛在草地上吃草，突然下起了小雨。毛毛不怕雨，因为它的羊毛像一件厚外套，雨水打在上面，都变成了一颗颗亮晶晶的小水珠。雨停了，太阳出来，毛毛的毛被晒得暖洋洋的。一只小鸟飞过来，说：“毛毛，你的毛真漂亮，像天上的云朵呢！”毛毛开心地咩咩叫了两声，继续低头吃草。天黑了，毛毛回到羊圈，靠着妈妈，在软软的干草上睡着了。"
+      },
+      "knowledge": {
+        "title": "小绵羊的羊毛有什么用？",
+        "body": "小绵羊的羊毛又软又厚，可以做成暖和的毛衣、围巾和毯子，在冬天给我们带来温暖。人们每年会帮绵羊剪一次毛，这样夏天它们不会太热，新毛也会长得更好。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_sheep_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_sheep_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Sheep",
+      "aloud": "/ʃiːp/",
+      "words": "",
+      "intro": "A sheep is a gentle farm animal with thick, white wool that looks like a fluffy cloud. They like to eat grass and walk slowly, saying 'baa baa'.",
+      "story": {
+        "title": "🐑The Little Sheep's Cloudy Coat",
+        "body": "Momo the little sheep had a coat of soft, white wool. Everyone said she looked like a little cloud. One day, Momo was eating grass when it started to rain lightly. Momo wasn't afraid of the rain because her wool was like a thick coat, and the raindrops turned into shiny little beads on it. After the rain, the sun came out and her wool felt warm. A little bird flew over and said, 'Momo, your wool is so pretty, just like the clouds in the sky!' Momo happily baaed and kept eating. When night came, Momo went back to the pen, snuggled close to her mom, and fell asleep on the soft hay."
+      },
+      "knowledge": {
+        "title": "Why is sheep's wool useful?",
+        "body": "Sheep's wool is soft and thick. People use it to make warm sweaters, scarves, and blankets for winter. Each year, farmers shear the sheep, which helps them stay cool in summer and grow new wool."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_sheep_intro.mp3",
+        "story": "../item-audio/en/animal_sheep_story.mp3"
+      }
+    }
+  }
+}

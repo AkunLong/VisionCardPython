@@ -1,0 +1,102 @@
+{
+  "id": "animal_jellyfish",
+  "sku_id": "card_animal_jellyfish",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "sea_animal",
+      "cute"
+    ],
+    "secondary": [
+      "can_swim",
+      "soft",
+      "color_pink"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "invertebrate",
+      "marine"
+    ],
+    "color": [
+      "pink",
+      "blue",
+      "white",
+      "purple"
+    ],
+    "size": [
+      "small",
+      "medium"
+    ],
+    "body": [
+      "tentacles",
+      "bell",
+      "soft body"
+    ],
+    "scenes": [
+      "ocean",
+      "sea",
+      "coral reef"
+    ],
+    "actions": [
+      "swim",
+      "float",
+      "pulse"
+    ],
+    "sound": [],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "水母",
+      "aloud": "shuǐ mǔ",
+      "words": "jellyfish",
+      "intro": "水母是一种生活在海洋里的动物，身体软软的，像一把透明的小伞。它们有长长的触手，会在水中轻轻地飘来飘去。",
+      "story": {
+        "title": "🪼小水母找朋友",
+        "body": "小水母飘飘住在蓝色的大海里。她有一个软软的、透明的小伞，还有很多长长的丝带一样的触手。一天，飘飘觉得自己一个人好孤单，她想要一个朋友。她轻轻地漂啊漂，遇到了一只小海龟。飘飘问：“你愿意和我做朋友吗？”小海龟摇摇头说：“不行呀，你太软了，我怕不小心碰到你会受伤。”飘飘有点难过，继续漂。她又遇到了一群彩色的小鱼。飘飘高兴地问：“你们好！我能和你们一起玩吗？”小鱼们游得很快，说：“我们喜欢游得快的朋友，你漂得太慢了。”飘飘更难过了。这时候，一条小丑鱼游了过来，好奇地看着飘飘说：“你好漂亮啊！你的身体透明得像果冻一样。”飘飘害羞地说：“谢谢你。可是我没有游得快，也没有硬硬的壳。”小丑鱼说：“没关系呀，我喜欢你慢慢漂的样子，我可以陪在你身边。”飘飘开心极了。从此以后，飘飘和小丑鱼成了最好的朋友，一起在大海里漂游，每天都很开心。"
+      },
+      "knowledge": {
+        "title": "水母为什么会发光？",
+        "body": "有些水母的身体里有一种特殊的物质，叫荧光蛋白。这种蛋白会在黑暗中发出亮亮的光，就像小星星一样。水母发光可以吓跑想欺负它的动物，也可以吸引别的动物来和它玩。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_jellyfish_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_jellyfish_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Jellyfish",
+      "aloud": "/ˈdʒɛli.fɪʃ/",
+      "words": "",
+      "intro": "A jellyfish is an animal that lives in the ocean. It has a soft body that looks like a clear umbrella, and long tentacles that float in the water.",
+      "story": {
+        "title": "🪼 The Little Jellyfish Looks for a Friend",
+        "body": "Pip the little jellyfish lived in the big blue ocean. She had a soft, clear bell and long, ribbon-like tentacles. One day, Pip felt lonely and wanted a friend. She floated gently and met a sea turtle. Pip asked, “Will you be my friend?” The turtle said, “No, you are too soft. I might hurt you.” Pip felt sad and kept floating. Then she met some colorful fish. Pip asked, “Can I play with you?” The fish said, “We like fast friends. You float too slowly.” Pip felt sadder. Just then, a little clownfish swam over. He said, “You are beautiful! You look like clear jelly.” Pip said, “But I swim slowly and have no shell.” The clownfish said, “It’s okay. I like your slow floating. I’ll stay with you.” Pip was so happy. From then on, Pip and the clownfish were best friends. They swam together in the ocean and were happy every day."
+      },
+      "knowledge": {
+        "title": "Why do jellyfish glow?",
+        "body": "Some jellyfish have a special substance inside their bodies called fluorescent protein. This protein gives off a bright light in the dark, like little stars. Jellyfish glow to scare away animals that might bother them, and sometimes to attract friends."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_jellyfish_intro.mp3",
+        "story": "../item-audio/en/animal_jellyfish_story.mp3"
+      }
+    }
+  }
+}

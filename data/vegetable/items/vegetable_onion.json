@@ -1,0 +1,90 @@
+{
+  "id": "vegetable_onion",
+  "sku_id": "card_vegetable_onion",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_purple",
+      "root_vegetable"
+    ],
+    "secondary": [
+      "round",
+      "spicy",
+      "can_cook"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "purple"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "spicy"
+    ],
+    "grow_location": [
+      "underground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "洋葱",
+      "aloud": "yáng cōng",
+      "words": "onion",
+      "intro": "洋葱是一种紫色的蔬菜，圆圆的，一层一层的。切的时候会让人流眼泪，但煮熟后甜甜的，可以做很多好吃的菜。",
+      "story": {
+        "title": "🧅洋葱的秘密",
+        "body": "小厨师今天要做汤，他从篮子里拿出一个圆圆的洋葱。小厨师一层一层剥开，咦，怎么里面还有一层？剥啊剥，他的眼睛开始流泪了。妈妈说：“洋葱有辣眼睛的气味，但煮熟了就变甜啦。”小厨师把洋葱切成小块放进锅里，咕嘟咕嘟煮了好久。汤做好了，他尝了一口，真的好甜呀！小兔子闻到香味跑过来，小厨师给它盛了一碗。小兔子喝得暖乎乎的，开心地说：“洋葱真神奇！”从那以后，小厨师再也不怕剥洋葱了。"
+      },
+      "knowledge": {
+        "title": "吃洋葱有什么好处？",
+        "body": "洋葱里有很多对身体好的东西，能帮助我们抵抗细菌，让心脏更健康。虽然生吃有点辣，但炒熟或煮汤后甜甜的，又好吃又健康！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_onion_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_onion_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Onion",
+      "aloud": "/ˈʌnjən/",
+      "words": "",
+      "intro": "An onion is a purple vegetable that is round and has many layers. Cutting it can make you cry, but when cooked, it becomes sweet and delicious in many dishes.",
+      "story": {
+        "title": "🧅The Onion's Secret",
+        "body": "Today, the little chef wanted to make soup. He took a round onion from the basket. He peeled one layer, then another—wait, there was still another layer inside! As he peeled, his eyes started to water. Mom said, “Onions have a smell that stings your eyes, but they turn sweet when cooked.” The little chef chopped the onion into small pieces and put them in the pot. It bubbled for a long time. When the soup was ready, he took a sip—so sweet! The little rabbit smelled the yummy aroma and came over. The chef gave him a bowl. The rabbit sipped and felt so warm. “Onions are magical!” he said. From then on, the little chef never feared peeling onions again."
+      },
+      "knowledge": {
+        "title": "Why is eating onions good for you?",
+        "body": "Onions have special things that help your body fight germs and keep your heart healthy. They might be a little spicy raw, but cooked in soup or stir-fry, they become sweet and yummy!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_onion_intro.mp3",
+        "story": "../item-audio/en/vegetable_onion_story.mp3"
+      }
+    }
+  }
+}

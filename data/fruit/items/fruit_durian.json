@@ -1,0 +1,86 @@
+{
+  "id": "fruit_durian",
+  "sku_id": "card_fruit_durian",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_green",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "hard_shell",
+      "fragrant",
+      "tropical_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sweet",
+      "soft"
+    ],
+    "scenes": [
+      "orchard",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "榴莲",
+      "aloud": "liú lián",
+      "words": "durian",
+      "intro": "榴莲是一种热带水果，外壳硬硬的，果肉软软的，味道甜甜的，还有特别的香气。",
+      "story": {
+        "title": "🐒小猴子第一次吃榴莲",
+        "body": "小猴子住在热带果园里。一天，他闻到一阵特别的气味，跟着气味找到一颗大大的、带刺的榴莲。小猴子有点害怕，心想：“这是什么东西？”他轻轻碰了碰，外壳硬硬的。果园里的老猴子笑着说：“这是榴莲，虽然气味特别，但果肉可甜了！”小猴子鼓起勇气，小心地打开外壳，露出金黄色的软软果肉。他尝了一口，甜甜的、软软的，真好吃！小猴子高兴地把榴莲肉分给好朋友们，大家一起吃得笑眯眯。"
+      },
+      "knowledge": {
+        "title": "榴莲生长在哪里？",
+        "body": "榴莲是热带水果，生长在高高的榴莲树上。榴莲树喜欢炎热湿润的天气，所以在东南亚国家很常见。榴莲成熟后，外壳变黄，会从树上落下来。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_durian_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_durian_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Durian",
+      "aloud": "/ˈdʊriən/",
+      "words": "",
+      "intro": "Durian is a tropical fruit with a hard shell and soft, sweet flesh. It has a strong smell, but many people love its creamy taste.",
+      "story": {
+        "title": "🐒The Little Monkey's First Durian",
+        "body": "The little monkey lived in a lush tropical orchard. One sunny day, he noticed a strong, unusual smell. Curious, he followed the scent and found a giant, spiky durian lying under a tree. The little monkey was a bit scared and thought, “What is this strange thing?” He cautiously touched it and found the shell was very hard. Just then, an old, wise monkey from the orchard came by and chuckled, “This is a durian. Its smell may be strong, but the flesh inside is incredibly sweet and creamy!” Feeling braver, the little monkey carefully pried open the hard shell, revealing the bright golden, soft flesh. He took a tiny bite—it was so sweet and creamy, absolutely delicious! The little monkey was thrilled and quickly invited his friends—the little squirrel and the little bird—to share the treat. They all gathered around, enjoying the yummy durian together, and everyone laughed with happiness."
+      },
+      "knowledge": {
+        "title": "Where do durians grow?",
+        "body": "Durians are tropical fruits that grow on tall durian trees. These trees love hot, humid weather, so they are common in Southeast Asia. When durians ripen, they turn yellow and fall from the tree."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_durian_intro.mp3",
+        "story": "../item-audio/en/fruit_durian_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "food_egg_tart",
+  "sku_id": "card_food_egg_tart",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "dessert",
+      "color_yellow",
+      "edible"
+    ],
+    "secondary": [
+      "sweet",
+      "soft",
+      "at_snack_time"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dessert"
+    ],
+    "color": [
+      "yellow"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "bakery"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "蛋挞",
+      "aloud": "dàn tà",
+      "words": "egg tart",
+      "intro": "蛋挞是小朋友很喜欢的小点心，黄黄的、圆圆的。外面有一层脆脆的皮，里面是软软的、甜甜的蛋奶馅，吃起来又香又暖，真美味！",
+      "story": {
+        "title": "🥚小蛋挞的大冒险",
+        "body": "小猫咪咪第一次看到蛋挞的时候，觉得好奇怪呀！圆圆的，黄黄的，上面还亮晶晶的。妈妈笑着说：“这是蛋挞，很好吃的点心哦。”小猫咪咪小心翼翼地咬了一口，哇！外面酥酥的皮在嘴里碎开了，里面的蛋奶馅软软的、甜甜的，还热乎乎的呢。小猫咪咪开心得胡子都翘起来了，它一口气吃了两个。从那以后，每次路过面包店，小猫咪咪都要拉着妈妈去买蛋挞。有一天，小猫咪咪和妈妈一起做蛋挞。它们揉面团、擀皮，把皮铺在小盆子里。小猫咪咪帮妈妈打鸡蛋、倒牛奶、加糖，搅一搅变成了黄黄的蛋液。妈妈把蛋液倒进皮里，然后放进烤箱。烤的时候，小猫咪咪一直守在旁边，看着蛋挞慢慢变高、变金黄，香味飘得满屋子都是。叮！蛋挞烤好了！小猫咪咪请来好朋友小狗汪汪和小兔子乖乖，大家一起吃热乎乎的蛋挞，都说：“太好吃了，我们一起做蛋挞真开心！”"
+      },
+      "knowledge": {
+        "title": "蛋挞是怎么做出来的？",
+        "body": "蛋挞是用面粉、黄油揉成面团做皮，再用鸡蛋、牛奶、糖调成蛋液做馅。把皮铺在模具里，倒入蛋液，放进烤箱烤。烤好后，蛋挞皮酥馅嫩，金灿灿的，吃起来又香又甜，是小朋友们最爱的小点心。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_egg_tart_intro.mp3",
+        "story": "../item-audio/zh-CN/food_egg_tart_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Egg Tart",
+      "aloud": "/ɛɡ tɑːrt/",
+      "words": "",
+      "intro": "An egg tart is a yummy little pastry with a crispy crust and a soft, sweet egg custard inside. It's golden and warm, and it melts in your mouth. Children love it as a snack or dessert.",
+      "story": {
+        "title": "🥚The Little Egg Tart's Big Adventure",
+        "body": "Tommy the kitten saw an egg tart for the first time. He thought it looked so strange—round and golden, with a shiny top. Mommy cat said, 'This is an egg tart, a yummy treat!' Tommy took a tiny bite. Wow! The crust was crispy, and the inside was so soft and sweet. He purred and ate two whole tarts. From that day on, every time they passed the bakery, Tommy tugged Mommy to buy egg tarts. One day, Tommy and Mommy made egg tarts together. They mixed flour and butter for the dough, rolled it out, and pressed it into little tins. Tommy helped crack eggs, pour milk, and add sugar, then stirred to make golden egg mixture. Mommy poured it into the shells and put them in the oven. Tommy waited by the oven, watching the tarts puff up and turn golden. The smell filled the house. Ding! The egg tarts were ready! Tommy invited his friends, Puppy Woof Woof and Bunny Hop, to share. They all ate the warm tarts and said, 'So yummy! Making egg tarts together is so much fun!'"
+      },
+      "knowledge": {
+        "title": "How are egg tarts made?",
+        "body": "Egg tarts are made by pressing pastry dough into small tins. Then a mixture of eggs, milk, and sugar is poured in. They are baked in a hot oven until the custard sets and the top turns golden. The crust becomes flaky and the filling turns silky smooth. That's how a delicious egg tart is made!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_egg_tart_intro.mp3",
+        "story": "../item-audio/en/food_egg_tart_story.mp3"
+      }
+    }
+  }
+}

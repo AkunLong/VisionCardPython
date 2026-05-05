@@ -1,0 +1,101 @@
+{
+  "id": "animal_butterfly",
+  "sku_id": "card_animal_butterfly",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "insect",
+      "cute"
+    ],
+    "secondary": [
+      "small",
+      "has_wings",
+      "color_yellow"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "insect"
+    ],
+    "color": [
+      "yellow",
+      "orange",
+      "blue",
+      "black"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "wings",
+      "spots",
+      "antennae"
+    ],
+    "scenes": [
+      "garden",
+      "meadow",
+      "flowers"
+    ],
+    "actions": [
+      "fly",
+      "flutter",
+      "land",
+      "sip"
+    ],
+    "sound": [],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "蝴蝶",
+      "aloud": "hú dié",
+      "words": "butterfly",
+      "intro": "蝴蝶是一种美丽的小昆虫，有彩色的翅膀和细细的触角。蝴蝶喜欢在花丛中飞来飞去，就像会飞的花朵一样。",
+      "story": {
+        "title": "🦋小蝴蝶找朋友",
+        "body": "花园里住着一只小蝴蝶，名叫花花。花花有漂亮的黄翅膀，上面还有小圆点。一天早上，太阳暖暖的，花花醒来后，想去找朋友玩。她先飞到一朵红色的花上，看见一只小蜜蜂在采蜜。小蜜蜂说：‘你好呀，我们一起玩吧！’花花很开心，又飞到一片绿叶上，看见一只小瓢虫在晒太阳。小瓢虫说：‘你好呀，我们一起玩吧！’就这样，花花交到了好多好朋友。它们在花园里飞来飞去，一会落在花朵上，一会躲在叶子下，玩得可高兴了。天快黑了，花花和朋友们告别，轻轻飞回家，做了一个甜甜的梦。"
+      },
+      "knowledge": {
+        "title": "蝴蝶的翅膀为什么是彩色的？",
+        "body": "蝴蝶的翅膀上有许多小小的鳞片，这些鳞片让翅膀变得五彩缤纷。彩色的翅膀可以帮助蝴蝶躲开小鸟，还能让它们更好地找到花朵朋友。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_butterfly_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_butterfly_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Butterfly",
+      "aloud": "/ˈbʌtərflaɪ/",
+      "words": "",
+      "intro": "A butterfly is a beautiful little insect with colorful wings and thin antennae. Butterflies love flying among flowers, just like flying flowers.",
+      "story": {
+        "title": "🦋Little Butterfly Looks for Friends",
+        "body": "In a garden lived a little butterfly named Hua Hua. She had pretty yellow wings with little round spots. One morning, the sun was warm. Hua Hua woke up and wanted to find friends to play with. First, she flew to a red flower and saw a little bee collecting nectar. The bee said, 'Hello there! Let's play together!' Hua Hua was happy. Then she flew to a green leaf and saw a little ladybug sunbathing. The ladybug said, 'Hello there! Let's play together!' Just like that, Hua Hua made many good friends. They flew around the garden, sometimes landing on flowers, sometimes hiding under leaves, and they had so much fun. As it got dark, Hua Hua said goodbye to her friends, gently flew home, and had a sweet dream."
+      },
+      "knowledge": {
+        "title": "Why are butterfly wings colorful?",
+        "body": "Butterfly wings are covered with tiny scales that make them look colorful. The bright colors help butterflies hide from birds and also help them find flowers more easily."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_butterfly_intro.mp3",
+        "story": "../item-audio/en/animal_butterfly_story.mp3"
+      }
+    }
+  }
+}

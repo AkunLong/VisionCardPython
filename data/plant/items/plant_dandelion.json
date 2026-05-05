@@ -1,0 +1,101 @@
+{
+  "id": "plant_dandelion",
+  "sku_id": "card_plant_dandelion",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "flower",
+      "color_yellow"
+    ],
+    "secondary": [
+      "can_grow",
+      "has_leaf",
+      "in_field"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "flower",
+      "herb"
+    ],
+    "color": [
+      "yellow",
+      "green",
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "flower",
+      "leaves",
+      "stem",
+      "root",
+      "seeds"
+    ],
+    "scenes": [
+      "field",
+      "roadside",
+      "garden"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "is_edible": true,
+    "is_drinkable": true,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "蒲公英",
+      "aloud": "pú gōng yīng",
+      "words": "dandelion",
+      "intro": "蒲公英是小小的黄花，长在草地上。风一吹，它的白色小伞就飞起来，像一个个小精灵，带着种子去旅行。",
+      "story": {
+        "title": "🌼蒲公英的旅行",
+        "body": "草地上一朵蒲公英开了，金黄的花瓣像太阳的微笑。蜜蜂飞来，嗡嗡地说：“你的花蜜真甜。”不久，金黄的花变成了雪白的绒球。一阵风吹来，小伞兵们出发了。“再见，妈妈！”它们飞过草地，飞过小山坡，飞到了很远的地方。有一颗小种子落到了花园的角落里，它轻轻钻进泥土，睡着了。春天来了，小种子发芽了，长出了嫩绿的叶子，不久也开出了一朵小黄花。它抬头望着天空，想起了那个风吹起的日子，心里暖暖的。"
+      },
+      "knowledge": {
+        "title": "蒲公英可以做什么？",
+        "body": "蒲公英的嫩叶子可以做沙拉，花朵能泡茶喝。它的根也可以煮水喝，对人身体好。还有，小朋友最喜欢吹它的白绒球，让种子飞起来！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_dandelion_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_dandelion_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Dandelion",
+      "aloud": "/ˈdændɪlaɪən/",
+      "words": "",
+      "intro": "A dandelion is a little yellow flower that grows in the grass. When the wind blows, its white fluffy seeds fly away like tiny fairies, carrying the seeds on a journey.",
+      "story": {
+        "title": "🌼The Dandelion's Journey",
+        "body": "A dandelion bloomed in the meadow, its golden petals like the sun's smile. A bee came buzzing and said, 'Your nectar is so sweet!' Soon, the golden flower turned into a white fluffy ball. A puff of wind came, and the little parachutes took off. 'Goodbye, Mama!' They flew over the meadow, over the little hill, to a faraway place. One tiny seed landed in a garden corner. It gently snuggled into the soil and fell asleep. Spring came, and the seed sprouted, growing soft green leaves. Soon, a little yellow flower bloomed. It looked up at the sky and remembered the day the wind blew, feeling warm inside."
+      },
+      "knowledge": {
+        "title": "What can dandelions do?",
+        "body": "Dandelion leaves can be eaten in salads, and the flowers make tea. The root is also good for making healthy drinks. And kids love to blow the white puff and watch the seeds fly!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_dandelion_intro.mp3",
+        "story": "../item-audio/en/plant_dandelion_story.mp3"
+      }
+    }
+  }
+}

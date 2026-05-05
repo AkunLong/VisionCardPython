@@ -1,0 +1,90 @@
+{
+  "id": "object_battery",
+  "sku_id": "card_object_battery",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "electronic_item",
+      "color_black"
+    ],
+    "secondary": [
+      "at_home",
+      "can_light",
+      "long"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "black",
+      "gray"
+    ],
+    "shape": [
+      "round"
+    ],
+    "material": [
+      "metal",
+      "plastic"
+    ],
+    "scenes": [
+      "home",
+      "school"
+    ],
+    "function": [
+      "give_power"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "电池",
+      "aloud": "diàn chí",
+      "words": "battery",
+      "intro": "电池可以给玩具和遥控器提供能量。它小小的身体里藏着电，能让东西动起来、亮起来。",
+      "story": {
+        "title": "🔋电池小超人",
+        "body": "小主人有一辆最喜欢的遥控汽车，可是今天按开关，汽车一动也不动。爸爸打开电池盒，拿出两节电池说：“看，电池没电了，它们肚子里的电都用光啦。”小主人把新电池装进去，打开开关，小汽车马上呜呜地跑起来，车灯也闪呀闪。电池们在盒子里悄悄说：“我们虽然个子小，但力气可大了。只要连接好正极和负极，就能把电送给汽车，让它跑得飞快。不过，小朋友要记得，旧电池不能乱扔，要送回回收站哦。”小主人点点头，和小汽车一起快乐地玩耍。"
+      },
+      "knowledge": {
+        "title": "电池里面装了什么？",
+        "body": "电池里有特殊的化学物质，一头是正极，一头是负极。当正负极连起来的时候，化学物质就会反应，产生电流。电流跑出来，就能让玩具、遥控器工作啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_battery_intro.mp3",
+        "story": "../item-audio/zh-CN/object_battery_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Battery",
+      "aloud": "/ˈbætəri/",
+      "words": "",
+      "intro": "A battery gives power to toys and remote controls. It has electricity inside its little body and can make things move and light up.",
+      "story": {
+        "title": "🔋The Little Battery Superhero",
+        "body": "Tommy's favorite remote-control car wouldn't move today. Dad opened the battery box and took out two old batteries. \"Look, these batteries have used up all their power,\" he said. Tommy put in new batteries, and the car whizzed around with its lights blinking. Inside the box, the batteries whispered to each other, \"We might be small, but we are strong! As long as the plus and minus ends are connected, we can send electricity to make the car go fast.\" Tommy learned that used batteries should be taken to a recycling bin. Then he played happily with his car."
+      },
+      "knowledge": {
+        "title": "What's inside a battery?",
+        "body": "A battery has special chemicals inside. One end is positive, the other is negative. When you connect them, the chemicals react and make electricity. This electricity flows out and powers toys and remote controls."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_battery_intro.mp3",
+        "story": "../item-audio/en/object_battery_story.mp3"
+      }
+    }
+  }
+}

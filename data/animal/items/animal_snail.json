@@ -1,0 +1,99 @@
+{
+  "id": "animal_snail",
+  "sku_id": "card_animal_snail",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "forest_animal",
+      "cute"
+    ],
+    "secondary": [
+      "small",
+      "has_shell",
+      "can_crawl"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "gastropod",
+      "mollusk"
+    ],
+    "color": [
+      "brown",
+      "gray",
+      "green"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "shell",
+      "tentacles",
+      "foot"
+    ],
+    "scenes": [
+      "garden",
+      "forest",
+      "grassland"
+    ],
+    "actions": [
+      "crawl",
+      "slide"
+    ],
+    "sound": [],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "蜗牛",
+      "aloud": "wō niú",
+      "words": "snail",
+      "intro": "蜗牛是一种背着圆圆小房子的小动物，它走起路来慢慢的，喜欢在雨后出来散步。蜗牛有两只细细的触角，一碰就会缩回去，样子很可爱。",
+      "story": {
+        "title": "🐌小蜗牛去散步",
+        "body": "小蜗牛贝贝住在花园里，每天最喜欢在叶子上爬来爬去。一天，贝贝决定去远远的小池塘边看看。它慢慢地爬呀爬，爬过了小草，绕过了石头。忽然，天空下起了小雨，滴滴答答。贝贝不慌不忙，把小房子背背好，缩进了壳里。“哇，我的小房子真暖和！”雨停了，贝贝伸出触角，闻到了清新的青草香。它继续爬，终于来到了池塘边。水面亮晶晶的，贝贝开心地笑了。它想：虽然我爬得慢，但只要不放弃，总能到达想去的地方。"
+      },
+      "knowledge": {
+        "title": "蜗牛为什么背着壳？",
+        "body": "蜗牛的壳就是它的小房子，可以保护它柔软的身体。遇到危险或天气太干太冷，蜗牛就躲进壳里，还会分泌黏液封住壳口，安全地休息。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_snail_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_snail_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Snail",
+      "aloud": "/sneɪl/",
+      "words": "",
+      "intro": "A snail is a cute little animal with a round shell on its back. It moves very slowly and likes to come out after the rain. It has two thin tentacles that shrink back when touched.",
+      "story": {
+        "title": "🐌Little Snail Goes for a Walk",
+        "body": "Little snail Beibei lived in a garden and loved crawling on leaves. One day, Beibei decided to visit the faraway little pond. Slowly, she crawled and crawled, passing the grass and going around the stones. Suddenly, the sky began to drizzle, pitter-patter. Beibei didn’t hurry. She pulled her shell up and tucked herself inside. “Wow, my little house is so cozy!” When the rain stopped, she poked out her tentacles and smelled the fresh green grass. She kept crawling and finally reached the pond. The water sparkled brightly, and Beibei smiled happily. She thought, “Even though I move slowly, if I never give up, I can get where I want to go.”"
+      },
+      "knowledge": {
+        "title": "Why does a snail carry a shell?",
+        "body": "A snail’s shell is its little house, protecting its soft body. When there is danger or the weather is too dry or cold, the snail hides inside the shell and may seal the opening with slime to rest safely."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_snail_intro.mp3",
+        "story": "../item-audio/en/animal_snail_story.mp3"
+      }
+    }
+  }
+}

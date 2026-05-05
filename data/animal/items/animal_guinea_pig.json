@@ -1,0 +1,104 @@
+{
+  "id": "animal_guinea_pig",
+  "sku_id": "card_animal_guinea_pig",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "home_animal",
+      "cute"
+    ],
+    "secondary": [
+      "small",
+      "has_fur",
+      "chirp"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "pet"
+    ],
+    "color": [
+      "brown",
+      "white",
+      "black",
+      "orange"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "fur",
+      "whiskers",
+      "ears"
+    ],
+    "scenes": [
+      "home",
+      "cage",
+      "grass"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "eat",
+      "hide"
+    ],
+    "sound": [
+      "chirp"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "豚鼠",
+      "aloud": "tún shǔ",
+      "words": "guinea pig",
+      "intro": "豚鼠是一种毛茸茸的小动物，圆滚滚的身体，短短的腿，还有一对小耳朵。它们喜欢叽叽叫，也喜欢安静地吃草和菜叶。",
+      "story": {
+        "title": "🐹小豚鼠找胡萝卜",
+        "body": "小豚鼠豆豆住在温暖的小窝里，最爱吃胡萝卜。一天早上，豆豆醒来发现食盆里的胡萝卜不见了。它揉了揉眼睛，用鼻子东闻闻西嗅嗅，沿着小木屑爬过去，还是没有找到。豆豆有点着急，发出“叽叽叽”的叫声。小主人听到后，轻轻打开笼子，把一根新鲜的胡萝卜放在它嘴边。豆豆开心地抱住胡萝卜，小牙齿咔嚓咔嚓啃起来，吃得可香了。吃饱后，豆豆钻进软软的干草里，团成一个小毛球，闭上眼睛，甜甜地睡着了。"
+      },
+      "knowledge": {
+        "title": "豚鼠为什么会叽叽叫？",
+        "body": "豚鼠叽叽叫，是在表达不同的意思。高兴时叫得轻快，饿了会叫得大声，害怕时叫声短促又紧张。它们还会用身体蹭一蹭，表示喜欢你。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_guinea_pig_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_guinea_pig_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Guinea Pig",
+      "aloud": "/ˈɡɪni pɪɡ/",
+      "words": "",
+      "intro": "A guinea pig is a furry little animal with a round body, short legs, and small ears. They like to chirp and quietly munch on grass and vegetables.",
+      "story": {
+        "title": "🐹The Little Guinea Pig Looks for a Carrot",
+        "body": "Doudou the little guinea pig lived in a cozy cage and loved carrots most of all. One morning, Doudou woke up and found the carrot in the food bowl was gone. She rubbed her eyes and sniffed around with her little nose, crawling along the wood shavings, but still couldn’t find it. Doudou grew worried and let out a chirping sound. Her little owner heard and gently opened the cage, placing a fresh carrot by her mouth. Doudou happily grabbed the carrot and nibbled with her tiny teeth, crunching away. After eating her fill, Doudou snuggled into the soft hay, curled up into a little fur ball, closed her eyes, and drifted into a sweet sleep."
+      },
+      "knowledge": {
+        "title": "Why do guinea pigs chirp?",
+        "body": "Guinea pigs chirp to express different things. A light, fast chirp means they are happy, a loud chirp means they are hungry, and short, tense chirps show fear. They also nudge you to show they like you."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_guinea_pig_intro.mp3",
+        "story": "../item-audio/en/animal_guinea_pig_story.mp3"
+      }
+    }
+  }
+}

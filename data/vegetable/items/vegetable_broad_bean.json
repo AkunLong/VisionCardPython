@@ -1,0 +1,92 @@
+{
+  "id": "vegetable_broad_bean",
+  "sku_id": "card_vegetable_broad_bean",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "bean_vegetable"
+    ],
+    "secondary": [
+      "round",
+      "soft",
+      "sweet"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "soft",
+      "sweet"
+    ],
+    "grow_location": [
+      "in_field",
+      "in_garden"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "market"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "蚕豆",
+      "aloud": "cán dòu",
+      "words": "broad bean",
+      "intro": "蚕豆是一种绿色的豆子，圆圆的，煮熟后软软甜甜的。它长在胖胖的豆荚里，剥开豆荚就能看到可爱的豆宝宝。",
+      "story": {
+        "title": "🌱剥蚕豆",
+        "body": "小兔子和小刺猬一起去菜园摘蚕豆。蚕豆荚胖胖的，像一个个弯弯的小口袋。小兔子轻轻一扭，豆荚就掉了下来。它们摘了好多豆荚，坐在一起剥豆豆。小刺猬剥开豆荚，露出绿绿的豆宝宝，一个、两个、三个！小兔子也剥开一个，哇，里面有三个豆宝宝呢！小刺猬说：“豆宝宝好可爱呀，像绿色的小枕头。”小兔子说：“是呀，软软的。”它们把豆豆拿到厨房，和妈妈一起煮蚕豆。煮熟的蚕豆香喷喷的，软软糯糯。小兔子和小刺猬吃得真开心，还留了一些豆豆，要种到土里，明年结出更多蚕豆。"
+      },
+      "knowledge": {
+        "title": "吃蚕豆有什么好处？",
+        "body": "蚕豆里有丰富的蛋白质和纤维素，吃了让身体棒棒的，还能帮助小朋友长高高。而且蚕豆可以煮着吃、炒着吃，味道美极了！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_broad_bean_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_broad_bean_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Broad Bean",
+      "aloud": "/brɔːd biːn/",
+      "words": "",
+      "intro": "Broad beans are green, roundish beans that taste soft and sweet when cooked. They grow in plump pods, and you can see the cute little bean babies by opening the pod.",
+      "story": {
+        "title": "🌱Opening the Bean Pods",
+        "body": "Little Rabbit and Little Hedgehog went to the garden to pick broad beans. The pods were chubby, like little curved pockets. Little Rabbit gently twisted one, and it fell off. They picked many pods and sat together to open them. Little Hedgehog cracked open a pod and found green bean babies inside — one, two, three! Little Rabbit also opened one, and wow, there were three babies too! Little Hedgehog said, “The bean babies are so cute, like little green pillows.” Little Rabbit nodded, “Yes, so soft!” They took the beans to the kitchen and cooked them with Mommy. The cooked broad beans smelled wonderful, soft and sweet. Little Rabbit and Little Hedgehog enjoyed them very much and saved some beans to plant in the soil, hoping for more broad beans next year."
+      },
+      "knowledge": {
+        "title": "Why are broad beans good for you?",
+        "body": "Broad beans are full of protein and fiber, which help you grow strong and healthy. You can boil or stir-fry them — they taste delicious any way!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_broad_bean_intro.mp3",
+        "story": "../item-audio/en/vegetable_broad_bean_story.mp3"
+      }
+    }
+  }
+}

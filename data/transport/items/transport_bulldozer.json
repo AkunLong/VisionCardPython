@@ -1,0 +1,92 @@
+{
+  "id": "transport_bulldozer",
+  "sku_id": "card_transport_bulldozer",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "construction_vehicle",
+      "at_worksite"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_build",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "bulldozer"
+    ],
+    "color": [
+      "yellow",
+      "orange"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "construction_site"
+    ],
+    "fuel": [
+      "diesel"
+    ],
+    "features": [
+      "blade",
+      "tracks"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "推土机",
+      "aloud": "tuī tǔ jī",
+      "words": "bulldozer",
+      "intro": "推土机是一种大大的工程车，前面有一个大大的铲子。它可以在工地上推土，把地面推得平平的，帮助工人叔叔盖房子。",
+      "story": {
+        "title": "🚜小黄推土机的一天",
+        "body": "天一亮，小黄推土机就轰隆隆地开到了工地上。它看到地面坑坑洼洼的，就伸出大大的铲子，使劲把土往前推。一堆堆泥土被推得高高的，像一座小山。小黄推土机开心地推啊推，地面越来越平了。这时，一辆大卡车开了过来，把泥土一车一车地运走了。工人叔叔笑着说：“谢谢你，小黄！有了你，我们很快就能盖新房子啦！”小黄推土机听完，推得更起劲了。太阳慢慢下山了，小黄推土机累得趴在了地上，但它心里美滋滋的。它悄悄说：“今天真棒，明天我还要来帮忙！”说完，它闭上眼睛，安静地睡着了，梦里又推了好多好多土。"
+      },
+      "knowledge": {
+        "title": "推土机有什么本领？",
+        "body": "推土机是一种力气很大的工程车，前面装着一个大铲子。它能把泥土、沙石推走，让不平的地面变得平平的。工人叔叔用它来修路、盖房子，是建筑工地上的好帮手。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_bulldozer_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_bulldozer_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Bulldozer",
+      "aloud": "/ˈbʊlˌdoʊzər/",
+      "words": "",
+      "intro": "A bulldozer is a big construction vehicle with a large blade in front. It pushes soil and makes the ground flat. It helps workers build houses and roads.",
+      "story": {
+        "title": "🚜Little Yellow Bulldozer's Day",
+        "body": "When the sun came up, Little Yellow Bulldozer rumbled onto the construction site. The ground was bumpy, so it lowered its big blade and pushed the soil forward. Heaps of dirt piled up like little hills. Little Yellow Bulldozer pushed and pushed happily, and the ground became flatter and flatter. Just then, a big truck arrived and carried the dirt away, one load after another. A worker smiled and said, 'Thank you, Little Yellow! With your help, we can build a new house soon!' Little Yellow Bulldozer felt so proud and pushed even harder. As the sun went down, it was tired but full of joy. It whispered, 'What a great day! I'll come back to help tomorrow.' Then it closed its eyes and fell fast asleep, dreaming of pushing lots and lots of dirt."
+      },
+      "knowledge": {
+        "title": "What can a bulldozer do?",
+        "body": "A bulldozer is a strong construction vehicle with a big blade. It pushes soil, sand, and rocks to level the ground. Workers use it to build roads and houses. It's a helpful machine on the construction site."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_bulldozer_intro.mp3",
+        "story": "../item-audio/en/transport_bulldozer_story.mp3"
+      }
+    }
+  }
+}

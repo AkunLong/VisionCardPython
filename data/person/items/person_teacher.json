@@ -1,0 +1,90 @@
+{
+  "id": "person_teacher",
+  "sku_id": "card_person_teacher",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "at_school"
+    ],
+    "secondary": [
+      "adult",
+      "teach",
+      "public_service"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "teacher"
+    ],
+    "workplace": [
+      "school",
+      "classroom"
+    ],
+    "tools": [
+      "book",
+      "blackboard",
+      "chalk"
+    ],
+    "clothing": [],
+    "actions": [
+      "teach",
+      "guide",
+      "play"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "老师",
+      "aloud": "lǎo shī",
+      "words": "teacher",
+      "intro": "老师是教我们学本领的人。在幼儿园里，老师带我们唱歌、画画、做游戏，还教我们懂礼貌，像妈妈一样温柔。",
+      "story": {
+        "title": "📚小刺猬上幼儿园",
+        "body": "小刺猬第一天去幼儿园，躲在妈妈身后不敢进去。熊猫老师笑眯眯地蹲下来，轻轻拉住小刺猬的手：“欢迎你，小刺猬！我们一起玩积木好不好？”小刺猬点点头。教室里，熊猫老师带大家唱儿歌，小刺猬声音轻轻的。画画时，熊猫老师握着小刺猬的手，教它画太阳。午睡时，小刺猬想妈妈了，熊猫老师坐在旁边，轻轻拍着它，小声讲故事。放学时，小刺猬跑向妈妈，开心地说：“老师真好，我明天还要来！”"
+      },
+      "knowledge": {
+        "title": "老师的一天做什么？",
+        "body": "老师很早就到教室，准备好玩具和书本。上课时，老师教小朋友认字、数数。下课了，老师带小朋友做操、滑滑梯。中午老师帮大家盛饭，下午排排队送小朋友回家。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_teacher_intro.mp3",
+        "story": "../item-audio/zh-CN/person_teacher_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Teacher",
+      "aloud": "/ˈtiːtʃər/",
+      "words": "",
+      "intro": "A teacher is someone who helps us learn. In the classroom, a teacher sings with us, draws with us, and shows us how to be kind to each other.",
+      "story": {
+        "title": "📚Little Hedgehog Goes to Preschool",
+        "body": "It was Little Hedgehog's first day at preschool. He hid behind his mother, feeling shy. Mrs. Panda, the teacher, crouched down with a warm smile and held out her hand. “Welcome, Little Hedgehog! Shall we play with blocks?” Little Hedgehog nodded and slowly came forward. In the classroom, Mrs. Panda led the class in singing a happy song. During art time, she gently guided his paw to draw a big yellow sun. At naptime, Little Hedgehog missed his mom, so Mrs. Panda sat beside him, patted him softly, and whispered a story. When the day was over, he ran to his mom, grinning, “The teacher is so nice! I want to come back tomorrow!”"
+      },
+      "knowledge": {
+        "title": "What does a teacher do all day?",
+        "body": "A teacher arrives early to prepare toys and books. During class, she teaches letters and numbers. Outside, she plays tag and slides with the kids. At lunch, she helps serve food, and in the afternoon, she makes sure everyone gets home safely."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_teacher_intro.mp3",
+        "story": "../item-audio/en/person_teacher_story.mp3"
+      }
+    }
+  }
+}

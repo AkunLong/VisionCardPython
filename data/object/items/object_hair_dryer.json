@@ -1,0 +1,90 @@
+{
+  "id": "object_hair_dryer",
+  "sku_id": "card_object_hair_dryer",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "home_appliance",
+      "color_pink"
+    ],
+    "secondary": [
+      "at_home",
+      "in_bathroom",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "pink",
+      "white"
+    ],
+    "shape": [
+      "round",
+      "long"
+    ],
+    "material": [
+      "plastic"
+    ],
+    "scenes": [
+      "home",
+      "bathroom"
+    ],
+    "function": [
+      "dry_hair"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "吹风机",
+      "aloud": "chuī fēng jī",
+      "words": "hair dryer",
+      "intro": "吹风机可以吹出暖暖的风，帮我们吹干湿湿的头发。它有长长的身体和圆圆的风口，呼呼地吹出热风。",
+      "story": {
+        "title": "🌸小兔的蓬蓬毛",
+        "body": "小兔绵绵洗完澡，全身湿漉漉的，毛都贴在身上，她难过地说：“我不漂亮了。”妈妈拿出粉色的吹风机，轻轻按下按钮，暖暖的风吹出来，像妈妈的拥抱。吹风机呼呼地唱起歌，吹干了绵绵的耳朵、背背和尾巴。绵绵的毛又变得蓬蓬的、软软的，她开心地跳起来：“谢谢吹风机，让我变回漂亮的小兔！”吹风机眨眨小灯说：“不客气，这是我的工作呀。”以后每次洗完澡，绵绵都主动说：“快请吹风机来帮忙吧！”"
+      },
+      "knowledge": {
+        "title": "吹风机为什么能吹出热风？",
+        "body": "吹风机里面有电热丝和一个小风扇。电热丝发热，风扇转动把热风吹出来。这样就能快速吹干头发了。使用时要小心，不要靠太近哦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_hair_dryer_intro.mp3",
+        "story": "../item-audio/zh-CN/object_hair_dryer_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Hair Dryer",
+      "aloud": "/hɛr ˈdraɪər/",
+      "words": "",
+      "intro": "A hair dryer blows warm air to dry wet hair. It has a long body and a round nozzle, making a whirring sound as it works.",
+      "story": {
+        "title": "🌸Bunny’s Fluffy Fur",
+        "body": "After a bath, Bunny Mian Mian was all wet. Her fur stuck to her body, and she felt sad. “I don’t look pretty,” she said. Mommy brought out a pink hair dryer, pressed the button, and warm air flowed out like a hug. The hair dryer hummed a song and dried Bunny’s ears, back, and tail. Her fur became fluffy and soft again. Bunny jumped with joy: “Thank you, hair dryer, for making me pretty again!” The hair dryer winked its little light and said, “You’re welcome, that’s my job!” From then on, every bath time, Bunny asked, “Let’s get the hair dryer to help!”"
+      },
+      "knowledge": {
+        "title": "How does a hair dryer make hot air?",
+        "body": "Inside a hair dryer, there is a heating wire and a small fan. The wire gets hot, and the fan blows the hot air out. This helps dry hair quickly. Be careful not to hold it too close."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_hair_dryer_intro.mp3",
+        "story": "../item-audio/en/object_hair_dryer_story.mp3"
+      }
+    }
+  }
+}

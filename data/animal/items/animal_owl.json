@@ -1,0 +1,102 @@
+{
+  "id": "animal_owl",
+  "sku_id": "card_animal_owl",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "bird",
+      "forest_animal"
+    ],
+    "secondary": [
+      "has_wings",
+      "has_feathers",
+      "can_fly"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "bird"
+    ],
+    "color": [
+      "brown",
+      "gray",
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "feathers",
+      "wings",
+      "beak",
+      "big eyes"
+    ],
+    "scenes": [
+      "forest",
+      "tree",
+      "night"
+    ],
+    "actions": [
+      "fly",
+      "perch",
+      "hoot"
+    ],
+    "sound": [
+      "hoot"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "猫头鹰",
+      "aloud": "māo tóu yīng",
+      "words": "owl",
+      "intro": "猫头鹰是一种特别的鸟，长着圆圆的脸和大大的眼睛。它们喜欢在晚上出来活动，能轻轻飞在森林里。猫头鹰的叫声是“咕咕”，听上去神秘又有趣。",
+      "story": {
+        "title": "🦉小猫头鹰学飞",
+        "body": "月亮升起来了，猫头鹰小小站在树枝上。它看了看下面，有一点害怕。妈妈鼓励它：“别怕，张开翅膀，轻轻跳。”小小深吸一口气，张开翅膀，从树枝上跳了下去。一开始有点摇晃，但它努力拍动翅膀，慢慢地，它飞了起来！小小开心地绕着大树飞了一圈，然后停在妈妈身边。它用头蹭蹭妈妈，心里暖暖的。从此，小小再也不怕飞行了，每天晚上都和妈妈一起在森林里巡逻。"
+      },
+      "knowledge": {
+        "title": "猫头鹰的头为什么能转那么多？",
+        "body": "猫头鹰的脖子非常灵活，可以转动270度，这样它就能看到周围很多东西。它的眼睛很大，在黑暗中也能看清楚。猫头鹰的羽毛很软，飞行时非常安静。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_owl_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_owl_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Owl",
+      "aloud": "/aʊl/",
+      "words": "",
+      "intro": "An owl is a special bird with a round face and big eyes. They like to be active at night and can fly softly in the forest. An owl's sound is 'hoo-hoo', which sounds mysterious and fun.",
+      "story": {
+        "title": "🦉The Little Owl Learns to Fly",
+        "body": "The moon rose up, and Little Owl stood on a branch. He looked down and felt a little scared. Mom said, 'Don't be afraid. Spread your wings and gently jump.' Little Owl took a deep breath, spread his wings, and jumped from the branch. At first, he wobbled a bit, but he flapped his wings hard. Slowly, he was flying! Little Owl happily flew around the big tree and then landed next to Mom. He nuzzled her, feeling warm inside. From then on, Little Owl was never afraid to fly, and every night he patrolled the forest with his mom."
+      },
+      "knowledge": {
+        "title": "Why can owls turn their heads so far?",
+        "body": "Owls can turn their heads almost all the way around to see in every direction. Their big eyes help them see in the dark. An owl's feathers are very soft, so it can fly quietly."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_owl_intro.mp3",
+        "story": "../item-audio/en/animal_owl_story.mp3"
+      }
+    }
+  }
+}

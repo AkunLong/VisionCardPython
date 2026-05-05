@@ -1,0 +1,96 @@
+{
+  "id": "transport_tow_truck",
+  "sku_id": "card_transport_tow_truck",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "special_vehicle",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_rescue",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "tow_truck"
+    ],
+    "color": [
+      "yellow",
+      "orange",
+      "red"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "road",
+      "highway",
+      "city"
+    ],
+    "fuel": [
+      "diesel"
+    ],
+    "features": [
+      "hook",
+      "flatbed",
+      "wheels"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "拖车",
+      "aloud": "tuō chē",
+      "words": "tow truck",
+      "intro": "拖车是一种很厉害的车，它可以抬起坏了的车，把车子拖到修理厂去。它有很大的拖钩和长长的平板。",
+      "story": {
+        "title": "🚗大力士拖车的一天",
+        "body": "早晨，大力士拖车在车库里醒来。它刚吃完早餐，电话就响了：在高速公路上，有一辆小汽车坏了，走不动了。大力士立刻出发，闪着黄色的灯，轰隆隆地开到现场。它用长长的手臂轻轻抬起小汽车，放在自己的平板上。“别担心，我送你去修理厂。”大力士温柔地说。一路上，小汽车很安心，很快就到了修理厂。没过多久，又一个电话来了：一辆越野车陷在泥坑里啦！大力士又赶过去，拉啊拉，终于把越野车拉了出来。忙了一天，大力士回到家，它说：“虽然有点累，但帮助别人真快乐！”它喝了点水，安静地睡觉了，明天还要继续帮忙呢。"
+      },
+      "knowledge": {
+        "title": "为什么需要拖车？",
+        "body": "当汽车在路上突然坏了或者遇到事故，自己走不了的时候，就需要拖车来帮忙。拖车能把坏车安全地移到修理厂，避免让道路堵塞，让大家都能顺利通行。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_tow_truck_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_tow_truck_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Tow Truck",
+      "aloud": "/toʊ trʌk/",
+      "words": "",
+      "intro": "A tow truck is a strong vehicle that can lift broken-down cars and carry them to a garage. It has a big hook and a long flatbed.",
+      "story": {
+        "title": "🚗The Strong Tow Truck's Day",
+        "body": "In the morning, the strong tow truck woke up in the garage. After breakfast, the phone rang: a small car had broken down on the highway and couldn't move. The tow truck set off right away, flashing its yellow lights and rumbling to the spot. It used its long arm to gently lift the little car onto its flatbed. 'Don't worry, I'll take you to the garage,' the tow truck said softly. The small car felt safe and soon arrived at the repair shop. Not long after, another call came: an off-road vehicle was stuck in a mud puddle! The tow truck rushed over and pulled and pulled until it finally got the vehicle out. After a busy day, the tow truck went home. It said, 'I'm a little tired, but helping others makes me so happy!' It had some water, then fell asleep quietly, ready to help again tomorrow."
+      },
+      "knowledge": {
+        "title": "Why do we need tow trucks?",
+        "body": "When cars break down or have an accident on the road and can't move by themselves, tow trucks come to help. They can safely move the broken car to a garage, so the road doesn't get blocked and everyone can go on their way."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_tow_truck_intro.mp3",
+        "story": "../item-audio/en/transport_tow_truck_story.mp3"
+      }
+    }
+  }
+}

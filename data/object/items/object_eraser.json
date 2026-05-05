@@ -1,0 +1,89 @@
+{
+  "id": "object_eraser",
+  "sku_id": "card_object_eraser",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "study_item",
+      "color_white"
+    ],
+    "secondary": [
+      "at_school",
+      "can_clean",
+      "soft"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "white"
+    ],
+    "shape": [
+      "rectangle"
+    ],
+    "material": [
+      "rubber"
+    ],
+    "scenes": [
+      "school",
+      "home",
+      "office"
+    ],
+    "function": [
+      "erase"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "橡皮擦",
+      "aloud": "xiàng pí cā",
+      "words": "eraser",
+      "intro": "橡皮擦可以擦掉铅笔的字迹。它软软的，白白的，是铅笔的好朋友。",
+      "story": {
+        "title": "🧽橡皮擦小英雄",
+        "body": "小铅笔写错了字，急得团团转。白白的橡皮擦跳出来说：“别着急，我来帮你！”橡皮擦轻轻一擦，错字就不见了，纸上又干干净净。小铅笔说：“谢谢你，你真是个小英雄！”橡皮擦笑着说：“这是我的工作呀。不过你要记住，下次写的时候要更小心哦，我只是帮你改正，真正的进步要靠你自己。”小铅笔听了，用力地点点头。从此，它们成了最好的搭档，一起画出美丽的图画，写出工整的字。橡皮擦虽然越用越小，但它心里好开心，因为它帮助了朋友。"
+      },
+      "knowledge": {
+        "title": "橡皮擦为什么能擦掉铅笔字？",
+        "body": "铅笔芯是石墨做的，写字时石墨颗粒留在纸上。橡皮擦有橡胶，软软的，一摩擦就能把石墨颗粒粘走，字就不见了。所以用铅笔写字，擦起来很方便。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_eraser_intro.mp3",
+        "story": "../item-audio/zh-CN/object_eraser_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Eraser",
+      "aloud": "/ɪˈreɪsər/",
+      "words": "",
+      "intro": "An eraser can remove pencil marks. It's soft and white, a good friend to pencils.",
+      "story": {
+        "title": "🧽The Little Eraser Hero",
+        "body": "Little Pencil made a mistake and was worried. The white eraser jumped out and said, \"Don't worry, I'll help you!\" With a gentle rub, the mistake disappeared, and the paper was clean again. Little Pencil said, \"Thank you, you're a real hero!\" The eraser smiled and said, \"It's my job. But remember, next time be more careful. I can only help you fix it; real progress comes from you.\" Little Pencil nodded firmly. From then on, they became the best partners, drawing beautiful pictures and writing neat letters together. The eraser got smaller and smaller, but it was happy because it helped its friend."
+      },
+      "knowledge": {
+        "title": "Why can an eraser remove pencil marks?",
+        "body": "Pencil lead is made of graphite. When you write, tiny graphite particles stay on the paper. The eraser is made of rubber, which is soft. When you rub it, the rubber grabs the graphite particles and lifts them away, so the marks disappear. That's why using a pencil is easy to correct."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_eraser_intro.mp3",
+        "story": "../item-audio/en/object_eraser_story.mp3"
+      }
+    }
+  }
+}

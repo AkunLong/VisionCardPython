@@ -1,0 +1,90 @@
+{
+  "id": "vegetable_purple_cabbage",
+  "sku_id": "card_vegetable_purple_cabbage",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_purple",
+      "leafy_vegetable"
+    ],
+    "secondary": [
+      "round",
+      "crisp",
+      "healthy"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "purple"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "crisp"
+    ],
+    "grow_location": [
+      "aboveground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "紫甘蓝",
+      "aloud": "zǐ gān lán",
+      "words": "purple cabbage",
+      "intro": "紫甘蓝是一种紫色的蔬菜，圆圆的，咬起来脆脆的。它一层一层的叶子包在一起，像一个小球，切开后里面也是紫色的呢。",
+      "story": {
+        "title": "💜小兔的紫色惊喜",
+        "body": "小兔白白在菜园里发现了一个紫色的圆球，它好奇地摸了摸，又敲了敲。这到底是什么呀？白白轻轻掰下一片叶子，咯吱一声，叶子脆脆的。它尝了一小口，有点甜，又很清新。白白高兴地抱着紫甘蓝跑回家，妈妈笑着说：这是紫甘蓝，可以做沙拉哦。妈妈把紫甘蓝切成细细的丝，拌上甜甜的沙拉酱。白白和妈妈一起吃着紫色的沙拉，感觉像在吃彩虹。白白说：紫甘蓝真好看又好吃，我们多种几棵吧！第二天，它们一起在菜园里种下了更多的紫甘蓝苗。"
+      },
+      "knowledge": {
+        "title": "紫甘蓝有什么营养？",
+        "body": "紫甘蓝含有丰富的维生素和花青素，花青素让它变成漂亮的紫色。吃了对皮肤好，还能让身体更健康。紫甘蓝可以生吃、凉拌，也可以炒着吃，颜色还会变蓝呢。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_purple_cabbage_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_purple_cabbage_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Purple Cabbage",
+      "aloud": "/ˈpɜːrpl ˈkæbɪdʒ/",
+      "words": "",
+      "intro": "Purple cabbage is a round, crisp vegetable with beautiful purple leaves. Its leaves are packed tightly into a ball, and it's purple all the way through.",
+      "story": {
+        "title": "💜Little Rabbit’s Purple Surprise",
+        "body": "Little White Rabbit found a purple ball in the garden. He touched it and knocked on it gently. What could it be? He pulled off a leaf—crunch! It was crisp. He tasted a tiny bite; it was a little sweet and fresh. White Rabbit hugged the purple cabbage and ran home. Mom smiled and said, \"This is purple cabbage. We can make a salad!\" She cut it into thin strips and mixed it with sweet dressing. They ate the purple salad together, and it felt like eating a rainbow. White Rabbit said, \"Purple cabbage is so pretty and yummy! Let's plant more!\" The next day, they planted more purple cabbage seedlings in the garden."
+      },
+      "knowledge": {
+        "title": "What's good about purple cabbage?",
+        "body": "Purple cabbage is full of vitamins and anthocyanins, which give it the lovely purple color. It's good for your skin and helps keep your body healthy. You can eat it raw, in salads, or cooked—and it might even turn blue!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_purple_cabbage_intro.mp3",
+        "story": "../item-audio/en/vegetable_purple_cabbage_story.mp3"
+      }
+    }
+  }
+}

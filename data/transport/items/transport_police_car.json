@@ -1,0 +1,96 @@
+{
+  "id": "transport_police_car",
+  "sku_id": "card_transport_police_car",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "special_vehicle",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_drive",
+      "has_siren"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "police_car"
+    ],
+    "color": [
+      "white",
+      "black",
+      "blue"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "road",
+      "city",
+      "police_station"
+    ],
+    "fuel": [
+      "gasoline"
+    ],
+    "features": [
+      "siren",
+      "flashing_lights",
+      "wheels"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "警车",
+      "aloud": "jǐng chē",
+      "words": "police car",
+      "intro": "警车是警察叔叔开的车，车顶上有红蓝闪灯，还会发出呜哇呜哇的声音。它在马路上巡逻，保护大家的安全。",
+      "story": {
+        "title": "🚔小蓝车的一天",
+        "body": "早上，小蓝车开出警察局，开始巡逻了。它看到一个小女孩在路边哭，原来她找不到妈妈了。小蓝车打开闪灯，轻轻地说：别怕，我来帮你。它让小女孩坐进车里，用喇叭呼叫：哪位妈妈丢了宝宝？很快，一位妈妈跑了过来，抱住小女孩。小女孩笑了，妈妈感谢小蓝车。小蓝车继续巡逻，又帮助了老人过马路，还赶走了在路边欺负人的坏狗狗。傍晚，小蓝车回到警察局，警察叔叔摸摸它说：今天你帮了好多人，真是好帮手！小蓝车开心地眨眨车灯，安静地休息了。"
+      },
+      "knowledge": {
+        "title": "警车为什么重要？",
+        "body": "警车帮助警察叔叔快速去需要帮助的地方。它有警笛和闪灯，让大家知道有紧急的事。警车让我们的城市更安全，遇到危险时，可以找警车帮忙！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_police_car_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_police_car_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Police Car",
+      "aloud": "/pəˈliːs kɑːr/",
+      "words": "",
+      "intro": "A police car is a car driven by police officers. It has red and blue flashing lights on top and makes a loud siren sound. It patrols the road to keep everyone safe.",
+      "story": {
+        "title": "🚔The Little Blue Car's Day",
+        "body": "In the morning, the little blue car left the police station and started patrolling. It saw a little girl crying by the road. She had lost her mommy. The police car turned on its flashing lights and said softly, Don't be afraid, I'll help you. It let the girl sit inside and called out through the speaker, Has anyone lost a child? Soon a mommy ran over and hugged the girl. The girl smiled, and the mommy thanked the little blue car. The car kept patrolling. It helped an old man cross the road and chased away a naughty dog that was bothering people. In the evening, the little blue car returned to the station. The police officer patted it and said, You helped so many people today. You are a great helper! The police car happily flashed its lights, then rested quietly."
+      },
+      "knowledge": {
+        "title": "Why are police cars important?",
+        "body": "Police cars help police officers get to where they are needed quickly. They have sirens and flashing lights to let people know about emergencies. Police cars make our cities safer. If you are in danger, you can ask a police car for help!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_police_car_intro.mp3",
+        "story": "../item-audio/en/transport_police_car_story.mp3"
+      }
+    }
+  }
+}

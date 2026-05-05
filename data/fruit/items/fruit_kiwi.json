@@ -1,0 +1,87 @@
+{
+  "id": "fruit_kiwi",
+  "sku_id": "card_fruit_kiwi",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_brown",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "oval",
+      "sweet",
+      "vine_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "brown"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sweet",
+      "sour"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "猕猴桃",
+      "aloud": "mí hóu táo",
+      "words": "kiwi",
+      "intro": "猕猴桃是一种椭圆形的水果，穿着棕色的毛毛外衣，果肉碧绿，吃起来又甜又酸，含有丰富的维生素，帮助宝宝健康成长。",
+      "story": {
+        "title": "🐵小猴子的猕猴桃",
+        "body": "小猴子在果园里玩耍，忽然发现藤蔓上挂着许多毛茸茸的棕色果子。小猴子好奇地摘下一个，左看看右看看：“这是鸟蛋吗？怎么长在藤上？”它用手轻轻一捏，咦，有点软。小猴子把果子带回家，请妈妈帮忙。妈妈笑了笑，用刀切开，里面是绿绿的果肉，还有一圈黑色的小种子，像太阳的光芒。妈妈舀了一勺给小猴子。小猴子小心地尝了一口，“哇，酸酸甜甜的，真好吃！”它高兴地跳起来。小猴子把切好的猕猴桃小块放进碗里，端出来和小松鼠、小刺猬一起分享。大家吃得笑眯眯，都说：“原来毛茸茸的果子这么美味呀！”小猴子骄傲地说：“这叫猕猴桃，是我发现的新水果哦！”"
+      },
+      "knowledge": {
+        "title": "猕猴桃生长在哪里？",
+        "body": "猕猴桃喜欢温暖的气候，常常缠绕在架子或藤蔓上生长。它原产于中国，后来被带到了世界各地，现在很多国家都种植猕猴桃。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_kiwi_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_kiwi_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Kiwi",
+      "aloud": "/ˈkiːwiː/",
+      "words": "",
+      "intro": "A kiwi is an oval fruit with a fuzzy brown skin and bright green flesh. It tastes sweet and sour and is packed with vitamins to help little ones grow strong.",
+      "story": {
+        "title": "🐵The Little Monkey's Kiwi",
+        "body": "The little monkey was playing in the orchard when he spotted many fuzzy brown fruits hanging from a vine. Curious, he picked one and looked at it from all angles. “Is this a bird’s egg? How come it’s on a vine?” He gave it a gentle squeeze—oh, it was a bit soft. The little monkey brought the fruit home and asked his mom for help. With a smile, Mom cut it open. Inside was green flesh with a ring of tiny black seeds like rays of sunshine. Mom spooned out a piece for him. The little monkey took a careful bite. “Wow, it’s tangy and sweet, so yummy!” He jumped for joy. The little monkey put kiwi chunks into a bowl and shared them with his friends, the squirrel and the hedgehog. They all beamed and said, “So fuzzy fruits can be so delicious!” The little monkey proudly declared, “This is called kiwi, and I discovered it!”"
+      },
+      "knowledge": {
+        "title": "Where do kiwis grow?",
+        "body": "Kiwis love warm weather and grow on vines that climb trellises. They originally come from China, but now they are grown in many countries around the world."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_kiwi_intro.mp3",
+        "story": "../item-audio/en/fruit_kiwi_story.mp3"
+      }
+    }
+  }
+}

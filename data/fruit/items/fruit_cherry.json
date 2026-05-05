@@ -1,0 +1,86 @@
+{
+  "id": "fruit_cherry",
+  "sku_id": "card_fruit_cherry",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_red",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sweet",
+      "small"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "red"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "樱桃",
+      "aloud": "yīng táo",
+      "words": "cherry",
+      "intro": "樱桃是一种小小的、圆圆的水果，红红的像小宝石。它吃起来甜甜的，很多小朋友都喜欢。",
+      "story": {
+        "title": "🍒小鸟和樱桃树",
+        "body": "春天走了，夏天来了。樱桃树上挂满了红红的小樱桃，像一盏盏小灯笼。小鸟飞过来，停在树枝上，看见一颗最红的樱桃。小鸟轻轻啄了一下，“嗯，好甜呀！”小鸟开心极了。可是小鸟没有忘记朋友，它用嘴巴摘下几颗樱桃，飞去找小兔子和小刺猬。三个好朋友坐在草地上，把樱桃洗干净，你一颗我一颗。“真好吃！”小兔子笑了。“酸酸甜甜的！”小刺猬也笑了。小鸟说：“好朋友一起吃，樱桃更甜了。”吃完樱桃，它们把小小的果核埋进土里，说：“明年会长出更多的樱桃树！”"
+      },
+      "knowledge": {
+        "title": "樱桃什么时候成熟？",
+        "body": "樱桃一般在夏天成熟。阳光暖暖的，雨水不多不少，樱桃就慢慢变红、变甜。我们常常在五六月份吃到最新鲜的樱桃。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_cherry_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_cherry_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cherry",
+      "aloud": "/ˈtʃɛri/",
+      "words": "",
+      "intro": "A cherry is a small, round fruit that looks like a tiny red jewel. It tastes sweet and many children love it.",
+      "story": {
+        "title": "🍒The Little Bird and the Cherry Tree",
+        "body": "Spring went away and summer came. The cherry tree was full of little red cherries, like tiny lanterns. A little bird flew over and perched on a branch. It saw the reddest cherry and pecked it gently. \"Mmm, so sweet!\" The little bird was very happy. But the bird didn't forget its friends. It picked a few cherries with its beak and flew to find the little rabbit and the little hedgehog. The three friends sat on the grass, washed the cherries, and shared them one by one. \"So yummy!\" the little rabbit smiled. \"Sweet and a little sour!\" said the little hedgehog. The little bird said, \"Cherries taste even sweeter when we share with friends.\" After eating, they buried the tiny pits in the soil and said, \"Next year, more cherry trees will grow!\""
+      },
+      "knowledge": {
+        "title": "When do cherries ripen?",
+        "body": "Cherries usually ripen in summer. With warm sunshine and just the right amount of rain, cherries slowly turn red and sweet. We often see the freshest cherries in May and June."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_cherry_intro.mp3",
+        "story": "../item-audio/en/fruit_cherry_story.mp3"
+      }
+    }
+  }
+}

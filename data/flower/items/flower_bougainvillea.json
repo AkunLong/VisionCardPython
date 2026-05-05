@@ -1,0 +1,92 @@
+{
+  "id": "flower_bougainvillea",
+  "sku_id": "card_flower_bougainvillea",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_pink",
+      "vine_flower"
+    ],
+    "secondary": [
+      "summer_flower",
+      "sunny_flower",
+      "decorative"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "pink",
+      "purple",
+      "red"
+    ],
+    "size": [
+      "climbing"
+    ],
+    "scenes": [
+      "garden",
+      "balcony",
+      "street"
+    ],
+    "season": [
+      "summer",
+      "autumn"
+    ],
+    "smell": [
+      "none"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "三角梅",
+      "aloud": "sān jiǎo méi",
+      "words": "bougainvillea",
+      "intro": "三角梅是一种会开很多花的植物，粉粉的、紫紫的，像一片片彩色的小叶子。它的花小小的，藏在漂亮的苞片里，远看就像一朵大花，美丽极了。",
+      "story": {
+        "title": "🌸三角梅的颜色游戏",
+        "body": "小院子里有一棵三角梅，它伸出长长的藤蔓，爬满了围墙。春天过去了，夏天来了，三角梅的枝条上冒出许多小球球。小球球一天天长大，变成了薄薄的小叶片。咦？这些小叶片怎么不是绿色的？它们有粉红的、淡紫的、还有雪白的！小三角梅开心地说：“我要用这些彩色的叶子，把围墙打扮得漂漂亮亮！”蝴蝶飞过来问：“你的花在哪里呀？”小三角梅害羞地指了指彩色叶子中间。“看，我的小花就在这儿，小小的，黄黄的。”蝴蝶笑着说：“原来这些粉叶子是你的漂亮裙子呀！”夏天的阳光暖暖的，小三角梅的裙子越来越多，围墙变成了一幅彩色的画。"
+      },
+      "knowledge": {
+        "title": "三角梅的“花”是什么？",
+        "body": "三角梅颜色鲜艳的部分其实不是花瓣，而是特化的叶子，叫作苞片。苞片保护着中间小小的、不起眼的真花。常见有粉色、红色、紫色和白色。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_bougainvillea_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_bougainvillea_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Bougainvillea",
+      "aloud": "/ˌbuːɡənˈvɪliə/",
+      "words": "",
+      "intro": "Bougainvillea is a plant with lots of colorful leaves that look like flowers. The real flowers are tiny and white, tucked inside the bright pink, purple, or red bracts.",
+      "story": {
+        "title": "🌸The Bougainvillea’s Color Game",
+        "body": "A bougainvillea lived in a small yard, with long vines climbing over the wall. After spring, summer came, and little balls appeared on the branches. Day by day, they grew into thin, papery things. But they weren’t green! They were pink, light purple, and white. “I will use these colorful leaves to decorate the wall!” said the bougainvillea. A butterfly flew by and asked, “Where are your flowers?” The bougainvillea pointed shyly between the colorful leaves. “Look, here are my tiny yellow flowers.” The butterfly laughed, “So these pink leaves are your pretty dresses!” The summer sun was warm, and more dresses grew until the wall looked like a beautiful painting."
+      },
+      "knowledge": {
+        "title": "What are bougainvillea ‘flowers’?",
+        "body": "The bright parts of bougainvillea are not petals but special leaves called bracts. They protect the small, plain true flowers inside. Common colors are pink, red, purple, and white."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_bougainvillea_intro.mp3",
+        "story": "../item-audio/en/flower_bougainvillea_story.mp3"
+      }
+    }
+  }
+}

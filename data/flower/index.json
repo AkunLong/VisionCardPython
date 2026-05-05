@@ -1,0 +1,80 @@
+{
+  "id": "flower_set_v1",
+  "category": "flower",
+  "name": "花卉认知卡排序",
+  "description": "适合3-6岁儿童的花卉认知顺序，优先展示生活中常见、颜色鲜明、形态容易识别的花卉，再逐步扩展到季节性花卉、观赏花卉和低频花卉。",
+  "nav": {
+    "id": "flower",
+    "name": "花卉图卡合集",
+    "description": "45种常见花卉认知卡",
+    "available": true,
+    "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/flower/images/story/flower_begonia_story.jpg",
+    "title": {
+        "zh-CN": "花开四季，五彩缤纷",
+        "en": "A Garden for Every Season"
+      },
+      "subtitle": {
+        "zh-CN": "闻闻花香，看看花色",
+        "en": "Stop and Smell the Flowers"
+      },
+      "small_title": {
+        "zh-CN": "春天的樱花，夏天的荷花，秋天的桂花，花开四季",
+        "en": "Spring cherry blossoms, summer lotus, autumn osmanthus — flowers all year"
+      },
+      "background_color_image":"#FC5767",
+      "background_color_card":"#F84F5F"
+  },
+  "total": 45,
+  "items": [
+    { "id": "flower_peony", "name": "牡丹", "enName": "Peony" },
+    { "id": "flower_sunflower", "name": "向日葵", "enName": "Sunflower" },
+    { "id": "flower_rose", "name": "玫瑰", "enName": "Rose" },
+    { "id": "flower_cherry_blossom", "name": "樱花", "enName": "Cherry Blossom" },
+    { "id": "flower_lotus", "name": "荷花", "enName": "Lotus" },
+    { "id": "flower_tulip", "name": "郁金香", "enName": "Tulip" },
+    { "id": "flower_lily", "name": "百合", "enName": "Lily" },
+
+    { "id": "flower_chinese_rose", "name": "月季花", "enName": "Chinese Rose" },
+    { "id": "flower_carnation", "name": "康乃馨", "enName": "Carnation" },
+    { "id": "flower_osmanthus", "name": "桂花", "enName": "Osmanthus" },
+
+    { "id": "flower_peach_blossom", "name": "桃花", "enName": "Peach Blossom" },
+    { "id": "flower_crabapple", "name": "海棠花", "enName": "Crabapple" },
+    { "id": "flower_pear_blossom", "name": "梨花", "enName": "Pear Blossom" },
+    { "id": "flower_winter_jasmine", "name": "迎春花", "enName": "Winter Jasmine" },
+    { "id": "flower_chrysanthemum", "name": "菊花", "enName": "Chrysanthemum" },
+    { "id": "flower_narcissus", "name": "水仙", "enName": "Narcissus" },
+    { "id": "flower_jasmine_gardenia", "name": "栀子花", "enName": "Gardenia" },
+    { "id": "flower_camellia", "name": "山茶花", "enName": "Camellia" },
+    { "id": "flower_orchid", "name": "蝴蝶兰", "enName": "Orchid" },
+    { "id": "flower_hydrangea", "name": "绣球花", "enName": "Hydrangea" },
+
+    { "id": "flower_lavender", "name": "薰衣草", "enName": "Lavender" },
+    { "id": "flower_morning_glory", "name": "牵牛花", "enName": "Morning Glory" },
+    { "id": "flower_bougainvillea", "name": "三角梅", "enName": "Bougainvillea" },
+    { "id": "flower_babys_breath", "name": "满天星", "enName": "Baby's Breath" },
+    { "id": "flower_calla_lily", "name": "马蹄莲", "enName": "Calla Lily" },
+    { "id": "flower_hyacinth", "name": "风信子", "enName": "Hyacinth" },
+    { "id": "flower_dahlia", "name": "大丽花", "enName": "Dahlia" },
+    { "id": "flower_calendula", "name": "金盏花", "enName": "Calendula" },
+    { "id": "flower_zinnia", "name": "百日草", "enName": "Zinnia" },
+    { "id": "flower_cockscomb", "name": "鸡冠花", "enName": "Cockscomb" },
+
+    { "id": "flower_pomegranate_blossom", "name": "石榴花", "enName": "Pomegranate Blossom" },
+    { "id": "flower_succulent", "name": "多肉", "enName": "Succulent" },
+    { "id": "flower_red_silk_cotton", "name": "木棉花", "enName": "Red Silk Cotton" },
+    { "id": "flower_cotton_rose", "name": "木芙蓉", "enName": "Cotton Rose" },
+    { "id": "flower_tree_peony", "name": "芍药", "enName": "Herbaceous Peony" },
+    { "id": "flower_violet", "name": "紫罗兰", "enName": "Violet" },
+    { "id": "flower_forget_me_not", "name": "勿忘我", "enName": "Forget-Me-Not" },
+    { "id": "flower_blue_plumbago", "name": "蓝雪花", "enName": "Blue Plumbago" },
+    { "id": "flower_lily_of_the_valley", "name": "铃兰", "enName": "Lily of the Valley" },
+    { "id": "flower_poppy", "name": "虞美人", "enName": "Poppy" },
+
+    { "id": "flower_wisteria", "name": "紫藤花", "enName": "Wisteria" },
+    { "id": "flower_clematis", "name": "铁线莲", "enName": "Clematis" },
+    { "id": "flower_begonia", "name": "秋海棠", "enName": "Begonia" },
+    { "id": "flower_plantain_lily", "name": "大花葱", "enName": "Giant Allium" },
+    { "id": "flower_nandina", "name": "南天竹", "enName": "Nandina" }
+    ]
+}

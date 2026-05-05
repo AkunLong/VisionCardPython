@@ -1,0 +1,97 @@
+{
+  "id": "plant_banana_tree",
+  "sku_id": "card_plant_banana_tree",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "color_green"
+    ],
+    "secondary": [
+      "has_trunk",
+      "has_leaf",
+      "has_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "green",
+      "yellow"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "trunk",
+      "leaves",
+      "fruit",
+      "roots"
+    ],
+    "scenes": [
+      "garden",
+      "field"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "香蕉树",
+      "aloud": "xiāng jiāo shù",
+      "words": "banana tree",
+      "intro": "香蕉树长得高高的，有像柱子一样的树干，叶子又大又绿。它结出一串串黄黄的香蕉，甜甜的，小朋友们都爱吃。",
+      "story": {
+        "title": "🍌香蕉树上的小猴子",
+        "body": "在热带的花园里，有一棵高高的香蕉树。夏天到了，香蕉树上挂满了一串串绿色的香蕉。小猴子皮皮跳过来，眼睛亮晶晶的，它好想吃香蕉呀！可是香蕉还是青青的，硬硬的。香蕉树温柔地说：'再等等哦，等太阳公公多晒晒，香蕉就会变黄变软啦。' 皮皮点了点头，每天来看望香蕉树。过了些日子，香蕉真的变黄了，散发出甜甜的香味。皮皮摘下几根香蕉，分给小兔、小鹿一起吃。大家都觉得香蕉软软的，甜蜜蜜的，开心极了！皮皮对香蕉树说：'谢谢你，明年我们还要来吃你的香蕉！'"
+      },
+      "knowledge": {
+        "title": "香蕉树是怎么长香蕉的？",
+        "body": "香蕉树从地里吸收营养，在高高的树干上长出一大串花，然后花会变成小香蕉。小香蕉慢慢长大变黄，我们就可以摘下来吃啦！香蕉营养多，吃了有力气。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_banana_tree_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_banana_tree_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Banana Tree",
+      "aloud": "/bəˈnænə triː/",
+      "words": "",
+      "intro": "The banana tree is tall with a thick trunk and big green leaves. It grows bunches of yellow bananas that are sweet and yummy. Children love to eat them.",
+      "story": {
+        "title": "🍌The Little Monkey and the Banana Tree",
+        "body": "In a tropical garden, there was a tall banana tree. In summer, the tree was full of green bananas. Little monkey Pipi jumped over, his eyes sparkling. He really wanted to eat a banana! But the bananas were still green and hard. The banana tree said gently, 'Wait a little longer. When the sun shines more, the bananas will turn yellow and soft.' Pipi nodded and visited the banana tree every day. After some days, the bananas turned yellow and smelled sweet. Pipi picked a few bananas and shared them with Rabbit and Deer. Everyone found the bananas soft and sweet. They were so happy! Pipi said to the banana tree, 'Thank you! We will come back for your bananas next year!'"
+      },
+      "knowledge": {
+        "title": "How do bananas grow?",
+        "body": "The banana tree takes nutrients from the soil and grows a big flower on its tall trunk. The flower turns into small bananas. They slowly grow bigger and become yellow. Then we can pick and eat them. Bananas give us energy and are very healthy."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_banana_tree_intro.mp3",
+        "story": "../item-audio/en/plant_banana_tree_story.mp3"
+      }
+    }
+  }
+}

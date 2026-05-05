@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_okra",
+  "sku_id": "card_vegetable_okra",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "bean_vegetable"
+    ],
+    "secondary": [
+      "long",
+      "soft",
+      "healthy"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "mild",
+      "soft"
+    ],
+    "grow_location": [
+      "on plant"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "秋葵",
+      "aloud": "qiū kuí",
+      "words": "okra",
+      "intro": "秋葵是一种绿色的蔬菜，长长的，摸起来有点毛茸茸，吃起来滑滑软软的。它长在植株上，像一个个绿色的小指头。",
+      "story": {
+        "title": "🌿滑溜溜的秋葵",
+        "body": "小猫咪来到菜园，看见秋葵挂在枝头，像一个个绿色的小火箭。它摘下一根，轻轻一咬，哎呀，滑溜溜的！小猫咪觉得很有趣，于是它又摘了几根，分给了好朋友小狗。小狗尝了尝，说：虽然有点滑，但是很好吃呢！两个好朋友坐在草地上，你一口我一口，把秋葵都吃光了。吃完后，它们还把秋葵的种子留下来，一起种到了土里，期待长出更多小火箭一样的秋葵。"
+      },
+      "knowledge": {
+        "title": "吃秋葵有什么好处？",
+        "body": "秋葵里面有很多维生素和纤维，吃了可以帮助肚子消化，让身体棒棒的。而且秋葵可以炒着吃、煮汤喝，软软滑滑的，很好吃！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_okra_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_okra_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Okra",
+      "aloud": "/ˈoʊkrə/",
+      "words": "",
+      "intro": "Okra is a green vegetable that is long and a little fuzzy. It tastes mild and soft, and it can be a bit slimy. It grows on a plant, like little green fingers.",
+      "story": {
+        "title": "🌿The Slippery Okra",
+        "body": "The little cat came to the garden and saw okra hanging from the plant, like little green rockets. She picked one, took a small bite, and found it very slippery! The cat thought it was fun, so she picked some more and shared them with her friend the puppy. The puppy tried it and said, Although it's a bit slippery, it's delicious! The two friends sat on the grass, eating the okra until it was all gone. After that, they saved the seeds and planted them in the soil, hoping to grow more rocket-shaped okra."
+      },
+      "knowledge": {
+        "title": "Why is eating okra good for you?",
+        "body": "Okra is full of vitamins and fiber, which help your tummy digest food and keep your body strong. You can stir-fry okra or put it in soup — it's soft, slippery, and tasty!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_okra_intro.mp3",
+        "story": "../item-audio/en/vegetable_okra_story.mp3"
+      }
+    }
+  }
+}

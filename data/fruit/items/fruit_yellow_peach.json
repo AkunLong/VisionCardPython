@@ -1,0 +1,87 @@
+{
+  "id": "fruit_yellow_peach",
+  "sku_id": "card_fruit_yellow_peach",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_yellow",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "oval",
+      "sweet",
+      "juicy"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "yellow"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sweet",
+      "juicy"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "黄桃",
+      "aloud": "huáng táo",
+      "words": "yellow peach",
+      "intro": "黄桃是一种甜甜的水果，外皮黄黄的，果肉也是黄黄的，咬一口汁水多多。它营养好，能让小朋友身体棒棒。",
+      "story": {
+        "title": "🐵小猴子的黄桃",
+        "body": "夏天的果园里，小猴子看到一棵桃树上挂着黄澄澄的桃子。桃子圆圆的，摸上去毛茸茸，闻起来香喷喷。小猴子轻轻地摘下一个，用溪水洗干净，一口咬下去：“哇，好甜，好多汁呀！”小猴子开心极了。它想到好朋友小兔和小熊，就抱着黄桃跑去找它们。三个小伙伴坐在大树下，小猴子把黄桃切成三块，一人一块。小兔咬了一口，眼睛眯成缝：“真好吃！”小熊也点点头：“谢谢你，小猴子。”大家一起吃黄桃，树上的小鸟也叽叽喳喳唱起歌来。这个夏天，因为分享，变得更甜了。"
+      },
+      "knowledge": {
+        "title": "黄桃在什么季节成熟？",
+        "body": "黄桃一般在夏天成熟。天气热，阳光足，黄桃就会变得又黄又甜。我们常在七月和八月吃到最好吃的黄桃，它们从树上摘下来，还带着阳光的味道呢。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_yellow_peach_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_yellow_peach_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Yellow Peach",
+      "aloud": "/ˈjɛloʊ piːtʃ/",
+      "words": "",
+      "intro": "A yellow peach is a sweet fruit with yellow skin and yellow flesh. It's juicy and nutritious, helping little ones grow strong.",
+      "story": {
+        "title": "🐵Little Monkey's Yellow Peach",
+        "body": "In a summer orchard, a little monkey saw a peach tree with golden yellow peaches. The peaches were round, a little fuzzy, and smelled so sweet. The little monkey gently picked one, washed it in a stream, and took a bite. “Wow, so sweet and juicy!” The little monkey was overjoyed. He thought of his friends Little Rabbit and Little Bear, so he carried the peach and ran to find them. The three friends sat under a big tree, and the little monkey cut the peach into three pieces, one for each. Little Rabbit took a bite and squinted happily, “So yummy!” Little Bear nodded, “Thank you, little monkey.” As they ate together, the birds in the tree chirped a cheerful song. That summer, sharing made everything sweeter."
+      },
+      "knowledge": {
+        "title": "When do yellow peaches ripen?",
+        "body": "Yellow peaches typically ripen in summer. With plenty of warm sunshine, they turn yellow and sweet. The best ones are picked in July and August, bringing the taste of sunshine."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_yellow_peach_intro.mp3",
+        "story": "../item-audio/en/fruit_yellow_peach_story.mp3"
+      }
+    }
+  }
+}

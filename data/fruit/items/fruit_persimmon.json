@@ -1,0 +1,86 @@
+{
+  "id": "fruit_persimmon",
+  "sku_id": "card_fruit_persimmon",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_orange",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sweet",
+      "soft"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "orange"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "柿子",
+      "aloud": "shì zi",
+      "words": "persimmon",
+      "intro": "柿子是一种橙色的水果，形状圆圆的，吃起来甜甜软软的。它含有丰富的维生素，可以帮助小朋友健康长大。",
+      "story": {
+        "title": "🐻小熊的柿子",
+        "body": "秋天来了，果园里的柿子树上挂满了橙色的小灯笼。小熊站在树下，望着一个最圆最亮的柿子，咽了咽口水。它踮起脚尖，轻轻地摘下那个柿子。柿子摸起来软软的，散发出甜甜的香味。小熊小心地把柿子洗干净，咬了一小口：“好甜呀！就像吃了蜜一样。”可是，它想到好朋友小兔子还没尝过呢。于是，小熊把柿子切成几块，跑去找小兔子。两个小伙伴坐在一起，你一块我一块，吃得满嘴都是甜甜的汁水。小兔子说：“小熊，这个柿子真甜，和你一起分享更甜啦！”小熊开心地笑了，它觉得把甜蜜分给朋友，心里比吃柿子还要甜。"
+      },
+      "knowledge": {
+        "title": "柿子什么时候最好吃？",
+        "body": "柿子在秋天成熟。刚摘下来的柿子可能还有点涩，要放一放，等它变得红红的、软软的，那时候吃起来才最甜最美味哦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_persimmon_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_persimmon_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Persimmon",
+      "aloud": "/pərˈsɪmən/",
+      "words": "",
+      "intro": "A persimmon is an orange, round fruit that tastes sweet and soft. It is full of vitamins that help children grow up healthy.",
+      "story": {
+        "title": "🐻Little Bear's Persimmon",
+        "body": "Autumn came, and the persimmon tree in the orchard was covered with small orange lanterns. Little Bear stood under the tree, looking at the roundest and brightest persimmon, and swallowed. It stood on tiptoe and gently picked the persimmon. The fruit felt soft and smelled sweet. Little Bear carefully washed it and took a small bite. “So sweet! It’s like eating honey.” But then it remembered that its good friend Little Rabbit had never tasted it. So Little Bear cut the persimmon into several pieces and ran to find Little Rabbit. The two friends sat together, sharing the pieces, their mouths full of sweet juice. Little Rabbit said, “Little Bear, this persimmon is so sweet, and sharing it with you makes it even sweeter!” Little Bear smiled happily, feeling that sharing sweetness with a friend made its heart even sweeter than eating the persimmon."
+      },
+      "knowledge": {
+        "title": "When do persimmons taste best?",
+        "body": "Persimmons ripen in autumn. Freshly picked ones may be a little astringent. Let them sit until they turn deep orange and very soft—that's when they are sweetest and most delicious."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_persimmon_intro.mp3",
+        "story": "../item-audio/en/fruit_persimmon_story.mp3"
+      }
+    }
+  }
+}

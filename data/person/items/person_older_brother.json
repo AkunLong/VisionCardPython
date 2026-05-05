@@ -1,0 +1,92 @@
+{
+  "id": "person_older_brother",
+  "sku_id": "card_person_older_brother",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "at_home"
+    ],
+    "secondary": [
+      "child",
+      "male",
+      "take_care"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "older_brother"
+    ],
+    "workplace": [
+      "home",
+      "school"
+    ],
+    "tools": [
+      "toys",
+      "books"
+    ],
+    "clothing": [
+      "t-shirt",
+      "shorts"
+    ],
+    "actions": [
+      "play",
+      "help",
+      "share"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "哥哥",
+      "aloud": "gē ge",
+      "words": "older brother",
+      "intro": "哥哥是家里的好伙伴。他会陪我玩耍，教我搭积木，还会保护我。有了哥哥，每天都很开心。",
+      "story": {
+        "title": "🏠小熊和哥哥搭积木",
+        "body": "小熊今天想玩积木，可是总是搭不高。哥哥走过来，笑着说：我来帮你吧。哥哥教小熊一块一块地放，先把大的放在下面，再放小的。不一会儿，一座高高的城堡就搭好了。小熊开心地拍手：哥哥真棒！哥哥说：我们一起搭个更大的！他们一起玩，搭了城堡，还搭了火车。玩累了，哥哥给小熊倒了一杯水，说：慢慢喝，别呛着。小熊觉得有哥哥真好，心里暖暖的。"
+      },
+      "knowledge": {
+        "title": "哥哥是什么样的家人？",
+        "body": "哥哥是家里的哥哥，通常比你大几岁。他会陪你玩，教你新东西，有时候还会当小老师。哥哥会保护你，和你分享好吃的。有哥哥的家庭很热闹，充满了爱。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_older_brother_intro.mp3",
+        "story": "../item-audio/zh-CN/person_older_brother_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Older Brother",
+      "aloud": "/ˈoʊldər ˈbrʌðər/",
+      "words": "",
+      "intro": "An older brother is a special person in the family. He plays with you, teaches you things, and protects you. With an older brother, every day is full of fun.",
+      "story": {
+        "title": "🏠 Little Bear and His Older Brother",
+        "body": "Little Bear wanted to build a tower with blocks, but it kept falling down. His older brother came over and smiled. Let me help you, he said. Brother showed Little Bear how to place the blocks one by one, big ones at the bottom and small ones on top. Soon, a tall castle was built. Little Bear clapped his hands happily. You're great, brother! Brother said, Let's build something even bigger together! They played and built a castle and a train. When they got tired, brother poured a glass of water for Little Bear. Drink slowly, don't choke, he said. Little Bear felt warm inside. Having an older brother is so wonderful."
+      },
+      "knowledge": {
+        "title": "What is an older brother like?",
+        "body": "An older brother is a bigger sibling. He is usually a few years older than you. He plays with you, teaches you new things, and sometimes acts like a little teacher. He protects you and shares his snacks with you. A family with an older brother is full of love and laughter."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_older_brother_intro.mp3",
+        "story": "../item-audio/en/person_older_brother_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "plant_shrub",
+  "sku_id": "card_plant_shrub",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "color_green",
+      "has_leaf"
+    ],
+    "secondary": [
+      "in_garden",
+      "has_flower",
+      "small_leaf"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "shrub"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ],
+    "size": [
+      "short",
+      "medium"
+    ],
+    "parts": [
+      "stems",
+      "branches",
+      "leaves",
+      "roots"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "forest",
+      "roadside"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "灌木",
+      "aloud": "guàn mù",
+      "words": "shrub",
+      "intro": "灌木矮矮的，有很多细细的枝条，叶子密密绿绿的。春天开小花，蜜蜂飞来飞去，花园里到处都是它的身影。",
+      "story": {
+        "title": "🌿灌木丛的小秘密",
+        "body": "有一天，小乐在花园里发现了一大丛灌木。春天到了，灌木上开满了粉粉的小花，香香的，小蜜蜂提着篮子来采蜜。夏天，叶子长得又密又绿，小麻雀躲进去乘凉，叽叽喳喳地唱歌。秋天，花落了，结出了一串串红红的小果子，小蚂蚁爬上来尝了尝，酸酸甜甜的。冬天，叶子落了一些，可是枝条还是绿绿的，不怕冷，等着春天再来开花。小乐每天都会来看它，他觉得灌木真是个小花园，藏着好多小秘密，是小动物们的游乐园。第二年春天，灌木又开了更多的花，蜜蜂来得更早了，小乐开心地拍手笑起来。"
+      },
+      "knowledge": {
+        "title": "灌木有什么特点？",
+        "body": "灌木矮矮的，有很多细细的枝条，叶子密密。可以修剪成圆球或小动物形状，让花园更漂亮。有些灌木会开花结果，吸引蝴蝶、蜜蜂和小鸟，还是小动物的家呢！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_shrub_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_shrub_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Shrub",
+      "aloud": "/ʃrʌb/",
+      "words": "",
+      "intro": "A shrub is low and bushy, with many thin stems and dense green leaves. In spring, it blooms with tiny flowers, and bees come to visit. You can see shrubs in many gardens.",
+      "story": {
+        "title": "🌿The Little Secrets of the Shrub",
+        "body": "One day, little Le found a big shrub in the garden. In spring, it was covered with pink blossoms, so sweet. Little bees came with their baskets to collect nectar. In summer, the leaves grew thick and green. Little sparrows hid inside to keep cool, chirping happily. In autumn, the flowers fell and tiny red berries appeared. Ants climbed up to taste them—they were sour and sweet. In winter, some leaves dropped, but the stems stayed green and strong, waiting for spring to bloom again. Le visited every day. He thought the shrub was a tiny garden full of secrets, a playground for little creatures. Next spring, the shrub bloomed even more, and the bees came earlier. Le clapped his hands and laughed with joy."
+      },
+      "knowledge": {
+        "title": "What is special about shrubs?",
+        "body": "Shrubs are low and have many thin stems with dense leaves. They can be trimmed into round shapes or cute animal forms to make gardens pretty. Some shrubs flower and bear fruit, attracting butterflies, bees, and birds. They also provide homes for small animals."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_shrub_intro.mp3",
+        "story": "../item-audio/en/plant_shrub_story.mp3"
+      }
+    }
+  }
+}

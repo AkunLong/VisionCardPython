@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_a",
+  "sku_id": "card_number_letter_a",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "vowel_letter"
+    ],
+    "secondary": [
+      "alphabet_order",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 1,
+    "is_even": false,
+    "is_prime": false,
+    "ordinal": "1st",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母A",
+      "aloud": "ā",
+      "words": "ant",
+      "intro": "A 是字母表里第一个字母。它像一座尖尖的小山，又像一把高高的梯子。我们一起来认识它吧！",
+      "story": {
+        "title": "🔤 字母A的大冒险",
+        "body": "字母A是个勇敢的小尖帽。一天，它想去花园里找好朋友小蚂蚁（Ant）。小蚂蚁藏在叶子下面，A大声喊：“啊！蚂蚁在这里！”小蚂蚁爬出来，和A一起玩。它们爬上A的尖顶，像滑滑梯一样滑下来。小蚂蚁笑着说：“A真有趣，像个大帐篷！”它们一起数蚂蚁：一只、两只、三只。太阳落山了，A和小蚂蚁说再见，明天还要一起玩。字母A真开心，它有好多好朋友呢！"
+      },
+      "knowledge": {
+        "title": "A是什么字母？",
+        "body": "A 是很多宝宝最先认识的字母。它读作“ā”，像张开嘴巴发出的声音。在英文里，很多单词都以A开头，比如蚂蚁（Ant）、苹果（Apple）。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_a_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_a_story.mp3"
+      }
+    },
+    "en": {
+      "name": "A",
+      "aloud": "/eɪ/",
+      "words": "",
+      "intro": "A is the first letter of the alphabet. It looks like a pointy mountain or a tall ladder. Let's learn about it together!",
+      "story": {
+        "title": "🔤 Letter A's Big Adventure",
+        "body": "Letter A is a brave little pointy hat. One day, it wanted to find its good friend, Little Ant, in the garden. Little Ant was hiding under a leaf. A shouted loudly, \"Ah! Ant is here!\" Little Ant crawled out and played with A. They climbed up to the tip of A and slid down like a slide. Little Ant laughed, \"A is so fun, just like a big tent!\" They counted ants together: one, two, three. When the sun went down, A and Little Ant said goodbye, promising to play again tomorrow. Letter A was so happy to have many good friends!"
+      },
+      "knowledge": {
+        "title": "What is the letter A?",
+        "body": "A is often the first letter children learn. It makes the sound \"ay,\" like when you open your mouth wide. Many words start with A, such as ant and apple."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_a_intro.mp3",
+        "story": "../item-audio/en/number_letter_a_story.mp3"
+      }
+    }
+  }
+}

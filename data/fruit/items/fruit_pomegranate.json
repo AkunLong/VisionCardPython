@@ -1,0 +1,86 @@
+{
+  "id": "fruit_pomegranate",
+  "sku_id": "card_fruit_pomegranate",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_red",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sweet",
+      "has_seeds"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "red"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "石榴",
+      "aloud": "shí liu",
+      "words": "pomegranate",
+      "intro": "石榴是一种圆圆的水果，外皮红红的，里面藏着许多亮晶晶的小籽，像宝石一样。吃起来甜甜的，很有营养，能让小朋友身体棒棒。",
+      "story": {
+        "title": "🦊小狐狸的石榴",
+        "body": "秋天到了，果园里的石榴成熟了。小狐狸抬头看，树上挂着一个大红石榴，圆嘟嘟的，外皮滑溜溜的。“这个石榴一定很甜！”小狐狸轻轻把石榴摘下来，用叶子擦干净，小心地掰开。哇！里面挤满了红宝石一样的小籽，亮晶晶的。小狐狸尝了一颗，酸酸甜甜的，满嘴都是果汁。它舍不得自己吃完，捧着一半石榴去找小兔子，又分给小鸟几颗籽。大家围在一起，一边剥石榴一边笑。小狐狸觉得，和朋友分享石榴，比一个人吃还要开心。"
+      },
+      "knowledge": {
+        "title": "石榴的肚子里有什么？",
+        "body": "石榴的肚子里有很多很多晶莹的小籽，我们吃的小籽其实是石榴的种子。每一颗种子外面都包着甜甜的汁水，咬一口就会爆出甜甜的果汁。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_pomegranate_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_pomegranate_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Pomegranate",
+      "aloud": "/ˈpɑːmɪɡrænɪt/",
+      "words": "",
+      "intro": "A pomegranate is a round, red fruit with a hard outer skin. Inside, it is packed with shiny, ruby-like seeds that taste sweet and juicy, and are full of nutrients to help kids grow strong.",
+      "story": {
+        "title": "🦊The Little Fox's Pomegranate",
+        "body": "In the fall, the pomegranates in the orchard were ripe. The little fox looked up and saw a big red pomegranate hanging on the tree. It was round and plump, with a smooth, shiny skin. “This pomegranate must be very sweet!” The little fox carefully picked it, wiped it clean with a leaf, and gently broke it open. Wow! Inside were lots of shiny, ruby-red seeds, all packed together. The little fox tasted one—it was sweet and a little sour, and the juice filled its mouth. But it didn’t want to eat it all alone. It carried half to share with the little rabbit, and gave a few seeds to the little bird. Everyone sat together, peeling and eating the pomegranate, laughing with joy. The little fox felt that sharing with friends made the pomegranate even sweeter."
+      },
+      "knowledge": {
+        "title": "What’s inside a pomegranate?",
+        "body": "Inside a pomegranate are many bright, jewel-like seeds. Each tiny seed is covered with a sweet, juicy pulp. When you bite into one, it bursts with delicious juice."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_pomegranate_intro.mp3",
+        "story": "../item-audio/en/fruit_pomegranate_story.mp3"
+      }
+    }
+  }
+}

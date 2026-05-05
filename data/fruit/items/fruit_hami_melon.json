@@ -1,0 +1,87 @@
+{
+  "id": "fruit_hami_melon",
+  "sku_id": "card_fruit_hami_melon",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_yellow",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "oval",
+      "sweet",
+      "juicy"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "yellow"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sweet",
+      "juicy"
+    ],
+    "scenes": [
+      "farm",
+      "supermarket",
+      "home"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "哈密瓜",
+      "aloud": "hā mì guā",
+      "words": "hami melon",
+      "intro": "哈密瓜是一种椭圆形的瓜，外皮黄黄的，果肉甜甜的，汁水很多。它长在藤蔓上，是夏天和秋天里很受欢迎的水果。",
+      "story": {
+        "title": "🐫小骆驼的哈密瓜",
+        "body": "夏天的农场里，小骆驼看见藤蔓上挂着一个个椭圆形的哈密瓜，外皮黄黄的，闻起来香香的。小骆驼轻轻摘下一个，抱在怀里。它把哈密瓜带回家，妈妈帮忙切开，金黄的瓜肉露出来，甜甜的汁水都流下来了。小骆驼咬了一口，软软的，甜甜的，像蜜一样美味。小骆驼想起了住在隔壁的小羊，就端着切好的哈密瓜去敲门。“小羊，请你吃哈密瓜！”小羊高兴极了，两个好朋友坐在树下，一边吃一边笑。小骆驼明白了：甜甜的水果，要和朋友一起分享，才会变得更甜。"
+      },
+      "knowledge": {
+        "title": "哈密瓜长在哪里？",
+        "body": "哈密瓜是长在藤蔓上的，藤蔓趴在地上，结出一个个椭圆形的瓜。它喜欢温暖、阳光充足的天气，所以夏天和秋天的时候，哈密瓜最多、最甜。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_hami_melon_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_hami_melon_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Hami Melon",
+      "aloud": "/ˈhɑːmi ˈmɛlən/",
+      "words": "",
+      "intro": "Hami melon is an oval fruit with yellow skin and sweet, juicy flesh. It grows on vines and is a popular fruit in summer and fall.",
+      "story": {
+        "title": "🐫The Little Camel's Hami Melon",
+        "body": "One summer day on the farm, a little camel saw oval Hami melons hanging on vines. Their yellow skin looked pretty and smelled sweet. The little camel gently picked one and held it close. It brought the melon home, and its mom helped cut it open. Golden flesh appeared, and sweet juice dripped out. The little camel took a bite—soft, sweet, and delicious like honey. Then it remembered its neighbor, the little lamb, and carried a plate of melon slices to knock on the door. “Little lamb, please have some Hami melon!” The lamb was so happy. The two friends sat under a tree, eating and laughing. The little camel learned that sweet fruits become even sweeter when shared with friends."
+      },
+      "knowledge": {
+        "title": "Where do Hami melons grow?",
+        "body": "Hami melons grow on vines that spread on the ground. They love warm, sunny weather, so they are most plentiful and sweet in summer and fall."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_hami_melon_intro.mp3",
+        "story": "../item-audio/en/fruit_hami_melon_story.mp3"
+      }
+    }
+  }
+}

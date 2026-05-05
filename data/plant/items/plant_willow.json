@@ -1,0 +1,99 @@
+{
+  "id": "plant_willow",
+  "sku_id": "card_plant_willow",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "color_green"
+    ],
+    "secondary": [
+      "has_trunk",
+      "has_leaf",
+      "in_park"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "trunk",
+      "branches",
+      "leaves",
+      "roots"
+    ],
+    "scenes": [
+      "park",
+      "forest",
+      "roadside"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "柳树",
+      "aloud": "liǔ shù",
+      "words": "willow",
+      "intro": "柳树的枝条长长的垂下来，像绿色的丝带，风一吹就轻轻摇摆，好像在跳舞。柳树喜欢长在水边，是春天最早的报信者。",
+      "story": {
+        "title": "🌿柳树的小秘密",
+        "body": "春天到了，小河边的柳树醒来了。长长的绿枝条垂到水面上，像在照镜子。小鸭子游过来问：“柳树姐姐，你的头发真好看，可以给我一根吗？”柳树笑着摇摇枝条，一根柳条轻轻飘落。小鸭子衔着柳条，戴在头上当花环，开心地游走了。夏天，小朋友们在柳树下玩，柳条给他们当帘子，又凉快又好玩。秋天，柳叶变黄了，但柳树还微笑。冬天，柳叶掉光了，柳树睡着了。等春风吹来，它又会穿上绿衣裳。柳树想：一年一年，我都有新朋友，真开心。"
+      },
+      "knowledge": {
+        "title": "柳树有什么特别？",
+        "body": "柳树喜欢长在水边，它的枝条又细又长，可以垂到水里。柳枝很软，不容易折断，古人还用柳枝来编篮子。柳树在春天最早发芽，告诉我们春天来了。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_willow_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_willow_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Willow",
+      "aloud": "/ˈwɪloʊ/",
+      "words": "",
+      "intro": "The willow tree has long, hanging branches like green ribbons. They sway gently in the wind, as if dancing. Willows love to grow near water and are some of the first to show spring is here.",
+      "story": {
+        "title": "🌿The Willow's Little Secret",
+        "body": "In spring, the willow by the river woke up. Its long green branches hung down to the water, like it was looking in a mirror. A little duckling swam over. “Sister Willow, your hair is so beautiful. Can I have a piece?” The willow shook its branches with a smile, and one slender twig drifted down. The duckling picked it up, wore it like a wreath, and swam away happily. In summer, children played under the willow. Its branches made a cool curtain. In autumn, the leaves turned yellow, but the willow still smiled. In winter, the leaves all fell, and the willow went to sleep. When spring wind blew again, it would put on its green dress once more. The willow thought: Year after year, I have new friends. I am so happy."
+      },
+      "knowledge": {
+        "title": "What is special about willows?",
+        "body": "Willows like to grow near the water. Their branches are thin and long, and can hang down to the water. Willow branches are very flexible and don’t break easily. Long ago, people used them to weave baskets. Willows are among the first trees to sprout leaves in spring, telling us that warm days are coming."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_willow_intro.mp3",
+        "story": "../item-audio/en/plant_willow_story.mp3"
+      }
+    }
+  }
+}

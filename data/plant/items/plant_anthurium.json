@@ -1,0 +1,101 @@
+{
+  "id": "plant_anthurium",
+  "sku_id": "card_plant_anthurium",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "flower",
+      "color_red"
+    ],
+    "secondary": [
+      "has_leaf",
+      "potted_plant",
+      "at_home"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "herb",
+      "flower"
+    ],
+    "color": [
+      "red",
+      "green",
+      "yellow"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "leaves",
+      "flowers",
+      "roots",
+      "stems"
+    ],
+    "scenes": [
+      "at_home",
+      "in_garden",
+      "in_forest"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "红掌",
+      "aloud": "hóng zhǎng",
+      "words": "anthurium",
+      "intro": "红掌开着红红的花，像一只只小手掌。叶子绿绿的、亮亮的，摆在家里真好看。它是我们的植物小伙伴。",
+      "story": {
+        "title": "🌺红掌的小手掌",
+        "body": "窗台上有一盆红掌，它长着好多绿绿的叶子。有一天，它长出了一个红红的小花苞，慢慢打开了，像一只可爱的红色小手掌。小朋友每天给它浇水，和它说话。红掌很开心，它把红色小手掌伸得高高的，好像在对小朋友说：“谢谢你！”又过了一段时间，红掌又开出了好几朵红花，每一朵都像温暖的手掌。家里变得更漂亮了，大家都喜欢看它。红掌想：我能让小朋友开心，真好啊！它决定要一直开出红红的小手掌，陪着小朋友长大。"
+      },
+      "knowledge": {
+        "title": "红掌的小秘密",
+        "body": "红掌喜欢温暖和湿润，红色的那片不是花，是苞片，真正的花是中间黄色的小柱子。它能开很久，还能让空气变得更干净，是我们的绿色好朋友。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_anthurium_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_anthurium_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Anthurium",
+      "aloud": "/ænˈθjuːriəm/",
+      "words": "",
+      "intro": "Anthurium has red flowers that look like little hands. Its leaves are green and shiny. It looks lovely at home. It is our plant friend.",
+      "story": {
+        "title": "🌺Anthurium's Little Hands",
+        "body": "There was an anthurium on the windowsill. It had many green leaves. One day, a little red bud appeared and slowly opened into a cute red hand. The child watered it every day and talked to it. Anthurium was so happy. It raised its little red hand high, as if saying, 'Thank you!' After some time, more red flowers bloomed, each like a warm hand. The home became prettier, and everyone loved looking at them. Anthurium thought, 'I can make the child happy. That's wonderful!' It decided to keep blooming little red hands to grow up with the child."
+      },
+      "knowledge": {
+        "title": "Little Secrets of Anthurium",
+        "body": "Anthurium likes warmth and moisture. The red part is not a flower but a bract; the real flowers are the tiny yellow parts in the middle. It blooms for a long time and helps clean the air. It's our green friend."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_anthurium_intro.mp3",
+        "story": "../item-audio/en/plant_anthurium_story.mp3"
+      }
+    }
+  }
+}

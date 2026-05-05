@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_y",
+  "sku_id": "card_number_letter_y",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "alphabet_order",
+      "first_learning",
+      "easy_level"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 25,
+    "is_even": false,
+    "is_prime": false,
+    "ordinal": "25th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母Y",
+      "aloud": "wài",
+      "words": "y",
+      "intro": "字母Y是字母表中的第25个字母，它像一棵小树，有两根伸向天空的树枝。Y的声音很有趣，试试看：Y！",
+      "story": {
+        "title": "🌳字母Y的故事",
+        "body": "小朋友，今天我们来认识一个特别的字母——Y！你看，它像不像一棵小树，有两根伸向天空的树枝？又像小叉子，吃饭时帮我们叉食物。让我们大声说：Y！小动物们也喜欢Y，小鸟站在Y的树枝上唱歌：唧唧唧！小鸭子游水，身体也像Y呢。Y还是问“为什么”的小帮手，总是好奇地问：Why？Why？当你和好朋友手拉手，手臂交叉举高高，也变成了Y！字母Y真好玩，我们一起去生活中找找看，哪里有Y的影子？也许在公园的树杈上，也许在妈妈的发卡上。找到Y，你就认识了它！"
+      },
+      "knowledge": {
+        "title": "Y是从哪里来的？",
+        "body": "字母Y在很久以前的古埃及，代表着一个带叉的棍子。后来传到英语里，就变成了今天的形状。它既可以是元音，也可以是辅音，很特别哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_y_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_y_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Letter Y",
+      "aloud": "/waɪ/",
+      "words": "",
+      "intro": "The letter Y is the 25th letter of the alphabet. It looks like a little tree with two branches. Y makes a fun sound: /waɪ/!",
+      "story": {
+        "title": "🌳The Story of Letter Y",
+        "body": "Hello, little one! Today let's meet a special letter—Y! Doesn't it look like a little tree with two branches reaching for the sky? Or like a fork that helps us eat. Let's say it together: Y! The birds like Y too; they sit on its branches and sing: tweet, tweet! When a duck swims, its body sometimes looks like Y. Y is also the letter of curiosity, asking 'Why? Why?' all the time. When you hold hands with your friend and raise your arms, you make a big Y. Letter Y is so fun! Let's go on a hunt and find Y everywhere—on a tree fork in the park, or in mommy's hair clip. Once you spot it, you know Y! Y comes after X and before Z. Many fun words start with Y: yellow, yo-yo, yogurt, and yummy! When you eat yogurt, it's yummy! Y loves to be at the end of words too, like in happy and baby. Y is a playful letter that can sound like /waɪ/ or /i/. So, shout it out: Yippee for Y!"
+      },
+      "knowledge": {
+        "title": "Where does Y come from?",
+        "body": "The letter Y came from an ancient Egyptian symbol that looked like a forked stick. Later, the Greeks and Romans used it, and it became our Y. Y is unique because it can be a vowel or a consonant, like in 'sky' and 'yellow'."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_y_intro.mp3",
+        "story": "../item-audio/en/number_letter_y_story.mp3"
+      }
+    }
+  }
+}

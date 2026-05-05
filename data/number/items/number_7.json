@@ -1,0 +1,76 @@
+{
+  "id": "number_7",
+  "sku_id": "card_number_seven",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "single_digit",
+      "odd_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 7,
+    "is_even": false,
+    "is_prime": true,
+    "ordinal": "7th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字7",
+      "aloud": "qī",
+      "words": "seven",
+      "intro": "七是比六多一的数字。一个星期有七天，彩虹有七种颜色。七是个有趣的数字哦！",
+      "story": {
+        "title": "🌈七色彩虹",
+        "body": "下了一场雨，天空洗得干干净净。太阳公公出来了，高高的天上出现一座弯弯的彩虹桥。红、橙、黄、绿、蓝、靛、紫，七种颜色手拉手，排成一排。红色跳出来说：“我是草莓的颜色！”橙色笑着说：“我是橘子的颜色！”黄色亮闪闪：“我是太阳的颜色！”绿色摇摇摆摆：“我是小草的颜色！”蓝色大声说：“我是天空的颜色！”靛色害羞地探出头：“我是蓝莓的颜色！”紫色最后说：“我是葡萄的颜色！”七个小颜色一起唱歌，彩虹桥越变越亮。小鸟飞过来，想在上面滑滑梯；白云飘过来，想和它们拥抱。小朋友，伸出小手数一数：一、二、三、四、五、六、七！记住啦，彩虹有七种颜色，你也数对了吗？"
+      },
+      "knowledge": {
+        "title": "彩虹为什么有七种颜色？",
+        "body": "阳光其实是由红、橙、黄、绿、蓝、靛、紫七种颜色的光组成的。下雨后，水滴把太阳光分开，我们就看到了美丽的七色彩虹。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_7_intro.mp3",
+        "story": "../item-audio/zh-CN/number_7_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Seven",
+      "aloud": "/ˈsɛvən/",
+      "words": "",
+      "intro": "Seven is the number after six. A week has seven days, and a rainbow has seven colors. Seven is a fun number!",
+      "story": {
+        "title": "🌈Seven Colors of the Rainbow",
+        "body": "After the rain, the sky was washed clean. Out came the sun, and high above appeared a curved rainbow bridge. Red, orange, yellow, green, blue, indigo, and violet – seven colors holding hands in a row. Red jumped out and said, 'I'm the color of strawberries!' Orange laughed, 'I'm the color of oranges!' Yellow sparkled, 'I'm the color of the sun!' Green swayed, 'I'm the color of grass!' Blue shouted, 'I'm the color of the sky!' Indigo peeked shyly, 'I'm the color of blueberries!' Violet said last, 'I'm the color of grapes!' The seven little colors sang together, and the rainbow grew brighter. A bird flew over, wanting to slide down it; a cloud drifted by, wanting to hug them. Count with me: one, two, three, four, five, six, seven! Now you know – a rainbow has seven colors!"
+      },
+      "knowledge": {
+        "title": "Why does a rainbow have seven colors?",
+        "body": "Sunlight is made of seven colors: red, orange, yellow, green, blue, indigo, and violet. After rain, water drops split the sunlight into these colors, and we see a beautiful rainbow."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_7_intro.mp3",
+        "story": "../item-audio/en/number_7_story.mp3"
+      }
+    }
+  }
+}

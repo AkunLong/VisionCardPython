@@ -1,0 +1,88 @@
+{
+  "id": "fruit_grape",
+  "sku_id": "card_fruit_grape",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_purple",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "juicy",
+      "vine_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "purple"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "sour",
+      "juicy"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "葡萄",
+      "aloud": "pú tao",
+      "words": "grape",
+      "intro": "葡萄是圆圆的、紫紫的小果子，一串串挂在藤上，吃起来甜甜的、水水的。它们很有营养，小朋友吃了会长得棒棒的。",
+      "story": {
+        "title": "🍇小狐狸的葡萄藤",
+        "body": "小狐狸家的院子里，有一根弯弯的葡萄藤。夏天来了，藤上挂满了一串串紫色的小葡萄，圆圆的像一颗颗小珍珠。小狐狸每天给葡萄浇水，看着它们一点点长大。有一天，葡萄终于熟了，小狐狸摘下一颗放进嘴里，轻轻一咬，甜甜的汁水就流了出来，凉凉的、香香的。小狐狸想把甜甜的味道分享给大家。它拿了一个小篮子，摘了好多葡萄，送给小兔、小熊和小松鼠。小伙伴们坐在一起，你一颗我一颗，吃得可开心了。大家都说：“小狐狸的葡萄真甜呀！”小狐狸听了，心里比吃了葡萄还甜。"
+      },
+      "knowledge": {
+        "title": "葡萄长在哪里？",
+        "body": "葡萄是一种藤本植物，喜欢爬在架子上生长。它们喜欢温暖、阳光充足的地方，一般在夏天和秋天成熟。一串葡萄上可以结很多颗小果子，有紫色的，也有绿色的。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_grape_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_grape_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Grape",
+      "aloud": "/ɡreɪp/",
+      "words": "",
+      "intro": "Grapes are small, round, purple fruits that grow in bunches on vines. They taste sweet and juicy, and are full of nutrients to help children grow strong.",
+      "story": {
+        "title": "🍇The Little Fox's Grapevine",
+        "body": "In the little fox's yard, there was a winding grapevine. When summer came, bunches of small purple grapes hung from the vine, round like little pearls. The little fox watered them every day and watched them grow bigger and bigger. One day, the grapes were finally ripe. The little fox picked one and put it in his mouth. With a gentle bite, sweet juice burst out, cool and fragrant. He wanted to share the sweetness with friends. He picked many grapes into a little basket and gave them to the little rabbit, the little bear, and the little squirrel. The friends sat together, eating grapes one by one, so happily. They all said, \"The little fox's grapes are so sweet!\" Hearing that, the little fox felt even sweeter inside than the grapes."
+      },
+      "knowledge": {
+        "title": "Where do grapes grow?",
+        "body": "Grapes grow on climbing vines that like to wrap around trellises. They need warmth and plenty of sunshine, and usually ripen in summer and autumn. A single bunch can have lots of little grapes, which can be purple or green."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_grape_intro.mp3",
+        "story": "../item-audio/en/fruit_grape_story.mp3"
+      }
+    }
+  }
+}

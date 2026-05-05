@@ -1,0 +1,96 @@
+{
+  "id": "plant_aloe",
+  "sku_id": "card_plant_aloe",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "succulent_plant",
+      "color_green"
+    ],
+    "secondary": [
+      "has_leaf",
+      "potted_plant",
+      "at_home"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "succulent_plant"
+    ],
+    "color": [
+      "green"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "leaves",
+      "roots"
+    ],
+    "scenes": [
+      "at_home",
+      "in_garden",
+      "in_desert"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "芦荟",
+      "aloud": "lú huì",
+      "words": "aloe",
+      "intro": "芦荟是一种胖胖的绿色植物，叶子厚厚的，里面藏着透明的凝胶。它喜欢阳光，放在家里可以净化空气，还能用来护肤呢！",
+      "story": {
+        "title": "🌿芦荟宝宝的奇妙之旅",
+        "body": "窗台上有一盆小小的芦荟。它每天晒着太阳，叶子长得肥嘟嘟的。一天，小主人不小心被蚊子叮了一个包，妈妈剪下一小片芦荟叶子，把透明的凝胶涂在包上，凉凉的，很快就不痒了。小主人说：“芦荟真神奇！”芦荟宝宝听了，心里美滋滋的。它想：虽然我不能像大树那么高，也不能开漂亮的花，但我能帮助小朋友，真开心呀！从此，小主人每天都给芦荟浇水，芦荟越长越壮，成了家里的小卫士。"
+      },
+      "knowledge": {
+        "title": "芦荟有什么本领？",
+        "body": "芦荟的叶子里有凝胶，可以止痒、保湿，还能做护肤品。它还能吸收空气中的脏东西，让家里空气更清新。芦荟真是个小帮手！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_aloe_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_aloe_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Aloe",
+      "aloud": "/ˈæloʊ/",
+      "words": "",
+      "intro": "Aloe is a chubby green plant with thick leaves. Inside the leaves is a clear gel. It loves sunshine and can be kept at home to clean the air and take care of our skin!",
+      "story": {
+        "title": "🌿The Little Aloe's Wonderful Journey",
+        "body": "There was a small aloe on the windowsill. It soaked up sunshine every day, and its leaves grew plump and juicy. One day, its little owner got a mosquito bite. Mommy cut a small piece of aloe leaf and put the clear gel on the bite. It felt cool, and the itch soon went away. The little owner said, 'Aloe is amazing!' The little aloe felt proud. It thought: Although I can't grow as tall as a tree or bloom pretty flowers, I can help children. That makes me happy! From then on, the little owner watered the aloe every day. The aloe grew strong and became the home's little guardian."
+      },
+      "knowledge": {
+        "title": "What can aloe do?",
+        "body": "Aloe leaves have gel that can soothe skin, moisturize, and make skincare products. It also cleans the air, making our homes fresher. Aloe is truly a little helper and a great plant to have at home!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_aloe_intro.mp3",
+        "story": "../item-audio/en/plant_aloe_story.mp3"
+      }
+    }
+  }
+}

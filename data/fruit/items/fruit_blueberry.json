@@ -1,0 +1,87 @@
+{
+  "id": "fruit_blueberry",
+  "sku_id": "card_fruit_blueberry",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_purple",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "small",
+      "round",
+      "sweet"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "purple"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "soft"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "蓝莓",
+      "aloud": "lán méi",
+      "words": "blueberry",
+      "intro": "蓝莓是一种小小的、圆圆的水果，颜色是漂亮的蓝紫色，吃起来甜甜软软的。它含有丰富的营养，对小朋友的身体很有好处。",
+      "story": {
+        "title": "🐻小熊的蓝莓",
+        "body": "夏天到了，小熊去森林边散步。它看见矮矮的灌木丛里，挂着一串串蓝紫色的小果子。圆圆的，上面还有一层白白的粉。“是蓝莓！”小熊高兴地叫起来。它小心地摘下一颗，尝了尝，又甜又多汁。小熊摘了很多蓝莓，把它们放进小草篮里。它想：这么多蓝莓，我一个人吃不完呀。于是，小熊去找小兔子和小松鼠。三个小伙伴坐在一起，一颗一颗地吃着蓝莓。“真甜呀！”“软软的，好好吃！”大家一边吃一边笑。小熊说：“下次我们再一起来摘蓝莓吧！”小兔子和小松鼠都答应了。小熊觉得，和朋友一起分享蓝莓，比一个人吃还要开心。"
+      },
+      "knowledge": {
+        "title": "蓝莓什么时候成熟？",
+        "body": "蓝莓大多在夏天成熟。暖暖的阳光让蓝莓慢慢变成漂亮的蓝紫色，味道也变得甜甜软软的。蓝莓里有很多花青素，对小朋友的眼睛有好处哦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_blueberry_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_blueberry_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Blueberry",
+      "aloud": "/ˈbluːbɛri/",
+      "words": "",
+      "intro": "A blueberry is a small, round fruit with a beautiful bluish-purple color. It tastes sweet and soft, and is packed with nutrients good for children's health.",
+      "story": {
+        "title": "🐻Little Bear's Blueberries",
+        "body": "In the summer, little bear went for a walk near the forest. He saw low bushes full of small, round, bluish-purple fruits with a white coating. “Blueberries!” he shouted happily. He carefully picked one and tasted it—sweet and juicy. Little bear picked many blueberries and put them in a little grass basket. He thought, “I can’t eat all these by myself.” So he went to find his friends, little rabbit and little squirrel. The three of them sat together, eating blueberries one by one. “So sweet!” “So soft and yummy!” they laughed. Little bear said, “Let’s come pick blueberries together next time!” Little rabbit and little squirrel said yes. Little bear realized that sharing blueberries with friends was even more fun than eating them alone."
+      },
+      "knowledge": {
+        "title": "When do blueberries ripen?",
+        "body": "Blueberries mostly ripen in summer. The warm sunshine turns them a lovely bluish-purple, and their taste becomes sweet and soft. Blueberries contain lots of anthocyanins, which are good for children's eyes."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_blueberry_intro.mp3",
+        "story": "../item-audio/en/fruit_blueberry_story.mp3"
+      }
+    }
+  }
+}

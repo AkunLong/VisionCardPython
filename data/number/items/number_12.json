@@ -1,0 +1,76 @@
+{
+  "id": "number_12",
+  "sku_id": "card_number_twelve",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "two_digit",
+      "even_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 12,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "12th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字12",
+      "aloud": "shí èr",
+      "words": "twelve",
+      "intro": "12 是比 11 多一的数字。时钟上有 12 个数字，一年有 12 个月。12 是个很有规律的数字！",
+      "story": {
+        "title": "🕛 12 个小时的旅行",
+        "body": "小钟表滴答滴答走，数字们排着队站好。1 点太阳刚刚升起，2 点小鸟开始唱歌，3 点小朋友做游戏，4 点风儿轻轻吹，5 点影子变长了，6 点天边有晚霞，7 点妈妈做饭香，8 点星星眨眼睛，9 点月亮爬上树，10 点小猫咪睡觉了，11 点世界静悄悄，12 点钟声敲响，新的一天又来到！12 个数字围成一圈，每天陪我们快乐长大。"
+      },
+      "knowledge": {
+        "title": "为什么时钟上有 12 个数字？",
+        "body": "很久以前人们把一天分成 12 个白天和 12 个黑夜，这样一共是 24 个小时。时钟上只有 12 个数字，短针转两圈就是一天。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_12_intro.mp3",
+        "story": "../item-audio/zh-CN/number_12_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Twelve",
+      "aloud": "/twɛlv/",
+      "words": "",
+      "intro": "Twelve is the number after eleven. A clock has twelve numbers, and a year has twelve months. Twelve is a very orderly number!",
+      "story": {
+        "title": "🕛 A Journey with Twelve Hours",
+        "body": "Tick-tock goes the little clock, numbers standing in a circle. 1 o'clock, the sun just rises. 2 o'clock, birds begin to sing. 3 o'clock, children play games. 4 o'clock, the wind blows gently. 5 o'clock, shadows grow long. 6 o'clock, sunset colors the sky. 7 o'clock, mom's cooking smells good. 8 o'clock, stars twinkle. 9 o'clock, the moon climbs up the tree. 10 o'clock, kittens fall asleep. 11 o'clock, the world is quiet. 12 o'clock, the bell rings, a new day begins! Twelve numbers in a circle, staying with us as we grow."
+      },
+      "knowledge": {
+        "title": "Why are there twelve numbers on a clock?",
+        "body": "Long ago, people divided the day into twelve hours of light and twelve hours of dark, making twenty-four hours in total. A clock only shows twelve numbers, and the short hand goes around twice a day."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_12_intro.mp3",
+        "story": "../item-audio/en/number_12_story.mp3"
+      }
+    }
+  }
+}

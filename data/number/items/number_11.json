@@ -1,0 +1,76 @@
+{
+  "id": "number_11",
+  "sku_id": "card_number_eleven",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "two_digit",
+      "odd_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 11,
+    "is_even": false,
+    "is_prime": true,
+    "ordinal": "11th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字11",
+      "aloud": "shí yī",
+      "words": "eleven",
+      "intro": "数字11是比10多1的数字。它由两个1并排站在一起，像一对好朋友手拉手。11是个很有趣的数字，我们一起来认识它吧！",
+      "story": {
+        "title": "🎈11个气球飞上天",
+        "body": "小兔子过生日，得到了11个彩色气球。有红的、黄的、蓝的、绿的……一共11个！小兔子数一数：1、2、3、4、5、6、7、8、9、10、11。咦，11是两个1呀，真特别！一阵风吹来，气球带着小兔子慢慢飞了起来。小兔子好开心，它穿过10朵白云，又见到1只小鸟，正好是11个朋友一起玩。11个气球带着它看到了11座小山、11片小湖，直到太阳下山。小兔子紧紧抓住气球绳，轻轻说：“11，真是奇妙的数字！”"
+      },
+      "knowledge": {
+        "title": "为什么11由两个1组成？",
+        "body": "在数字王国里，11是第一个两位数。它左边那个1表示10，右边那个1表示1，加起来就是10+1=11。两个1手拉手，组成了这个特别的数字。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_11_intro.mp3",
+        "story": "../item-audio/zh-CN/number_11_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Eleven",
+      "aloud": "/ɪˈlev.ən/",
+      "words": "",
+      "intro": "Eleven is the number that is one more than ten. It is made of two ones standing side by side, like two good friends holding hands. Let's learn about eleven!",
+      "story": {
+        "title": "🎈Eleven Balloons Fly Away",
+        "body": "Little Rabbit was celebrating his birthday and got eleven colorful balloons. Red, yellow, blue, green… eleven in all! Little Rabbit counted them: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11. Look, eleven has two ones! How special! A breeze blew, and the balloons lifted Little Rabbit into the sky. He was so happy. He floated past 10 white clouds and met 1 little bird, making exactly 11 friends to play with. The balloons took him past 11 little hills and 11 little lakes until the sun went down. Holding the strings tight, Little Rabbit whispered, “Eleven, what a wonderful number!”"
+      },
+      "knowledge": {
+        "title": "Why does eleven have two ones?",
+        "body": "In the number kingdom, eleven is the first two-digit number. The one on the left means 10, and the one on the right means 1. Together, 10 plus 1 makes 11. The two ones stand hand in hand to form this special number."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_11_intro.mp3",
+        "story": "../item-audio/en/number_11_story.mp3"
+      }
+    }
+  }
+}

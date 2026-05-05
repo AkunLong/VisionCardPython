@@ -1,0 +1,87 @@
+{
+  "id": "fruit_coconut",
+  "sku_id": "card_fruit_coconut",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_brown",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "hard_shell",
+      "sweet",
+      "round"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "brown"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "juicy"
+    ],
+    "scenes": [
+      "tropical_fruit",
+      "tree_fruit",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": true,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "椰子",
+      "aloud": "yē zi",
+      "words": "coconut",
+      "intro": "椰子是一种大大的水果，外壳硬硬的，里面装着清甜的椰子水。它长在高高的椰子树上，多在温暖的地方。椰子水很解渴，椰子肉白白的，可以吃。",
+      "story": {
+        "title": "🐒小猴子与椰子",
+        "body": "小猴子在海边椰子树下玩，抬头看见高高的树顶上挂着好几个圆圆的大椰子。椰子壳硬硬的，像穿着一件棕色盔甲。小猴子好想喝椰子水，可是爬树太危险了。他请来好朋友小象帮忙，小象用长长的鼻子卷住椰子，轻轻一拉，椰子就掉下来啦。小象用脚踩了踩，椰子裂开一条缝，清甜的椰子水像小溪一样流出来。小猴子赶紧用树叶折成小碗，接住椰子水，咕噜咕噜喝下去，真是又甜又解渴！他还把雪白的椰子肉挖出来，分给小动物们吃。大家都说：“椰子真好喝，谢谢你！”小猴子开心地说：“好朋友一起分享，味道才更香！”"
+      },
+      "knowledge": {
+        "title": "椰子长在哪里？",
+        "body": "椰子长在高高的椰子树上，大多在温暖的热带地区。椰子里面有清甜的椰子水和白白的椰子肉。椰子水可以当饮料喝，椰子肉可以吃，也可以榨油。我们喝到的椰子水是天然生长的，很健康。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_coconut_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_coconut_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Coconut",
+      "aloud": "/ˈkoʊ.kə.nʌt/",
+      "words": "",
+      "intro": "A coconut is a large fruit with a hard shell. Inside, there is sweet coconut water. It grows on tall coconut trees in warm places. Coconut water is refreshing, and the flesh is white and edible.",
+      "story": {
+        "title": "🐒The Little Monkey and the Coconut",
+        "body": "One sunny day, a little monkey was playing under a tall coconut tree by the beach. He looked up and saw several big, round coconuts hanging high up. The coconuts had hard, brown shells. The little monkey really wanted a drink of coconut water, but climbing the tree was too dangerous. So he asked his friend, a little elephant, for help. The elephant used its long trunk to wrap around a coconut and gently pulled—it came right off! Then the elephant stepped on the coconut, and it cracked open. Sweet, fresh coconut water flowed out like a tiny stream. The little monkey quickly folded a leaf into a little bowl, caught the water, and drank it up. It was so sweet and refreshing! He scooped out the white coconut meat and shared it with all the little animals. Everyone said, \"Coconut is so yummy! Thank you!\" The little monkey smiled and said, \"Sharing with friends makes everything taste better!\""
+      },
+      "knowledge": {
+        "title": "Where do coconuts grow?",
+        "body": "Coconuts grow on tall coconut trees in warm tropical areas. Inside the hard shell, there is sweet coconut water and white coconut flesh. You can drink the water and eat the flesh. Coconut water is a natural and healthy drink."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_coconut_intro.mp3",
+        "story": "../item-audio/en/fruit_coconut_story.mp3"
+      }
+    }
+  }
+}

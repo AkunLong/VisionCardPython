@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_k",
+  "sku_id": "card_number_letter_k",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "can_read",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 11,
+    "is_even": false,
+    "is_prime": true,
+    "ordinal": "11th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母K",
+      "aloud": "k",
+      "words": "k",
+      "intro": "字母K是英文字母表里的第11个字母。它像一个人伸开手臂和腿，非常好玩。我们一起认识它吧！",
+      "story": {
+        "title": "🦘爱跳的K",
+        "body": "字母K是一个爱跳的小男孩。他伸开两只手，叉开两只脚，嘴里喊着“K、K、K”，用力一跳，跳得好高！袋鼠看见说：“K，你和我一样会跳呢！”K听了很开心。他们一起蹦蹦跳，跳过草地，跳过小水坑。小朋友们也学K，伸开手臂，跳一跳，嘴巴里大声说“K”。跳累了，K就变成积木，躺在卡片上，变成一个大大的K。宝宝看看K，记住了吗？我们下次再一起跳！"
+      },
+      "knowledge": {
+        "title": "字母K像什么？",
+        "body": "字母K长得像一个人张开手臂和腿的样子。它是由一条竖线和两条斜线组成的。在英文字母表里，它的发音是“/keɪ/”。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_k_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_k_story.mp3"
+      }
+    },
+    "en": {
+      "name": "K",
+      "aloud": "/keɪ/",
+      "words": "",
+      "intro": "K is the 11th letter of the alphabet. It looks like a person stretching out arms and legs. Let's get to know K!",
+      "story": {
+        "title": "🦘Jumping K",
+        "body": "K is a little boy who loves to jump. He stretches out his arms and legs and shouts \"K, K, K!\" as he jumps high. A kangaroo sees him and says, \"Hey K, you jump just like me!\" K is so happy. They hop and jump together, over the grass and over puddles. Children join in too—stretch like K, jump and say \"K\" loudly. After jumping, K rests and becomes a block on a card, forming a big letter K. Look at K, do you remember it? Let's jump together next time!"
+      },
+      "knowledge": {
+        "title": "What does the letter K look like?",
+        "body": "The letter K looks like a person with arms and legs wide open. It has one vertical line and two slanted lines. In the alphabet, it makes the sound \"/keɪ/\"."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_k_intro.mp3",
+        "story": "../item-audio/en/number_letter_k_story.mp3"
+      }
+    }
+  }
+}

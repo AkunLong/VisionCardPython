@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_white_kidney_bean",
+  "sku_id": "card_vegetable_white_kidney_bean",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_white",
+      "bean_vegetable"
+    ],
+    "secondary": [
+      "soft",
+      "sweet",
+      "can_cook"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "white"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "soft"
+    ],
+    "grow_location": [
+      "on the plant"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "白芸豆",
+      "aloud": "bái yún dòu",
+      "words": "white kidney bean",
+      "intro": "白芸豆是一种豆类蔬菜，颜色白白的，形状像小腰子，吃起来软软甜甜的。它长在豆荚里，煮熟了很好吃。",
+      "story": {
+        "title": "🥣小兔子和白芸豆汤",
+        "body": "小兔子在菜园里发现了一串串豆荚，剥开一看，里面躺着几颗白白胖胖的豆子。兔妈妈说：“这是白芸豆，要煮熟了才能吃哦。”小兔子帮妈妈洗豆子，放进锅里慢慢煮。不一会儿，厨房里飘出香香的味道。汤煮好了，小兔子尝了一口，豆子软软的，汤甜丝丝的，真好喝！它还舀了一碗送给隔壁的小刺猬。小刺猬喝了一口，开心地笑了：“哇，白芸豆汤好温暖呀！”两个好朋友一起坐在门口，暖乎乎地喝着汤，心里觉得幸福极了。"
+      },
+      "knowledge": {
+        "title": "吃白芸豆有什么好处？",
+        "body": "白芸豆含有丰富的蛋白质，吃了能让身体更有力气，帮助我们长得高高的、壮壮的。而且对长身体的小朋友很有好处，让肌肉变结实。但一定要煮熟了再吃哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_white_kidney_bean_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_white_kidney_bean_story.mp3"
+      }
+    },
+    "en": {
+      "name": "White Kidney Bean",
+      "aloud": "/waɪt ˈkɪdni biːn/",
+      "words": "",
+      "intro": "A white kidney bean is a type of bean that is white and shaped like a little kidney. It tastes soft and a little sweet. It grows in pods on plants and needs to be cooked before eating.",
+      "story": {
+        "title": "🥣Little Rabbit and the White Kidney Bean Soup",
+        "body": "Little Rabbit found some pods in the garden. When he opened one, he saw several plump, white beans inside. Mama Rabbit said, 'These are white kidney beans, and we must cook them before eating.' Little Rabbit helped wash the beans and put them into the pot to simmer. Soon, a delicious smell filled the kitchen. The soup was ready! Little Rabbit took a sip—the beans were soft, and the soup was sweet and comforting. He also shared a bowl with Little Hedgehog next door. Little Hedgehog smiled happily, 'Wow, the white kidney bean soup is so warm and nice!' The two friends sat together, sipping the warm soup and feeling cozy and happy."
+      },
+      "knowledge": {
+        "title": "Why are white kidney beans good for you?",
+        "body": "White kidney beans are full of protein, which helps your body grow strong and tall. They make your muscles firm and keep you healthy. Just remember—they must be cooked before you eat them!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_white_kidney_bean_intro.mp3",
+        "story": "../item-audio/en/vegetable_white_kidney_bean_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "object_slippers",
+  "sku_id": "card_object_slippers",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "clothing",
+      "color_blue"
+    ],
+    "secondary": [
+      "at_home",
+      "soft",
+      "can_wear"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "blue",
+      "pink",
+      "white"
+    ],
+    "shape": [
+      "flat",
+      "curved"
+    ],
+    "material": [
+      "plastic",
+      "fabric",
+      "rubber"
+    ],
+    "scenes": [
+      "home",
+      "bathroom",
+      "pool"
+    ],
+    "function": [
+      "wear",
+      "protect_feet",
+      "comfort"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "拖鞋",
+      "aloud": "tuō xié",
+      "words": "slippers",
+      "intro": "拖鞋是我们在家穿的鞋子，软软的，很舒服。它没有后跟，轻轻一蹬就能穿进去，让我们的脚丫休息。",
+      "story": {
+        "title": "👣小拖鞋找朋友",
+        "body": "小拖鞋住在鞋柜里，它最好的朋友是一双小脚丫。每天回到家，小脚丫就开心地钻进小拖鞋里，暖暖的，软软的。可是今天，小脚丫没有来，原来它跟着小主人去公园玩了。小拖鞋好孤单呀，它悄悄从鞋柜里溜出来，啪嗒啪嗒在家里走。它遇到了小猫咪，问：“你愿意做我的朋友吗？”小猫咪摇摇头：“我喜欢光脚爪。”它又遇到了小球，小球说：“我要滚来滚去，不能穿你。”小拖鞋难过了。这时，门开了，小主人带着小脚丫回来了，小脚丫脏脏的，但一看到小拖鞋就扑了过来：“我想死你了！”小拖鞋开心地抱住小脚丫，轻轻说：“你回来啦，真好。”从此，小拖鞋再也不怕孤单了，因为它知道，小脚丫每天都会回来。"
+      },
+      "knowledge": {
+        "title": "为什么拖鞋没有后跟？",
+        "body": "拖鞋设计成没有后跟，是为了穿脱方便。我们回到家，可以一脚蹬进去，舒服又省力。而且脚丫在拖鞋里可以自由活动，不会闷热。不同季节还有不同材质的拖鞋，凉凉的塑料拖鞋适合夏天，暖暖的棉拖鞋适合冬天。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_slippers_intro.mp3",
+        "story": "../item-audio/zh-CN/object_slippers_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Slippers",
+      "aloud": "/ˈslɪpəz/",
+      "words": "",
+      "intro": "Slippers are soft shoes we wear at home. They have no heels and are easy to slip on, keeping our feet comfy.",
+      "story": {
+        "title": "👣Little Slippers Look for a Friend",
+        "body": "Little Slippers lived in the shoe cabinet, and their best friend was a pair of little feet. Every day, when the little feet came home, they happily slid into Little Slippers, warm and soft. But today, the little feet didn't come—they had gone to the park with the little master. Little Slippers felt so lonely. They quietly crept out of the cabinet and went pitter-patter around the house. They met the kitten and asked, “Will you be my friend?” The kitten shook its head: “I like bare paws.” Then they met a little ball, and the ball said, “I have to roll around, I can’t wear you.” Little Slippers were sad. Just then, the door opened, and the little master came back with the little feet. The little feet were dirty, but they rushed over: “I missed you so much!” Little Slippers hugged the little feet happily and whispered, “You’re back, I’m so glad.” From then on, Little Slippers were never afraid of being lonely, because they knew the little feet would come home every day."
+      },
+      "knowledge": {
+        "title": "Why don’t slippers have heels?",
+        "body": "Slippers are designed without heels so they are easy to slip on and off. When we come home, we can just step into them, comfy and effortless. Also, our feet can move freely in slippers without getting too hot. Different seasons have different materials: cool plastic slippers for summer, and warm cotton slippers for winter."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_slippers_intro.mp3",
+        "story": "../item-audio/en/object_slippers_story.mp3"
+      }
+    }
+  }
+}

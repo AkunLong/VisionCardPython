@@ -1,0 +1,84 @@
+{
+  "id": "number_4",
+  "sku_id": "card_number_four",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "single_digit",
+      "even_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 4,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "4th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字4",
+      "aloud": "sì",
+      "words": "four",
+      "intro": "四比三多一，比五少一。小汽车有四个轮子，桌子有四条腿。四是一个很稳当的数字！",
+      "story": {
+        "title": "🚗四只小轮子",
+        "body": "有一辆红色小汽车，它有四个圆圆的轮子。一个轮子、两个轮子、三个轮子、四个轮子，咕噜噜转起来。一个轮子说：“我带你去公园。”第二个轮子说：“我带你去海边。”第三个轮子说：“我带你去山上。”第四个轮子说：“我带你去幼儿园。”四个轮子一起转呀转，把宝宝带到好多好玩的地方。小汽车唱歌：嘀嘀嘀，四个轮子真厉害！"
+      },
+      "knowledge": {
+        "title": "为什么数字四感觉稳稳的？",
+        "body": "很多东西都是四个支撑点，比如桌子有四条腿，小动物有四条腿。四是一个对称又平衡的数字，所以感觉稳当当。",
+        "audio_url": {
+          "intro": "",
+          "story": ""
+        }
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_4_intro.mp3",
+        "story": "../item-audio/zh-CN/number_4_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Four",
+      "aloud": "/fɔːr/",
+      "words": "",
+      "intro": "Four is the number after three and before five. A car has four wheels, and a table has four legs. Four feels very steady!",
+      "story": {
+        "title": "🚗Four Little Wheels",
+        "body": "There is a little red car with four round wheels. One wheel, two wheels, three wheels, four wheels, rolling all around. The first wheel says, “I’ll take you to the park.” The second wheel says, “I’ll take you to the beach.” The third wheel says, “I’ll take you to the mountain.” The fourth wheel says, “I’ll take you to the kindergarten.” All four wheels spin together and take the baby to many fun places. The little car sings: Beep beep, four wheels are so great!"
+      },
+      "knowledge": {
+        "title": "Why does the number four feel so stable?",
+        "body": "Many things have four legs to stand on, like a table or a small animal. Four is a symmetric and balanced number, so it feels very steady.",
+        "audio_url": {
+          "intro": "",
+          "story": ""
+        }
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_4_intro.mp3",
+        "story": "../item-audio/en/number_4_story.mp3"
+      }
+    }
+  }
+}

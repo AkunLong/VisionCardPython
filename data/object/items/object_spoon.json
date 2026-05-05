@@ -1,0 +1,93 @@
+{
+  "id": "object_spoon",
+  "sku_id": "card_object_spoon",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "tableware",
+      "color_gray"
+    ],
+    "secondary": [
+      "in_kitchen",
+      "at_home",
+      "can_eat_with"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "gray"
+    ],
+    "shape": [
+      "round",
+      "long"
+    ],
+    "material": [
+      "stainless_steel",
+      "plastic",
+      "wood"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "school"
+    ],
+    "function": [
+      "eat",
+      "scoop"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "餐勺",
+      "aloud": "cān sháo",
+      "words": "spoon",
+      "intro": "餐勺是我们吃饭的小帮手。它有一个圆圆的小勺头，可以舀起美味的食物，还有一个长长的柄，宝宝的小手握住刚刚好！",
+      "story": {
+        "title": "✨小勺子的飞行游戏",
+        "body": "小勺子亮闪闪的，它住在厨房的抽屉里，和碗、筷子是好朋友。一天早上，宝宝坐在餐桌前，不想吃饭。小勺子从碗里探出头，说：“宝宝，你看我像不像一架小飞机？我可以带着香香的米粥飞进你嘴里哦！”宝宝好奇地张开嘴巴，小勺子真的像飞机一样，“呜呜呜”飞了进去。宝宝觉得好好玩，又吃了一口。过了一会儿，小勺子又说：“宝宝，我们来玩划船吧！我把汤当作小河，我当小船，划呀划。”小勺子轻轻舀起一勺汤，慢慢送进宝宝嘴里。就这样，宝宝一口一口，很快就把饭菜吃光光了。小勺子高兴地说：“宝宝真棒！明天我还陪你好不好？”宝宝用力点头，笑了。小勺子也亮晶晶地笑了。"
+      },
+      "knowledge": {
+        "title": "餐勺为什么有不同形状？",
+        "body": "餐勺通常有一个浅凹的勺头，用来盛液体和软的食物；勺柄设计得适合手握。有的勺子还带有小孔，用来捞汤里的东西。不同大小的勺子适合不同的食物，比如汤勺、小咖啡勺。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_spoon_intro.mp3",
+        "story": "../item-audio/zh-CN/object_spoon_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Spoon",
+      "aloud": "/spuːn/",
+      "words": "",
+      "intro": "A spoon is a helpful tool for eating. It has a small round head that can scoop up food and a long handle that's just right for little hands to hold.",
+      "story": {
+        "title": "✨The Little Spoon's Flying Game",
+        "body": "The little shiny spoon lived in the kitchen drawer with its friends, the bowl and the chopsticks. One morning, the baby sat at the table and didn't want to eat. The spoon peeked out and said, \"Look, baby, I look like a little airplane! I can fly the yummy porridge into your mouth!\" Curious, the baby opened wide, and the spoon flew in like an airplane, \"Wheeee!\" The baby thought it was so fun and took another bite. Then the spoon said, \"Baby, let's play rowing a boat! I'll pretend the soup is a river, and I'm a little boat, rowing gently.\" The spoon scooped up some soup and slowly moved it into the baby's mouth. Just like that, bite by bite, the baby finished the whole meal. The spoon said happily, \"Good job, baby! I'll play with you again tomorrow, okay?\" The baby nodded and smiled. The little spoon sparkled with joy."
+      },
+      "knowledge": {
+        "title": "Why do spoons have different shapes?",
+        "body": "A spoon usually has a shallow, curved head for holding liquids and soft foods. The handle is designed to be easy to hold. Some spoons have small holes to strain out bits. Different sizes of spoons are used for different foods, like soup spoons and tiny coffee spoons."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_spoon_intro.mp3",
+        "story": "../item-audio/en/object_spoon_story.mp3"
+      }
+    }
+  }
+}

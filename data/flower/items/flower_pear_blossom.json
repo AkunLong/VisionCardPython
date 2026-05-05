@@ -1,0 +1,88 @@
+{
+  "id": "flower_pear_blossom",
+  "sku_id": "card_flower_pear_blossom",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_white",
+      "spring_flower"
+    ],
+    "secondary": [
+      "on_tree",
+      "fragrant",
+      "small_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "garden",
+      "orchard"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "sweet"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "梨花",
+      "aloud": "lí huā",
+      "words": "pear blossom",
+      "intro": "梨花是春天开的花，长在高高的梨树上。花瓣白白的，像小雪花一样，风一吹，飘下来软软的，闻起来香香的。",
+      "story": {
+        "title": "🌸梨树下的白花瓣",
+        "body": "春天来了，院子里的老梨树醒啦！光秃秃的树枝上，冒出一个个小花苞。花苞慢慢打开，变成一朵朵雪白的梨花。五片花瓣围在一起，中间有细细的花蕊，蜜蜂嗡嗡飞来采蜜。小美站在树下，抬起头看，说：“奶奶，梨花开得像小星星！” 一阵暖风吹过，花瓣纷纷飘落，像下了一场香香的雪。小美伸出小手，接住一片花瓣，轻轻软软的。她把花瓣贴在脸蛋上，说：“梨花，梨花，你明年还要开哦！” 老梨树摇摇树枝，好像在说：“好呀好呀！” 过了些日子，花瓣落完了，树上结出小小的梨子，小美好开心。"
+      },
+      "knowledge": {
+        "title": "梨花为什么是白色的？",
+        "body": "梨花的花瓣里有很多小气泡，把其他颜色的光都反射走了，只留下白色，所以我们看到的梨花是白白的。梨花有清新的香气，能吸引蜜蜂来帮忙授粉，这样梨树才能结出甜甜的梨子。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_pear_blossom_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_pear_blossom_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Pear Blossom",
+      "aloud": "/pɛr ˈblɑsəm/",
+      "words": "",
+      "intro": "Pear blossoms are flowers that bloom in spring on tall pear trees. Their petals are white and soft, like tiny snowflakes, and they give off a sweet fragrance.",
+      "story": {
+        "title": "🌸White Petals Under the Pear Tree",
+        "body": "Spring came, and the old pear tree in the yard woke up! Little buds appeared on the bare branches. The buds slowly opened and turned into snow-white pear blossoms. Each flower had five petals around a tiny center with thin stamens, and bees came buzzing to collect nectar. Little Mei stood under the tree, looked up, and said, “Grandma, the pear blossoms look like little stars!” A warm breeze blew, and petals fluttered down like fragrant snow. Mei held out her little hand and caught a petal—so soft and light. She put it on her cheek and said, “Pear blossom, pear blossom, come again next year!” The old tree rustled its branches as if saying, “Okay, okay!” After some days, the petals fell away, and tiny pears grew on the tree. Mei was so happy."
+      },
+      "knowledge": {
+        "title": "Why are pear blossoms white?",
+        "body": "The petals of pear blossoms have many tiny air bubbles that reflect away most colors of light, leaving only white, so they look pure white to us. Their fresh scent helps attract bees for pollination, which is needed for the tree to grow sweet pears."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_pear_blossom_intro.mp3",
+        "story": "../item-audio/en/flower_pear_blossom_story.mp3"
+      }
+    }
+  }
+}

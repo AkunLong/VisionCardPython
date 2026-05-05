@@ -1,0 +1,90 @@
+{
+  "id": "fruit_melon",
+  "sku_id": "card_fruit_melon",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_yellow",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sweet",
+      "vine_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "yellow",
+      "green",
+      "white"
+    ],
+    "shape": [
+      "round",
+      "oval"
+    ],
+    "taste": [
+      "sweet",
+      "juicy"
+    ],
+    "scenes": [
+      "farm",
+      "supermarket",
+      "home"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "香瓜",
+      "aloud": "xiāng guā",
+      "words": "melon",
+      "intro": "香瓜是一种圆圆的水果，颜色黄黄的，闻起来香香的，吃起来甜甜软软。它含有丰富的水分和营养，可以帮助小朋友补充能量。",
+      "story": {
+        "title": "🐰小兔子的香瓜",
+        "body": "夏天到了，小兔子去田里玩，看到藤蔓上挂着好几个黄黄的香瓜。香瓜圆圆的，像一个个小皮球，还飘来甜甜的香味。小兔子轻轻摘下一个，抱在怀里带回家。它把香瓜洗干净，妈妈帮它切成小块。小兔子咬了一口，“哇，好甜呀，软软的，还有好多甜甜的汁水！”小兔子想，这么好吃的香瓜，一定要和朋友们分享。它把香瓜放进小篮子，去找小松鼠、小刺猬和小鸭子。大家围在一起吃香瓜，开心地笑了。原来，夏天的甜甜香瓜和好朋友一起吃，是最快乐的事。"
+      },
+      "knowledge": {
+        "title": "香瓜长在哪里？",
+        "body": "香瓜是长在藤蔓上的水果，喜欢温暖和阳光。藤蔓会在地上爬，或者被架子撑起来。夏天是香瓜成熟的季节，这时候的香瓜最甜最多汁。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_melon_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_melon_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Melon",
+      "aloud": "/ˈmɛlən/",
+      "words": "",
+      "intro": "A melon is a round, yellow fruit that smells sweet and tastes soft and juicy. It is full of water and nutrients, helping children stay hydrated and healthy.",
+      "story": {
+        "title": "🐰The Little Rabbit's Melon",
+        "body": "In the summer, the little rabbit went to the field and saw several yellow melons hanging from the vines. The melons were round like little balls and gave off a sweet, fragrant smell. The little rabbit gently picked one, held it in its arms, and brought it home. It washed the melon and its mother helped cut it into small pieces. The little rabbit took a bite, “Wow, it’s so sweet and soft, with lots of juicy goodness!” The little rabbit thought this yummy melon must be shared with friends. So it put the melon pieces in a small basket and went to find the little squirrel, the little hedgehog, and the little duck. They all sat together, ate the melon, and laughed happily. The little rabbit learned that eating a sweet summer melon with good friends is the happiest thing."
+      },
+      "knowledge": {
+        "title": "Where do melons grow?",
+        "body": "Melons grow on vines and love warmth and sunshine. The vines spread along the ground or are supported by trellises. Summer is the ripening season for melons, when they are the sweetest and juiciest."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_melon_intro.mp3",
+        "story": "../item-audio/en/fruit_melon_story.mp3"
+      }
+    }
+  }
+}

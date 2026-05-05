@@ -1,0 +1,91 @@
+{
+  "id": "object_glasses",
+  "sku_id": "card_object_glasses",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "personal_item",
+      "color_black"
+    ],
+    "secondary": [
+      "can_wear",
+      "round",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "black",
+      "gray"
+    ],
+    "shape": [
+      "round"
+    ],
+    "material": [
+      "plastic",
+      "metal"
+    ],
+    "scenes": [
+      "home",
+      "school",
+      "office"
+    ],
+    "function": [
+      "improve_vision"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "眼镜",
+      "aloud": "yǎn jìng",
+      "words": "glasses",
+      "intro": "眼镜可以帮助我们看清楚东西。它有两个亮晶晶的镜片，架在鼻子上，让模糊的世界变清晰。",
+      "story": {
+        "title": "👓眼镜的新朋友",
+        "body": "小明的眼睛看不清远处的东西，妈妈带他去眼镜店。叔叔给他戴上眼镜，哇！世界一下子变得好清楚！小明高兴地跳起来。可是有一天，他不小心把眼镜摔坏了，镜片掉了下来。小明伤心地哭了。爸爸说：“别担心，我们去找叔叔修。”叔叔轻轻修好眼镜，小明又看见了。从此，小明更加爱护眼镜，每天用软布轻轻擦，戴上它看书写字。眼镜成了小明最好的朋友，陪他度过每一天。"
+      },
+      "knowledge": {
+        "title": "眼镜为什么能让我们看清楚？",
+        "body": "眼镜的镜片是弯曲的，能把光线调整方向，让光线正好落在眼睛里。这样模糊的东西就会变得清晰，就像给眼睛装上了小窗户。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_glasses_intro.mp3",
+        "story": "../item-audio/zh-CN/object_glasses_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Glasses",
+      "aloud": "/ɡlæsɪz/",
+      "words": "",
+      "intro": "Glasses help us see clearly. They have two shiny lenses and sit on our nose, making the blurry world sharp and clear.",
+      "story": {
+        "title": "👓A New Friend: Glasses",
+        "body": "Xiao Ming couldn't see things far away clearly. One day, his mom took him to an eyewear shop. The man put a pair of glasses on him. Wow! The world became so clear! Xiao Ming jumped with joy. But one day, he accidentally broke his glasses. The lenses fell out. Xiao Ming cried sadly. His dad said, 'Don't worry, we'll ask the man to fix them.' The man gently repaired the glasses, and Xiao Ming could see again. From then on, Xiao Ming took great care of his glasses. He cleaned them with a soft cloth every day. He wore them when reading and writing. The glasses became his best friend, accompanying him every day."
+      },
+      "knowledge": {
+        "title": "Why do glasses help us see clearly?",
+        "body": "The lenses of glasses are curved, which can bend light so that it focuses exactly inside our eyes. This turns blurry images into clear ones, just like putting a little window on our eyes."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_glasses_intro.mp3",
+        "story": "../item-audio/en/object_glasses_story.mp3"
+      }
+    }
+  }
+}

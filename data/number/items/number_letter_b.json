@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_b",
+  "sku_id": "card_number_letter_b",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "easy_level",
+      "first_learning",
+      "can_say"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 2,
+    "is_even": true,
+    "is_prime": true,
+    "ordinal": "2nd",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母B",
+      "aloud": "bǐ",
+      "words": "b",
+      "intro": "字母B是英文字母表里的第二个字母。它发出的声音像小鼓的‘嘣’。很多可爱的东西都用B开头哦！",
+      "story": {
+        "title": "🐻小熊的字母B",
+        "body": "小熊贝贝拿着一个字母B卡片。它说：‘B，B，B！’ 贝贝喜欢字母B，因为B是它的名字开头。它又指着皮球说：‘球，Ball！也是B开头！’ 还有香蕉：‘香蕉，Banana！也是B！’ 贝贝开心地拍了拍皮球：‘蹦！蹦！蹦！’ 皮球跳得好高。字母B真好玩，它像一个大肚子，有两个小圈圈。贝贝把卡片贴在墙上，每天都说：‘B！B！B！’"
+      },
+      "knowledge": {
+        "title": "B是什么字母？",
+        "body": "B是英语字母表中的第二个字母。它是辅音字母，发音时嘴唇轻轻碰在一起。很多日常用品的名字都以B开头，比如球、熊和香蕉。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_b_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_b_story.mp3"
+      }
+    },
+    "en": {
+      "name": "B",
+      "aloud": "/biː/",
+      "words": "",
+      "intro": "B is the second letter in the English alphabet. It makes a sound like a drum: b-b-b! Many fun things start with B.",
+      "story": {
+        "title": "🐻Little Bear's Letter B",
+        "body": "Little bear Ben holds a card with the letter B. He says, 'B, B, B!' Ben loves the letter B because his name starts with it. He points to a ball and says, 'Ball starts with B too!' And a banana, 'Banana starts with B!' Ben bounces the ball, 'Bounce, bounce, bounce!' The ball goes high. The letter B is so much fun. It looks like a big belly with two little circles. Ben sticks the card on the wall and says every day, 'B! B! B!'"
+      },
+      "knowledge": {
+        "title": "What is the letter B?",
+        "body": "B is the second letter in the English alphabet. It is a consonant, made by pressing your lips together. Many everyday words start with B, like ball, bear, and banana."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_b_intro.mp3",
+        "story": "../item-audio/en/number_letter_b_story.mp3"
+      }
+    }
+  }
+}

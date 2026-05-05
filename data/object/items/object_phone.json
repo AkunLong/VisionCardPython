@@ -1,0 +1,92 @@
+{
+  "id": "object_phone",
+  "sku_id": "card_object_phone",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "electronic_item",
+      "can_call"
+    ],
+    "secondary": [
+      "at_home",
+      "personal_item",
+      "hard"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "black",
+      "white",
+      "gray"
+    ],
+    "shape": [
+      "rectangle"
+    ],
+    "material": [
+      "plastic",
+      "metal"
+    ],
+    "scenes": [
+      "home",
+      "school",
+      "office"
+    ],
+    "function": [
+      "call"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "电话",
+      "aloud": "diàn huà",
+      "words": "phone",
+      "intro": "电话是一种神奇的机器，可以让很远很远的人说话，就像在身边一样。它有一个听话筒和一个小话筒，还有一排小按钮，按下数字，就能听到声音啦。",
+      "story": {
+        "title": "📞丁零丁零，电话响了",
+        "body": "小兔子米米一个人在家，突然电话“丁零丁零”响了起来。米米拿起听筒，里面传来妈妈的声音：“米米，是妈妈呀！”米米又惊又喜：“妈妈，你在哪里？我好想你！”妈妈说：“我在超市给你买胡萝卜呢，很快就回家啦。”米米对着话筒说：“妈妈，你真好，我等你回来！”原来小小电话像一条看不见的线，把妈妈的声音从很远的地方传到米米耳边。米米抱着电话亲了亲，它真是世界上最棒的宝贝。"
+      },
+      "knowledge": {
+        "title": "电话为什么能听见远处的声音？",
+        "body": "电话把我们的声音变成电信号，通过电话线或者看不见的无线电波传送出去。对方的电话收到信号，再把它们变回声音，这样就算离得很远，也能清楚地听到说话。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_phone_intro.mp3",
+        "story": "../item-audio/zh-CN/object_phone_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Phone",
+      "aloud": "/foʊn/",
+      "words": "",
+      "intro": "A phone is a magical machine that lets us talk to people far away, just like they are right beside us. It has a receiver, a microphone, and buttons. Dial the numbers and you can hear someone's voice!",
+      "story": {
+        "title": "📞Ring, Ring, the Phone is Ringing!",
+        "body": "Little Bunny Mimi was home alone when suddenly the phone rang, \"Ring, ring!\" Mimi picked up the receiver and heard her mom's voice: \"Mimi, it's Mommy!\" Mimi was so surprised and happy. \"Mommy, where are you? I miss you so much!\" Mommy said, \"I'm at the supermarket buying carrots for you. I'll be home soon.\" Mimi said into the microphone, \"Mommy, you're so good. I'll wait for you!\" It turns out the little phone is like an invisible thread, carrying Mommy's voice from far away right to Mimi's ear. Mimi hugged the phone and gave it a kiss. It was the best thing ever."
+      },
+      "knowledge": {
+        "title": "How can a phone make us hear sounds from far away?",
+        "body": "A phone turns our voice into electric signals and sends them through telephone wires or invisible radio waves. The other phone receives the signals and turns them back into sound, so even if we are far apart, we can hear each other clearly."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_phone_intro.mp3",
+        "story": "../item-audio/en/object_phone_story.mp3"
+      }
+    }
+  }
+}

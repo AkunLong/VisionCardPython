@@ -1,0 +1,93 @@
+{
+  "id": "vegetable_chinese_cabbage",
+  "sku_id": "card_vegetable_chinese_cabbage",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "leafy_vegetable"
+    ],
+    "secondary": [
+      "crisp",
+      "sweet",
+      "juicy"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green",
+      "white"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "crisp",
+      "juicy"
+    ],
+    "grow_location": [
+      "field"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "大白菜",
+      "aloud": "dà bái cài",
+      "words": "chinese cabbage",
+      "intro": "大白菜是一种绿色的叶菜，大大的，水灵灵的。它长在地上，一层一层的叶子裹得紧紧的，好像一朵圆圆的花。",
+      "story": {
+        "title": "🥬大白菜的故事",
+        "body": "小白兔在菜园里玩，看到一棵绿油油的大白菜。白菜的叶子又大又绿，像一把大扇子。小白兔轻轻摸了摸叶子，滑滑的，凉凉的。它想：这么大的白菜，一定很好吃！小白兔高兴地跑过去，想把它抱回家。可是白菜太重了，怎么也搬不动。它使劲推，推得满头大汗，白菜只滚了几下。这时，好朋友小花猫来了。小花猫说：“我来帮你！”两只小动物一起用力，一边推一边滚，终于把大白菜运回了家。兔妈妈看到大白菜，笑得合不拢嘴。她把白菜洗干净，切成一片一片，做了一锅香喷喷的白菜汤。汤里有白色的豆腐，还有红红的胡萝卜。小白兔和小花猫各喝了一大碗，觉得又甜又嫩，真好吃。小白兔说：“大白菜太棒了！”小花猫点点头。第二天，它们把白菜根种在土里，浇了水，希望能长出更多大白菜。"
+      },
+      "knowledge": {
+        "title": "吃大白菜有什么好处？",
+        "body": "大白菜里有很多维生素，吃了能让身体更健康，不容易生病。它还可以帮助消化，让肚子舒舒服服的。而且大白菜可以做成很多好吃的，炒着吃、煮汤喝、做成泡菜，都很美味！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_chinese_cabbage_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_chinese_cabbage_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Chinese Cabbage",
+      "aloud": "/tʃaɪˈniːz ˈkæbɪdʒ/",
+      "words": "",
+      "intro": "Chinese cabbage is a green leafy vegetable that is big and juicy. It grows in the field and has layers of leaves wrapped tightly together, like a round flower.",
+      "story": {
+        "title": "🥬The Big Cabbage",
+        "body": "A little white rabbit was playing in the garden when she saw a big, green Chinese cabbage. Its leaves were large and crinkly, like a fan. 'This must be so yummy!' she thought. She tried to pull it, but it was too heavy. She pushed hard, but the cabbage only rolled a little. Just then, her friend the calico cat came by. 'Let me help!' said the cat. Together, they pushed and rolled the cabbage all the way home. Mother Rabbit was so happy when she saw it. She washed the cabbage, cut it up, and made a big pot of soup. She added white tofu and red carrot slices. The rabbit and cat each had a big bowl. 'Mmm, so sweet and tender!' they said. After finishing, they planted the root in the garden and watered it, hoping for more cabbages."
+      },
+      "knowledge": {
+        "title": "Why is eating Chinese cabbage good for you?",
+        "body": "Chinese cabbage is full of vitamins that keep you healthy and strong. It helps your tummy feel good and can be cooked in many ways, like in soups, stir-fries, or even pickles!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_chinese_cabbage_intro.mp3",
+        "story": "../item-audio/en/vegetable_chinese_cabbage_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "plant_ginseng",
+  "sku_id": "card_plant_ginseng",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "herb",
+      "color_brown"
+    ],
+    "secondary": [
+      "can_eat",
+      "in_forest",
+      "has_leaf"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "herb"
+    ],
+    "color": [
+      "brown",
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "root",
+      "stem",
+      "leaves"
+    ],
+    "scenes": [
+      "forest",
+      "field"
+    ],
+    "season": [
+      "autumn"
+    ],
+    "is_edible": true,
+    "is_drinkable": true,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "人参",
+      "aloud": "rén shēn",
+      "words": "ginseng",
+      "intro": "人参是一种小小的植物，长在森林里。它的根像个小娃娃，可有趣了！它是宝贝，能让我们身体棒棒的。",
+      "story": {
+        "title": "🌱人参娃娃的秘密",
+        "body": "森林深处，有一棵人参小苗。春天它长出新叶子，夏天开出小花。秋天，它的根在泥土里悄悄长大，像一个小娃娃。小松鼠很好奇，问它：“你是谁呀？”人参笑着说：“我是人参娃娃，我的根可有营养了，能让人精力充沛。”冬天到了，叶子落了，人参娃娃安静地睡在土里。第二年春天，它又发芽了。一个小姑娘发现了它，小心翼翼地挖出来，给生病的奶奶煮汤喝。奶奶喝了就精神了。人参娃娃真神奇，大家都爱它。"
+      },
+      "knowledge": {
+        "title": "人参有什么用？",
+        "body": "人参的根很有营养，可以煮汤、泡茶，喝了身体棒棒的。它能让人们更有力气，少生病，是一种很珍贵的草药哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_ginseng_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_ginseng_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Ginseng",
+      "aloud": "/ˈdʒɪnsɛŋ/",
+      "words": "",
+      "intro": "Ginseng is a small plant that grows in the forest. Its root looks like a little baby, so interesting! It's a treasure that makes us strong and healthy.",
+      "story": {
+        "title": "🌱The Secret of the Ginseng Baby",
+        "body": "Deep in the forest, there was a little ginseng plant. In spring, it grew fresh leaves, and in summer, tiny flowers bloomed. In autumn, its root grew bigger and bigger, looking just like a little baby. A squirrel was curious and asked, 'Who are you?' Ginseng smiled and said, 'I'm the ginseng baby. My root is very nutritious, it gives people energy.' When winter came, the leaves fell off, and the ginseng baby slept quietly in the earth. The next spring, it sprouted again. A little girl discovered it, carefully dug it up, and made soup for her sick grandma. After drinking it, Grandma felt much better. The ginseng baby was so magical, everyone loved it."
+      },
+      "knowledge": {
+        "title": "What is ginseng good for?",
+        "body": "Ginseng root is very nutritious. It can be used in soup or tea, making our body strong. It gives people more energy and helps them get sick less often. It's a very precious herb!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_ginseng_intro.mp3",
+        "story": "../item-audio/en/plant_ginseng_story.mp3"
+      }
+    }
+  }
+}

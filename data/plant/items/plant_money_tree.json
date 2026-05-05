@@ -1,0 +1,99 @@
+{
+  "id": "plant_money_tree",
+  "sku_id": "card_plant_money_tree",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "color_green"
+    ],
+    "secondary": [
+      "potted_plant",
+      "has_trunk",
+      "has_leaf"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "trunk",
+      "branches",
+      "leaves",
+      "roots"
+    ],
+    "scenes": [
+      "home",
+      "office",
+      "indoor"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "发财树",
+      "aloud": "fā cái shù",
+      "words": "money tree",
+      "intro": "发财树是一种绿绿的植物，常常养在家里。它的叶子像一把把小伞，能给我们带来好运和快乐。",
+      "story": {
+        "title": "🌱发财树的小秘密",
+        "body": "阳台上有一盆可爱的发财树。它的树干像一个小胖墩，叶子绿油油的，像张开的小手掌。每天早晨，小主人多多都会给它浇水，轻轻说：“发财树，快长大吧！”发财树摇摇叶子，好像在说谢谢。有一天，多多发现发财树的一片叶子有点黄了，她好着急。妈妈告诉她，要多晒太阳才行。多多就把花盆搬到有阳光的地方。没过几天，黄叶子变绿了，还冒出了新芽！多多开心极了，她觉得发财树就像自己的小宝宝。现在，发财树长得更高了，叶子也更多了。每当有风吹过，叶子沙沙响，仿佛在唱歌。多多知道，只要用心爱护，植物就会给你惊喜。"
+      },
+      "knowledge": {
+        "title": "发财树有什么特点？",
+        "body": "发财树喜欢温暖和阳光，但不能暴晒。它的叶子可以净化空气，让家里更清新。人们相信它能带来好运气，所以叫它发财树。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_money_tree_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_money_tree_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Money Tree",
+      "aloud": "/ˈmʌni triː/",
+      "words": "",
+      "intro": "A money tree is a green plant often kept at home. Its leaves look like little umbrellas, bringing good luck and joy.",
+      "story": {
+        "title": "🌱The Little Secret of the Money Tree",
+        "body": "There was a cute money tree on the balcony. Its trunk was like a chubby little boy, and its leaves were green like open palms. Every morning, little Duoduo would water it and say softly, “Money tree, grow quickly!” The money tree shook its leaves as if to say thank you. One day, Duoduo saw a leaf turning yellow, and she was so worried. Mom said it needed more sunlight. So Duoduo moved the pot to a sunny spot. A few days later, the yellow leaf turned green again, and a new bud appeared! Duoduo was so happy. She felt the money tree was like her own baby. Now the money tree is taller with more leaves. When the wind blows, the leaves rustle like a song. Duoduo knows that with love and care, plants will surprise you."
+      },
+      "knowledge": {
+        "title": "What is special about money trees?",
+        "body": "Money trees like warmth and sunlight, but not direct hot sun. Their leaves clean the air, making the home fresher. People believe they bring good fortune, that's why they are called money trees."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_money_tree_intro.mp3",
+        "story": "../item-audio/en/plant_money_tree_story.mp3"
+      }
+    }
+  }
+}

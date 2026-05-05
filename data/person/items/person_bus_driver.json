@@ -1,0 +1,91 @@
+{
+  "id": "person_bus_driver",
+  "sku_id": "card_person_bus_driver",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "on_road"
+    ],
+    "secondary": [
+      "adult",
+      "drive",
+      "public_service"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "bus driver"
+    ],
+    "workplace": [
+      "bus",
+      "road"
+    ],
+    "tools": [
+      "steering wheel",
+      "ticket machine"
+    ],
+    "clothing": [
+      "uniform"
+    ],
+    "actions": [
+      "drive",
+      "pick up passengers",
+      "stop at bus stop"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "公交司机",
+      "aloud": "gōng jiāo sī jī",
+      "words": "bus driver",
+      "intro": "公交司机是开公交车的人。他们每天开着大大的巴士，带我们去公园、幼儿园，还有爷爷奶奶家。",
+      "story": {
+        "title": "🚌小熊坐公交",
+        "body": "今天，熊妈妈要带小熊去看外婆。它们在公交站等车。不一会儿，一辆蓝色的公交车开过来，司机狗叔叔笑眯眯地打开车门。小熊上车找座位，还看到了小兔子和小猪。狗叔叔开车很稳，每次拐弯都会提醒：“请坐好扶稳哦。”到站了，狗叔叔说：“幸福小区到了，请下车。”小熊和妈妈下车，对狗叔叔挥挥手说：“谢谢叔叔！”狗叔叔也笑着挥手。外婆已经在站台等它们了，小熊开心地跑过去。它想：公交司机真厉害，能带着这么多人去看想见的人！"
+      },
+      "knowledge": {
+        "title": "公交司机怎样工作？",
+        "body": "公交司机每天要开很长的路，经过好多车站，把乘客安全送到。他们用方向盘控制方向，用车上的刷卡机收车费。还要提醒大家给老人让座呢。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_bus_driver_intro.mp3",
+        "story": "../item-audio/zh-CN/person_bus_driver_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Bus Driver",
+      "aloud": "/bʌs ˈdraɪvər/",
+      "words": "",
+      "intro": "A bus driver is someone who drives a bus. They take us to the park, to school, or to visit our grandparents.",
+      "story": {
+        "title": "🚌Little Bear Takes the Bus",
+        "body": "Today, Mama Bear is taking Little Bear to visit Grandma. They wait at the bus stop. Soon, a blue bus arrives. The bus driver, Mr. Dog, opens the door with a warm smile. Little Bear gets on and finds a seat. He sees Little Rabbit and Little Piggy too. Mr. Dog drives very smoothly. At every turn, he reminds them, “Please stay seated and hold on tight.” When they reach the stop, Mr. Dog says, “Happy Garden stop! Please get off.” Little Bear and Mama get off and wave to Mr. Dog. “Thank you, Mr. Dog!” He waves back with a smile. Grandma is already waiting at the stop. Little Bear runs to her happily. He thinks: The bus driver is amazing! He brings so many people to see the ones they love."
+      },
+      "knowledge": {
+        "title": "How does a bus driver work?",
+        "body": "A bus driver drives a long way every day and stops at many bus stops. They use a steering wheel to turn the bus and a ticket machine to collect fares. They also remind people to give seats to the elderly."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_bus_driver_intro.mp3",
+        "story": "../item-audio/en/person_bus_driver_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_white_radish",
+  "sku_id": "card_vegetable_white_radish",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_white",
+      "root_vegetable"
+    ],
+    "secondary": [
+      "long",
+      "sweet",
+      "crisp"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "white"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "sweet",
+      "crisp"
+    ],
+    "grow_location": [
+      "underground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "白萝卜",
+      "aloud": "bái luó bo",
+      "words": "white radish",
+      "intro": "白萝卜是一种白色的蔬菜，长长的，吃起来脆脆甜甜的。它长在泥土下面，拔出来的时候白白的，很干净。",
+      "story": {
+        "title": "🥕白萝卜的惊喜",
+        "body": "小白兔在菜园里跳来跳去，忽然看见地上一片绿绿的叶子。它抓住叶子用力一拔，嘿哟！拔出来一根又白又长的白萝卜！小白兔抱着萝卜高兴地叫起来。这时候，小羊咩咩地走过来，说它也好想尝尝。小白兔想了想，又拔了一根，分给小羊。两个小家伙坐在田埂上，咔嚓咔嚓地啃着白萝卜。小白兔说：真甜呀！小羊点头：脆脆的，太好吃了！吃完后，它们把萝卜叶子埋回土里，盼着长出更多白萝卜。"
+      },
+      "knowledge": {
+        "title": "吃白萝卜有什么好处？",
+        "body": "白萝卜含有维生素C，能帮助身体变得更强壮。它可以生吃、煮汤、炒菜，怎么吃都很美味！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_white_radish_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_white_radish_story.mp3"
+      }
+    },
+    "en": {
+      "name": "White Radish",
+      "aloud": "/waɪt ˈrædɪʃ/",
+      "words": "",
+      "intro": "A white radish is a white vegetable that is long and tastes sweet and crisp. It grows underground, and when you pull it out, it is clean and white.",
+      "story": {
+        "title": "🥕The White Radish Surprise",
+        "body": "The little rabbit hopped around the garden and suddenly saw green leaves on the ground. It grabbed the leaves and pulled hard — Heave-ho! Out came a long, white radish! The rabbit held it and jumped with joy. Just then, a little lamb came over and said it really wanted a taste. The rabbit thought for a moment, then pulled another one and shared it with the lamb. The two friends sat on the field edge, crunching on the white radish. The rabbit said, So sweet! The lamb nodded, Crispy and yummy! After they finished, they planted the leaves back in the soil, hoping for more white radishes to grow."
+      },
+      "knowledge": {
+        "title": "Why is eating white radish good for you?",
+        "body": "White radish has lots of vitamin C, which helps your body stay strong. You can eat it raw, in soup, or stir-fried — it's delicious any way!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_white_radish_intro.mp3",
+        "story": "../item-audio/en/vegetable_white_radish_story.mp3"
+      }
+    }
+  }
+}

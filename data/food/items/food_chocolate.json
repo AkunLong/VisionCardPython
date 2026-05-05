@@ -1,0 +1,90 @@
+{
+  "id": "food_chocolate",
+  "sku_id": "card_food_chocolate",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_brown",
+      "sweet",
+      "edible"
+    ],
+    "secondary": [
+      "smooth",
+      "at_party",
+      "at_snack_time"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dessert",
+      "snack"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "cool"
+    ],
+    "scenes": [
+      "home",
+      "party",
+      "cafe"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "巧克力",
+      "aloud": "qiǎo kè lì",
+      "words": "chocolate",
+      "intro": "巧克力是一种甜甜的零食，它是用可可豆做成的，吃起来又滑又香。小朋友可以偶尔吃一小块，但不能吃太多哦。",
+      "story": {
+        "title": "🍫小松鼠的巧克力分享",
+        "body": "秋天到了，森林里的小松鼠奇奇捡到了一块巧克力。它用爪子掰了一小块放进嘴里，哇，又甜又滑，好好吃呀！奇奇想：这么好吃的巧克力，我要带回家给妈妈尝尝。可是走在路上，它遇到了小兔子跳跳和刺猬球球，大家都被巧克力的香味吸引过来了。奇奇掰成三块，一块给跳跳，一块给球球，自己留着最小的一块。大家都开心地笑了，说：谢谢你，奇奇！分享的巧克力更好吃！奇奇觉得心里甜甜的，比巧克力还甜呢！"
+      },
+      "knowledge": {
+        "title": "巧克力是用什么做的？",
+        "body": "巧克力是用可可树的种子——可可豆做的。人们把可可豆发酵、烘干、磨成粉，然后加上糖和牛奶，做成了甜甜的巧克力。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_chocolate_intro.mp3",
+        "story": "../item-audio/zh-CN/food_chocolate_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Chocolate",
+      "aloud": "/ˈtʃɒkələt/",
+      "words": "",
+      "intro": "Chocolate is a sweet treat made from cocoa beans. It's smooth and yummy. Children can have a small piece sometimes, but not too much.",
+      "story": {
+        "title": "🍫 Little Squirrel's Chocolate Sharing",
+        "body": "One autumn day, Little Squirrel Kiki found a piece of chocolate in the forest. She broke off a tiny piece and put it in her mouth. Wow, it was so sweet and smooth! Kiki thought, 'This delicious chocolate, I must bring it home for my mom to try.' But on the way, she met Bunny Hoppy and Hedgehog Pokey. They all smelled the chocolate. Kiki broke the chocolate into three pieces, giving one to Hoppy, one to Pokey, and keeping the smallest one for herself. Everyone smiled happily and said, 'Thank you, Kiki! Sharing makes chocolate taste even better!' Kiki felt her heart was sweeter than chocolate."
+      },
+      "knowledge": {
+        "title": "What is chocolate made from?",
+        "body": "Chocolate is made from cocoa beans, the seeds of the cocoa tree. The beans are fermented, dried, ground into powder, then mixed with sugar and milk to make sweet chocolate."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_chocolate_intro.mp3",
+        "story": "../item-audio/en/food_chocolate_story.mp3"
+      }
+    }
+  }
+}

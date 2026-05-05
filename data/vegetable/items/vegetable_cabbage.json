@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_cabbage",
+  "sku_id": "card_vegetable_cabbage",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "leafy_vegetable"
+    ],
+    "secondary": [
+      "round",
+      "crisp",
+      "sweet"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "crisp",
+      "sweet"
+    ],
+    "grow_location": [
+      "above_ground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "卷心菜",
+      "aloud": "juǎn xīn cài",
+      "words": "cabbage",
+      "intro": "卷心菜是一种绿色的蔬菜，圆圆的，像一个小皮球。吃起来脆脆的，有时候还有一点点甜。它在地里长大，一层一层的叶子包得紧紧的。",
+      "story": {
+        "title": "🥬卷心菜的礼物",
+        "body": "小兔子在菜园里发现了一颗大大的卷心菜。它想，如果把这个送给奶奶，她一定很开心。小兔子用力抱起来，咦，卷心菜好重呀！它走一步，歇一下，终于抱到了奶奶家。奶奶看见卷心菜，笑呵呵地说：好棒的卷心菜！我们一起做汤喝吧。奶奶把卷心菜切成一片片，放进锅里煮。不一会儿，香喷喷的汤就煮好了。小兔子和奶奶一起喝汤，心里暖洋洋的。奶奶说：谢谢你，小兔子，这卷心菜真甜呀！小兔子害羞地笑了。喝完汤，小兔子把剩下的菜叶子拿去喂了邻居的小羊，小羊也开心地咩咩叫。"
+      },
+      "knowledge": {
+        "title": "吃卷心菜有什么好处？",
+        "body": "卷心菜含有丰富的维生素C和纤维素，吃了可以增强抵抗力，让身体棒棒的！它还可以做成沙拉、炒菜或者煮汤，都很美味哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_cabbage_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_cabbage_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cabbage",
+      "aloud": "/ˈkæbɪdʒ/",
+      "words": "",
+      "intro": "Cabbage is a round, green vegetable with many layers of leaves. It tastes crisp and a little sweet, and grows in the garden.",
+      "story": {
+        "title": "🥬The Cabbage Gift",
+        "body": "Little Rabbit found a big cabbage in the garden. She thought, 'If I give this to Grandma, she will be so happy!' Little Rabbit tried to pick it up. Oh, the cabbage was very heavy! She took one step, then rested, and finally carried it to Grandma's house. When Grandma saw the cabbage, she smiled and said, 'What a wonderful cabbage! Let's make some soup.' Grandma cut the cabbage into slices and put them in the pot. Soon, a delicious smell filled the air. Little Rabbit and Grandma drank the soup together, feeling warm inside. Grandma said, 'Thank you, Little Rabbit, this cabbage is so sweet!' Little Rabbit blushed. After the soup, she took the leftover leaves to the baby sheep next door, and the sheep bleated happily."
+      },
+      "knowledge": {
+        "title": "Why is eating cabbage good for you?",
+        "body": "Cabbage is rich in vitamin C and fiber, which help strengthen your immune system and keep you healthy. You can enjoy it raw in salads, stir-fried, or in soups—it's tasty any way!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_cabbage_intro.mp3",
+        "story": "../item-audio/en/vegetable_cabbage_story.mp3"
+      }
+    }
+  }
+}

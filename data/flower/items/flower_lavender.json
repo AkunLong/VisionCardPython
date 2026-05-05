@@ -1,0 +1,89 @@
+{
+  "id": "flower_lavender",
+  "sku_id": "card_flower_lavender",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_purple",
+      "in_garden"
+    ],
+    "secondary": [
+      "fragrant",
+      "summer_flower",
+      "small_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "purple"
+    ],
+    "size": [
+      "tall"
+    ],
+    "scenes": [
+      "garden",
+      "field",
+      "balcony"
+    ],
+    "season": [
+      "summer"
+    ],
+    "smell": [
+      "strong"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "薰衣草",
+      "aloud": "xūn yī cǎo",
+      "words": "lavender",
+      "intro": "薰衣草是一种香香的紫色小花，一串串的，像小铃铛。它喜欢晒太阳，闻起来让人很舒服。",
+      "story": {
+        "title": "💜薰衣草的香气",
+        "body": "花园的角落里，长着一丛薰衣草。它开着小小的紫色花朵，风一吹，香气飘得老远。小蜜蜂飞过来，嗡嗡地说：“好香呀，我可以采蜜吗？”薰衣草点点头。小蝴蝶也飞来了，说：“你的颜色真好看，我可以歇一歇吗？”薰衣草轻轻摇着花枝。每一天，花园里的小动物都来和薰衣草做朋友，小鸟在它旁边唱歌，小蚂蚁在叶子下面乘凉。薰衣草觉得好开心，它把香气送给每个朋友，大家也都爱着这丛温柔的紫色小花。"
+      },
+      "knowledge": {
+        "title": "薰衣草的香味有什么用？",
+        "body": "薰衣草的香味能让人的心情变得平静，更好睡觉。人们会把薰衣草做成香包，放在枕头边，这样晚上就能睡得更香啦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_lavender_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_lavender_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Lavender",
+      "aloud": "/ˈlævəndər/",
+      "words": "",
+      "intro": "Lavender is a fragrant purple flower that grows in clusters, like little bells. It loves the sun and smells lovely.",
+      "story": {
+        "title": "💜The Scent of Lavender",
+        "body": "In a corner of the garden grew a bush of lavender. It had tiny purple flowers, and when the wind blew, its fragrance traveled far. A little bee flew over, buzzing, “What a sweet smell! May I gather some nectar?” The lavender nodded. A butterfly also came by and said, “Your color is so pretty, may I rest here?” The lavender swayed its stems gently. Every day, the small animals in the garden came to be friends with the lavender. Birds sang beside it, and little ants cooled down under its leaves. The lavender felt so happy. It shared its scent with every friend, and everyone loved this gentle patch of purple flowers."
+      },
+      "knowledge": {
+        "title": "What is the smell of lavender good for?",
+        "body": "The scent of lavender can calm people down and help them sleep. People make little sachets with lavender to put near their pillows, so they can sleep better at night!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_lavender_intro.mp3",
+        "story": "../item-audio/en/flower_lavender_story.mp3"
+      }
+    }
+  }
+}

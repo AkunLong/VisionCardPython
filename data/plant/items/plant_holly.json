@@ -1,0 +1,100 @@
+{
+  "id": "plant_holly",
+  "sku_id": "card_plant_holly",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "color_green"
+    ],
+    "secondary": [
+      "has_leaf",
+      "has_fruit",
+      "in_park"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "green",
+      "red",
+      "brown"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "trunk",
+      "branches",
+      "leaves",
+      "berries"
+    ],
+    "scenes": [
+      "park",
+      "garden",
+      "roadside"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "冬青",
+      "aloud": "dōng qīng",
+      "words": "holly",
+      "intro": "冬青矮矮的，叶子绿得发亮。冬天它会长出红红的小果子，好漂亮，大家都很喜欢它。",
+      "story": {
+        "title": "🌿快乐的小冬青",
+        "body": "公园里有一棵矮矮的冬青树，它一年四季都穿着绿衣裳。春天，它长出油亮亮的新叶子，阳光一照，闪闪发光。夏天，太阳火辣辣的，路人走累了，就在冬青旁歇一歇，说：“这树真可爱！”秋天，别的树叶子变黄落下，冬青却依然绿绿的，还悄悄开出小白花，引来小蜜蜂跳舞。冬天，白白的雪花飘下来，冬青的绿叶上挂着雪，漂亮极了！更神奇的是，它还结出一串串红艳艳的小果子，像小灯笼。小鸟们发现了，高兴地飞来，叽叽喳喳吃着美味。小朋友们也跑来了，和爸爸妈妈一起剪几根枝条，做成美丽的花环，挂在门口迎接圣诞。冬青看着大家开心的样子，心里暖暖的。它想：能给人们带来快乐，我是一棵幸福的小树呀！春暖花开时，冬青又冒出更多嫩芽，变得更茂盛了。"
+      },
+      "knowledge": {
+        "title": "冬青有什么特别？",
+        "body": "冬青是一种常绿小树，一年四季都穿着绿衣裳。秋天和冬天，它会结出鲜艳的红果子，像一颗颗小宝石。这些果子是小鸟的美食，但小朋友不要吃，有毒哦。人们喜欢在冬天用冬青枝条做花环，挂在门上，迎接新年。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_holly_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_holly_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Holly",
+      "aloud": "/ˈhɑːli/",
+      "words": "",
+      "intro": "Holly is a short plant with shiny green leaves. In winter, it grows pretty red berries. Everyone loves it.",
+      "story": {
+        "title": "🌿The Happy Little Holly",
+        "body": "There was a short holly tree in the park, wearing green clothes all year round. In spring, it grew shiny new leaves that sparkled in the sun. In summer, the sun was hot. People stopped by and said, 'What a cute little tree!' In autumn, other trees' leaves turned yellow and fell, but the holly stayed green. It also bloomed tiny white flowers, and bees came to dance. In winter, white snowflakes fell, and the holly was covered in snow, looking beautiful! Even more magical, it grew clusters of bright red berries, like little lanterns. Birds found them and flew over, chirping happily as they ate. Children came and cut some branches with their parents to make pretty wreaths, hanging them on doors for Christmas. The holly saw everyone so happy and felt warm inside. It thought: I bring joy to others. I am such a happy little tree! When spring returned, the holly grew more new buds and became even thicker."
+      },
+      "knowledge": {
+        "title": "What is special about holly?",
+        "body": "Holly is a small evergreen tree. It wears green clothes all year round. In autumn and winter, it grows bright red berries that look like little jewels. These berries are tasty for birds, but don't eat them—they're poisonous! People love to use holly branches to make wreaths in winter, hanging them on doors to welcome the new year."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_holly_intro.mp3",
+        "story": "../item-audio/en/plant_holly_story.mp3"
+      }
+    }
+  }
+}

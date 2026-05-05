@@ -1,0 +1,87 @@
+{
+  "id": "fruit_strawberry",
+  "sku_id": "card_fruit_strawberry",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_red",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "small",
+      "has_seeds",
+      "sweet"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "red"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sweet",
+      "sour"
+    ],
+    "scenes": [
+      "farm",
+      "supermarket",
+      "kitchen"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "草莓",
+      "aloud": "cǎo méi",
+      "words": "strawberry",
+      "intro": "草莓是一种小小的红色水果，表面有许多小小的籽，吃起来酸酸甜甜，水分很多。",
+      "story": {
+        "title": "🐻小熊摘草莓",
+        "body": "春天来了，小熊跟着妈妈去草莓园。草莓地里，一颗颗红红的草莓躲在绿叶下面，像小灯笼一样可爱。小熊轻轻拨开叶子，找到一颗最大最红的草莓，小心地摘下来放进篮子里。草莓香香的，小熊忍不住尝了一小口，酸酸甜甜的汁水在嘴里爆开，真好吃呀！回到家，妈妈把草莓洗干净，做成了草莓酱，抹在面包上。小熊还把一些草莓分给了小兔子和小刺猬，大家一起分享，甜得笑弯了眼睛。"
+      },
+      "knowledge": {
+        "title": "草莓在什么季节成熟？",
+        "body": "草莓多在春天和初夏成熟。天气变暖，阳光充足，草莓就会慢慢变红，这时候的草莓最香甜好吃。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_strawberry_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_strawberry_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Strawberry",
+      "aloud": "/ˈstrɔːbɛri/",
+      "words": "",
+      "intro": "A strawberry is a small red fruit with tiny seeds on its skin. It tastes sweet and a little sour, and is very juicy.",
+      "story": {
+        "title": "🐻Little Bear Picks Strawberries",
+        "body": "In spring, Little Bear goes to the strawberry farm with his mom. Among the green leaves, red strawberries hide like tiny lanterns. Little Bear gently pushes the leaves aside, finds the biggest and reddest one, and carefully puts it into his basket. The strawberry smells so good that he can’t help taking a small bite. The sweet and sour juice bursts in his mouth — so yummy! Back home, Mom washes the strawberries and makes strawberry jam to spread on bread. Little Bear also shares some strawberries with Little Rabbit and Little Hedgehog. They all enjoy the sweet treat, their eyes crinkling with happiness."
+      },
+      "knowledge": {
+        "title": "When do strawberries ripen?",
+        "body": "Strawberries usually ripen in spring and early summer. As the weather gets warmer and the sun shines brightly, they turn red and sweet — the perfect time to enjoy them."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_strawberry_intro.mp3",
+        "story": "../item-audio/en/fruit_strawberry_story.mp3"
+      }
+    }
+  }
+}

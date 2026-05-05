@@ -1,0 +1,99 @@
+{
+  "id": "animal_camel",
+  "sku_id": "card_animal_camel",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "desert_animal",
+      "big"
+    ],
+    "secondary": [
+      "has_fur",
+      "has_long_neck",
+      "has_tail"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal"
+    ],
+    "color": [
+      "brown",
+      "gray"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "long_neck",
+      "ears"
+    ],
+    "scenes": [
+      "desert",
+      "grassland"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "can_walk",
+      "can_run"
+    ],
+    "sound": [],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "骆驼",
+      "aloud": "luò tuó",
+      "words": "camel",
+      "intro": "骆驼生活在沙漠里，背上有高高的驼峰，可以储存食物和水。它们有长长的脖子和软软的毛，走起路来很稳很慢。骆驼是沙漠里最能干的动物。",
+      "story": {
+        "title": "🐫小骆驼找水喝",
+        "body": "小骆驼托托第一次跟着妈妈去沙漠里找水喝。太阳火辣辣的，沙子烫烫的。托托走了一会儿，觉得嘴巴干干的，就问妈妈：“妈妈，还要走多远呀？”妈妈温柔地说：“别急，我们有驼峰，可以很久不喝水。”托托低头看看自己的驼峰，觉得它真神奇。又走了很久，托托看见前面有一片绿绿的树。妈妈高兴地说：“那里有泉水！”托托飞快地跑过去，咕嘟咕嘟喝了好多水。它还看见了几只小骆驼朋友，大家一起在树荫下玩。托托开心地想：有驼峰真好，沙漠里也能快快乐乐。"
+      },
+      "knowledge": {
+        "title": "骆驼的驼峰有什么用？",
+        "body": "骆驼的驼峰里储存着脂肪和水，能让它们在沙漠里走很远都不饿不渴。骆驼还不怕风沙，它们的鼻子和眼睛有特别的保护，能挡住沙子。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_camel_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_camel_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Camel",
+      "aloud": "/ˈkæməl/",
+      "words": "",
+      "intro": "Camels live in the desert. They have tall humps on their backs that store food and water. They have long necks and soft fur, and they walk slowly and steadily. Camels are the most helpful animals in the desert.",
+      "story": {
+        "title": "🐫Little Camel Finds Water",
+        "body": "Toto the little camel went to find water in the desert with his mom for the first time. The sun was very hot, and the sand was warm. After walking a little, Toto felt thirsty and asked, “Mom, do we still have far to go?” Mom said gently, “Don’t worry. We have humps, so we can go a long time without water.” Toto looked at his hump and thought it was amazing. After walking a long time, Toto saw some green trees ahead. Mom said happily, “There is a spring!” Toto ran over and drank lots of water. He also met some little camel friends, and they played together in the shade. Toto thought happily, “It’s great to have a hump. We can be happy even in the desert.”"
+      },
+      "knowledge": {
+        "title": "What is a camel’s hump for?",
+        "body": "A camel’s hump stores fat and water, so they can travel far in the desert without getting hungry or thirsty. Camels are also good at keeping out sand. Their noses and eyes have special ways to protect themselves."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_camel_intro.mp3",
+        "story": "../item-audio/en/animal_camel_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "object_clothes_hanger",
+  "sku_id": "card_object_clothes_hanger",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "clothing",
+      "color_white"
+    ],
+    "secondary": [
+      "at_home",
+      "long",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "white",
+      "blue"
+    ],
+    "shape": [
+      "triangle"
+    ],
+    "material": [
+      "plastic",
+      "wood"
+    ],
+    "scenes": [
+      "home",
+      "bedroom"
+    ],
+    "function": [
+      "hang_clothes"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "衣架",
+      "aloud": "yī jià",
+      "words": "clothes hanger",
+      "intro": "衣架可以用来挂衣服，让衣服平平整整，不会变得皱皱的。它上面有个小挂钩，肩膀宽宽的，就像我们人的肩膀一样。",
+      "story": {
+        "title": "🧥衣架小帮手",
+        "body": "小衣架每天早上都很忙。它把妈妈的裙子挂好，把爸爸的衬衫挂平，还要帮宝宝的小外套排排队。有一天，一阵大风吹来，衣服们都快掉下来了。衣架紧紧抓住挂钩，大声喊：“大家别怕，我拉住你们！”衣服们晃来晃去，但衣架站得直直的，一点也不松手。风停了，妈妈走进来，看见衣服都好好的，夸衣架是个能干的小帮手。衣架心里甜甜的，它觉得帮助别人真快乐。从那以后，衣服们和衣架成了最好的朋友，每天一起等太阳，一起听小鸟唱歌。"
+      },
+      "knowledge": {
+        "title": "衣架是用什么做的？",
+        "body": "衣架有很多种材料，有的是塑料做的，轻便又便宜；有的是木头做的，结实又好看；还有的是铁丝做的，可以弯成不同的形状。最常见的衣架是三角形的，刚好能撑起衣服的肩膀。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_clothes_hanger_intro.mp3",
+        "story": "../item-audio/zh-CN/object_clothes_hanger_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Clothes Hanger",
+      "aloud": "/ˈkloʊðz ˈhæŋər/",
+      "words": "",
+      "intro": "A clothes hanger is used to hang clothes so they stay smooth and don't get wrinkled. It has a small hook on top and wide shoulders, just like our own shoulders.",
+      "story": {
+        "title": "🧥The Helpful Hanger",
+        "body": "The little hanger is very busy every morning. It hangs Mommy's dress neatly, flattens Daddy's shirt, and lines up Baby's little jacket. One day, a strong wind blew, and the clothes almost fell off. The hanger held on tightly to the hook, shouting, \"Don't be afraid, I'm holding you!\" The clothes swayed back and forth, but the hanger stood straight and didn't let go. When the wind stopped, Mommy came in and saw the clothes were all fine. She praised the hanger for being such a good helper. The hanger felt warm inside and realized how happy it is to help others. From then on, the clothes and the hanger became best friends, waiting for the sun and listening to the birds sing together every day."
+      },
+      "knowledge": {
+        "title": "What are clothes hangers made of?",
+        "body": "Clothes hangers come in many materials. Some are plastic, light and cheap; some are wood, strong and nice-looking; and some are wire, which can be bent into different shapes. The most common shape is a triangle, just right for holding the shoulders of clothes."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_clothes_hanger_intro.mp3",
+        "story": "../item-audio/en/object_clothes_hanger_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "person_waiter",
+  "sku_id": "card_person_waiter",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "in_shop"
+    ],
+    "secondary": [
+      "adult",
+      "life_service",
+      "take_care"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "waiter"
+    ],
+    "workplace": [
+      "restaurant",
+      "cafe",
+      "diner"
+    ],
+    "tools": [
+      "tray",
+      "notepad",
+      "pen"
+    ],
+    "clothing": [
+      "apron",
+      "uniform"
+    ],
+    "actions": [
+      "serve",
+      "take_order",
+      "clean_table"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "服务员",
+      "aloud": "fú wù yuán",
+      "words": "waiter",
+      "intro": "服务员是在餐厅里帮助我们点菜、送餐的人。他们总是笑眯眯的，让我们吃得开心。",
+      "story": {
+        "title": "🍽️小猫咪去餐厅",
+        "body": "星期天，猫妈妈带着小猫咪去餐厅吃饭。一进门，服务员小熊就笑眯眯地迎上来：“欢迎光临！请跟我来。”小熊擦干净桌子，拿来菜单。小猫咪想吃鱼，猫妈妈点了鱼和牛奶。小熊认真地记下来，说：“请稍等，马上就好。”不一会儿，小熊用大托盘端来了香喷喷的鱼和热牛奶。小猫咪吃得很开心，对小熊说：“谢谢你！”小熊笑着说：“不用谢，这是我的工作呀。”吃完饭，小熊还帮他们把桌子收拾干净。小猫咪觉得服务员真好，她说：“以后我也要当服务员，让大家开心吃饭！”"
+      },
+      "knowledge": {
+        "title": "服务员做什么？",
+        "body": "服务员要记住客人点的菜，用托盘端来食物，还要收拾桌子。他们是餐厅里忙碌的小蜜蜂，让每个人都能享受美味。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_waiter_intro.mp3",
+        "story": "../item-audio/zh-CN/person_waiter_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Waiter",
+      "aloud": "/ˈweɪtər/",
+      "words": "",
+      "intro": "A waiter is someone who helps us order food and brings our meals in a restaurant. They always smile and make sure we have a good time.",
+      "story": {
+        "title": "🍽️Little Kitty Goes to a Restaurant",
+        "body": "On Sunday, Mama Cat took Little Kitty to a restaurant for a meal. As soon as they walked in, Waiter Bear greeted them with a big smile. \"Welcome! Please follow me.\" Bear wiped the table clean and brought the menu. Little Kitty wanted fish, and Mama Cat ordered fish and milk. Bear carefully wrote it down and said, \"Just a moment, it will be ready soon.\" Soon, Bear came back with a large tray carrying the yummy fish and warm milk. Little Kitty ate happily and said, \"Thank you!\" Bear smiled and said, \"You're welcome, it's my job.\" After the meal, Bear helped clean the table. Little Kitty thought the waiter was so nice. She said, \"When I grow up, I want to be a waiter too, so everyone can enjoy their meal!\""
+      },
+      "knowledge": {
+        "title": "What does a waiter do?",
+        "body": "A waiter takes orders, carries trays of food, and cleans tables. They are busy helpers in the restaurant, making sure everyone enjoys a delicious meal."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_waiter_intro.mp3",
+        "story": "../item-audio/en/person_waiter_story.mp3"
+      }
+    }
+  }
+}

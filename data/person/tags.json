@@ -1,0 +1,594 @@
+[
+  {
+    "id": "person",
+    "type": "category",
+    "icon": "user",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "人物",
+        "audio_url": "audio/tags-audio/zh-CN/person_person.mp3"
+      },
+      "en": {
+        "name": "Person",
+        "audio_url": "audio/tags-audio/en/person_person.mp3"
+      }
+    }
+  },
+  {
+    "id": "family_member",
+    "type": "category",
+    "icon": "home",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "家人",
+        "audio_url": "audio/tags-audio/zh-CN/person_family_member.mp3"
+      },
+      "en": {
+        "name": "Family member",
+        "audio_url": "audio/tags-audio/en/person_family_member.mp3"
+      }
+    }
+  },
+  {
+    "id": "relative",
+    "type": "category",
+    "icon": "users",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "亲戚",
+        "audio_url": "audio/tags-audio/zh-CN/person_relative.mp3"
+      },
+      "en": {
+        "name": "Relative",
+        "audio_url": "audio/tags-audio/en/person_relative.mp3"
+      }
+    }
+  },
+  {
+    "id": "job",
+    "type": "category",
+    "icon": "briefcase",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "职业",
+        "audio_url": "audio/tags-audio/zh-CN/person_job.mp3"
+      },
+      "en": {
+        "name": "Job",
+        "audio_url": "audio/tags-audio/en/person_job.mp3"
+      }
+    }
+  },
+  {
+    "id": "public_service",
+    "type": "category",
+    "icon": "shield-check",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "公共服务",
+        "audio_url": "audio/tags-audio/zh-CN/person_public_service.mp3"
+      },
+      "en": {
+        "name": "Public service",
+        "audio_url": "audio/tags-audio/en/person_public_service.mp3"
+      }
+    }
+  },
+  {
+    "id": "life_service",
+    "type": "category",
+    "icon": "hand-heart",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "生活服务",
+        "audio_url": "audio/tags-audio/zh-CN/person_life_service.mp3"
+      },
+      "en": {
+        "name": "Life service",
+        "audio_url": "audio/tags-audio/en/person_life_service.mp3"
+      }
+    }
+  },
+  {
+    "id": "worker_job",
+    "type": "category",
+    "icon": "hard-hat",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "劳动职业",
+        "audio_url": "audio/tags-audio/zh-CN/person_worker_job.mp3"
+      },
+      "en": {
+        "name": "Worker job",
+        "audio_url": "audio/tags-audio/en/person_worker_job.mp3"
+      }
+    }
+  },
+  {
+    "id": "art_job",
+    "type": "category",
+    "icon": "palette",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "艺术职业",
+        "audio_url": "audio/tags-audio/zh-CN/person_art_job.mp3"
+      },
+      "en": {
+        "name": "Art job",
+        "audio_url": "audio/tags-audio/en/person_art_job.mp3"
+      }
+    }
+  },
+  {
+    "id": "sports_job",
+    "type": "category",
+    "icon": "trophy",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "运动职业",
+        "audio_url": "audio/tags-audio/zh-CN/person_sports_job.mp3"
+      },
+      "en": {
+        "name": "Sports job",
+        "audio_url": "audio/tags-audio/en/person_sports_job.mp3"
+      }
+    }
+  },
+  {
+    "id": "adult",
+    "type": "age",
+    "icon": "user-round",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "大人",
+        "audio_url": "audio/tags-audio/zh-CN/person_adult.mp3"
+      },
+      "en": {
+        "name": "Adult",
+        "audio_url": "audio/tags-audio/en/person_adult.mp3"
+      }
+    }
+  },
+  {
+    "id": "elder",
+    "type": "age",
+    "icon": "user-round-check",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "长辈",
+        "audio_url": "audio/tags-audio/zh-CN/person_elder.mp3"
+      },
+      "en": {
+        "name": "Elder",
+        "audio_url": "audio/tags-audio/en/person_elder.mp3"
+      }
+    }
+  },
+  {
+    "id": "child",
+    "type": "age",
+    "icon": "baby",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "小朋友",
+        "audio_url": "audio/tags-audio/zh-CN/person_child.mp3"
+      },
+      "en": {
+        "name": "Child",
+        "audio_url": "audio/tags-audio/en/person_child.mp3"
+      }
+    }
+  },
+  {
+    "id": "male",
+    "type": "gender",
+    "icon": "mars",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "男性",
+        "audio_url": "audio/tags-audio/zh-CN/person_male.mp3"
+      },
+      "en": {
+        "name": "Male",
+        "audio_url": "audio/tags-audio/en/person_male.mp3"
+      }
+    }
+  },
+  {
+    "id": "female",
+    "type": "gender",
+    "icon": "venus",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "女性",
+        "audio_url": "audio/tags-audio/zh-CN/person_female.mp3"
+      },
+      "en": {
+        "name": "Female",
+        "audio_url": "audio/tags-audio/en/person_female.mp3"
+      }
+    }
+  },
+  {
+    "id": "at_home",
+    "type": "scene",
+    "icon": "home",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "在家里",
+        "audio_url": "audio/tags-audio/zh-CN/person_at_home.mp3"
+      },
+      "en": {
+        "name": "At home",
+        "audio_url": "audio/tags-audio/en/person_at_home.mp3"
+      }
+    }
+  },
+  {
+    "id": "at_school",
+    "type": "scene",
+    "icon": "school",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "在学校",
+        "audio_url": "audio/tags-audio/zh-CN/person_at_school.mp3"
+      },
+      "en": {
+        "name": "At school",
+        "audio_url": "audio/tags-audio/en/person_at_school.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_hospital",
+    "type": "scene",
+    "icon": "hospital",
+    "styleKey": "red",
+    "content": {
+      "zh-CN": {
+        "name": "在医院",
+        "audio_url": "audio/tags-audio/zh-CN/person_in_hospital.mp3"
+      },
+      "en": {
+        "name": "In the hospital",
+        "audio_url": "audio/tags-audio/en/person_in_hospital.mp3"
+      }
+    }
+  },
+  {
+    "id": "on_road",
+    "type": "scene",
+    "icon": "route",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "在路上",
+        "audio_url": "audio/tags-audio/zh-CN/person_on_road.mp3"
+      },
+      "en": {
+        "name": "On the road",
+        "audio_url": "audio/tags-audio/en/person_on_road.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_shop",
+    "type": "scene",
+    "icon": "store",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "在商店",
+        "audio_url": "audio/tags-audio/zh-CN/person_in_shop.mp3"
+      },
+      "en": {
+        "name": "In a shop",
+        "audio_url": "audio/tags-audio/en/person_in_shop.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_kitchen",
+    "type": "scene",
+    "icon": "chef-hat",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "在厨房",
+        "audio_url": "audio/tags-audio/zh-CN/person_in_kitchen.mp3"
+      },
+      "en": {
+        "name": "In the kitchen",
+        "audio_url": "audio/tags-audio/en/person_in_kitchen.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_airport",
+    "type": "scene",
+    "icon": "plane",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "在机场",
+        "audio_url": "audio/tags-audio/zh-CN/person_in_airport.mp3"
+      },
+      "en": {
+        "name": "At the airport",
+        "audio_url": "audio/tags-audio/en/person_in_airport.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_nature",
+    "type": "scene",
+    "icon": "trees",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "在自然里",
+        "audio_url": "audio/tags-audio/zh-CN/person_in_nature.mp3"
+      },
+      "en": {
+        "name": "In nature",
+        "audio_url": "audio/tags-audio/en/person_in_nature.mp3"
+      }
+    }
+  },
+  {
+    "id": "at_workplace",
+    "type": "scene",
+    "icon": "building-2",
+    "styleKey": "gray",
+    "content": {
+      "zh-CN": {
+        "name": "在工作场所",
+        "audio_url": "audio/tags-audio/zh-CN/person_at_workplace.mp3"
+      },
+      "en": {
+        "name": "At work",
+        "audio_url": "audio/tags-audio/en/person_at_workplace.mp3"
+      }
+    }
+  },
+  {
+    "id": "take_care",
+    "type": "function",
+    "icon": "heart",
+    "styleKey": "pink",
+    "content": {
+      "zh-CN": {
+        "name": "照顾我们",
+        "audio_url": "audio/tags-audio/zh-CN/person_take_care.mp3"
+      },
+      "en": {
+        "name": "Takes care of us",
+        "audio_url": "audio/tags-audio/en/person_take_care.mp3"
+      }
+    }
+  },
+  {
+    "id": "teach",
+    "type": "function",
+    "icon": "book-open",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "教知识",
+        "audio_url": "audio/tags-audio/zh-CN/person_teach.mp3"
+      },
+      "en": {
+        "name": "Teaches",
+        "audio_url": "audio/tags-audio/en/person_teach.mp3"
+      }
+    }
+  },
+  {
+    "id": "heal",
+    "type": "function",
+    "icon": "stethoscope",
+    "styleKey": "red",
+    "content": {
+      "zh-CN": {
+        "name": "看病治疗",
+        "audio_url": "audio/tags-audio/zh-CN/person_heal.mp3"
+      },
+      "en": {
+        "name": "Helps heal",
+        "audio_url": "audio/tags-audio/en/person_heal.mp3"
+      }
+    }
+  },
+  {
+    "id": "protect",
+    "type": "function",
+    "icon": "shield-check",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "保护大家",
+        "audio_url": "audio/tags-audio/zh-CN/person_protect.mp3"
+      },
+      "en": {
+        "name": "Protects people",
+        "audio_url": "audio/tags-audio/en/person_protect.mp3"
+      }
+    }
+  },
+  {
+    "id": "rescue",
+    "type": "function",
+    "icon": "siren",
+    "styleKey": "red",
+    "content": {
+      "zh-CN": {
+        "name": "救援帮忙",
+        "audio_url": "audio/tags-audio/zh-CN/person_rescue.mp3"
+      },
+      "en": {
+        "name": "Rescues people",
+        "audio_url": "audio/tags-audio/en/person_rescue.mp3"
+      }
+    }
+  },
+  {
+    "id": "deliver",
+    "type": "function",
+    "icon": "package",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "送东西",
+        "audio_url": "audio/tags-audio/zh-CN/person_deliver.mp3"
+      },
+      "en": {
+        "name": "Delivers things",
+        "audio_url": "audio/tags-audio/en/person_deliver.mp3"
+      }
+    }
+  },
+  {
+    "id": "cook",
+    "type": "function",
+    "icon": "chef-hat",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "做饭菜",
+        "audio_url": "audio/tags-audio/zh-CN/person_cook.mp3"
+      },
+      "en": {
+        "name": "Cooks food",
+        "audio_url": "audio/tags-audio/en/person_cook.mp3"
+      }
+    }
+  },
+  {
+    "id": "drive",
+    "type": "function",
+    "icon": "bus",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "开车",
+        "audio_url": "audio/tags-audio/zh-CN/person_drive.mp3"
+      },
+      "en": {
+        "name": "Drives",
+        "audio_url": "audio/tags-audio/en/person_drive.mp3"
+      }
+    }
+  },
+  {
+    "id": "clean",
+    "type": "function",
+    "icon": "sparkles",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "清洁环境",
+        "audio_url": "audio/tags-audio/zh-CN/person_clean.mp3"
+      },
+      "en": {
+        "name": "Cleans",
+        "audio_url": "audio/tags-audio/en/person_clean.mp3"
+      }
+    }
+  },
+  {
+    "id": "build_repair",
+    "type": "function",
+    "icon": "hammer",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "建造修理",
+        "audio_url": "audio/tags-audio/zh-CN/person_build_repair.mp3"
+      },
+      "en": {
+        "name": "Builds and repairs",
+        "audio_url": "audio/tags-audio/en/person_build_repair.mp3"
+      }
+    }
+  },
+  {
+    "id": "grow_food",
+    "type": "function",
+    "icon": "sprout",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "种植食物",
+        "audio_url": "audio/tags-audio/zh-CN/person_grow_food.mp3"
+      },
+      "en": {
+        "name": "Grows food",
+        "audio_url": "audio/tags-audio/en/person_grow_food.mp3"
+      }
+    }
+  },
+  {
+    "id": "create_art",
+    "type": "function",
+    "icon": "brush",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "创作作品",
+        "audio_url": "audio/tags-audio/zh-CN/person_create_art.mp3"
+      },
+      "en": {
+        "name": "Creates art",
+        "audio_url": "audio/tags-audio/en/person_create_art.mp3"
+      }
+    }
+  },
+  {
+    "id": "perform",
+    "type": "function",
+    "icon": "mic",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "表演节目",
+        "audio_url": "audio/tags-audio/zh-CN/person_perform.mp3"
+      },
+      "en": {
+        "name": "Performs",
+        "audio_url": "audio/tags-audio/en/person_perform.mp3"
+      }
+    }
+  },
+  {
+    "id": "play_sports",
+    "type": "function",
+    "icon": "dumbbell",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "参加运动",
+        "audio_url": "audio/tags-audio/zh-CN/person_play_sports.mp3"
+      },
+      "en": {
+        "name": "Plays sports",
+        "audio_url": "audio/tags-audio/en/person_play_sports.mp3"
+      }
+    }
+  }
+]

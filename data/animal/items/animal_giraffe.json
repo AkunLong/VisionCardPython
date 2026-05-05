@@ -1,0 +1,98 @@
+{
+  "id": "animal_giraffe",
+  "sku_id": "card_animal_giraffe",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "grassland_animal",
+      "tall"
+    ],
+    "secondary": [
+      "spotted",
+      "has_long_neck",
+      "gentle"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal"
+    ],
+    "color": [
+      "yellow",
+      "brown"
+    ],
+    "size": [
+      "tall"
+    ],
+    "body": [
+      "long_neck",
+      "long_legs",
+      "spots",
+      "horns"
+    ],
+    "scenes": [
+      "grassland",
+      "savanna"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "eat"
+    ],
+    "sound": [],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "长颈鹿",
+      "aloud": "cháng jǐng lù",
+      "words": "giraffe",
+      "intro": "长颈鹿是世界上最高的动物，身上有漂亮的斑点，长长的脖子可以吃到树顶的叶子。它性格温和，走路很优雅。",
+      "story": {
+        "title": "🦒长颈鹿找嫩叶",
+        "body": "小长颈鹿斑斑最喜欢吃树顶的嫩叶子。一天早上，斑斑在草原上发现了一棵金合欢树，树顶的叶子又绿又嫩。可是它伸长脖子也够不着。斑斑轻轻地踮起脚尖，把脖子伸得长长的，缓缓探出头去，终于碰到了一片嫩叶。它开心地嚼了嚼，甜甜的汁水溢满了嘴巴。这时，一只小猴子焦急地在树下跳来跳去，原来它的小果子挂在树枝上下不来了。斑斑温柔地低下头，用嘴巴轻轻一碰，果子就掉下来了。小猴子高兴地拍手。傍晚，斑斑和妈妈一起看晚霞，长长的影子映在草原上，温暖又安静。"
+      },
+      "knowledge": {
+        "title": "长颈鹿的脖子为什么那么长？",
+        "body": "长颈鹿的脖子很长，是为了吃到高处的树叶，不会和其他动物抢食物。科学家认为，这是它们为了适应环境慢慢进化出来的。长脖子还能帮它们看到远处的危险。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_giraffe_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_giraffe_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Giraffe",
+      "aloud": "/dʒɪˈræf/",
+      "words": "",
+      "intro": "A giraffe is the tallest animal in the world. It has beautiful spots and a very long neck to eat leaves from the tops of trees. It is gentle and walks gracefully.",
+      "story": {
+        "title": "🦒The Little Giraffe Reaches for Tender Leaves",
+        "body": "Benben the little giraffe loved eating tender leaves from the tops of trees. One morning, Benben found an acacia tree with fresh green leaves at the very top. She stretched her neck as high as she could, but she still couldn’t reach them. She stood on her tiptoes and slowly pushed her head through the branches until she finally nibbled a soft leaf. It tasted so sweet and juicy. Just then, a little monkey was jumping anxiously below—his fruit was stuck on a high branch. Benben gently lowered her head and nudged it with her mouth, and the fruit fell down. The little monkey clapped with joy. In the evening, Benben and her mom watched the sunset together, their long shadows stretching across the grassland. It felt warm and peaceful."
+      },
+      "knowledge": {
+        "title": "Why do giraffes have long necks?",
+        "body": "Giraffes have long necks to eat leaves high up in trees, so they don’t have to compete with other animals for food. Scientists think this is how they adapted to their environment over time. Their long necks also help them see danger from far away."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_giraffe_intro.mp3",
+        "story": "../item-audio/en/animal_giraffe_story.mp3"
+      }
+    }
+  }
+}

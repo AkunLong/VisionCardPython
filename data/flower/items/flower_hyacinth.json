@@ -1,0 +1,92 @@
+{
+  "id": "flower_hyacinth",
+  "sku_id": "card_flower_hyacinth",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_purple",
+      "spring_flower"
+    ],
+    "secondary": [
+      "fragrant",
+      "bell_shape",
+      "potted_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "purple",
+      "pink",
+      "white",
+      "blue"
+    ],
+    "size": [
+      "short"
+    ],
+    "scenes": [
+      "garden",
+      "pot",
+      "balcony"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "strong"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "风信子",
+      "aloud": "fēng xìn zǐ",
+      "words": "hyacinth",
+      "intro": "风信子是一种春天的花，花朵小小的、一串串的，像小铃铛。它有紫色、粉色、白色，香香的，很好闻。",
+      "story": {
+        "title": "🌷风信子开花了",
+        "body": "冬天过去了，花园里的风信子宝宝还在睡觉。它是个圆圆的球根，躲在泥土里。春风吹呀吹，轻轻喊着：醒醒呀，小宝贝！风信子伸了个懒腰，长出了绿油油的叶子，像小宝剑一样竖了起来。没过几天，一根长长的花茎冒出来了，上面长满了鼓鼓的小花苞，紫紫的，可爱极了。又过了些日子，小花苞一个个绽开，变成了小铃铛模样的花朵，散发出甜甜的香味。小蜜蜂和小蝴蝶都赶来参加花儿的派对。风信子摇摇晃晃，开心地说：春天——真美好！"
+      },
+      "knowledge": {
+        "title": "风信子的香味从哪里来？",
+        "body": "风信子的花瓣里藏着香香的油，叫芳香油。阳光一晒，香味就飘出来，吸引小蜜蜂来采蜜。风信子从圆圆的小球根里长出来，春天开花，夏天休息，只要照顾好球根，明年还能再开花。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_hyacinth_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_hyacinth_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Hyacinth",
+      "aloud": "/ˈhaɪəsɪnθ/",
+      "words": "",
+      "intro": "Hyacinth is a spring flower with small, bell-shaped blooms that grow in clusters. It comes in purple, pink, white, and blue, and has a sweet fragrance.",
+      "story": {
+        "title": "🌷Hyacinth Blooms",
+        "body": "After the winter, a little hyacinth bulb was still sleeping under the ground. The spring breeze whispered, 'Wake up, little one!' The bulb slowly woke and sent up green shoots. It grew taller and taller until a stem appeared, crowded with tiny purple buds. Then one morning, the buds opened, looking like little bells that rang with fragrance. All the bees and butterflies came to visit. The hyacinth swayed happily in the sun, proud to be a herald of spring. It was the most beautiful flower in the garden, and it filled the air with sweetness. Everyone who passed by stopped to admire it."
+      },
+      "knowledge": {
+        "title": "Why does hyacinth smell so sweet?",
+        "body": "Inside the hyacinth's petals are tiny drops of fragrant oil. When the sun warms them, the scent spreads through the air, calling bees to come visit. Hyacinths grow from bulbs—they bloom in spring, rest in summer, and with care, will bloom again next year."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_hyacinth_intro.mp3",
+        "story": "../item-audio/en/flower_hyacinth_story.mp3"
+      }
+    }
+  }
+}

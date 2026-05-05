@@ -1,0 +1,76 @@
+{
+  "id": "number_8",
+  "sku_id": "card_number_eight",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "single_digit",
+      "even_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 8,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "8th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字8",
+      "aloud": "bā",
+      "words": "eight",
+      "intro": "数字8圆圆胖胖的，像两个小圈圈叠在一起。它比7大，比9小。我们可以在很多地方看到它哦！",
+      "story": {
+        "title": "⛄数字8的魔法",
+        "body": "数字8长得很特别，圆圆的，像两个甜甜圈叠在一起。有一天，数字8变成了一个小雪人，两个雪球叠起来，多可爱呀！小雪人戴上红帽子，插一根胡萝卜小鼻子，眼睛眨呀眨。小动物们都跑来和它玩，大家围着它唱歌跳舞，真开心！数字8还会变魔术，嗖一下，变成了章鱼哥哥，挥舞着八条长长的腿，在海底游来游去。它说：“我有八条腿，就像数字8！”小朋友们，你们找到身边的数字8了吗？"
+      },
+      "knowledge": {
+        "title": "数字8的小秘密",
+        "body": "数字8由两个圆圈组成，一上一下。横过来看，它还有点像一条弯弯的小路。在好多地方，人们觉得8是个幸运的数字，代表着好运和快乐。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_8_intro.mp3",
+        "story": "../item-audio/zh-CN/number_8_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Eight",
+      "aloud": "/eɪt/",
+      "words": "",
+      "intro": "Eight is a round and chubby number, like two little circles stacked together. It comes after seven and before nine. You can see it in many places!",
+      "story": {
+        "title": "⛄The Magic of Number 8",
+        "body": "Number 8 has a special shape, round and round, like two donuts stacked up. One day, number 8 turned into a little snowman, with two snowballs one on top of the other. How cute! The snowman put on a red hat and a carrot nose, his eyes twinkling. All the little animals came to play with him. They sang and danced around him, so happy! Then number 8 did magic again, and poof, he became an octopus brother, waving eight long legs, swimming in the deep sea. He said, “I have eight legs, just like number 8!” Little ones, can you find number 8 around you?"
+      },
+      "knowledge": {
+        "title": "The Secret of Number 8",
+        "body": "Number 8 is made of two circles, one on top of the other. If you turn it on its side, it looks a bit like a curvy road. In many places, people think 8 is a lucky number, bringing happiness and good fortune."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_8_intro.mp3",
+        "story": "../item-audio/en/number_8_story.mp3"
+      }
+    }
+  }
+}

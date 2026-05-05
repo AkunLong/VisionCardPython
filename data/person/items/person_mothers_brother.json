@@ -1,0 +1,85 @@
+{
+  "id": "person_mothers_brother",
+  "sku_id": "card_person_uncle",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "relative"
+    ],
+    "secondary": [
+      "male",
+      "adult",
+      "take_care"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "uncle"
+    ],
+    "workplace": [
+      "home"
+    ],
+    "tools": [],
+    "clothing": [],
+    "actions": [
+      "play",
+      "take_care",
+      "visit"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "舅舅",
+      "aloud": "jiù jiu",
+      "words": "uncle",
+      "intro": "舅舅是妈妈的兄弟，是小朋友的亲人。舅舅喜欢和我们一起玩，给我们买好吃的，是家里的开心果。",
+      "story": {
+        "title": "👨‍👧‍👦舅舅来我家",
+        "body": "星期天早上，妈妈笑眯眯地说：今天舅舅要来我们家哦！小乐高兴得蹦蹦跳跳。门铃响了，舅舅提着大包小包走进来，一把抱起小乐：哎呀，小乐又长高啦！舅舅带来了小乐最爱的小汽车和图画书。下午，舅舅陪小乐在客厅搭积木，搭了一座高高的大楼。小乐说：舅舅，你好厉害呀！舅舅笑着说：以后你长大也会很厉害的。晚上，舅舅要走时，小乐依依不舍地抱住舅舅：舅舅，你明天还要来！舅舅摸摸小乐的头：好，过几天舅舅再来看你。小乐甜甜地笑了。"
+      },
+      "knowledge": {
+        "title": "舅舅是谁？",
+        "body": "舅舅是妈妈的哥哥或弟弟。在家里，舅舅是小朋友的长辈，会爱护我们，陪我们做游戏。有些小朋友的舅舅还特别会讲故事，会带我们去公园呢。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_mothers_brother_intro.mp3",
+        "story": "../item-audio/zh-CN/person_mothers_brother_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Uncle",
+      "aloud": "/ˈʌŋkəl/",
+      "words": "",
+      "intro": "An uncle is your mother's brother. He is a family member who loves you and often brings you toys and treats.",
+      "story": {
+        "title": "👨‍👧‍👦Uncle Visits Us",
+        "body": "On Sunday morning, Mom smiled and said, Uncle is coming to visit us today! Xiaole jumped with joy. The doorbell rang, and Uncle walked in with big bags. He scooped Xiaole up in a warm hug. Wow, you've grown taller! Uncle brought Xiaole's favorite toy car and a picture book. In the afternoon, Uncle played with building blocks on the floor and built a tall tower. Xiaole said, Uncle, you're amazing! Uncle laughed, You'll be just as clever when you grow up. When it was time to go, Xiaole held Uncle's hand and said, Please come back tomorrow! Uncle patted Xiaole's head and promised to visit again soon. Xiaole smiled sweetly, already looking forward to the next visit."
+      },
+      "knowledge": {
+        "title": "Who is an uncle?",
+        "body": "An uncle is your mother's brother. He is a grown-up in your family who takes care of you, plays with you, and sometimes tells you fun stories. Uncles are special members of your family!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_mothers_brother_intro.mp3",
+        "story": "../item-audio/en/person_mothers_brother_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "food_cookie",
+  "sku_id": "card_food_cookie",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "dessert",
+      "color_brown",
+      "edible"
+    ],
+    "secondary": [
+      "crispy",
+      "at_snack_time",
+      "sweet"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dessert"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "cold"
+    ],
+    "scenes": [
+      "home",
+      "party",
+      "school"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "曲奇饼干",
+      "aloud": "qū qí bǐng gān",
+      "words": "cookie",
+      "intro": "曲奇饼干圆圆扁扁的，有香香的黄油味，咬一口脆脆的、甜甜的，配牛奶最棒啦！",
+      "story": {
+        "title": "🍪曲奇小圆饼的旅行",
+        "body": "星期天，妈妈带小美去奶奶家。一进门，就闻到香香甜甜的味道。原来奶奶在烤曲奇饼干！小美开心地跑过去，看见桌上放着好多小圆饼。奶奶说：“来，你也来做几个！”小美学着奶奶的样子，把软软的面团揉一揉，用模具压出星星、小熊和花朵的形状。然后放进烤箱里。等啊等，“叮”一声，曲奇烤好了！满屋都是黄油和糖的香味。小美把曲奇装进小篮子，送给邻居的小朋友们尝。大家咬一口，都笑着说：“好脆好甜呀，真好吃！”小美心里甜甜的，觉得分享真是件快乐的事。"
+      },
+      "knowledge": {
+        "title": "曲奇饼干是怎么做的？",
+        "body": "把软化的黄油和糖搅匀，加入鸡蛋和面粉揉成面团，然后把面团压出可爱的形状，放进烤箱烤一会儿，就变成香香的曲奇饼干啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_cookie_intro.mp3",
+        "story": "../item-audio/zh-CN/food_cookie_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cookie",
+      "aloud": "/ˈkʊk.i/",
+      "words": "",
+      "intro": "Cookies are round, flat, and buttery. They are crispy, sweet, and taste great with a glass of milk!",
+      "story": {
+        "title": "🍪The Little Cookie's Journey",
+        "body": "On Sunday, Mom took Little Mei to visit Grandma. As soon as they entered, they smelled something sweet and delicious. Grandma was baking cookies! Little Mei ran over happily and saw lots of little round cookies on the table. Grandma said, \"Come, you can make some too!\" Little Mei copied Grandma, kneading the soft dough, then using cookie cutters to make stars, bears, and flowers. Then they put them in the oven. After waiting, \"Ding!\" the cookies were done! The whole house smelled of butter and sugar. Little Mei put the cookies in a small basket and shared them with the neighbor kids. Everyone took a bite and smiled, \"So crispy and sweet, so yummy!\" Little Mei felt warm inside, knowing that sharing is a happy thing."
+      },
+      "knowledge": {
+        "title": "How are cookies made?",
+        "body": "Mix soft butter with sugar, add an egg and flour to make dough. Then press it into cute shapes with cutters, bake in the oven for a while, and you'll have yummy, fragrant cookies!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_cookie_intro.mp3",
+        "story": "../item-audio/en/food_cookie_story.mp3"
+      }
+    }
+  }
+}

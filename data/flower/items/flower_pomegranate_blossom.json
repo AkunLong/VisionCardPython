@@ -1,0 +1,89 @@
+{
+  "id": "flower_pomegranate_blossom",
+  "sku_id": "card_flower_pomegranate_blossom",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_red",
+      "on_tree"
+    ],
+    "secondary": [
+      "summer_flower",
+      "bell_shape",
+      "many_petals"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "red"
+    ],
+    "size": [
+      "medium"
+    ],
+    "scenes": [
+      "garden",
+      "orchard",
+      "park"
+    ],
+    "season": [
+      "summer"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "石榴花",
+      "aloud": "shí liú huā",
+      "words": "pomegranate blossom",
+      "intro": "石榴花是夏天开在树上的花，花瓣红彤彤的，皱皱的像小裙子。它长得像一个小钟，里面藏着好多花粉。",
+      "story": {
+        "title": "🌸小石榴花找朋友",
+        "body": "夏天到了，石榴树上开满了红红的花。有一朵小石榴花，穿着红裙子，在枝头摇啊摇。它想找一个好朋友一起玩。一只小蜜蜂飞过来，小石榴花开心地招手：“小蜜蜂，快来和我玩吧！”小蜜蜂嗡嗡地说：“好呀，你请我吃甜甜的花蜜，我帮你传播花粉！”小石榴花把花瓣张开，小蜜蜂钻进去，吃得饱饱的，身上沾满了花粉。过了几天，小蜜蜂又带来了好多朋友，它们在花丛里跳舞。小石榴花好快乐，它知道，等花谢了，就会结出甜甜的大石榴！"
+      },
+      "knowledge": {
+        "title": "石榴花怎么变石榴？",
+        "body": "石榴花有男孩花和女孩花，只有女孩花下面有个圆圆的小肚子，才能长成石榴。小蜜蜂帮忙传递花粉，女孩花就会慢慢变成石榴，里面装满红红的籽。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_pomegranate_blossom_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_pomegranate_blossom_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Pomegranate Blossom",
+      "aloud": "/ˈpɑːmɪɡrænɪt ˈblɑːsəm/",
+      "words": "",
+      "intro": "Pomegranate blossoms are summer flowers that grow on trees. Their petals are bright red and crinkly, like little skirts. They are shaped like bells and hold lots of pollen inside.",
+      "story": {
+        "title": "🌸 Little Pomegranate Blossom Looks for a Friend",
+        "body": "Summer came, and the pomegranate tree was covered with red flowers. One little pomegranate blossom, wearing a red skirt, swayed on a branch. She wanted a good friend to play with. A little bee flew over, and the blossom waved happily, “Little bee, come play with me!” The bee buzzed, “Sure! You give me sweet nectar, and I’ll help spread your pollen.” The blossom opened her petals wide, and the bee crawled inside, eating until full and getting covered in yellow pollen. A few days later, the bee brought many friends, and they danced among the flowers. The little blossom was so happy. She knew that once the flowers faded, sweet, big pomegranates would grow!"
+      },
+      "knowledge": {
+        "title": "How do blossoms turn into pomegranates?",
+        "body": "Pomegranate blossoms can be boy flowers or girl flowers. Only girl flowers have a tiny round belly at the bottom, which can grow into a pomegranate. When bees help move pollen, girl flowers slowly turn into pomegranates filled with juicy red seeds."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_pomegranate_blossom_intro.mp3",
+        "story": "../item-audio/en/flower_pomegranate_blossom_story.mp3"
+      }
+    }
+  }
+}

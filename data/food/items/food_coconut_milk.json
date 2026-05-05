@@ -1,0 +1,89 @@
+{
+  "id": "food_coconut_milk",
+  "sku_id": "card_food_coconut_milk",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "drink",
+      "color_white",
+      "edible"
+    ],
+    "secondary": [
+      "sweet",
+      "smooth",
+      "cold_food"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "drink"
+    ],
+    "color": [
+      "white"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "cold"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": true,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "椰奶",
+      "aloud": "yē nǎi",
+      "words": "coconut milk",
+      "intro": "椰奶是白白香香的饮料，从椰子里面取出来的，喝起来甜甜的、滑滑的，像牛奶一样好喝。",
+      "story": {
+        "title": "🌴椰奶的旅行",
+        "body": "夏天到了，小明和爸爸妈妈一起去热带小岛旅行。小岛上到处都是高大的椰子树，树上结满了圆滚滚的椰子。小明指着椰子问：‘爸爸，那个大圆球是什么呀？’爸爸笑着说：‘那是椰子，里面藏着好喝的椰奶哦！’他们买了一个新鲜椰子，请叔叔帮忙打开。叔叔用刀切出一个小口，插上吸管，递给小明。小明小心地吸了一口，眼睛一下子亮了：‘哇！甜甜的、凉凉的，滑滑的，像冰淇淋一样的味道！’妈妈摸摸他的头：‘这就是椰奶呀，是椰子里的天然水，喝了对身体好。’小明抱着椰子，咕噜咕噜喝了个精光，还舔舔嘴巴说：‘椰奶太好喝了，我还要！’从那以后，小明每次看到椰子，都会想起那次快乐的海岛旅行。"
+      },
+      "knowledge": {
+        "title": "椰奶是从哪里来的？",
+        "body": "椰奶是从新鲜椰子里取出来的。先把椰子打开，倒出里面的椰子水，然后把白白的椰肉刮下来，加点水一起搅拌，再用纱布过滤掉渣，就成了滑滑的椰奶。可以直接喝，也能做成好吃的咖喱或甜品哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_coconut_milk_intro.mp3",
+        "story": "../item-audio/zh-CN/food_coconut_milk_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Coconut Milk",
+      "aloud": "/ˈkoʊ.kə.nʌt mɪlk/",
+      "words": "",
+      "intro": "Coconut milk is a white, sweet drink from the coconut. It's smooth and creamy, just like milk, and it's really yummy.",
+      "story": {
+        "title": "🌴A Coconut Milk Adventure",
+        "body": "One summer, Xiao Ming went on a vacation to a tropical island with his mom and dad. The island was full of tall coconut trees with big, round coconuts. Xiao Ming pointed and asked, 'Dad, what's that big round ball?' Dad smiled, 'That's a coconut, and inside it there's delicious coconut milk!' They bought a fresh coconut and a man cut open a small hole, put a straw in, and gave it to Xiao Ming. Xiao Ming took a careful sip, and his eyes lit up. 'Wow! It's sweet, cool, and smooth, just like ice cream!' Mom patted his head, 'This is coconut milk, a natural drink from the coconut. It's good for you.' Xiao Ming hugged the coconut and drank it all up, licking his lips. 'Coconut milk is so yummy, I want more!' Ever since that trip, whenever Xiao Ming sees a coconut, he remembers that happy island adventure."
+      },
+      "knowledge": {
+        "title": "Where does coconut milk come from?",
+        "body": "Coconut milk comes from fresh coconuts. First, open the coconut and pour out the coconut water. Then scrape out the white coconut meat, blend it with some water, and strain it through a cloth. That's how you get smooth and sweet coconut milk! You can drink it straight, or use it in curries and desserts."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_coconut_milk_intro.mp3",
+        "story": "../item-audio/en/food_coconut_milk_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "fruit_lychee",
+  "sku_id": "card_fruit_lychee",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_red",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sweet",
+      "tropical_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "red"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "juicy"
+    ],
+    "scenes": [
+      "tropical",
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "荔枝",
+      "aloud": "lì zhī",
+      "words": "lychee",
+      "intro": "荔枝是一种圆圆的水果，外壳红红的，里面藏着白嫩嫩的果肉，吃起来甜甜的、水水的，很多小朋友都喜欢它。",
+      "story": {
+        "title": "🐵小猴的荔枝派对",
+        "body": "夏天到了，小猴家的荔枝树上挂满了一串串红红的荔枝。小猴高兴地爬上树，摘了一颗最红的荔枝。它摸了摸，外壳有点粗糙，但闻起来香香的。小猴轻轻剥开壳，里面露出晶莹剔透的果肉，像一颗白珍珠。它咬了一口，甜甜的汁水溅出来，真好吃！小猴决定邀请朋友们来开荔枝派对。它摘了好多荔枝，摆在小桌子上。小兔、小鹿和小熊都来了，大家围坐在一起，一边剥荔枝一边笑。小兔说：“荔枝像一颗甜甜的红宝石！”大家你一颗我一颗，吃得可开心了。小猴发现，和朋友们一起分享，荔枝变得更甜了。"
+      },
+      "knowledge": {
+        "title": "荔枝在什么季节成熟？",
+        "body": "荔枝是热带水果，大多在夏天成熟。天气热热的，阳光足足的，荔枝就会变得红红的、甜甜的，所以我们常常在夏天吃到新鲜的荔枝。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_lychee_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_lychee_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Lychee",
+      "aloud": "/ˈlaɪtʃiː/",
+      "words": "",
+      "intro": "Lychee is a round fruit with a red shell and white, juicy flesh inside. It tastes sweet and is loved by many children.",
+      "story": {
+        "title": "🐵Little Monkey's Lychee Party",
+        "body": "Summer came, and the lychee tree in Little Monkey's yard was full of bunches of red lychees. Little Monkey happily climbed up the tree and picked the reddest one. He felt the rough shell, but it smelled so nice. He gently peeled it open, and inside was crystal clear flesh, like a white pearl. He took a bite, and sweet juice squirted out—so yummy! Little Monkey decided to invite his friends for a lychee party. He picked many lychees and placed them on a small table. Little Rabbit, Little Deer, and Little Bear all came. They sat around, peeling and laughing. Little Rabbit said, “Lychee is like a sweet red gem!” Everyone ate happily together. Little Monkey realized that sharing with friends made the lychees even sweeter."
+      },
+      "knowledge": {
+        "title": "When do lychees ripen?",
+        "body": "Lychee is a tropical fruit that mostly ripens in summer. With hot weather and plenty of sunshine, the lychees turn red and sweet, so we often enjoy fresh lychees in the summer."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_lychee_intro.mp3",
+        "story": "../item-audio/en/fruit_lychee_story.mp3"
+      }
+    }
+  }
+}

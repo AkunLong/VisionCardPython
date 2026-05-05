@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_crown_daisy",
+  "sku_id": "card_vegetable_crown_daisy",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "leafy_vegetable"
+    ],
+    "secondary": [
+      "fragrant",
+      "can_cook",
+      "bitter"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "leaf_shape"
+    ],
+    "taste": [
+      "bitter",
+      "fragrant"
+    ],
+    "grow_location": [
+      "in_field"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "茼蒿",
+      "aloud": "tóng hāo",
+      "words": "crown daisy",
+      "intro": "茼蒿是一种绿色的蔬菜，叶子像羽毛一样软软的，闻起来有特别的清香，吃起来有一点点苦，但是很爽口。它常常长在菜地里，可以炒着吃，也可以煮汤。",
+      "story": {
+        "title": "🥬第一次吃茼蒿",
+        "body": "小羊咩咩跟着妈妈来到菜园，看见一片绿油油的叶子，像一朵朵绿色的小花。妈妈轻轻摘下一把，说：这是茼蒿，可好吃啦！小羊咩咩皱起眉头：可是它闻起来味道怪怪的。妈妈笑了笑，把茼蒿洗干净，放进锅里炒了炒。一股清香飘出来，小羊咩咩忍不住尝了一口，虽然有一点点苦，但是嘴巴里凉凉的、香香的。小羊咩咩高兴地又吃了一大口：妈妈，茼蒿真特别，我明天还想吃！从此，小羊咩咩爱上了这种香香的绿叶菜。"
+      },
+      "knowledge": {
+        "title": "吃茼蒿有什么好处？",
+        "body": "茼蒿含有丰富的维生素和纤维，吃茼蒿可以帮助消化，让肚子舒服。它还有独特的香味，能让人胃口大开，是春天里很棒的蔬菜哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_crown_daisy_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_crown_daisy_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Crown Daisy",
+      "aloud": "/kraʊn ˈdeɪzi/",
+      "words": "",
+      "intro": "Crown daisy is a green vegetable with soft, feathery leaves. It has a special fragrance and tastes a little bitter but refreshing. It grows in fields and can be stir-fried or used in soups.",
+      "story": {
+        "title": "🥬First Time Eating Crown Daisy",
+        "body": "Little Lamb followed her mother to the vegetable garden and saw a patch of green leaves that looked like tiny green flowers. Her mother gently picked a bunch and said, 'This is crown daisy, it’s delicious!' Little Lamb wrinkled her nose, 'But it smells funny.' Mother smiled, washed the leaves, and stir-fried them. A lovely fragrance filled the air. Little Lamb couldn’t resist tasting a bite. It was a bit bitter, but it felt cool and aromatic in her mouth. Little Lamb happily took another big bite and said, 'Mom, crown daisy is so special! I want to eat it again tomorrow.' From then on, Little Lamb fell in love with this fragrant leafy green."
+      },
+      "knowledge": {
+        "title": "Why are crown daisies good for you?",
+        "body": "Crown daisies are full of vitamins and fiber. Eating them helps digestion and keeps your tummy happy. Their unique fragrance can also whet your appetite. They are a wonderful spring vegetable!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_crown_daisy_intro.mp3",
+        "story": "../item-audio/en/vegetable_crown_daisy_story.mp3"
+      }
+    }
+  }
+}

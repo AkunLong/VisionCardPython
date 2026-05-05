@@ -1,0 +1,101 @@
+{
+  "id": "animal_dragonfly",
+  "sku_id": "card_animal_dragonfly",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "insect",
+      "can_fly"
+    ],
+    "secondary": [
+      "small",
+      "has_wings",
+      "color_blue"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "insect"
+    ],
+    "color": [
+      "blue",
+      "green",
+      "brown"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "wings",
+      "long body",
+      "big eyes"
+    ],
+    "scenes": [
+      "pond",
+      "garden",
+      "river"
+    ],
+    "actions": [
+      "fly",
+      "hover",
+      "dart"
+    ],
+    "sound": [
+      "buzz"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "蜻蜓",
+      "aloud": "qīng tíng",
+      "words": "dragonfly",
+      "intro": "蜻蜓是一种漂亮的小昆虫，有两对透明的翅膀，大大的眼睛。它喜欢在池塘或小河边飞来飞去，像一架小飞机。",
+      "story": {
+        "title": "🐦小蜻蜓学飞",
+        "body": "夏天到了，池塘边来了一只小蜻蜓，它名字叫小亮。小亮的翅膀薄薄的，在阳光下闪闪发光。可是小亮还不太会飞，它看着别的蜻蜓飞得又高又快，心里很羡慕。一天，小亮鼓起勇气，扇动翅膀，摇摇晃晃地飞了起来。飞得不高，但它很开心。忽然一阵风吹来，小亮差点掉进水里。它赶紧用力扇动翅膀，慢慢稳住了身体。小亮继续练习飞，绕着荷花飞了一圈又一圈。渐渐地，它飞得越来越稳，还学会了在空中停下来，就像一架小直升机。小亮高兴地说：“我会飞啦！”后来，小亮每天都和小伙伴们一起在池塘上空飞来飞去，玩得可开心了。"
+      },
+      "knowledge": {
+        "title": "蜻蜓为什么点水？",
+        "body": "蜻蜓在池塘边点水，其实是在产卵。蜻蜓妈妈把卵产在水里，卵在水里孵化成小幼虫，小幼虫在水里生活一段时间后才会变成蜻蜓。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_dragonfly_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_dragonfly_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Dragonfly",
+      "aloud": "/ˈdræɡənˌflaɪ/",
+      "words": "",
+      "intro": "A dragonfly is a beautiful little insect with two pairs of transparent wings and big eyes. It likes to fly around ponds and rivers, just like a tiny airplane.",
+      "story": {
+        "title": "🐦Little Dragonfly Learns to Fly",
+        "body": "In summer, a little dragonfly named Shiny came to the pond. Shiny’s wings were thin and sparkled in the sun. But Shiny couldn’t fly well yet, and he admired the older dragonflies flying high and fast. One day, Shiny bravely flapped his wings and rose into the air, wobbling. He didn’t fly high, but he was so happy. Suddenly, a gust of wind came and nearly blew him into the water. Shiny flapped harder and steadied himself. He kept practicing, circling the lotus flowers again and again. Little by little, he flew more steadily and even learned to hover in place, like a tiny helicopter. Shiny cried out, ‘I can fly!’ After that, Shiny flew with his friends over the pond every day, having so much fun."
+      },
+      "knowledge": {
+        "title": "Why do dragonflies touch the water?",
+        "body": "Dragonflies touch the water to lay eggs. The mother dragonfly lays her eggs in the water. The eggs hatch into tiny larvae that live in the water until they grow into dragonflies."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_dragonfly_intro.mp3",
+        "story": "../item-audio/en/animal_dragonfly_story.mp3"
+      }
+    }
+  }
+}

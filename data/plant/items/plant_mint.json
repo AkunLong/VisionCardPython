@@ -1,0 +1,95 @@
+{
+  "id": "plant_mint",
+  "sku_id": "card_plant_mint",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "herb",
+      "fragrant"
+    ],
+    "secondary": [
+      "has_leaf",
+      "can_eat",
+      "in_garden"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "herb"
+    ],
+    "color": [
+      "green"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "leaves",
+      "stems",
+      "roots"
+    ],
+    "scenes": [
+      "garden",
+      "home",
+      "field"
+    ],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "is_edible": true,
+    "is_drinkable": true,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "薄荷",
+      "aloud": "bò he",
+      "words": "mint",
+      "intro": "薄荷是一种小小的绿色植物，叶子香香的，闻一闻就觉得凉凉的。我们可以用它泡茶、做菜，它是夏天的小清凉。",
+      "story": {
+        "title": "🌿小薄荷的奇妙旅行",
+        "body": "阳台上的花盆里，长着一丛绿绿的小薄荷。每天，小妹妹会给它浇水，摸摸它的叶子，然后把手放在鼻子前：“哇，好香好凉呀！”一天，妈妈摘了几片叶子，放进玻璃壶里，倒进热水。不一会儿，清凉的香味飘满了屋子。小妹妹喝了一口薄荷茶，觉得全身都舒服了。她对着薄荷说：“谢谢你，小薄荷！”小薄荷摇摇叶子，好像在说：“不客气！”后来，小妹妹还把薄荷叶贴在手背上，感觉凉丝丝的，好像有小精灵在扇风。小薄荷不仅好看好闻，还能让夏天变得更美好。"
+      },
+      "knowledge": {
+        "title": "薄荷有什么用处？",
+        "body": "薄荷的叶子有特别的清凉香味，可以泡茶喝，让人变得凉快。它还能做成牙膏、口香糖，让嘴巴香香的。薄荷也用来做菜，让食物更美味。它是一种很厉害的小植物！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_mint_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_mint_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Mint",
+      "aloud": "/mɪnt/",
+      "words": "",
+      "intro": "Mint is a small green herb with fragrant leaves. When you smell it, it feels cool and fresh. We can use it to make tea or flavor food. It's a little refresher for summer.",
+      "story": {
+        "title": "🌿Little Mint's Wonderful Journey",
+        "body": "On the balcony, in a flowerpot, grew a patch of green mint. Every day, a little girl watered it and touched its leaves. Then she would put her hands to her nose and say, 'Wow, so fragrant and cool!' One day, Mommy picked a few leaves and put them into a glass teapot with hot water. Soon, the fresh, cool smell filled the room. The little girl took a sip of mint tea and felt so refreshed. She said to the mint, 'Thank you, little mint!' The mint swayed its leaves as if to say, 'You're welcome!' Later, she even stuck a mint leaf on the back of her hand; it felt tingly cool, like a tiny fairy fanning her. Little mint not only looks and smells nice but also makes summer days more wonderful."
+      },
+      "knowledge": {
+        "title": "What is mint used for?",
+        "body": "Mint leaves have a special cool, fresh scent. We can brew them into tea to feel refreshed. It is also used in toothpaste and chewing gum to make our mouths feel clean and smell nice. Mint can be added to food to make it more delicious. It's a powerful little plant!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_mint_intro.mp3",
+        "story": "../item-audio/en/plant_mint_story.mp3"
+      }
+    }
+  }
+}

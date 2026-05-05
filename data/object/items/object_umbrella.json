@@ -1,0 +1,95 @@
+{
+  "id": "object_umbrella",
+  "sku_id": "card_object_umbrella",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "personal_item",
+      "color_blue"
+    ],
+    "secondary": [
+      "go_out",
+      "long",
+      "soft"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "shape": [
+      "round",
+      "long"
+    ],
+    "material": [
+      "metal",
+      "plastic",
+      "fabric"
+    ],
+    "scenes": [
+      "outdoor",
+      "home",
+      "school"
+    ],
+    "function": [
+      "protect_from_rain",
+      "block_sun"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "雨伞",
+      "aloud": "yǔ sǎn",
+      "words": "umbrella",
+      "intro": "雨伞可以为我们挡雨，也能遮太阳。它有一根长长的柄，打开后像一朵大大的花。",
+      "story": {
+        "title": "☂️小雨伞的故事",
+        "body": "小雨伞叫小伞，平时安安静静地躲在门后面。有一天，天上下起了小雨，滴滴答答。小主人要出门了，可是没有找到小伞。小伞在门后看见了，着急地喊：“快带我呀！快带我呀！” 小主人终于听到了，高兴地拿起小伞。啪的一声，小伞张开了，像一朵蓝色的蘑菇。雨点打在小伞身上，滑溜溜地落下去。小伞说：“别怕，别怕，我会保护你！” 小主人笑着说：“有你真好！” 小伞心里暖暖的，它觉得能帮到小主人，是最开心的事。从此，每次下雨，小伞都第一个准备好。"
+      },
+      "knowledge": {
+        "title": "雨伞有什么用？",
+        "body": "雨伞有伞面、伞骨和伞柄。下雨时打开，可以帮我们挡住雨水，不让我们淋湿。出太阳时，也能遮住阳光，让我们凉快一些。用完后要晾干再收好。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_umbrella_intro.mp3",
+        "story": "../item-audio/zh-CN/object_umbrella_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Umbrella",
+      "aloud": "/ʌmˈbrelə/",
+      "words": "",
+      "intro": "An umbrella can keep us dry on rainy days and also give us shade when it's sunny. It has a long handle and opens up like a big flower.",
+      "story": {
+        "title": "☂️Little Umbrella’s Day",
+        "body": "Little Umbrella usually waits quietly behind the door. One rainy day, its little owner was about to go out but forgot to take it. Little Umbrella shouted, “Take me! Take me!” The owner finally heard it and happily picked it up. With a pop, Little Umbrella opened wide, like a blue mushroom. Raindrops fell on it and slid right off. Little Umbrella said, “Don't worry, I'll keep you dry!” The owner smiled and said, “I'm so glad I have you.” Little Umbrella felt warm inside. From then on, it was always the first one ready whenever it rained."
+      },
+      "knowledge": {
+        "title": "What is an umbrella for?",
+        "body": "An umbrella has a canopy, ribs, and a handle. When it rains, we open it to stay dry. It can also shade us from the sun. After use, let it dry before putting it away."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_umbrella_intro.mp3",
+        "story": "../item-audio/en/object_umbrella_story.mp3"
+      }
+    }
+  }
+}

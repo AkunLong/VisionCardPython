@@ -1,0 +1,94 @@
+{
+  "id": "person_security_guard",
+  "sku_id": "card_person_security_guard",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "at_workplace"
+    ],
+    "secondary": [
+      "adult",
+      "protect",
+      "public_service"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "security_guard"
+    ],
+    "workplace": [
+      "gate",
+      "entrance",
+      "building"
+    ],
+    "tools": [
+      "walkie-talkie",
+      "flashlight",
+      "keys"
+    ],
+    "clothing": [
+      "uniform",
+      "cap"
+    ],
+    "actions": [
+      "guard",
+      "patrol",
+      "check"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "保安",
+      "aloud": "bǎo ān",
+      "words": "security guard",
+      "intro": "保安是保护大家安全的人。他们穿着制服，在门口站岗，不让坏人进来，还会帮忙指路呢。",
+      "story": {
+        "title": "🐻小熊和保安叔叔",
+        "body": "幼儿园门口，每天都有保安叔叔笑眯眯地挥手。小熊点点好奇地问妈妈：“保安叔叔是做什么的呀？”妈妈说：“保安叔叔是保护我们的，他认识所有小朋友的爸爸妈妈，不让陌生人随便进来。”有一天，点点在门口等妈妈，一个不认识的阿姨说要带点点去找妈妈。点点有点害怕，正好保安叔叔走过来，问那个阿姨：“您好，请问您是哪位小朋友的家长？”阿姨支支吾吾说不出来，保安叔叔就请她离开了。点点松了口气，保安叔叔蹲下来说：“点点真勇敢，记住，不能跟陌生人走哦。”点点用力点头。从此，点点每次经过门口，都会大声说：“保安叔叔好！谢谢你保护我们！”"
+      },
+      "knowledge": {
+        "title": "保安叔叔有哪些装备？",
+        "body": "保安有对讲机，能和同事说话；有手电筒，晚上可以照亮黑暗；还有一大串钥匙，可以打开不同的门。有些保安还会戴上帽子，穿上反光背心，让大家一眼就能看到他们。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_security_guard_intro.mp3",
+        "story": "../item-audio/zh-CN/person_security_guard_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Security Guard",
+      "aloud": "/sɪˈkjʊərəti ɡɑːrd/",
+      "words": "",
+      "intro": "A security guard keeps people safe. They wear uniforms, stand at the gate, stop strangers, and help you find the way.",
+      "story": {
+        "title": "🐻Little Bear and the Security Guard",
+        "body": "Every day at the kindergarten gate, the security guard smiled and waved. Little Bear Dotty asked his mom, \"What does the security guard do?\" Mom said, \"The security guard protects us. He knows all the children's parents and won't let strangers in.\" One day, Dotty waited for his mom at the gate. An unknown auntie said she would take Dotty to find his mom. Dotty felt scared. Just then, the security guard came over and asked, \"Hello, which child's parent are you?\" The auntie couldn't answer clearly, so the guard asked her to leave. Dotty breathed a sigh of relief. The guard knelt down and said, \"Dotty, you were brave. Remember, never go with strangers.\" Dotty nodded hard. From then on, every time Dotty passed the gate, he would say loudly, \"Hello, Mr. Guard! Thank you for keeping us safe!\""
+      },
+      "knowledge": {
+        "title": "What equipment does a security guard have?",
+        "body": "A security guard has a walkie-talkie to talk to teammates, a flashlight to see in the dark, and a big bunch of keys to open different doors. Some also wear a cap and a reflective vest so people can see them easily."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_security_guard_intro.mp3",
+        "story": "../item-audio/en/person_security_guard_story.mp3"
+      }
+    }
+  }
+}

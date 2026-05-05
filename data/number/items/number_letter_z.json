@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_z",
+  "sku_id": "card_number_z",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "can_read",
+      "can_say",
+      "easy_level"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 26,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "26th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母Z",
+      "aloud": "Z",
+      "words": "zebra",
+      "intro": "字母Z是英文字母中的最后一个，长得像一条小小的闪电，也像数字2在睡觉。宝宝，你也可以画出这个有趣的字母哦！",
+      "story": {
+        "title": "⚡字母Z的冒险",
+        "body": "字母Z是字母表里最小的弟弟，它排在最后一位。虽然最小，但Z可厉害啦！它住在一个大大的动物园里，那里有斑马（Zebra）、斑胸草雀（Zebra Finch），还有一道道闪电（Zigzag）划过天空。有一次，Z想去找朋友们玩，它走呀走，先遇到了A，A说：“Z，你总是最后一个，但我最喜欢和你玩！”然后遇到B，B说：“Z，你的形状像小闪电，跑起来肯定很快！”Z笑着说：“我虽然小，但我能发出‘滋滋’的声音，像小蜜蜂一样！”字母们一起唱歌跳舞，Z用它的‘滋滋’声给歌曲伴奏，大家都说好听极了。从此，Z再也不觉得自己排在最后不好了，因为它知道，每个字母都有自己的超级本领！"
+      },
+      "knowledge": {
+        "title": "字母Z是怎么来的？",
+        "body": "很久很久以前，字母Z的形状来自希腊字母Zeta，它代表一个声音。后来英国人觉得Z用得少，差点把它从字母表里去掉呢！幸好Z留了下来，变成了我们今天喜欢的闪电形状。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_z_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_z_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Letter Z",
+      "aloud": "/ziː/",
+      "words": "",
+      "intro": "Letter Z is the last letter of the alphabet. It looks like a little lightning bolt, or like a number 2 that is sleeping. Can you draw a zigzag like Z?",
+      "story": {
+        "title": "⚡The Adventure of Letter Z",
+        "body": "Letter Z is the youngest brother in the alphabet family, always standing at the very end. Even though he is small, Z is very special! He lives in a big zoo with zebras, colorful finches, and zigzag lightning in the sky. One day, Z decided to visit his letter friends. He walked and walked, first meeting A, who said, 'Z, you are always the last one, but I love playing with you the most!' Then B said, 'Z, your shape is like a tiny lightning bolt, you must be very fast!' Z smiled and said, 'I may be small, but I can buzz like a busy bee—zzz, zzz!' All the letters danced and sang together, and Z added his buzzing sound to the music. Everyone cheered because it was so much fun! From that day on, Z never felt sad about being last, because he knew every letter has a super power of its own!"
+      },
+      "knowledge": {
+        "title": "Where did Letter Z come from?",
+        "body": "A long, long time ago, the shape of Z came from the Greek letter Zeta, which made a buzzing sound. Later, English speakers almost removed it from the alphabet because they rarely used it. Lucky for us, Z stayed and became the cool lightning‐bolt letter we love today!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_z_intro.mp3",
+        "story": "../item-audio/en/number_letter_z_story.mp3"
+      }
+    }
+  }
+}

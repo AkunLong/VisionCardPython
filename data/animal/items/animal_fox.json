@@ -1,0 +1,105 @@
+{
+  "id": "animal_fox",
+  "sku_id": "card_animal_fox",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "forest_animal",
+      "cute"
+    ],
+    "secondary": [
+      "has_fur",
+      "has_tail",
+      "can_run"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "wild"
+    ],
+    "color": [
+      "orange",
+      "white",
+      "brown",
+      "black"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "ears",
+      "whiskers"
+    ],
+    "scenes": [
+      "forest",
+      "den",
+      "grassland"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "jump",
+      "sneak"
+    ],
+    "sound": [
+      "bark"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "狐狸",
+      "aloud": "hú li",
+      "words": "fox",
+      "intro": "狐狸是一种聪明的小动物，身上有又软又厚的毛，长着尖尖的嘴巴和大尾巴。狐狸喜欢住在森林里，跑起来又轻又快。",
+      "story": {
+        "title": "🦊小狐狸找朋友",
+        "body": "小狐狸灵灵住在森林里，它很聪明，但有点害羞。有一天，灵灵想找朋友一起玩。它走到大树下，看见小兔子在吃草。灵灵轻轻走过去，小声说：“你好，我可以和你玩吗？”小兔子看了看灵灵，点点头说：“好呀！”他们一起在草地上跑啊跑，追蝴蝶、捡松果，玩得特别开心。玩累了，灵灵又走到小溪边，看见小鹿在喝水。灵灵这次胆子大了一点，开心地说：“你好，我是灵灵，我们一起玩吧！”小鹿也笑着加入了他们。三个好朋友在森林里捉迷藏，灵灵躲在大石头后面，尾巴却露了出来，大家都笑了。太阳下山了，灵灵回到自己的小窝，心里暖暖的，它再也不孤单了。"
+      },
+      "knowledge": {
+        "title": "狐狸为什么那么聪明？",
+        "body": "狐狸非常聪明，它们会记住哪里有食物，还会用各种办法抓住小动物。狐狸的耳朵很灵敏，能听到很小的声音，帮助它们发现猎物。它们还会和家人一起照顾小狐狸。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_fox_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_fox_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Fox",
+      "aloud": "/fɑːks/",
+      "words": "",
+      "intro": "A fox is a clever little animal with soft, thick fur, a pointy nose, and a big fluffy tail. Foxes live in forests and run very fast.",
+      "story": {
+        "title": "🦊Little Fox Makes Friends",
+        "body": "Lingling the little fox lived in the forest. She was very clever but a little shy. One day, she wanted to find friends to play with. She walked under a big tree and saw a little rabbit eating grass. Lingling went over softly and said quietly, “Hello, can I play with you?” The rabbit looked at Lingling and nodded, “Okay!” They ran on the grass together, chasing butterflies and picking up pinecones. They had so much fun. After playing for a while, Lingling walked to a little stream and saw a fawn drinking water. This time Lingling was a little braver. She said happily, “Hi, I’m Lingling! Let’s play together!” The fawn smiled and joined them. The three friends played hide-and-seek in the forest. Lingling hid behind a big rock, but her tail poked out, and everyone laughed. When the sun went down, Lingling went back to her little den. Her heart felt warm, and she wasn't lonely anymore."
+      },
+      "knowledge": {
+        "title": "Why are foxes so clever?",
+        "body": "Foxes are very smart. They remember where to find food and use different ways to catch small animals. Their ears are very sharp and can hear tiny sounds, which helps them find prey. They also take care of their babies together as a family."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_fox_intro.mp3",
+        "story": "../item-audio/en/animal_fox_story.mp3"
+      }
+    }
+  }
+}

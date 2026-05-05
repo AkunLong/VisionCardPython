@@ -1,0 +1,99 @@
+{
+  "id": "animal_goldfish",
+  "sku_id": "card_animal_goldfish",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "home_animal",
+      "cute"
+    ],
+    "secondary": [
+      "small",
+      "has_scales",
+      "can_swim"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "fish",
+      "pet"
+    ],
+    "color": [
+      "orange",
+      "red",
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "scales",
+      "fins",
+      "tail",
+      "gills"
+    ],
+    "scenes": [
+      "fishbowl",
+      "aquarium",
+      "home"
+    ],
+    "actions": [
+      "swim"
+    ],
+    "sound": [],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "金鱼",
+      "aloud": "jīn yú",
+      "words": "goldfish",
+      "intro": "金鱼是一种漂亮的鱼儿，生活在水里，有亮闪闪的鳞片和飘动的尾巴。金鱼喜欢游来游去，还会吐泡泡。",
+      "story": {
+        "title": "🐟小金鱼吐泡泡",
+        "body": "小鱼红红住在圆圆的鱼缸里。每天，红红最喜欢做的一件事就是吐泡泡。一天，小朋友乐乐来到鱼缸前，红红摇摇尾巴，吐出一串亮晶晶的小泡泡，好像在对乐乐说：“你好呀！”乐乐开心地笑了，也对着红红鼓起小嘴巴。红红游近玻璃，又吐了一个大泡泡，然后围着泡泡转圈圈。乐乐伸出手指，轻轻点在鱼缸上，红红就跟着手指游来游去。玩了一会儿，红红有点累了，就躲到水草后面，只露出两只圆溜溜的眼睛。乐乐轻轻地说：“红红，明天再一起玩哦！”红红摇了摇尾巴，又吐出一个泡泡，好像在说“好的”。晚上，红红安静地沉在水底，睡着了。梦里，它和乐乐一起在蓝色的海洋里游泳。"
+      },
+      "knowledge": {
+        "title": "金鱼为什么总吐泡泡？",
+        "body": "金鱼吐泡泡是在呼吸。水里有空气，金鱼用鳃呼吸，有时候会吐出泡泡。金鱼还会用吐泡泡来玩耍，或者表达快乐。金鱼的记忆很好，能记住经常喂它的人。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_goldfish_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_goldfish_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Goldfish",
+      "aloud": "/ˈɡoʊldˌfɪʃ/",
+      "words": "",
+      "intro": "A goldfish is a small, pretty fish that lives in water. It has shiny scales and a flowing tail. Goldfish like to swim around and blow bubbles.",
+      "story": {
+        "title": "🐟The Little Goldfish Blows Bubbles",
+        "body": "Red the little goldfish lived in a round fishbowl. Every day, Red loved blowing bubbles. One day, a child named Lele came to the fishbowl. Red wagged its tail and blew a string of shiny little bubbles, as if to say, “Hello!” Lele smiled happily and puffed out her cheeks at Red. Red swam close to the glass and blew a big bubble, then swam around it in circles. Lele put her finger gently on the fishbowl, and Red followed the finger as it moved. After playing for a while, Red felt a bit tired and hid behind the water weed, leaving only two round eyes peeking out. Lele whispered, “Red, let’s play again tomorrow!” Red wagged its tail and blew another bubble, as if to say, “Okay.” At night, Red quietly sank to the bottom and fell asleep. In its dream, it was swimming with Lele in the blue ocean."
+      },
+      "knowledge": {
+        "title": "Why do goldfish blow bubbles?",
+        "body": "Goldfish blow bubbles when they breathe. Water has air, and goldfish use their gills to breathe. Sometimes they blow bubbles for fun or to show they are happy. Goldfish have a good memory and can remember the person who feeds them often."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_goldfish_intro.mp3",
+        "story": "../item-audio/en/animal_goldfish_story.mp3"
+      }
+    }
+  }
+}

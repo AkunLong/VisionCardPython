@@ -1,0 +1,93 @@
+{
+  "id": "object_mobile_phone",
+  "sku_id": "card_object_mobile_phone",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "electronic_item",
+      "color_black"
+    ],
+    "secondary": [
+      "can_call",
+      "can_take_picture",
+      "can_watch"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "black",
+      "white"
+    ],
+    "shape": [
+      "rectangle"
+    ],
+    "material": [
+      "metal",
+      "glass"
+    ],
+    "scenes": [
+      "home",
+      "office",
+      "go_out"
+    ],
+    "function": [
+      "call",
+      "take_picture",
+      "watch"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "手机",
+      "aloud": "shǒu jī",
+      "words": "phone",
+      "intro": "手机是一个小小的方盒子，可以和很远很远的人说话，还能拍照、看动画片。它真神奇！",
+      "story": {
+        "title": "📱小手机的大作用",
+        "body": "小兔子朵朵有一个可爱的手机，粉色的外壳，亮亮的屏幕。一天，兔妈妈去森林里采蘑菇，朵朵一个人在家。突然，外面下起了大雨，雷声轰隆隆，朵朵有点害怕。她想起了手机，就拨通了妈妈的号码。“妈妈，我好想你，你在哪里呀？”朵朵小声说。妈妈的声音从手机里传出来：“宝贝别怕，妈妈就在回来的路上，很快到家啦！”朵朵一下子就安心了。她拿起手机，给妈妈拍了一张自己的笑脸，发了过去。妈妈看到照片，也笑了，脚下的路好像变短了呢。后来，朵朵还和远方的外婆打了视频电话，外婆夸她长高了，朵朵开心地转圈圈。晚上，朵朵抱着手机想：手机真是个神奇的盒子，能把爱传到很远很远的地方。"
+      },
+      "knowledge": {
+        "title": "手机为什么能听到很远的声音？",
+        "body": "手机通过看不见的电波传递声音。当我们说话时，手机把声音变成信号，嗖的一下就飞到对方手机里，再变回声音，这样就能听到啦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_mobile_phone_intro.mp3",
+        "story": "../item-audio/zh-CN/object_mobile_phone_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Phone",
+      "aloud": "/foʊn/",
+      "words": "",
+      "intro": "A phone is a little box that lets us talk to people far away, take pictures, and watch cartoons. It’s amazing!",
+      "story": {
+        "title": "📱Little Phone's Big Help",
+        "body": "Bunny Dodo had a cute pink phone with a shiny screen. One day, Mama Rabbit went to the forest to pick mushrooms, leaving Dodo home alone. Suddenly, rain poured and thunder rumbled. Dodo felt scared. She thought of her phone and dialed Mama’s number. “Mama, I miss you. Where are you?” she whispered. Mama’s voice came out: “Don’t be scared, sweetie. I’m on my way home. I’ll be there soon!” Dodo felt better at once. She took a smiling selfie and sent it to Mama. Mama saw the photo and smiled, and the road seemed shorter. Later, Dodo video-called Grandma, who said she looked taller. Dodo spun around happily. That night, hugging her phone, Dodo thought: What a magical box, carrying love so far away."
+      },
+      "knowledge": {
+        "title": "How does a phone carry sound so far?",
+        "body": "Phones use invisible waves to send sound. When we talk, the phone turns our voice into signals that zip to the other phone, then turn back into sound. That’s how we hear each other!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_mobile_phone_intro.mp3",
+        "story": "../item-audio/en/object_mobile_phone_story.mp3"
+      }
+    }
+  }
+}

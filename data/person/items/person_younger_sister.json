@@ -1,0 +1,89 @@
+{
+  "id": "person_younger_sister",
+  "sku_id": "card_person_younger_sister",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "child"
+    ],
+    "secondary": [
+      "female",
+      "relative",
+      "at_home"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "younger_sister"
+    ],
+    "workplace": [
+      "home"
+    ],
+    "tools": [
+      "toy"
+    ],
+    "clothing": [
+      "dress"
+    ],
+    "actions": [
+      "play",
+      "laugh",
+      "cry"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "妹妹",
+      "aloud": "mèi mei",
+      "words": "sister",
+      "intro": "妹妹是家里比你小的小女孩。她会叫你哥哥或姐姐，喜欢跟在你后面，和你一起玩。",
+      "story": {
+        "title": "👧妹妹的第一步",
+        "body": "妹妹还不会走路，整天在床上爬来爬去。今天妈妈扶着她，想让她试着站一站。妹妹有点害怕，小手紧紧抓着妈妈的手指。这时候，哥哥跑过来，拿出一个会发光的小球，在妹妹面前轻轻滚着。妹妹的眼睛一下子亮了，她松开妈妈的一只手，想去抓球。妈妈悄悄放开另一只手，妹妹居然自己站稳了！她摇摇晃晃地向前走了一步，又一步，扑进了哥哥的怀里。全家人都鼓起掌来，妹妹咯咯地笑着，口水都流出来了。哥哥说：“妹妹真棒！以后我带你去公园玩！”"
+      },
+      "knowledge": {
+        "title": "妹妹为什么总跟着我？",
+        "body": "妹妹喜欢模仿大孩子，因为你玩的东西她都好奇。跟着你是想学你的样子，也是因为喜欢你。多抱抱她，她会笑得很开心。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_younger_sister_intro.mp3",
+        "story": "../item-audio/zh-CN/person_younger_sister_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Younger Sister",
+      "aloud": "/ˈjʌŋər ˈsɪstər/",
+      "words": "",
+      "intro": "A younger sister is a little girl in your family. She calls you big brother or big sister and loves to follow you around and play together.",
+      "story": {
+        "title": "👧Sister's First Step",
+        "body": "The little sister couldn't walk yet. She crawled around the bed all day. Today, Mom held her up and wanted her to try standing. The sister was a bit scared and held Mom's fingers tightly. Just then, big brother ran over with a glowing ball and rolled it gently in front of her. The sister's eyes lit up. She let go of one hand to reach for the ball. Mom quietly let go of the other hand, and the sister stood on her own! She wobbled forward, took one step, then another, and fell into big brother's arms. The whole family clapped. The sister giggled, drool spilling out. Big brother said, 'You're amazing, sister! I'll take you to the park someday!'"
+      },
+      "knowledge": {
+        "title": "Why does my sister always follow me?",
+        "body": "Little sisters love to copy big kids because they are curious about everything you do. Following you is their way of learning and showing love. Hug her often, and she'll smile happily."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_younger_sister_intro.mp3",
+        "story": "../item-audio/en/person_younger_sister_story.mp3"
+      }
+    }
+  }
+}

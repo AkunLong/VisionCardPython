@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_h",
+  "sku_id": "card_number_letter_h",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "can_say",
+      "can_read",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 8,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "8th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母H",
+      "aloud": "āi chǐ",
+      "words": "h",
+      "intro": "字母H是英语字母表中的第八个字母。它看起来像一座小梯子，可以爬高高。H是一个很有用的字母哦！",
+      "story": {
+        "title": "🏠 字母H的故事",
+        "body": "字母H长得像一座小房子，有两根柱子，中间有一根横梁。小猴子爬上去，嘣嘣跳跳，好开心。H还像一架小梯子，小猫咪顺着梯子爬上屋顶看星星。H最喜欢和a, e, i, o, u这些元音字母做朋友，它们一起能发好多音，比如ha, he, hi, ho, hu。H也喜欢站在单词的开头，像hello, happy, home，让说话变得温暖。所以，记住字母H，它像小房子，也像小梯子，带给我们快乐和家。"
+      },
+      "knowledge": {
+        "title": "字母H的发音",
+        "body": "字母H通常发/h/的声音，就像轻轻哈气。在中文里我们念“āi chǐ”。它出现在很多英文单词中，是重要的辅音字母。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_h_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_h_story.mp3"
+      }
+    },
+    "en": {
+      "name": "H",
+      "aloud": "/eɪtʃ/",
+      "words": "",
+      "intro": "H is the eighth letter of the alphabet. It looks like a little ladder. H is a very useful letter!",
+      "story": {
+        "title": "🏠 Story of Letter H",
+        "body": "Letter H looks like a little house with two pillars and a beam in the middle. A little monkey climbs on it, jumping and hopping happily. H also looks like a small ladder; a kitten climbs up to the roof to watch the stars. H loves to make friends with vowel letters a, e, i, o, u. Together they can make fun sounds: ha, he, hi, ho, hu. H often stands at the beginning of words like hello, happy, home, bringing warmth to our speech. So remember letter H, it's like a little house and a ladder, bringing us joy and home."
+      },
+      "knowledge": {
+        "title": "How to Pronounce H",
+        "body": "Letter H usually makes the /h/ sound, like a gentle breath. It appears in many English words and is an important consonant."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_h_intro.mp3",
+        "story": "../item-audio/en/number_letter_h_story.mp3"
+      }
+    }
+  }
+}

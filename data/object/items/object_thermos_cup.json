@@ -1,0 +1,94 @@
+{
+  "id": "object_thermos_cup",
+  "sku_id": "card_object_thermos_cup",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "can_drink_with",
+      "color_white"
+    ],
+    "secondary": [
+      "at_home",
+      "round",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "white",
+      "silver"
+    ],
+    "shape": [
+      "cylinder",
+      "round"
+    ],
+    "material": [
+      "stainless steel",
+      "plastic"
+    ],
+    "scenes": [
+      "home",
+      "school",
+      "outdoor"
+    ],
+    "function": [
+      "keep warm",
+      "keep cold",
+      "drink"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "保温杯",
+      "aloud": "bǎo wēn bēi",
+      "words": "thermos cup",
+      "intro": "保温杯是我们的好朋友。它可以把热水变得暖暖的，也可以让冷水冰冰凉。拧开盖子，就能喝到舒服的水啦。",
+      "story": {
+        "title": "🎁保温杯的温暖秘密",
+        "body": "冬天到了，小企鹅冻得直哆嗦。妈妈递给它一个亮晶晶的杯子：“这是保温杯，它能给你温暖哦。”小企鹅好奇地打开盖子，一股热气冒了出来，里面是温温的牛奶。它喝了一口，全身都暖洋洋的。小企鹅问：“为什么水还是热的呀？”保温杯开心地说：“因为我的身体有两层，中间是空空的，就像穿上了一件空气小棉袄，热气跑不出去，冷气也进不来。这样你的水就一直热乎乎啦！”小企鹅高兴极了，抱着保温杯说：“你真是冬天里最棒的朋友！”从那以后，小企鹅去哪里都带着保温杯，再也不怕冷了。"
+      },
+      "knowledge": {
+        "title": "保温杯为什么能保温？",
+        "body": "保温杯的肚子是双层的，两层中间没有空气，就像一层看不见的被子。这样热量不容易跑出去，外面的冷气也进不来，所以水能一直热热的，冰水也能一直凉凉的。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_thermos_cup_intro.mp3",
+        "story": "../item-audio/zh-CN/object_thermos_cup_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Thermos Cup",
+      "aloud": "/ˈθɜːrməs kʌp/",
+      "words": "",
+      "intro": "A thermos cup is a good friend. It keeps hot water warm and cold water cool. Twist off the lid, and you can drink comfortable water.",
+      "story": {
+        "title": "🎁The Warm Secret of the Thermos Cup",
+        "body": "Winter came, and Little Penguin was shivering. Mama handed it a shiny cup: \"This is a thermos cup, it will give you warmth.\" Little Penguin opened the lid curiously, and a puff of steam came out — inside was warm milk. After one sip, its whole body felt cozy. Little Penguin asked, \"Why is the water still hot?\" The thermos cup happily said, \"Because my body has two layers, and the middle is empty, just like wearing a little air coat. The heat can't escape, and the cold can't come in. So your water stays hot all the time!\" Little Penguin was so happy and hugged the cup, \"You are the best friend in winter!\" From then on, Little Penguin carried the thermos cup everywhere and never felt cold again."
+      },
+      "knowledge": {
+        "title": "Why can a thermos cup keep things warm?",
+        "body": "A thermos cup has a double-layer belly. The space between the two layers has no air, like an invisible blanket. That way, heat can't escape easily, and outside cold can't come in. So hot water stays hot, and ice water stays cool."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_thermos_cup_intro.mp3",
+        "story": "../item-audio/en/object_thermos_cup_story.mp3"
+      }
+    }
+  }
+}

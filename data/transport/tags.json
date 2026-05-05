@@ -1,0 +1,642 @@
+[
+  {
+    "id": "color_red",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "red",
+    "content": {
+      "zh-CN": {
+        "name": "红色",
+        "audio_url": "audio/tags-audio/zh-CN/transport_color_red.mp3"
+      },
+      "en": {
+        "name": "Red",
+        "audio_url": "audio/tags-audio/en/transport_color_red.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_yellow",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "黄色",
+        "audio_url": "audio/tags-audio/zh-CN/transport_color_yellow.mp3"
+      },
+      "en": {
+        "name": "Yellow",
+        "audio_url": "audio/tags-audio/en/transport_color_yellow.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_blue",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "蓝色",
+        "audio_url": "audio/tags-audio/zh-CN/transport_color_blue.mp3"
+      },
+      "en": {
+        "name": "Blue",
+        "audio_url": "audio/tags-audio/en/transport_color_blue.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_green",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "绿色",
+        "audio_url": "audio/tags-audio/zh-CN/transport_color_green.mp3"
+      },
+      "en": {
+        "name": "Green",
+        "audio_url": "audio/tags-audio/en/transport_color_green.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_white",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "white",
+    "content": {
+      "zh-CN": {
+        "name": "白色",
+        "audio_url": "audio/tags-audio/zh-CN/transport_color_white.mp3"
+      },
+      "en": {
+        "name": "White",
+        "audio_url": "audio/tags-audio/en/transport_color_white.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_black",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "black",
+    "content": {
+      "zh-CN": {
+        "name": "黑色",
+        "audio_url": "audio/tags-audio/zh-CN/transport_color_black.mp3"
+      },
+      "en": {
+        "name": "Black",
+        "audio_url": "audio/tags-audio/en/transport_color_black.mp3"
+      }
+    }
+  },
+  {
+    "id": "color_orange",
+    "type": "color",
+    "icon": "palette",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "橙色",
+        "audio_url": "audio/tags-audio/zh-CN/transport_color_orange.mp3"
+      },
+      "en": {
+        "name": "Orange",
+        "audio_url": "audio/tags-audio/en/transport_color_orange.mp3"
+      }
+    }
+  },
+  {
+    "id": "transport",
+    "type": "category",
+    "icon": "car",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "交通工具",
+        "audio_url": "audio/tags-audio/zh-CN/transport_transport.mp3"
+      },
+      "en": {
+        "name": "Transport",
+        "audio_url": "audio/tags-audio/en/transport_transport.mp3"
+      }
+    }
+  },
+  {
+    "id": "road_vehicle",
+    "type": "category",
+    "icon": "car",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "路上行驶",
+        "audio_url": "audio/tags-audio/zh-CN/transport_road_vehicle.mp3"
+      },
+      "en": {
+        "name": "Road vehicle",
+        "audio_url": "audio/tags-audio/en/transport_road_vehicle.mp3"
+      }
+    }
+  },
+  {
+    "id": "public_transport",
+    "type": "category",
+    "icon": "bus",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "公共交通",
+        "audio_url": "audio/tags-audio/zh-CN/transport_public_transport.mp3"
+      },
+      "en": {
+        "name": "Public transport",
+        "audio_url": "audio/tags-audio/en/transport_public_transport.mp3"
+      }
+    }
+  },
+  {
+    "id": "special_vehicle",
+    "type": "category",
+    "icon": "siren",
+    "styleKey": "red",
+    "content": {
+      "zh-CN": {
+        "name": "特殊车辆",
+        "audio_url": "audio/tags-audio/zh-CN/transport_special_vehicle.mp3"
+      },
+      "en": {
+        "name": "Special vehicle",
+        "audio_url": "audio/tags-audio/en/transport_special_vehicle.mp3"
+      }
+    }
+  },
+  {
+    "id": "construction_vehicle",
+    "type": "category",
+    "icon": "hard-hat",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "工程车辆",
+        "audio_url": "audio/tags-audio/zh-CN/transport_construction_vehicle.mp3"
+      },
+      "en": {
+        "name": "Construction vehicle",
+        "audio_url": "audio/tags-audio/en/transport_construction_vehicle.mp3"
+      }
+    }
+  },
+  {
+    "id": "water_transport",
+    "type": "category",
+    "icon": "ship",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "水上交通",
+        "audio_url": "audio/tags-audio/zh-CN/transport_water_transport.mp3"
+      },
+      "en": {
+        "name": "Water transport",
+        "audio_url": "audio/tags-audio/en/transport_water_transport.mp3"
+      }
+    }
+  },
+  {
+    "id": "air_transport",
+    "type": "category",
+    "icon": "plane",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "空中交通",
+        "audio_url": "audio/tags-audio/zh-CN/transport_air_transport.mp3"
+      },
+      "en": {
+        "name": "Air transport",
+        "audio_url": "audio/tags-audio/en/transport_air_transport.mp3"
+      }
+    }
+  },
+  {
+    "id": "space_transport",
+    "type": "category",
+    "icon": "rocket",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "太空交通",
+        "audio_url": "audio/tags-audio/zh-CN/transport_space_transport.mp3"
+      },
+      "en": {
+        "name": "Space transport",
+        "audio_url": "audio/tags-audio/en/transport_space_transport.mp3"
+      }
+    }
+  },
+  {
+    "id": "vehicle_part",
+    "type": "category",
+    "icon": "circle-dot",
+    "styleKey": "gray",
+    "content": {
+      "zh-CN": {
+        "name": "车辆部件",
+        "audio_url": "audio/tags-audio/zh-CN/transport_vehicle_part.mp3"
+      },
+      "en": {
+        "name": "Vehicle part",
+        "audio_url": "audio/tags-audio/en/transport_vehicle_part.mp3"
+      }
+    }
+  },
+  {
+    "id": "safety_item",
+    "type": "category",
+    "icon": "shield-check",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "安全用品",
+        "audio_url": "audio/tags-audio/zh-CN/transport_safety_item.mp3"
+      },
+      "en": {
+        "name": "Safety item",
+        "audio_url": "audio/tags-audio/en/transport_safety_item.mp3"
+      }
+    }
+  },
+  {
+    "id": "on_road",
+    "type": "scene",
+    "icon": "route",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "在马路上",
+        "audio_url": "audio/tags-audio/zh-CN/transport_on_road.mp3"
+      },
+      "en": {
+        "name": "On the road",
+        "audio_url": "audio/tags-audio/en/transport_on_road.mp3"
+      }
+    }
+  },
+  {
+    "id": "on_rail",
+    "type": "scene",
+    "icon": "tram-front",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "在轨道上",
+        "audio_url": "audio/tags-audio/zh-CN/transport_on_rail.mp3"
+      },
+      "en": {
+        "name": "On rails",
+        "audio_url": "audio/tags-audio/en/transport_on_rail.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_water",
+    "type": "scene",
+    "icon": "waves",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "在水里",
+        "audio_url": "audio/tags-audio/zh-CN/transport_in_water.mp3"
+      },
+      "en": {
+        "name": "In the water",
+        "audio_url": "audio/tags-audio/en/transport_in_water.mp3"
+      }
+    }
+  },
+  {
+    "id": "in_sky",
+    "type": "scene",
+    "icon": "cloud",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "在天空中",
+        "audio_url": "audio/tags-audio/zh-CN/transport_in_sky.mp3"
+      },
+      "en": {
+        "name": "In the sky",
+        "audio_url": "audio/tags-audio/en/transport_in_sky.mp3"
+      }
+    }
+  },
+  {
+    "id": "at_worksite",
+    "type": "scene",
+    "icon": "construction",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "在工地上",
+        "audio_url": "audio/tags-audio/zh-CN/transport_at_worksite.mp3"
+      },
+      "en": {
+        "name": "At a worksite",
+        "audio_url": "audio/tags-audio/en/transport_at_worksite.mp3"
+      }
+    }
+  },
+  {
+    "id": "at_school",
+    "type": "scene",
+    "icon": "school",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "去学校",
+        "audio_url": "audio/tags-audio/zh-CN/transport_at_school.mp3"
+      },
+      "en": {
+        "name": "To school",
+        "audio_url": "audio/tags-audio/en/transport_at_school.mp3"
+      }
+    }
+  },
+  {
+    "id": "at_home",
+    "type": "scene",
+    "icon": "home",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "家里用",
+        "audio_url": "audio/tags-audio/zh-CN/transport_at_home.mp3"
+      },
+      "en": {
+        "name": "Used at home",
+        "audio_url": "audio/tags-audio/en/transport_at_home.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_drive",
+    "type": "action",
+    "icon": "car-front",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "可以驾驶",
+        "audio_url": "audio/tags-audio/zh-CN/transport_can_drive.mp3"
+      },
+      "en": {
+        "name": "Can drive",
+        "audio_url": "audio/tags-audio/en/transport_can_drive.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_ride",
+    "type": "action",
+    "icon": "bike",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "可以骑",
+        "audio_url": "audio/tags-audio/zh-CN/transport_can_ride.mp3"
+      },
+      "en": {
+        "name": "Can ride",
+        "audio_url": "audio/tags-audio/en/transport_can_ride.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_fly",
+    "type": "action",
+    "icon": "plane",
+    "styleKey": "purple",
+    "content": {
+      "zh-CN": {
+        "name": "可以飞",
+        "audio_url": "audio/tags-audio/zh-CN/transport_can_fly.mp3"
+      },
+      "en": {
+        "name": "Can fly",
+        "audio_url": "audio/tags-audio/en/transport_can_fly.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_float",
+    "type": "action",
+    "icon": "ship",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "可以漂在水上",
+        "audio_url": "audio/tags-audio/zh-CN/transport_can_float.mp3"
+      },
+      "en": {
+        "name": "Can float",
+        "audio_url": "audio/tags-audio/en/transport_can_float.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_carry_people",
+    "type": "function",
+    "icon": "users",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "可以载人",
+        "audio_url": "audio/tags-audio/zh-CN/transport_can_carry_people.mp3"
+      },
+      "en": {
+        "name": "Carries people",
+        "audio_url": "audio/tags-audio/en/transport_can_carry_people.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_carry_goods",
+    "type": "function",
+    "icon": "package",
+    "styleKey": "brown",
+    "content": {
+      "zh-CN": {
+        "name": "可以运货",
+        "audio_url": "audio/tags-audio/zh-CN/transport_can_carry_goods.mp3"
+      },
+      "en": {
+        "name": "Carries goods",
+        "audio_url": "audio/tags-audio/en/transport_can_carry_goods.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_rescue",
+    "type": "function",
+    "icon": "life-buoy",
+    "styleKey": "red",
+    "content": {
+      "zh-CN": {
+        "name": "可以救援",
+        "audio_url": "audio/tags-audio/zh-CN/transport_can_rescue.mp3"
+      },
+      "en": {
+        "name": "Can rescue",
+        "audio_url": "audio/tags-audio/en/transport_can_rescue.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_clean",
+    "type": "function",
+    "icon": "sparkles",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "可以清洁",
+        "audio_url": "audio/tags-audio/zh-CN/transport_can_clean.mp3"
+      },
+      "en": {
+        "name": "Can clean",
+        "audio_url": "audio/tags-audio/en/transport_can_clean.mp3"
+      }
+    }
+  },
+  {
+    "id": "can_build",
+    "type": "function",
+    "icon": "hammer",
+    "styleKey": "yellow",
+    "content": {
+      "zh-CN": {
+        "name": "可以施工",
+        "audio_url": "audio/tags-audio/zh-CN/transport_can_build.mp3"
+      },
+      "en": {
+        "name": "Can build",
+        "audio_url": "audio/tags-audio/en/transport_can_build.mp3"
+      }
+    }
+  },
+  {
+    "id": "fast",
+    "type": "feature",
+    "icon": "zap",
+    "styleKey": "orange",
+    "content": {
+      "zh-CN": {
+        "name": "跑得快",
+        "audio_url": "audio/tags-audio/zh-CN/transport_fast.mp3"
+      },
+      "en": {
+        "name": "Fast",
+        "audio_url": "audio/tags-audio/en/transport_fast.mp3"
+      }
+    }
+  },
+  {
+    "id": "big",
+    "type": "size",
+    "icon": "maximize",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "大大的",
+        "audio_url": "audio/tags-audio/zh-CN/transport_big.mp3"
+      },
+      "en": {
+        "name": "Big",
+        "audio_url": "audio/tags-audio/en/transport_big.mp3"
+      }
+    }
+  },
+  {
+    "id": "small",
+    "type": "size",
+    "icon": "minimize",
+    "styleKey": "blue",
+    "content": {
+      "zh-CN": {
+        "name": "小小的",
+        "audio_url": "audio/tags-audio/zh-CN/transport_small.mp3"
+      },
+      "en": {
+        "name": "Small",
+        "audio_url": "audio/tags-audio/en/transport_small.mp3"
+      }
+    }
+  },
+  {
+    "id": "has_wheels",
+    "type": "feature",
+    "icon": "circle-dot",
+    "styleKey": "gray",
+    "content": {
+      "zh-CN": {
+        "name": "有轮子",
+        "audio_url": "audio/tags-audio/zh-CN/transport_has_wheels.mp3"
+      },
+      "en": {
+        "name": "Has wheels",
+        "audio_url": "audio/tags-audio/en/transport_has_wheels.mp3"
+      }
+    }
+  },
+  {
+    "id": "has_engine",
+    "type": "feature",
+    "icon": "settings",
+    "styleKey": "gray",
+    "content": {
+      "zh-CN": {
+        "name": "有发动机",
+        "audio_url": "audio/tags-audio/zh-CN/transport_has_engine.mp3"
+      },
+      "en": {
+        "name": "Has an engine",
+        "audio_url": "audio/tags-audio/en/transport_has_engine.mp3"
+      }
+    }
+  },
+  {
+    "id": "has_siren",
+    "type": "feature",
+    "icon": "siren",
+    "styleKey": "red",
+    "content": {
+      "zh-CN": {
+        "name": "有警笛",
+        "audio_url": "audio/tags-audio/zh-CN/transport_has_siren.mp3"
+      },
+      "en": {
+        "name": "Has a siren",
+        "audio_url": "audio/tags-audio/en/transport_has_siren.mp3"
+      }
+    }
+  },
+  {
+    "id": "safe",
+    "type": "feature",
+    "icon": "shield-check",
+    "styleKey": "green",
+    "content": {
+      "zh-CN": {
+        "name": "保护安全",
+        "audio_url": "audio/tags-audio/zh-CN/transport_safe.mp3"
+      },
+      "en": {
+        "name": "Keeps safe",
+        "audio_url": "audio/tags-audio/en/transport_safe.mp3"
+      }
+    }
+  }
+]

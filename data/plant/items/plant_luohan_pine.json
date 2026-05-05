@@ -1,0 +1,99 @@
+{
+  "id": "plant_luohan_pine",
+  "sku_id": "card_plant_luohan_pine",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "color_green"
+    ],
+    "secondary": [
+      "has_trunk",
+      "has_leaf",
+      "in_garden"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "trunk",
+      "branches",
+      "leaves",
+      "roots"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "forest"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "罗汉松",
+      "aloud": "luó hàn sōng",
+      "words": "luohan pine",
+      "intro": "罗汉松是一棵常绿的小树，叶子细细长长的，像松针但更柔软。它常常种在花园里，一年四季都是绿色的，非常好看。",
+      "story": {
+        "title": "🌲罗汉松的小客人",
+        "body": "花园里有一棵漂亮的罗汉松，它的叶子像绿色的细针，软软的，不会扎人。春天，一只小麻雀飞来，在树枝上跳来跳去，说：“这棵树真舒服！”夏天，小蜗牛慢慢地爬上来，在树干上乘凉。罗汉松笑眯眯地说：“欢迎你呀！”秋天，蚂蚁们排着队从树下经过，罗汉松轻轻摇动叶子，给它们扇风。冬天，别的树都光秃秃了，罗汉松还是绿油油的。小麻雀、小蜗牛和蚂蚁都觉得很神奇，它们围着罗汉松说：“你是我们最好的朋友！”罗汉松快乐地站着，一年又一年，等着新的小客人来玩。"
+      },
+      "knowledge": {
+        "title": "罗汉松有什么特点？",
+        "body": "罗汉松是一种常绿树，四季都是绿色的。它的叶子细细的，像松针一样，但是更柔软。人们喜欢把它种在花园或公园里，因为它好看，还能让空气更干净，心情也会变好哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_luohan_pine_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_luohan_pine_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Luohan Pine",
+      "aloud": "/ˌluːoʊˈhɑːn paɪn/",
+      "words": "",
+      "intro": "The Luohan pine is a small evergreen tree with long, thin leaves. They look like soft needles and stay green all year. It's often planted in gardens and stays pretty in every season.",
+      "story": {
+        "title": "🌲The Little Guests of the Luohan Pine",
+        "body": "In the garden stood a lovely Luohan pine. Its leaves were like soft green needles that never pricked. In spring, a little sparrow came and hopped on the branches, chirping, “This tree feels so cozy!” In summer, a tiny snail slowly climbed up the trunk to rest in the shade. The Luohan pine smiled and said, “Welcome, friend!” In autumn, a line of ants marched under the tree. The Luohan pine gently shook its leaves to fan them. In winter, when other trees were bare, the Luohan pine stayed bright green. The sparrow, the snail, and the ants all thought it was wonderful. They gathered around and said, “You are our best friend!” The Luohan pine stood happily, waiting year after year for new little guests to visit."
+      },
+      "knowledge": {
+        "title": "What is special about the Luohan pine?",
+        "body": "The Luohan pine is an evergreen tree—it stays green all year. Its leaves are thin like pine needles but softer. People like to grow it in gardens or parks because it looks nice and helps clean the air, making us feel happy."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_luohan_pine_intro.mp3",
+        "story": "../item-audio/en/plant_luohan_pine_story.mp3"
+      }
+    }
+  }
+}

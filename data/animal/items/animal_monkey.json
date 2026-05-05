@@ -1,0 +1,100 @@
+{
+  "id": "animal_monkey",
+  "sku_id": "card_animal_monkey",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "forest_animal",
+      "cute"
+    ],
+    "secondary": [
+      "small",
+      "has_fur",
+      "has_tail"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal"
+    ],
+    "color": [
+      "brown",
+      "gray"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "ears",
+      "hands"
+    ],
+    "scenes": [
+      "forest",
+      "tree",
+      "jungle"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "jump",
+      "climb"
+    ],
+    "sound": [],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "猴子",
+      "aloud": "hóu zi",
+      "words": "monkey",
+      "intro": "猴子是一种聪明又活泼的小动物，身上有软软的毛，还有一条长长的尾巴。猴子喜欢在树上跳来跳去，也喜欢和朋友们一起玩耍。",
+      "story": {
+        "title": "🐵小猴子找香蕉",
+        "body": "小猴子皮皮最喜欢吃香蕉。一天早上，皮皮醒来发现香蕉不见了。它跳到树上东张西望，又荡到另一棵树上仔细找，还是没看到。皮皮有点着急，抓着树枝晃来晃去。忽然，它闻到一股香味。皮皮顺着香味往下爬，看见树下有串黄黄的香蕉。原来昨晚风把香蕉吹掉下来了。皮皮开心极了，拿起香蕉一口一口吃得可香了。吃完后，它爬到树上，靠着树枝晃着尾巴，满足地看着天空。"
+      },
+      "knowledge": {
+        "title": "猴子为什么喜欢爬树？",
+        "body": "猴子喜欢爬树，是因为树上更安全。它们能在树上找到喜欢吃的果实和叶子，还可以在高处躲避危险。猴子的手脚很有力气，能牢牢抓住树枝，跳来跳去也不会掉下来。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_monkey_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_monkey_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Monkey",
+      "aloud": "/ˈmʌŋki/",
+      "words": "",
+      "intro": "A monkey is a clever and lively little animal with soft fur and a long tail. Monkeys love to jump around in trees and play with their friends.",
+      "story": {
+        "title": "🐵Little Monkey Looks for a Banana",
+        "body": "Pipi the little monkey loved bananas most of all. One morning, Pipi woke up and saw that his banana was missing. He jumped up a tree and looked around, then swung to another tree to search carefully, but he still couldn’t find it. Pipi felt a little worried and swayed on a branch. Suddenly, he smelled something sweet. Following the smell, he climbed down and saw a bunch of yellow bananas under the tree. The wind had blown them down last night. Pipi was so happy! He took a banana and ate it bite by bite with great pleasure. After finishing, he climbed back up, leaned against a branch, swayed his tail, and looked at the sky with a satisfied smile."
+      },
+      "knowledge": {
+        "title": "Why do monkeys love climbing trees?",
+        "body": "Monkeys love climbing trees because it is safer there. They can find fruits and leaves they enjoy eating, and they can stay away from danger. A monkey’s hands and feet are strong, so they can hold branches tightly and jump around without falling."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_monkey_intro.mp3",
+        "story": "../item-audio/en/animal_monkey_story.mp3"
+      }
+    }
+  }
+}

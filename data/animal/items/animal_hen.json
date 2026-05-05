@@ -1,0 +1,109 @@
+{
+  "id": "animal_hen",
+  "sku_id": "card_animal_hen",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "bird",
+      "farm_animal"
+    ],
+    "secondary": [
+      "has_feathers",
+      "has_wings",
+      "can_walk"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "bird",
+      "farm_animal"
+    ],
+    "color": [
+      "brown",
+      "white",
+      "red"
+    ],
+    "size": [
+      "medium"
+    ],
+    "body": [
+      "feathers",
+      "wings",
+      "beak",
+      "comb",
+      "wattle",
+      "tail",
+      "claws"
+    ],
+    "scenes": [
+      "farm",
+      "yard",
+      "coop",
+      "field"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "peck",
+      "scratch",
+      "cluck"
+    ],
+    "sound": [
+      "cluck"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "母鸡",
+      "aloud": "mǔ jī",
+      "words": "hen",
+      "intro": "母鸡是一种家禽，身上长着漂亮的羽毛，有两只翅膀和两只脚。母鸡会咯咯叫，还会下蛋，给我们提供好吃的鸡蛋。",
+      "story": {
+        "title": "母鸡咯咯下蛋",
+        "body": "农场里有一只母鸡，名字叫花花。花花每天都会在鸡窝里下蛋。一天早上，花花蹲在软软的干草上，安安静静地等着。过了一会儿，花花觉得肚子有点胀，它轻轻地用力，一颗圆圆的、白白的鸡蛋就滚了出来。花花高兴地咯咯叫，好像在说：“快来看呀，我下了一个蛋！”农场的小主人听到声音，跑过来捡起热乎乎的鸡蛋，笑着说：“花花真棒！”花花听了，骄傲地拍拍翅膀。然后，它走出鸡窝，去院子里找虫子吃。它在泥土里用爪子刨呀刨，找到了一条小虫子，开心地吃了起来。吃完后，花花在阳光底下理了理羽毛，舒舒服服地打了个盹。"
+      },
+      "knowledge": {
+        "title": "母鸡为什么下蛋？",
+        "body": "母鸡下蛋是为了繁殖后代，也是它身体的一种自然规律。如果鸡蛋没有受精，就不会孵出小鸡。母鸡下的蛋是我们常见的食物，营养很丰富。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_hen_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_hen_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Hen",
+      "aloud": "/hɛn/",
+      "words": "",
+      "intro": "A hen is a farm bird with beautiful feathers, two wings, and two legs. Hens cluck and lay eggs. They give us fresh eggs to eat.",
+      "story": {
+        "title": "🐔The Hen Lays an Egg",
+        "body": "On a farm, there lived a hen named Hua Hua. Every day, Hua Hua would lay an egg in her nest. One morning, she sat quietly on the soft straw. After a while, she felt a little push inside. With a gentle effort, a round, white egg rolled out. Hua Hua clucked happily, as if to say, 'Come and see! I laid an egg!' The farmer's child heard the sound and ran over to pick up the warm egg. She smiled and said, 'Well done, Hua Hua!' Hua Hua felt proud and flapped her wings. Then she went out to the yard to look for bugs. She scratched the soil with her claws, found a little worm, and ate it happily. After that, she preened her feathers in the sunshine and took a cozy nap."
+      },
+      "knowledge": {
+        "title": "Why do hens lay eggs?",
+        "body": "Hens lay eggs as a part of their natural body cycle for reproduction. If the egg is not fertilized, it will not hatch into a chick. The eggs we eat are usually unfertilized and are very nutritious."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_hen_intro.mp3",
+        "story": "../item-audio/en/animal_hen_story.mp3"
+      }
+    }
+  }
+}

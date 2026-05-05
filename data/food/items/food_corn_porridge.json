@@ -1,0 +1,90 @@
+{
+  "id": "food_corn_porridge",
+  "sku_id": "card_food_corn_porridge",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "staple_food",
+      "color_yellow",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "at_breakfast",
+      "hot_food"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "staple"
+    ],
+    "color": [
+      "yellow"
+    ],
+    "taste": [
+      "mild"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "school"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "玉米粥",
+      "aloud": "yù mǐ zhōu",
+      "words": "corn porridge",
+      "intro": "玉米粥是用玉米面煮成的粥，黄黄的、暖暖的，喝起来很舒服。早餐喝一碗玉米粥，一整天都有精神。",
+      "story": {
+        "title": "🥣一碗暖暖的玉米粥",
+        "body": "早上，外面刮着冷风，豆豆躲在被窝里不想出来。忽然，一阵香香的、甜甜的味道飘进来，豆豆吸了吸鼻子，坐了起来。奶奶在厨房煮玉米粥，锅里咕嘟咕嘟冒着热气，金黄色的粥像小太阳一样。奶奶盛了一碗，说：“喝碗热粥，全身都暖洋洋的。”豆豆小心喝了一口，软软的、滑滑的，从嘴巴一直暖到小脚丫。他开心地一大口一大口喝完，还舔了舔嘴角，说：“奶奶，明天早上还要喝玉米粥！”奶奶笑眯眯地答应了。从此，每个冷冷的早晨，豆豆都会想起那碗金黄色的暖粥。"
+      },
+      "knowledge": {
+        "title": "玉米粥是怎么做的？",
+        "body": "把玉米面放进凉水里搅拌成糊糊，再慢慢倒进滚烫的开水里，一边倒一边搅，煮几分钟后，粥就变得粘粘的、香香的啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_corn_porridge_intro.mp3",
+        "story": "../item-audio/zh-CN/food_corn_porridge_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Corn Porridge",
+      "aloud": "/kɔːrn ˈpɔrɪdʒ/",
+      "words": "",
+      "intro": "Corn porridge is made from cornmeal. It's yellow, warm, and so cozy. A bowl of corn porridge for breakfast gives you energy all day.",
+      "story": {
+        "title": "🥣A Bowl of Warm Corn Porridge",
+        "body": "One morning, a cold wind was blowing outside, and Doudou didn't want to leave his warm bed. But then a sweet smell drifted into the room. Doudou sniffed and sat up. Grandma was in the kitchen making corn porridge. The pot bubbled and gurgled, and the golden porridge looked like a little sun. Grandma poured a bowl and said, 'Drink this warm porridge, and you'll feel cozy all over.' Doudou took a careful sip. It was smooth and warm, spreading from his mouth down to his tiny toes. He finished the whole bowl happily and licked his lips. 'Grandma, can I have corn porridge again tomorrow?' Grandma smiled and nodded. From then on, on every cold morning, Doudou remembered the golden, warm porridge and jumped right out of bed."
+      },
+      "knowledge": {
+        "title": "How do you make corn porridge?",
+        "body": "Mix cornmeal with a little cold water to make a smooth paste, then slowly pour it into boiling water while stirring. Cook for a few minutes until it becomes thick and creamy, and your corn porridge is ready!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_corn_porridge_intro.mp3",
+        "story": "../item-audio/en/food_corn_porridge_story.mp3"
+      }
+    }
+  }
+}

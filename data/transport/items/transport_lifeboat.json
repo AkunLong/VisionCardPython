@@ -1,0 +1,95 @@
+{
+  "id": "transport_lifeboat",
+  "sku_id": "card_transport_lifeboat",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "water_transport",
+      "special_vehicle"
+    ],
+    "secondary": [
+      "can_float",
+      "can_rescue",
+      "color_orange"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "lifeboat"
+    ],
+    "color": [
+      "orange",
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "water",
+      "sea",
+      "rescue"
+    ],
+    "fuel": [
+      "diesel"
+    ],
+    "features": [
+      "rescue_equipment",
+      "bright_color",
+      "motor"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "救生艇",
+      "aloud": "jiù shēng tǐng",
+      "words": "lifeboat",
+      "intro": "救生艇是一种小小的船，专门用来在海上救人。它的颜色很鲜艳，通常是橙色的，很容易被发现。遇到危险的时候，救生艇会快快地开过去，把落水的人救上来。",
+      "story": {
+        "title": "🚤小橙艇的救援行动",
+        "body": "一天，小橙艇正在海上巡逻。突然，它听到呼救声，原来是一只小海鸟的翅膀被渔网缠住了。小橙艇赶紧开过去，用它的钩子小心地勾开渔网，小海鸟得救了！小海鸟感激地拍拍翅膀，飞上天空绕着小橙艇转圈。小橙艇开心地鸣笛，又继续巡逻。没过多久，它又发现一艘小船翻掉了，有人在水里扑腾。小橙艇加足马力冲过去，抛出救生圈，一把拉起落水的人。被救上来的叔叔浑身湿淋淋的，却笑着摸摸小橙艇说：‘谢谢你，小英雄！’小橙艇心里暖洋洋的，载着叔叔安全回到岸边。太阳落山了，小橙艇回到港口，虽然有点累，但它觉得今天真是有意义的一天。"
+      },
+      "knowledge": {
+        "title": "救生艇能做什么",
+        "body": "救生艇是专门用来救援的船，它很轻快，能在风浪里快速行驶。船上配有救生圈、钩子等工具，能帮助落水的人。鲜艳的橙色让它在很远的地方也能被看见，是海上的安全小卫士。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_lifeboat_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_lifeboat_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Lifeboat",
+      "aloud": "/ˈlaɪfboʊt/",
+      "words": "",
+      "intro": "A lifeboat is a small boat specially used for rescuing people at sea. It is brightly colored, usually orange, so it can be spotted easily. When someone is in danger, the lifeboat rushes over and pulls them out of the water.",
+      "story": {
+        "title": "🚤The Little Orange Rescue",
+        "body": "One day, the little orange lifeboat was patrolling the sea. Suddenly, it heard a cry for help. A baby seabird had its wing tangled in a fishing net. The lifeboat quickly went over and used its hook to gently cut the net free. The baby bird was saved! It flapped its wings gratefully and flew around the lifeboat in circles. The lifeboat honked happily and continued its patrol. Soon, it saw a small boat had capsized and someone was splashing in the water. The lifeboat raced over at full speed, threw out a life ring, and pulled the person up. The rescued man was all wet but smiled and patted the lifeboat. Thank you, little hero! he said. The lifeboat felt warm inside and brought the man safely back to shore. As the sun set, the lifeboat returned to the harbor. Though a bit tired, it felt it had a very meaningful day."
+      },
+      "knowledge": {
+        "title": "What Can a Lifeboat Do?",
+        "body": "A lifeboat is a boat made for rescues. It is light and fast, able to move quickly even in rough waves. It carries life rings, hooks, and other tools to help people in the water. Its bright orange color makes it easy to see from far away. It is a little guardian of safety at sea."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_lifeboat_intro.mp3",
+        "story": "../item-audio/en/transport_lifeboat_story.mp3"
+      }
+    }
+  }
+}

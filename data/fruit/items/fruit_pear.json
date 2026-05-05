@@ -1,0 +1,87 @@
+{
+  "id": "fruit_pear",
+  "sku_id": "card_fruit_pear",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_green",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "oval",
+      "sweet",
+      "juicy"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sweet",
+      "juicy"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "梨子",
+      "aloud": "lí zi",
+      "words": "pear",
+      "intro": "梨子是一种香甜多汁的水果，形状像个小葫芦，绿色的外皮薄薄的。它营养丰富，小朋友吃了喉咙润润的，身体棒棒哒！",
+      "story": {
+        "title": "🐻小熊和梨子",
+        "body": "小熊和奶奶手牵手来到果园，一阵风吹过，树叶沙沙响。树上挂满了黄绿色的梨子，像一个个小灯笼。梨子散发着甜甜的香味，小熊馋得直流口水。小熊踮起脚尖，小心地摘下一个梨子。他用清澈的泉水把梨子洗得干干净净，梨子变得亮晶晶的。小熊把梨子递给奶奶，奶奶轻轻咬了一口，眼睛眯成了一条缝：“真甜呀，小熊真乖！”小熊这才尝了一口，哇，梨子又甜又多汁，汁水顺着嘴角流下来，凉凉的，舒服极了。它们坐在大树下乘凉，你一口我一口，还把梨子分给旁边的小蚂蚁。小蚂蚁们抬着梨子渣，高高兴兴地回了家。小熊觉得，分享让梨子变得更甜了。"
+      },
+      "knowledge": {
+        "title": "梨子是什么季节的水果？",
+        "body": "梨子是一种常见的水果，大多在秋天成熟。秋天阳光充足，天气凉爽，这样的气候让梨子积累了很多糖分和水分，所以梨子变得又甜又多汁。我们可以在秋天的果园里看到挂满枝头的梨子，它们像小灯笼一样可爱。小朋友们快和爸爸妈妈一起去摘梨子吧！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_pear_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_pear_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Pear",
+      "aloud": "/per/",
+      "words": "",
+      "intro": "A pear is a sweet and juicy fruit shaped like a little gourd, with thin green skin. It’s packed with nutrients that help children stay hydrated and healthy.",
+      "story": {
+        "title": "🐻Little Bear and the Pear",
+        "body": "Little Bear and Grandma walked hand in hand to the orchard. A gentle wind blew, and the leaves rustled. The trees were full of yellow-green pears, like little lanterns. The pears gave off a sweet fragrance, making Little Bear’s mouth water. He stood on tiptoe and carefully picked a pear. He washed it with clear spring water until it sparkled. Little Bear gave the pear to Grandma. She took a gentle bite, her eyes squinting into a smile: “So sweet! What a good little bear!” Then Little Bear took a bite. Wow! The pear was sweet and juicy, the juice running down his chin, cool and refreshing. They sat under the big tree, sharing the pear, and even shared some with the nearby ants. The ants carried the pear bits back home happily. Little Bear felt that sharing made the pear even sweeter."
+      },
+      "knowledge": {
+        "title": "When are pears in season?",
+        "body": "Pears are a common fruit that usually ripen in the fall. With plenty of sunshine and cool weather, pears build up lots of sugar and water, making them sweet and juicy. You can see pear trees full of fruit in the fall orchard, hanging like little lanterns. Let’s go pick pears with Mom and Dad!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_pear_intro.mp3",
+        "story": "../item-audio/en/fruit_pear_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "object_basketball",
+  "sku_id": "card_object_basketball",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "sports_item",
+      "can_play"
+    ],
+    "secondary": [
+      "round",
+      "hard",
+      "go_out"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "orange",
+      "black"
+    ],
+    "shape": [
+      "round"
+    ],
+    "material": [
+      "rubber",
+      "leather"
+    ],
+    "scenes": [
+      "court",
+      "playground",
+      "home"
+    ],
+    "function": [
+      "play"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "篮球",
+      "aloud": "lán qiú",
+      "words": "basketball",
+      "intro": "篮球是圆圆的球，可以拍、可以投。小朋友们喜欢打篮球，跑跑跳跳真好玩。",
+      "story": {
+        "title": "🏀小篮球找朋友",
+        "body": "小篮球孤零零地待在角落里，他好想和小朋友一起玩呀！他鼓起勇气，滚呀滚，滚到了操场上。小明发现了小篮球，高兴地抱起他，轻轻一拍，小篮球就蹦蹦跳跳地弹起来。小明带着小篮球来到篮球架下，用力一投，小篮球飞起来啦！他在空中划出一道漂亮的弧线，哗啦一声，掉进了篮筐里。小朋友们欢呼起来：“进球啦！进球啦！”小篮球开心极了，他再也不孤单了。现在，他每天都和小朋友们一起跑、一起跳，身体越来越有弹性，还学会了扣篮呢！他最骄傲的事，就是让每个小朋友都笑得像阳光一样灿烂。"
+      },
+      "knowledge": {
+        "title": "篮球为什么能弹起来？",
+        "body": "篮球里面充满了空气，空气被压得紧紧的，所以篮球很有弹性。用手拍它，它就会蹦蹦跳跳地弹回来。打篮球让我们的身体更强壮，还能学会和好朋友合作。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_basketball_intro.mp3",
+        "story": "../item-audio/zh-CN/object_basketball_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Basketball",
+      "aloud": "/ˈbæskɪtbɔːl/",
+      "words": "",
+      "intro": "A basketball is a round ball that you can bounce and shoot. Kids love playing with it, running and jumping together.",
+      "story": {
+        "title": "🏀Little Basketball Finds Friends",
+        "body": "Little Basketball sat alone in the corner, wishing he could play with kids. He gathered his courage and rolled all the way to the playground. Ming found him, picked him up happily, and gave a gentle pat. Little Basketball bounced and jumped with joy. Ming took him to the hoop and threw him high into the air. Little Basketball flew in a beautiful curve and swished through the net. The kids cheered, \"Score! Score!\" Little Basketball was so happy—he was never lonely again. Now he plays with the kids every day, running and jumping until he's bouncier than ever. He even learned to dunk! His proudest moment is seeing every child smile as bright as sunshine."
+      },
+      "knowledge": {
+        "title": "Why does a basketball bounce?",
+        "body": "A basketball is filled with air that is tightly compressed, so it is very elastic. When you bounce it, it springs right back. Playing basketball makes our bodies strong and teaches us to cooperate with friends."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_basketball_intro.mp3",
+        "story": "../item-audio/en/object_basketball_story.mp3"
+      }
+    }
+  }
+}

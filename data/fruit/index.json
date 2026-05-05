@@ -1,0 +1,76 @@
+{
+  "id": "fruit_set_v1",
+  "category": "fruit",
+  "name": "水果认知卡排序",
+  "description": "适合3-6岁儿童的水果认知顺序，优先展示常见、易识别、生活高频水果。",
+  "nav": {
+    "id": "fruit",
+    "name": "水果图卡合集",
+    "description": "45种常见水果认知卡",
+    "available": true,
+    "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/fruit/images/story/fruit_lychee_story.jpg",
+    "title": {
+        "zh-CN": "大自然的甜蜜礼物",
+        "en": "Nature's Sweetest Gifts"
+      },
+      "subtitle": {
+        "zh-CN": "剥一剥，尝一尝",
+        "en": "Peel, Taste, and Explore"
+      },
+      "small_title": {
+        "zh-CN": "红草莓，黄香蕉，圆西瓜，水果的世界甜蜜蜜",
+        "en": "Red strawberries, yellow bananas, round watermelons — nature's candy"
+      },
+      "background_color_image":"#FF4354",
+      "background_color_card":"#FC3446"
+  },
+  "total": 45,
+  "items": [
+    { "id": "fruit_banana", "name": "香蕉", "enName": "Banana" },
+    { "id": "fruit_apple", "name": "苹果", "enName": "Apple" },
+
+    { "id": "fruit_strawberry", "name": "草莓", "enName": "Strawberry" },
+    { "id": "fruit_watermelon", "name": "西瓜", "enName": "Watermelon" },
+    { "id": "fruit_grape", "name": "葡萄", "enName": "Grape" },
+    { "id": "fruit_pear", "name": "梨子", "enName": "Pear" },
+    { "id": "fruit_mandarin_orange", "name": "橘子", "enName": "Mandarin Orange" },
+    { "id": "fruit_citrus", "name": "柑橙", "enName": "Citrus" },
+    { "id": "fruit_pineapple", "name": "菠萝", "enName": "Pineapple" },
+    { "id": "fruit_mango", "name": "芒果", "enName": "Mango" },
+    { "id": "fruit_honey_peach", "name": "水蜜桃", "enName": "Honey Peach" },
+    { "id": "fruit_cherry", "name": "樱桃", "enName": "Cherry" },
+    { "id": "fruit_blueberry", "name": "蓝莓", "enName": "Blueberry" },
+    { "id": "fruit_lemon", "name": "柠檬", "enName": "Lemon" },
+    { "id": "fruit_hami_melon", "name": "哈密瓜", "enName": "Hami Melon" },
+    { "id": "fruit_melon", "name": "香瓜", "enName": "Melon" },
+    { "id": "fruit_coconut", "name": "椰子", "enName": "Coconut" },
+    { "id": "fruit_dragon_fruit", "name": "火龙果", "enName": "Dragon Fruit" },
+    { "id": "fruit_kiwi", "name": "猕猴桃", "enName": "Kiwi" },
+    { "id": "fruit_lychee", "name": "荔枝", "enName": "Lychee" },
+    { "id": "fruit_longan", "name": "龙眼", "enName": "Longan" },
+    { "id": "fruit_papaya", "name": "木瓜", "enName": "Papaya" },
+    { "id": "fruit_pomegranate", "name": "石榴", "enName": "Pomegranate" },
+    { "id": "fruit_persimmon", "name": "柿子", "enName": "Persimmon" },
+    { "id": "fruit_yellow_peach", "name": "黄桃", "enName": "Yellow Peach" },
+    { "id": "fruit_cherry_tomato", "name": "小番茄", "enName": "Cherry Tomato" },
+    { "id": "fruit_plum", "name": "李子", "enName": "Plum" },
+    { "id": "fruit_loquat", "name": "枇杷", "enName": "Loquat" },
+    { "id": "fruit_red_date", "name": "红枣", "enName": "Red Date" },
+    { "id": "fruit_sugarcane", "name": "甘蔗", "enName": "Sugarcane" },
+    { "id": "fruit_jackfruit", "name": "菠萝蜜", "enName": "Jackfruit" },
+    { "id": "fruit_durian", "name": "榴莲", "enName": "Durian" },
+    { "id": "fruit_mangosteen", "name": "山竹", "enName": "Mangosteen" },
+    { "id": "fruit_avocado", "name": "牛油果", "enName": "Avocado" },
+    { "id": "fruit_starfruit", "name": "杨桃", "enName": "Starfruit" },
+    { "id": "fruit_grapefruit", "name": "西柚", "enName": "Grapefruit" },
+    { "id": "fruit_green_jujube", "name": "青枣", "enName": "Green Jujube" },
+    { "id": "fruit_hawthorn", "name": "山楂", "enName": "Hawthorn" },
+    { "id": "fruit_mulberry", "name": "桑葚", "enName": "Mulberry" },
+    { "id": "fruit_raspberry", "name": "树莓", "enName": "Raspberry" },
+    { "id": "fruit_fig", "name": "无花果", "enName": "Fig" },
+    { "id": "fruit_waxberry", "name": "杨梅", "enName": "Waxberry" },
+    { "id": "fruit_dark_plum", "name": "乌梅", "enName": "Dark Plum" },
+    { "id": "fruit_olive", "name": "橄榄", "enName": "Olive" },
+    { "id": "fruit_rambutan", "name": "红毛丹", "enName": "Rambutan" }
+  ]
+}

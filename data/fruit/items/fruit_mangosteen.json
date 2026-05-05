@@ -1,0 +1,87 @@
+{
+  "id": "fruit_mangosteen",
+  "sku_id": "card_fruit_mangosteen",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_purple",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sweet",
+      "tropical_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "purple"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "juicy"
+    ],
+    "scenes": [
+      "home",
+      "supermarket",
+      "orchard"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "山竹",
+      "aloud": "shān zhú",
+      "words": "mangosteen",
+      "intro": "山竹是一种圆圆的水果，外壳是紫色的，里面的果肉白白的、软软的。它吃起来甜甜的，水分很多，是热带很受欢迎的水果。",
+      "story": {
+        "title": "🐘小象和山竹",
+        "body": "小象去热带果园玩，看到树上挂着一些圆圆的紫色果子。大象伯伯说：“这是山竹，外壳硬硬的，但里面藏着惊喜哦。”小象摘下一个，用鼻子轻轻掰开，发现里面像蒜瓣一样的白色果肉。“哇，好香！”小象尝了一口，甜甜的汁水在嘴里化开，软软的，真好吃！小象把果肉分给旁边的小猴子和小熊。小猴子说：“像果冻一样！”小熊说：“甜到心里啦！”小象发现，原来分享甜甜的水果，能让大家都笑得像太阳。从此，小象每次来果园都会找山竹，和朋友们一起坐在树下，享受这美味的紫色宝藏。"
+      },
+      "knowledge": {
+        "title": "山竹有哪些特别的地方？",
+        "body": "山竹的外壳又硬又厚，是深紫色的，像穿了一件盔甲。剥开后，里面的果肉是白色的，像一瓣一瓣的小花瓣，吃起来又甜又软，所以有人叫它“水果皇后”。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_mangosteen_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_mangosteen_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Mangosteen",
+      "aloud": "/ˈmæŋɡəstiːn/",
+      "words": "",
+      "intro": "The mangosteen is a round fruit with a purple outer shell and soft, white, juicy flesh inside. It tastes sweet and is a beloved tropical fruit.",
+      "story": {
+        "title": "🐘Little Elephant and the Mangosteen",
+        "body": "Little Elephant went to a tropical orchard and saw round purple fruits hanging on a tree. Big Elephant said, “These are mangosteens. The shell is hard, but there’s a surprise inside.” Little Elephant picked one, gently cracked it open with his trunk, and found white flesh like little garlic cloves. “Wow, it smells so good!” Little Elephant took a bite. The sweet juice melted in his mouth, soft and delicious! He shared the flesh with Little Monkey and Little Bear nearby. Little Monkey said, “It’s like jelly!” Little Bear said, “It’s sweet to the heart!” Little Elephant realized that sharing sweet fruit makes everyone smile like the sun. From then on, every time he visited the orchard, he looked for mangosteens and sat under the tree with friends, enjoying the delicious purple treasure."
+      },
+      "knowledge": {
+        "title": "What is special about mangosteen?",
+        "body": "The mangosteen has a thick, hard, deep purple shell, like armor. When opened, the inside reveals white, petal-like segments that are sweet and soft. That’s why it’s often called the ‘Queen of Fruits.’"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_mangosteen_intro.mp3",
+        "story": "../item-audio/en/fruit_mangosteen_story.mp3"
+      }
+    }
+  }
+}

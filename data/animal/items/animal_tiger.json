@@ -1,0 +1,105 @@
+{
+  "id": "animal_tiger",
+  "sku_id": "card_animal_tiger",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "forest_animal",
+      "big"
+    ],
+    "secondary": [
+      "striped",
+      "has_fur",
+      "roar"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "wild"
+    ],
+    "color": [
+      "orange",
+      "black",
+      "white"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "paws",
+      "whiskers",
+      "stripes"
+    ],
+    "scenes": [
+      "forest",
+      "grassland",
+      "jungle"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "jump",
+      "swim"
+    ],
+    "sound": [
+      "roar"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "老虎",
+      "aloud": "lǎo hǔ",
+      "words": "tiger",
+      "intro": "老虎是一种大猫，身上有橙色的皮毛和黑色的条纹。它有大大的爪子、长长的尾巴和明亮的眼睛。老虎喜欢在森林里走来走去，发出“嗷呜”的吼声。",
+      "story": {
+        "title": "🐯小老虎找妈妈",
+        "body": "森林里住着一只小老虎，它叫虎虎。有一天，虎虎醒来发现妈妈不在身边。它决定去找妈妈。虎虎走啊走，看见一只兔子，问：“你看见我妈妈了吗？”兔子摇摇头。虎虎继续走，看见一只猴子，问：“你看见我妈妈了吗？”猴子指指远处。虎虎朝着方向走去，忽然听见“嗷呜”一声。是妈妈！虎虎高兴地跑过去，用头蹭妈妈。妈妈说：“宝贝，我去给你找好吃的了。”虎虎和妈妈一起回了家，这天晚上，虎虎睡得可香啦。"
+      },
+      "knowledge": {
+        "title": "老虎身上的条纹有什么用？",
+        "body": "老虎身上的黑色条纹就像它的隐身衣。在森林和草丛里，这些条纹能帮助老虎躲起来，不让别的动物发现它，这样它就能悄悄靠近猎物了。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_tiger_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_tiger_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Tiger",
+      "aloud": "/ˈtaɪɡər/",
+      "words": "",
+      "intro": "A tiger is a big cat with orange fur and black stripes. It has large paws, a long tail, and bright eyes. Tigers like to walk in the forest and make a loud 'roar' sound.",
+      "story": {
+        "title": "🐯Little Tiger Looks for Mom",
+        "body": "In the forest lived a little tiger named Tigger. One day, Tigger woke up and saw that his mom was not beside him. He decided to go find her. Tigger walked and walked. He saw a rabbit and asked, 'Have you seen my mom?' The rabbit shook its head. Tigger kept going and saw a monkey. He asked, 'Have you seen my mom?' The monkey pointed far away. Tigger walked toward the direction. Suddenly, he heard a 'roar.' It was Mom! Tigger happily ran over and rubbed his head against her. Mom said, 'Darling, I went to find you some yummy food.' Tigger and Mom went back home. That night, Tigger slept very soundly."
+      },
+      "knowledge": {
+        "title": "Why do tigers have stripes?",
+        "body": "A tiger's black stripes act like an invisibility cloak. In the forest and tall grass, these stripes help the tiger hide so other animals cannot see it, allowing the tiger to creep close to its prey."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_tiger_intro.mp3",
+        "story": "../item-audio/en/animal_tiger_story.mp3"
+      }
+    }
+  }
+}

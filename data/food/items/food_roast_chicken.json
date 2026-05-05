@@ -1,0 +1,90 @@
+{
+  "id": "food_roast_chicken",
+  "sku_id": "card_food_roast_chicken",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "meat_food",
+      "color_brown",
+      "edible"
+    ],
+    "secondary": [
+      "crispy",
+      "hot_food",
+      "at_party"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "meat"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "salty"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "烤鸡",
+      "aloud": "kǎo jī",
+      "words": "roast chicken",
+      "intro": "烤鸡是小朋友喜欢的肉菜，外皮烤得脆脆的，里面的肉软软的，闻起来香香的。吃一口，满满的肉汁，真好吃！",
+      "story": {
+        "title": "🍗小美的烤鸡派对",
+        "body": "星期天，小美的家里飘出了香香的味道。妈妈端出一只大大的烤鸡，金黄的皮上冒着热气。小美拍手说：“好香呀！好香呀！”妈妈把烤鸡切开，分给小美和她的好朋友。小美咬了一口，皮脆脆的，肉嫩嫩的，还有一点点咸咸的香味。小朋友们吃得开心极了，都说：“烤鸡太好吃啦！”妈妈笑着说：“只要你们好好吃饭，我们下次一起再做烤鸡哦。”小美和朋友们都觉得，跟好朋友一起吃烤鸡，是最快乐的事情！"
+      },
+      "knowledge": {
+        "title": "烤鸡是怎么做的呢？",
+        "body": "先把整只鸡洗干净，抹上盐和香料，放进烤箱慢慢烤。烤的时候，鸡皮会变成诱人的金黄色，肉汁被锁在里面，吃起来又香又嫩。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_roast_chicken_intro.mp3",
+        "story": "../item-audio/zh-CN/food_roast_chicken_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Roast Chicken",
+      "aloud": "/roʊst ˈtʃɪk.ɪn/",
+      "words": "",
+      "intro": "Roast chicken is a tasty dish kids love. The skin is crispy, and the meat is tender and juicy. It smells wonderful and tastes so good!",
+      "story": {
+        "title": "🍗Xiao Mei's Roast Chicken Party",
+        "body": "On Sunday, a delicious smell filled Xiao Mei's home. Mom brought out a big roast chicken with golden, steaming skin. Xiao Mei clapped her hands and said, 'It smells so good! So good!' Mom cut the chicken and shared it with Xiao Mei and her friends. Xiao Mei took a bite—the skin was crispy, the meat was tender, and it had a little salty flavor. The kids ate happily and said, 'Roast chicken is so yummy!' Mom smiled and said, 'If you eat well, we can make roast chicken together next time.' Xiao Mei and her friends felt that sharing roast chicken with good friends is the happiest thing!"
+      },
+      "knowledge": {
+        "title": "How is roast chicken made?",
+        "body": "Wash a whole chicken, rub it with salt and spices, and roast it slowly in the oven. The skin turns golden and crispy, and the juice stays inside, making the meat tender and delicious."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_roast_chicken_intro.mp3",
+        "story": "../item-audio/en/food_roast_chicken_story.mp3"
+      }
+    }
+  }
+}

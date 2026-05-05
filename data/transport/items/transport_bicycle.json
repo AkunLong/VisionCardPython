@@ -1,0 +1,96 @@
+{
+  "id": "transport_bicycle",
+  "sku_id": "card_transport_bicycle",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "on_road",
+      "road_vehicle"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_ride",
+      "small"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "bicycle"
+    ],
+    "color": [
+      "color_blue",
+      "color_red",
+      "color_green"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "road",
+      "park",
+      "city"
+    ],
+    "fuel": [
+      "human_power"
+    ],
+    "features": [
+      "wheels",
+      "pedals",
+      "handlebars"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "自行车",
+      "aloud": "zì xíng chē",
+      "words": "bicycle",
+      "intro": "自行车是一种小小的车，有两个轮子。它不用加油，只要用脚踩就能跑起来。骑上它可以去公园、去朋友家，风吹在脸上可舒服啦！",
+      "story": {
+        "title": "🚲小蓝车的快乐一天",
+        "body": "早上，小朋友毛毛推出小蓝车，轻轻拍拍坐垫说：“我们出去玩吧！”小蓝车摇摇铃，叮铃铃响。它们骑过小花园，看见小蝴蝶在花上跳舞。骑过小桥，桥下的河水哗啦啦唱歌。骑到小山坡，毛毛用力踩，小蓝车呼呼往上爬，一点都不怕累。下山的时候，风吹得毛毛的头发飞起来，小蓝车稳稳地带着她，像一只快乐的小鸟。傍晚，毛毛把小蓝车擦干净，轻轻靠在墙角，说：“今天真开心，明天我们还一起玩！”小蓝车也悄悄想：有朋友真好，明天一定又是开心的一天。"
+      },
+      "knowledge": {
+        "title": "骑自行车有什么好处？",
+        "body": "骑自行车不用汽油，不会冒出黑烟，空气更清新。骑车还能锻炼身体，让我们长得高、跑得快。它又小又灵活，不会堵车，真是一种好棒的交通工具！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_bicycle_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_bicycle_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Bicycle",
+      "aloud": "/ˈbaɪsɪkəl/",
+      "words": "",
+      "intro": "A bicycle is a small vehicle with two wheels. It doesn't need gas; you just push the pedals with your feet to make it go. Riding it, you can go to the park or a friend's house, with the wind gently blowing on your face.",
+      "story": {
+        "title": "🚲Little Blue Bike's Happy Day",
+        "body": "In the morning, the little girl Maomao took out Little Blue Bike and patted its seat softly. 'Let's go out and play!' she said. The blue bike rang its bell: ding-a-ling! They rode past a garden and saw butterflies dancing on flowers. They crossed a bridge, and the river below sang a splashing song. When they came to a hill, Maomao pedaled hard, and the blue bike climbed up bravely, not afraid of getting tired. Going downhill, the wind blew Maomao's hair, and the bike carried her steadily, like a happy bird. In the evening, Maomao cleaned the blue bike and gently leaned it against the wall. 'What a happy day! We'll play again tomorrow,' she said. The blue bike thought quietly, 'Having a friend is so nice. Tomorrow will be another happy day for sure.'"
+      },
+      "knowledge": {
+        "title": "Why is riding a bicycle good?",
+        "body": "A bicycle doesn't use gas and doesn't produce smoke, so the air stays clean. Riding a bike also exercises your body, helping you grow tall and strong. It's small and flexible, so it never gets stuck in traffic. What a wonderful way to travel!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_bicycle_intro.mp3",
+        "story": "../item-audio/en/transport_bicycle_story.mp3"
+      }
+    }
+  }
+}

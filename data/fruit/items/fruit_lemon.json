@@ -1,0 +1,87 @@
+{
+  "id": "fruit_lemon",
+  "sku_id": "card_fruit_lemon",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_yellow",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "oval",
+      "sour",
+      "tree_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "yellow"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sour",
+      "juicy"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "柠檬",
+      "aloud": "níng méng",
+      "words": "lemon",
+      "intro": "柠檬是一种椭圆形的水果，颜色黄黄的，味道酸酸的。它含有丰富的维生素，可以帮助小朋友增强抵抗力。",
+      "story": {
+        "title": "🐻小熊的柠檬水",
+        "body": "夏天到了，天气好热好热。小熊贝贝在果园里发现了一棵柠檬树，上面挂着好多黄澄澄的柠檬。贝贝摘下一个柠檬，闻了闻，哇，好清新的香味！它把柠檬带回家，切成薄片，放进水壶里，再加入一点点蜂蜜。然后，贝贝叫来小伙伴们：小兔子、小猴子和小鸟。大家一人一杯，喝了一口柠檬水。“酸酸甜甜的，真好喝！”大家开心地说。贝贝看到朋友们都喜欢，心里甜丝丝的。原来，用酸酸的柠檬也可以做出让大家都快乐的美味饮料呀！"
+      },
+      "knowledge": {
+        "title": "柠檬为什么那么酸？",
+        "body": "柠檬的酸味来自它含有的柠檬酸。柠檬酸是一种天然的果酸，不仅让柠檬味道酸爽，还能帮助食物保鲜，所以柠檬常被用来做调味和饮品。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_lemon_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_lemon_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Lemon",
+      "aloud": "/ˈlɛmən/",
+      "words": "",
+      "intro": "A lemon is an oval, yellow fruit that tastes sour. It is rich in vitamins that help strengthen the immune system.",
+      "story": {
+        "title": "🐻Little Bear's Lemonade",
+        "body": "Summer arrived, and the weather was very hot. Little Bear Beibei found a lemon tree in the orchard, with many bright yellow lemons hanging on it. Beibei picked a lemon and smelled it—what a fresh fragrance! He took the lemon home, sliced it thinly, put the slices into a water jug, and added a little honey. Then, Beibei called his friends: Little Rabbit, Little Monkey, and Little Bird. Everyone had a cup and sipped the lemonade. 'Sour and sweet, it's so delicious!' they said happily. Beibei felt warm inside seeing his friends enjoy it. It turns out that even a sour lemon can be made into a delightful drink that makes everyone happy!"
+      },
+      "knowledge": {
+        "title": "Why are lemons so sour?",
+        "body": "The sour taste of lemons comes from citric acid, a natural fruit acid. Citric acid gives lemons their zesty flavor and also helps preserve food, which is why lemons are often used in cooking and drinks."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_lemon_intro.mp3",
+        "story": "../item-audio/en/fruit_lemon_story.mp3"
+      }
+    }
+  }
+}

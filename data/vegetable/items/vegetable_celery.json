@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_celery",
+  "sku_id": "card_vegetable_celery",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "leafy_vegetable"
+    ],
+    "secondary": [
+      "long",
+      "crisp",
+      "bitter"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "crisp",
+      "bitter"
+    ],
+    "grow_location": [
+      "soil"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "芹菜",
+      "aloud": "qín cài",
+      "words": "celery",
+      "intro": "芹菜是一种绿色的蔬菜，长长的杆子，吃起来脆脆的，有一点点苦。它可以生吃，也可以炒着吃，很有营养哦！",
+      "story": {
+        "title": "🥬小兔子的芹菜朋友",
+        "body": "小兔子白白在菜园里发现了一丛绿绿的芹菜。它好奇地咬了一小口，咔嚓！脆脆的，还有一点清香。白白觉得很好吃，就摘了几根带回家。路上遇到小羊斑斑，斑斑问：“你拿的是什么呀？”白白说：“是芹菜，可脆了，你尝尝！”斑斑轻轻咬了一口，眼睛亮了：“真的呀，很爽口！”两个好朋友坐在草地上，一起咔嚓咔嚓地吃芹菜。白白说：“虽然有点苦，但是对身体好！”斑斑点点头：“对呀，妈妈说了，芹菜能帮助我们长高高。”吃完后，它们把芹菜的根部种回土里，希望再长出更多的芹菜，和所有的小动物一起分享。"
+      },
+      "knowledge": {
+        "title": "吃芹菜有什么好处？",
+        "body": "芹菜含有丰富的纤维和维生素，吃了可以帮助消化，让肚子舒服，还能让身体更健康。芹菜脆脆的，嚼起来还能锻炼牙齿，让牙齿更坚固哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_celery_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_celery_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Celery",
+      "aloud": "/ˈsɛləri/",
+      "words": "",
+      "intro": "Celery is a green vegetable with long stalks that are crisp and slightly bitter. It can be eaten raw or cooked and is very nutritious.",
+      "story": {
+        "title": "🥬Bunny's Celery Friend",
+        "body": "Bunny White found a patch of green celery in the garden. Curiously, he took a small bite—crunch! It was crisp and had a fresh scent. He thought it tasted good, so he picked a few stalks to take home. On the way, he met Lamb Spots, who asked, “What are you holding?” White said, “It's celery, so crunchy! Want to try?” Spots nibbled a little, and his eyes lit up. “Really, it's so refreshing!” The two friends sat on the grass, crunching on celery together. White said, “It's a bit bitter, but good for us!” Spots nodded, “Yes, Mom says celery helps us grow taller.” After eating, they planted the root ends back in the soil, hoping more celery would grow so they could share with all the animals."
+      },
+      "knowledge": {
+        "title": "Why is eating celery good for you?",
+        "body": "Celery is full of fiber and vitamins, which help with digestion and make your tummy happy while keeping your body healthy. Its crunchiness is also great for strengthening your teeth as you chew!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_celery_intro.mp3",
+        "story": "../item-audio/en/vegetable_celery_story.mp3"
+      }
+    }
+  }
+}

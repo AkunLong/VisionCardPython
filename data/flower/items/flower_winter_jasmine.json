@@ -1,0 +1,89 @@
+{
+  "id": "flower_winter_jasmine",
+  "sku_id": "card_flower_winter_jasmine",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_yellow",
+      "spring_flower"
+    ],
+    "secondary": [
+      "small_flower",
+      "vine_flower",
+      "decorative"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "yellow"
+    ],
+    "size": [
+      "spreading"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "roadside"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "none"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "迎春花",
+      "aloud": "yíng chūn huā",
+      "words": "winter jasmine",
+      "intro": "迎春花是春天最早开的花之一，它的花瓣黄黄的，小小的，像小星星一样。天气还很冷的时候，它就开了，告诉大家春天要来了。",
+      "story": {
+        "title": "🌼迎春花的小秘密",
+        "body": "冬天还没走，花园里好多花都在睡觉。只有迎春花的枝条上，藏着好多小花苞。一天早上，太阳公公露出了笑脸，暖暖的光照在枝条上。一个小花苞睁开眼睛，说：哇，春天要来了吗？它用力伸了个懒腰，啪的一下，张开了黄黄的小花瓣。旁边的花苞也一个接一个地开了。小蜜蜂飞过来，说：你们好勇敢呀，天还这么冷就开了！迎春花笑着说：我们要做春天的第一名，告诉大家春天来啦！小朋友看到黄黄的迎春花，开心地拍手：春天来啦，春天来啦！"
+      },
+      "knowledge": {
+        "title": "迎春花为什么叫迎春花？",
+        "body": "迎春花在冬天快结束、春天快来的时候开花，好像是在迎接春天。它的花先开，叶子后长出来，所以开花的时候，枝条上全是黄黄的小花，特别好看。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_winter_jasmine_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_winter_jasmine_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Winter Jasmine",
+      "aloud": "/ˈwɪntər ˈdʒæzmɪn/",
+      "words": "",
+      "intro": "Winter jasmine is one of the first flowers to bloom in spring. Its petals are yellow and small, like little stars. It blooms even when it's still cold, telling everyone that spring is coming.",
+      "story": {
+        "title": "🌼The Little Secret of Winter Jasmine",
+        "body": "Winter hasn't left yet, and many flowers in the garden are still sleeping. Only on the branches of winter jasmine, there are many little flower buds hiding. One morning, Mr. Sun shows his smiling face, and warm light shines on the branches. A little bud opens its eyes and says, Wow, is spring coming? It stretches hard and pops open its tiny yellow petals. The other buds also open one by one. A little bee flies over and says, You are so brave to bloom when it's still so cold! The winter jasmine smiles and says, We want to be the first ones in spring to tell everyone that spring is here! When children see the yellow winter jasmine, they clap happily: Spring is here, spring is here!"
+      },
+      "knowledge": {
+        "title": "Why is it called winter jasmine?",
+        "body": "Winter jasmine blooms at the end of winter and the beginning of spring, as if welcoming spring. Its flowers come out first, then the leaves grow later. So when it blooms, the branches are full of little yellow flowers, looking very pretty."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_winter_jasmine_intro.mp3",
+        "story": "../item-audio/en/flower_winter_jasmine_story.mp3"
+      }
+    }
+  }
+}

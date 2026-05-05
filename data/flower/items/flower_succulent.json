@@ -1,0 +1,91 @@
+{
+  "id": "flower_succulent",
+  "sku_id": "card_flower_succulent",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "succulent_plant",
+      "potted_flower"
+    ],
+    "secondary": [
+      "small_flower",
+      "decorative",
+      "can_bloom"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "green",
+      "pink"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "indoor",
+      "balcony",
+      "desk"
+    ],
+    "season": [
+      "spring",
+      "autumn"
+    ],
+    "smell": [
+      "none"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "多肉",
+      "aloud": "duō ròu",
+      "words": "succulent",
+      "intro": "多肉植物有胖嘟嘟的叶子，像小宝宝的指头一样。它们不用喝太多水，放在窗台上就能快乐长大。",
+      "story": {
+        "title": "🌵多肉宝宝爱喝水",
+        "body": "阳台上住着一盆小多肉，它的叶子圆滚滚的，绿绿的，捏起来软软的。小主人乐乐每天都会来看它，想给它浇水。可是妈妈告诉乐乐：“多肉宝宝不喜欢喝太多水，不然肚子会疼哦。”乐乐歪着脑袋问：“那它什么时候喝水呢？”妈妈说：“等它的土干了，叶子变软一点，再给它喝一点点水就好。”乐乐记住了，她用手指轻轻摸了摸土，干干的，才用小水壶给多肉浇了一点点水。第二天早上，多肉宝宝的叶子又鼓起来，亮晶晶的，对着太阳笑。乐乐拍手说：“多肉宝宝真乖，只喝一点水就开心啦！”从此，乐乐和多肉成了最好的朋友，一起晒太阳，一起慢慢长大。"
+      },
+      "knowledge": {
+        "title": "多肉的叶子为什么胖嘟嘟？",
+        "body": "多肉的叶子里藏了很多水，像一个小水库。因为多肉原来住在干燥的地方，它要学会存水，这样很久不浇水也不会渴。胖嘟嘟的叶子就是它的储水罐。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_succulent_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_succulent_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Succulent",
+      "aloud": "/ˈsʌkjələnt/",
+      "words": "",
+      "intro": "Succulents have plump, chubby leaves that look like little baby fingers. They don't need much water and can grow happily on a sunny windowsill.",
+      "story": {
+        "title": "🌵The Succulent Baby Learns to Drink",
+        "body": "A little succulent lived on the balcony, with round green leaves that felt soft when pressed. Its little friend Lele came to visit every day, wanting to water it. But Mom told Lele, 'Succulent babies don't like too much water, or they'll get a tummy ache.' Lele tilted her head and asked, 'When does it need water then?' Mom said, 'When its soil is dry and leaves feel a bit soft, give it just a little water.' Lele remembered. She gently touched the soil—dry! Then she used a tiny watering can to give the succulent a sip. The next morning, the succulent's leaves plumped up again, shiny and smiling at the sun. Lele clapped and said, 'My succulent baby is so good—it's happy with just a little water!' From then on, Lele and the succulent were best friends, sunbathing and growing up together little by little."
+      },
+      "knowledge": {
+        "title": "Why are succulent leaves so chubby?",
+        "body": "Succulent leaves store lots of water inside, like a tiny reservoir. Because succulents come from dry places, they learned to save water so they can go a long time without rain. Those chubby leaves are their water tanks."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_succulent_intro.mp3",
+        "story": "../item-audio/en/flower_succulent_story.mp3"
+      }
+    }
+  }
+}

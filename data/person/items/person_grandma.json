@@ -1,0 +1,92 @@
+{
+  "id": "person_grandma",
+  "sku_id": "card_person_grandma",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "elder"
+    ],
+    "secondary": [
+      "female",
+      "at_home",
+      "take_care"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "grandmother"
+    ],
+    "workplace": [
+      "home"
+    ],
+    "tools": [
+      "glasses",
+      "apron",
+      "storybook"
+    ],
+    "clothing": [
+      "dress",
+      "shawl"
+    ],
+    "actions": [
+      "cook",
+      "hug",
+      "tell_stories"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "奶奶",
+      "aloud": "nǎi nai",
+      "words": "grandma",
+      "intro": "奶奶是爸爸的妈妈，也是最爱我们的人。奶奶会做好吃的，会讲故事，还会给我最温暖的拥抱。",
+      "story": {
+        "title": "👵奶奶的厨房",
+        "body": "今天，妈妈带我去看奶奶。一进门，就闻到甜甜的香味。奶奶在厨房里忙呢！她系着花围裙，笑眯眯地说：来，一起做饼干吧。奶奶教我揉面团，用小模子压出星星和花朵。我压了一个歪歪的小熊，奶奶说：真可爱。饼干烤好了，金黄金黄的，咬一口，脆脆的真好吃。晚上，奶奶给我讲故事，讲的是小兔子和月亮的故事。我靠在奶奶怀里，暖暖的，好幸福。奶奶真好，我永远爱奶奶。"
+      },
+      "knowledge": {
+        "title": "奶奶的爱好有哪些？",
+        "body": "奶奶喜欢织毛衣，让全家人都暖暖的。奶奶还喜欢种花，院子里有五颜六色的花。奶奶最爱给我们讲故事，每次讲的故事都不一样。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_grandma_intro.mp3",
+        "story": "../item-audio/zh-CN/person_grandma_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Grandma",
+      "aloud": "/ˈɡrænmɑː/",
+      "words": "",
+      "intro": "Grandma is mommy's mommy. She loves us very much. She cooks yummy food, tells stories, and gives the warmest hugs.",
+      "story": {
+        "title": "👵Grandma's Kitchen",
+        "body": "Today, Mommy took me to visit Grandma. As soon as we walked in, we smelled something sweet. Grandma was busy in the kitchen! She wore a flowered apron and said with a smile, Come, let's make cookies together. Grandma showed me how to knead the dough and press out star and flower shapes. I made a crooked little bear, and Grandma said, So cute! When the cookies were baked, they were golden and crispy. One bite—so yummy! At night, Grandma told me a story about a little rabbit and the moon. I leaned against her, warm and happy. Grandma is so wonderful. I love her forever."
+      },
+      "knowledge": {
+        "title": "What does grandma like to do?",
+        "body": "Grandma likes to knit sweaters to keep everyone warm. She also loves to plant flowers, making the garden colorful. Most of all, she loves to tell us stories, and each story is different."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_grandma_intro.mp3",
+        "story": "../item-audio/en/person_grandma_story.mp3"
+      }
+    }
+  }
+}

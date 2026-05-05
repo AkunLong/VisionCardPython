@@ -1,0 +1,95 @@
+{
+  "id": "transport_cruise_ship",
+  "sku_id": "card_transport_cruise_ship",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "water_transport",
+      "public_transport"
+    ],
+    "secondary": [
+      "can_float",
+      "can_carry_people",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "cruise_ship"
+    ],
+    "color": [
+      "white",
+      "blue"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "ocean",
+      "port",
+      "vacation"
+    ],
+    "fuel": [
+      "diesel"
+    ],
+    "features": [
+      "cabins",
+      "deck",
+      "lifeboats"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "游轮",
+      "aloud": "yóu lún",
+      "words": "cruise ship",
+      "intro": "游轮是一艘大大的船，像一座漂浮在海上的房子。它有很多房间、游泳池和餐厅，可以带着人们去很远很远的地方玩。",
+      "story": {
+        "title": "🚢大游轮的一天",
+        "body": "清晨，大游轮“海洋之星”停靠在港口，阳光照在白色的船身上，闪闪发光。旅客们拉着行李箱，开开心心地登上船。船上好热闹呀！有人在甲板上看海，有人在水池里玩水，还有人在餐厅里吃美味的冰淇淋。大游轮慢慢开动，离开港口，驶向蓝蓝的大海。海鸥跟着船飞，海豚跳出水面，好像在说“欢迎欢迎”。到了晚上，天上都是小星星，大游轮亮起彩灯，像个大蛋糕。旅客们在甲板上跳舞，听音乐，开心极了。大游轮心里想：虽然我很大，但我最喜欢看大家快乐的样子。"
+      },
+      "knowledge": {
+        "title": "为什么要坐游轮？",
+        "body": "游轮不仅是一种交通工具，更是一个可以移动的度假村。坐游轮可以一次去好几个地方，白天上岸玩，晚上在船上睡觉，不用总是收拾行李，轻松又方便。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_cruise_ship_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_cruise_ship_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cruise Ship",
+      "aloud": "/kruːz ʃɪp/",
+      "words": "",
+      "intro": "A cruise ship is a huge boat, like a floating house on the sea. It has many rooms, swimming pools, and restaurants. It can take people to faraway places for fun.",
+      "story": {
+        "title": "🚢A Day of the Big Cruise Ship",
+        "body": "Early in the morning, the big cruise ship 'Ocean Star' was docked at the port. The sun shone on its white body, sparkling. Passengers pulled their suitcases and happily boarded the ship. It was so lively onboard! Some people watched the sea on the deck, some played in the pool, and some ate yummy ice cream in the restaurant. The cruise ship slowly set off, leaving the port and sailing into the blue ocean. Seagulls flew along with the ship, and dolphins jumped out of the water as if saying 'Welcome!' At night, the sky was full of little stars. The cruise ship lit up with colorful lights, looking like a big cake. Passengers danced and listened to music on the deck, feeling so happy. The big cruise ship thought to itself: Even though I'm so big, what I love most is seeing everyone's joyful faces."
+      },
+      "knowledge": {
+        "title": "Why take a cruise ship?",
+        "body": "A cruise ship is not just a way to travel; it's a resort that can move. You can visit several places in one trip, playing on land during the day and sleeping on the ship at night, without having to pack and unpack all the time. It's so easy and convenient!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_cruise_ship_intro.mp3",
+        "story": "../item-audio/en/transport_cruise_ship_story.mp3"
+      }
+    }
+  }
+}

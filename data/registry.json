@@ -1,0 +1,44 @@
+{
+  "packs": [
+    {
+      "id": "fruit",
+      "category": "fruit"
+    },
+    {
+      "id": "animal",
+      "category": "animal"
+    },
+    {
+      "id": "number",
+      "category": "number"
+    },
+    {
+      "id": "person",
+      "category": "person"
+    },
+    {
+      "id": "transport",
+      "category": "transport"
+    },
+    {
+      "id": "food",
+      "category": "food"
+    },
+    {
+      "id": "object",
+      "category": "object"
+    },
+    {
+      "id": "vegetable",
+      "category": "vegetable"
+    },
+    {
+      "id": "flower",
+      "category": "flower"
+    },
+    {
+      "id": "plant",
+      "category": "plant"
+    }
+  ]
+}

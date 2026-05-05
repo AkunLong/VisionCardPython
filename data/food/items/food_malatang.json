@@ -1,0 +1,91 @@
+{
+  "id": "food_malatang",
+  "sku_id": "card_food_malatang",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "dish",
+      "color_red",
+      "edible"
+    ],
+    "secondary": [
+      "spicy",
+      "hot_food",
+      "at_meal"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dish"
+    ],
+    "color": [
+      "red"
+    ],
+    "taste": [
+      "spicy",
+      "salty"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "street",
+      "restaurant",
+      "home"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "麻辣烫",
+      "aloud": "má là tàng",
+      "words": "malatang",
+      "intro": "麻辣烫是一种香香辣辣的中国小吃，热热的汤里有好多好吃的，比如蔬菜、肉肉和豆腐，吃下去全身都暖暖的。",
+      "story": {
+        "title": "🍲第一次吃麻辣烫",
+        "body": "今天是周末，妈妈带小欣去小吃街。小欣闻到一股香香辣辣的味道，妈妈指着一家麻辣烫店说：“那是麻辣烫，想试试吗？”小欣看着红色的汤，有点害怕：“会不会很辣呀？”妈妈笑着说：“我们可以选不辣的部分，比如甜甜的玉米、软软的豆腐，还有你喜欢的鹌鹑蛋。”小欣选了自己爱吃的菜，老板把串串放进汤里煮。不一会儿，热腾腾的麻辣烫端上来了。小欣小心地咬了一口豆腐，哇，外面香香辣辣，里面嫩嫩的，好好吃！她又吃了玉米，甜甜的，配上一点点辣味，真特别。小欣开心地说：“原来麻辣烫不可怕，我明天还要吃！”妈妈看着吃得津津有味的小欣，笑了。"
+      },
+      "knowledge": {
+        "title": "麻辣烫是怎么做的？",
+        "body": "把各种爱吃的，比如蔬菜、豆腐、肉丸，放进又香又辣的汤里煮熟。你可以自己选喜欢的，煮熟后蘸着调料吃，又热又过瘾！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_malatang_intro.mp3",
+        "story": "../item-audio/zh-CN/food_malatang_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Malatang",
+      "aloud": "/ˈmɑːlɑːtɑːŋ/",
+      "words": "",
+      "intro": "Malatang is a popular Chinese street food. It's a hot, spicy soup with lots of yummy things like vegetables, meat, and tofu. It warms you up and tastes amazing!",
+      "story": {
+        "title": "🍲First Time Eating Malatang",
+        "body": "It was the weekend, and Mom took Xiao Xin to the snack street. Xiao Xin smelled a spicy and fragrant aroma. Mom pointed to a malatang stall and said, \"That's malatang. Want to try?\" Xiao Xin looked at the red soup and felt a bit scared. \"Will it be too spicy?\" Mom smiled and said, \"We can choose the mild parts, like sweet corn, soft tofu, and your favorite quail eggs.\" Xiao Xin picked her favorite ingredients, and the vendor cooked them in the soup. Soon, a steaming bowl of malatang was ready. Xiao Xin carefully took a bite of tofu. Wow, the outside was fragrant and a little spicy, but the inside was tender and delicious! She then tried the corn—sweet with a touch of spice, so special. Xiao Xin said happily, \"Malatang isn't scary at all! I want more tomorrow!\" Mom watched her enjoy the meal and smiled."
+      },
+      "knowledge": {
+        "title": "How is malatang made?",
+        "body": "Malatang is made by cooking all kinds of yummy things—like vegetables, tofu, and meatballs—in a fragrant and spicy soup. You can pick your favorites, cook them, and enjoy them hot with dipping sauce!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_malatang_intro.mp3",
+        "story": "../item-audio/en/food_malatang_story.mp3"
+      }
+    }
+  }
+}

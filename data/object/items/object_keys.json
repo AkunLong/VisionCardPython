@@ -1,0 +1,91 @@
+{
+  "id": "object_keys",
+  "sku_id": "card_object_keys",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "personal_item",
+      "color_gray"
+    ],
+    "secondary": [
+      "at_home",
+      "long",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "gray",
+      "black"
+    ],
+    "shape": [
+      "long"
+    ],
+    "material": [
+      "metal"
+    ],
+    "scenes": [
+      "home",
+      "school",
+      "office"
+    ],
+    "function": [
+      "open",
+      "lock"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "钥匙",
+      "aloud": "yào shi",
+      "words": "keys",
+      "intro": "钥匙是开锁的好帮手。它小小的身体上有一排凹凸的齿，每个钥匙都和自己的锁是独一无二的好朋友。",
+      "story": {
+        "title": "🔑迷路的小钥匙",
+        "body": "有一把小钥匙，躺在桌子上，找不到自己的锁了。它问门：你是我的锁吗？门摇摇头。它问抽屉：你是我的锁吗？抽屉也无能为力。小钥匙好伤心。突然，小主人拿起它，插进一把锁里，轻轻一转——咔哒！锁开了，门也开了。小钥匙终于找到了自己的好朋友！它再也不孤单了，每天和锁一起，守护着小主人的家。"
+      },
+      "knowledge": {
+        "title": "钥匙上为什么有凹凸的齿？",
+        "body": "钥匙上的齿和锁里的小珠子是配对的。只有合适的钥匙插进去，小珠子才会乖乖排好，让我们转动钥匙打开锁。每把钥匙都有自己专属的锁，就像一对好朋友。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_keys_intro.mp3",
+        "story": "../item-audio/zh-CN/object_keys_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Key",
+      "aloud": "/kiː/",
+      "words": "",
+      "intro": "A key is a small tool that opens a lock. It has a row of bumps and grooves, and each key only fits its own special lock.",
+      "story": {
+        "title": "🔑The Little Lost Key",
+        "body": "Once there was a little key lying on a table. It could not find its lock. It asked the door, Are you my lock? The door said no. It asked the drawer, Are you my lock? The drawer could not help. The little key felt very sad. Then, the little owner picked it up, put it into a lock, and turned it gently. Click! The lock opened, and the door swung wide. The little key had found its best friend at last! It was never lonely again. Every day, it worked with the lock to keep the little master's home safe."
+      },
+      "knowledge": {
+        "title": "Why does a key have bumps?",
+        "body": "The bumps on a key match small pins inside a lock. When the right key is inserted, the bumps push the pins into place so we can turn the key and open the lock. Each key works only with its own lock, just like best friends."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_keys_intro.mp3",
+        "story": "../item-audio/en/object_keys_story.mp3"
+      }
+    }
+  }
+}

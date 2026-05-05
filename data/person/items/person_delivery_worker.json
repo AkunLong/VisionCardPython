@@ -1,0 +1,93 @@
+{
+  "id": "person_delivery_worker",
+  "sku_id": "card_person_delivery_worker",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "on_road"
+    ],
+    "secondary": [
+      "adult",
+      "deliver",
+      "life_service"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "delivery_worker"
+    ],
+    "workplace": [
+      "on_road",
+      "delivery_center"
+    ],
+    "tools": [
+      "truck",
+      "package",
+      "scanner"
+    ],
+    "clothing": [
+      "uniform",
+      "cap"
+    ],
+    "actions": [
+      "deliver",
+      "drive",
+      "sort"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "快递员",
+      "aloud": "kuài dì yuán",
+      "words": "courier",
+      "intro": "快递员是每天给我们送包裹的人。他们开着大大的车，把礼物和好东西从很远的地方送到我们家门口。看到快递员叔叔，记得说谢谢哦！",
+      "story": {
+        "title": "📦小狗的生日惊喜",
+        "body": "小狗旺旺要过生日了，它特别想要一个红色的皮球。可是妈妈在出差，没法陪它去买。妈妈打电话说：“别着急，快递员叔叔会把礼物送来。”第二天一大早，快递车“嘀嘀”地停在了门口。快递员熊猫叔叔抱着一个纸箱子，笑眯眯地说：“旺旺，你的包裹到啦！”旺旺激动地拆开箱子，哇，正是那个红色的皮球！它抱着皮球跳啊跳，对熊猫叔叔说：“谢谢您，您是我最好的生日帮手！”熊猫叔叔摆摆手：“不客气，我还要给别的小朋友送快乐呢！”说完，又开着车“嘀嘀”地出发了。"
+      },
+      "knowledge": {
+        "title": "快递员怎么送包裹？",
+        "body": "快递员叔叔用扫码枪扫一下包裹上的条形码，就知道要送去哪里。他们跟着导航开车，把包裹从大仓库送到你家门口。晴天雨天都不停，真的很辛苦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_delivery_worker_intro.mp3",
+        "story": "../item-audio/zh-CN/person_delivery_worker_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Delivery Worker",
+      "aloud": "/dɪˈlɪvəri ˈwɜːrkər/",
+      "words": "",
+      "intro": "A delivery worker brings us packages every day. They drive a big truck and bring gifts and good things from far away right to our door. When you see a delivery worker, don't forget to say thank you!",
+      "story": {
+        "title": "📦The Puppy's Birthday Surprise",
+        "body": "Puppy Wangwang was going to have a birthday. He really wanted a red ball. But his mom was on a business trip and couldn't go to the store with him. Mom called and said, \"Don't worry, the delivery worker will bring the gift.\" The next morning, a delivery truck stopped in front of the door with a \"Beep Beep!\" Panda uncle, the delivery worker, came out holding a box and smiled, \"Wangwang, your package is here!\" Wangwang opened the box excitedly—wow, it was the red ball! He jumped and hopped with the ball and said, \"Thank you, you are my best birthday helper!\" Panda uncle waved and said, \"You're welcome, I still need to bring joy to other kids!\" Then he got back in his truck and drove away with a \"Beep Beep!\""
+      },
+      "knowledge": {
+        "title": "How do delivery workers deliver packages?",
+        "body": "Delivery workers use a scanner to read the barcode on the package—that tells them where to go. They follow their GPS and drive the package from a big warehouse right to your doorstep. Rain or shine, they never stop, and they work really hard!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_delivery_worker_intro.mp3",
+        "story": "../item-audio/en/person_delivery_worker_story.mp3"
+      }
+    }
+  }
+}

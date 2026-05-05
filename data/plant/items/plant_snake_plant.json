@@ -1,0 +1,97 @@
+{
+  "id": "plant_snake_plant",
+  "sku_id": "card_plant_snake_plant",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "succulent_plant",
+      "color_green"
+    ],
+    "secondary": [
+      "has_leaf",
+      "long_leaf",
+      "potted_plant"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "herb"
+    ],
+    "color": [
+      "green",
+      "yellow"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "leaves",
+      "roots"
+    ],
+    "scenes": [
+      "indoor",
+      "balcony",
+      "garden"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "虎皮兰",
+      "aloud": "hǔ pí lán",
+      "words": "snake plant",
+      "intro": "虎皮兰有长长的叶子，上面有像老虎皮一样的花纹，很漂亮。它喜欢住在花盆里，是家里的绿色小卫士。",
+      "story": {
+        "title": "🐯虎皮兰的小秘密",
+        "body": "阳台上有一盆虎皮兰，它的叶子高高的，像一把把绿色的剑。小主人豆豆每天给它唱歌、擦叶子。一天，豆豆咳嗽了，妈妈说：“虎皮兰能净化空气，让豆豆快点好起来。”虎皮兰听了，使劲地张开叶子，把灰尘都吸进去，吐出新鲜空气。晚上，豆豆在虎皮兰旁边睡着了，梦到虎皮兰的叶子上长出了小星星，一闪一闪真好看。第二天，豆豆咳嗽好了，抱着花盆说：“谢谢你，虎皮兰！”虎皮兰心里暖暖的，叶子更绿了。现在，豆豆和虎皮兰是最好最好的朋友。"
+      },
+      "knowledge": {
+        "title": "虎皮兰有什么本领？",
+        "body": "虎皮兰可以净化空气，吸收灰尘和有害气体，让房间里的空气变干净。它晚上还能释放氧气，帮助我们睡得更香。虎皮兰很耐旱，不需要经常浇水，是很好养的植物。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_snake_plant_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_snake_plant_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Snake Plant",
+      "aloud": "/sneɪk plænt/",
+      "words": "",
+      "intro": "The snake plant has long, upright leaves with patterns like a tiger's skin. It loves to stay in a pot and is a green little guard at home.",
+      "story": {
+        "title": "🐯The Snake Plant's Secret",
+        "body": "There was a snake plant on the balcony. Its leaves stood tall, like green swords. Little Doudou sang to it and wiped its leaves every day. One day, Doudou had a cough. Mom said, \"The snake plant cleans the air. It will help you feel better.\" Hearing this, the snake plant stretched its leaves wide, sucked in all the dust, and breathed out fresh air. That night, Doudou slept beside it and dreamed of little stars twinkling on the leaves—so pretty! The next morning, Doudou's cough was gone. He hugged the pot and said, \"Thank you, snake plant!\" The snake plant felt warm inside, and its leaves grew even greener. Now, Doudou and the snake plant are the very best of friends."
+      },
+      "knowledge": {
+        "title": "What can a snake plant do?",
+        "body": "A snake plant cleans the air by absorbing dust and harmful gases. It also releases oxygen at night, helping us sleep better. It is drought-tolerant and very easy to care for—a perfect plant for any home."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_snake_plant_intro.mp3",
+        "story": "../item-audio/en/plant_snake_plant_story.mp3"
+      }
+    }
+  }
+}

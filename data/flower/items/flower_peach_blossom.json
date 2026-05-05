@@ -1,0 +1,89 @@
+{
+  "id": "flower_peach_blossom",
+  "sku_id": "card_flower_peach_blossom",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_pink",
+      "on_tree"
+    ],
+    "secondary": [
+      "spring_flower",
+      "fragrant",
+      "many_petals"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "pink"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "orchard"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "桃花",
+      "aloud": "táo huā",
+      "words": "peach blossom",
+      "intro": "桃花是春天开在树上的花，花瓣粉粉嫩嫩的，像小朋友的脸颊。它有五片花瓣，闻起来香香的。",
+      "story": {
+        "title": "🌸小桃树的秘密",
+        "body": "冬天过去了，小桃树还光秃秃的，看起来有点孤单。春风姐姐轻轻吹过，摸摸它的枝头说：快醒醒，春天来了！小桃树揉揉眼睛，枝头上冒出了一个个小花苞。过了几天，小花苞慢慢打开了，变成了一朵朵粉粉的花儿。小蜜蜂飞过来，嗡嗡嗡地说：好香啊，我可以在上面休息吗？小桃花点点头。小鸟也飞过来，叽叽喳喳地唱着歌。小桃树快乐极了，它不再孤单，满树的花儿就像穿着粉裙子的公主。小朋友路过时都停下来看，说：桃花开了，春天真美呀！"
+      },
+      "knowledge": {
+        "title": "桃花什么时候开？",
+        "body": "桃花在春天开放，差不多三月到四月。它先开花再长叶子，花落了以后会结出桃子。桃花有五个花瓣，颜色大多是粉红色，也有白色和深红色的。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_peach_blossom_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_peach_blossom_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Peach Blossom",
+      "aloud": "/piːtʃ ˈblɑːsəm/",
+      "words": "",
+      "intro": "Peach blossoms are pink flowers that bloom on trees in spring. They have five soft petals and a sweet smell.",
+      "story": {
+        "title": "🌸The Little Peach Tree's Secret",
+        "body": "Winter was over, but the little peach tree was still bare and looked a bit lonely. Sister Spring Wind came and gently touched its branches, saying, Wake up, spring is here! The little peach tree rubbed its eyes, and little buds popped out on the branches. After a few days, the buds slowly opened and became pink flowers. Little bees flew over and buzzed, It smells so nice! Can I rest on your petals? The little peach blossoms nodded. Birds also came, chirping happily. The peach tree was so happy; it was no longer lonely, covered in flowers like pink princesses. Children passing by stopped to look and said, The peach blossoms are blooming, spring is so beautiful!"
+      },
+      "knowledge": {
+        "title": "When do peach blossoms bloom?",
+        "body": "Peach blossoms bloom in spring, usually from March to April. They open before the leaves grow, and after the flowers fall, peaches can grow. Most have five petals and are pink, but some can be white or dark red."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_peach_blossom_intro.mp3",
+        "story": "../item-audio/en/flower_peach_blossom_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "number_6",
+  "sku_id": "card_number_six",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "single_digit",
+      "even_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 6,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "6th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字6",
+      "aloud": "liù",
+      "words": "six",
+      "intro": "数字6像一个小哨子，也像豆芽弯弯的尾巴。它比5多1，是小朋友们都喜欢的数字哦！",
+      "story": {
+        "title": "🦆六只小鸭子",
+        "body": "池塘边，鸭妈妈带着六只小鸭子学游泳。一、二、三、四、五、六！六只小鸭子排成队，摇摇摆摆下水啦。第一只小鸭子勇敢向前冲，第二只小鸭子跟在后面划水，第三只小鸭子转了个圈，第四只小鸭子嘎嘎叫，第五只小鸭子啄啄羽毛，第六只小鸭子最小，它轻轻搭在妈妈背上。鸭妈妈说：六只小鸭真能干！你们在一起，就像数字6一样圆圆的、稳稳的。六只小鸭子齐声叫，水花溅得高高的，大家都笑啦！"
+      },
+      "knowledge": {
+        "title": "数字六像什么？",
+        "body": "数字六看起来像一个圆圆的大肚子加一条小尾巴，就像豆芽刚从豆子里探出头来。也有人觉得它像一个哨子，吹起来嘟嘟响。六是偶数，可以分成3和3一样的对。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_6_intro.mp3",
+        "story": "../item-audio/zh-CN/number_6_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Six",
+      "aloud": "/sɪks/",
+      "words": "",
+      "intro": "Six is a number that looks like a whistle or a bean sprout. It comes after five and is a favorite of many children!",
+      "story": {
+        "title": "🦆Six Little Ducks",
+        "body": "By the pond, Mother Duck took six little ducks to learn to swim. One, two, three, four, five, six! Six little ducks lined up and waddled into the water. The first duckling bravely rushed forward, the second paddled behind, the third spun a circle, the fourth quacked loudly, the fifth pecked its feathers, and the sixth, the smallest, rested lightly on Mama's back. Mother Duck said, 'What good ducklings you are! Together, you're round and steady, just like the number six.' All six ducklings quacked together, splashing high, and everyone laughed!"
+      },
+      "knowledge": {
+        "title": "What does the number six look like?",
+        "body": "The number six looks like a round belly with a little tail, just like a bean sprout poking out of a bean. Some think it looks like a whistle that goes toot-toot. Six is an even number, which can be split into two equal groups of three."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_6_intro.mp3",
+        "story": "../item-audio/en/number_6_story.mp3"
+      }
+    }
+  }
+}

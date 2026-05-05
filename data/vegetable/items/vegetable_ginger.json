@@ -1,0 +1,90 @@
+{
+  "id": "vegetable_ginger",
+  "sku_id": "card_vegetable_ginger",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "root_vegetable",
+      "color_brown"
+    ],
+    "secondary": [
+      "spicy",
+      "fragrant",
+      "can_cook"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "brown"
+    ],
+    "shape": [
+      "knobby"
+    ],
+    "taste": [
+      "spicy"
+    ],
+    "grow_location": [
+      "underground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "生姜",
+      "aloud": "shēng jiāng",
+      "words": "ginger",
+      "intro": "生姜是一种看起来黄黄褐褐的蔬菜，闻起来香香的，吃起来有点辣辣的。它长在泥土下面，挖出来的时候还带着泥土呢。",
+      "story": {
+        "title": "🧑‍🍳小生姜的大作用",
+        "body": "冬天到了，小兔子的奶奶有点咳嗽。小兔子想起妈妈说过，生姜可以煮汤喝，让身体暖暖的。于是小兔子去菜园里找生姜。它挖呀挖，挖出了一块弯弯曲曲的生姜。小兔子把生姜洗干净，切成一片一片，放进锅里煮。咕嘟咕嘟，锅里飘出了香香的味道。小兔子舀了一碗给奶奶喝，奶奶喝完后，觉得喉咙舒服多了，笑着夸小兔子：你真是个小帮手！小兔子开心极了，它知道生姜虽然味道辣辣的，但是对身体很好。"
+      },
+      "knowledge": {
+        "title": "吃生姜有什么好处？",
+        "body": "生姜能帮助我们赶走寒冷，让身体暖和起来。如果喉咙有点不舒服，喝点生姜水也很舒服。生姜还可以做菜，让菜变得香香的！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_ginger_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_ginger_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Ginger",
+      "aloud": "/ˈdʒɪndʒər/",
+      "words": "",
+      "intro": "Ginger is a brownish-yellow vegetable that smells fragrant and tastes a little spicy. It grows underground, and when you dig it up, it still has dirt on it.",
+      "story": {
+        "title": "🧑‍🍳Ginger’s Big Help",
+        "body": "Winter came, and Little Rabbit’s grandma had a little cough. Little Rabbit remembered Mom saying that ginger could be cooked into soup to help warm the body. So Little Rabbit went to the garden to look for ginger. It dug and dug, and found a knobby piece of ginger. Little Rabbit washed the ginger, cut it into slices, and put them into a pot to boil. Bubble bubble, a fragrant smell floated out. Little Rabbit ladled a bowl for Grandma, and after drinking it, Grandma felt her throat was much better. She smiled and praised Little Rabbit: You are such a good helper! Little Rabbit was so happy, knowing that ginger, though spicy, is very good for the body."
+      },
+      "knowledge": {
+        "title": "Why is ginger good for you?",
+        "body": "Ginger has a special warmth that helps your body fight off colds and stay cozy. If your throat feels scratchy, a little ginger tea can soothe it. You can also add ginger to soups and stir-fries to make them extra yummy!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_ginger_intro.mp3",
+        "story": "../item-audio/en/vegetable_ginger_story.mp3"
+      }
+    }
+  }
+}

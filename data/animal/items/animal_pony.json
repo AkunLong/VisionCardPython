@@ -1,0 +1,103 @@
+{
+  "id": "animal_pony",
+  "sku_id": "card_animal_pony",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "farm_animal",
+      "cute"
+    ],
+    "secondary": [
+      "small",
+      "has_fur",
+      "has_tail"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "farm_animal"
+    ],
+    "color": [
+      "brown",
+      "white",
+      "black"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "ears",
+      "mane"
+    ],
+    "scenes": [
+      "farm",
+      "grassland",
+      "stable"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "jump"
+    ],
+    "sound": [
+      "neigh"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "小马",
+      "aloud": "xiǎo mǎ",
+      "words": "pony",
+      "intro": "小马是一种温顺可爱的小动物，身上有软软的毛和长长的尾巴。小马喜欢在草地上奔跑，也喜欢和小朋友一起玩耍。",
+      "story": {
+        "title": "🐴小马豆豆的快乐一天",
+        "body": "小马豆豆住在绿色的农场里。一天早上，豆豆想去草原上玩。它慢慢地走出小马厩，看见蓝蓝的天空和白色的云朵。豆豆在草地上快乐地跑来跑去，还遇见了一只美丽的小蝴蝶。小蝴蝶飞得很近，豆豆轻轻地跟着它走，像在跳舞。后来，豆豆跑累了，就躺在软软的草地上，闭上眼睛晒太阳。太阳暖暖的，豆豆开心地笑了。过了一会，小兔子跳过来，问豆豆要不要一起吃胡萝卜。豆豆高兴地站起来，和小兔子一起分享了美味。这一天，豆豆过得非常快乐。"
+      },
+      "knowledge": {
+        "title": "小马为什么跑得快？",
+        "body": "小马有四条强壮的腿和轻盈的身体，所以它们可以跑得很快。小马喜欢在草原上奔跑，这样既能玩耍又能锻炼身体。有时候，它们也会轻轻地小跑，看上去非常优雅。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_pony_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_pony_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Pony",
+      "aloud": "/ˈpoʊni/",
+      "words": "",
+      "intro": "A pony is a gentle and cute animal with soft fur and a long tail. Ponies love to run on the grassland and enjoy playing with children.",
+      "story": {
+        "title": "🐴 Doudou the Little Pony's Day Out",
+        "body": "Doudou the little pony lived on a green farm. One morning, Doudou wanted to play on the grassland. He slowly walked out of his stable and saw the blue sky and white clouds. Doudou happily ran around on the grass and met a beautiful little butterfly. The butterfly flew very close to him, and Doudou gently followed it, as if dancing. After a while, Doudou felt tired and lay down on the soft grass. He closed his eyes and enjoyed the warm sunshine, smiling happily. Later, a little rabbit hopped over and asked Doudou if he wanted to share some carrots. Doudou stood up happily and shared the tasty carrots with the rabbit. It was such a happy day!"
+      },
+      "knowledge": {
+        "title": "Why can ponies run fast?",
+        "body": "Ponies have four strong legs and light bodies, so they can run very fast. They love to run on the grassland, which lets them play and exercise at the same time. Sometimes they trot gently, looking very graceful."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_pony_intro.mp3",
+        "story": "../item-audio/en/animal_pony_story.mp3"
+      }
+    }
+  }
+}

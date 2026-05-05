@@ -1,0 +1,95 @@
+{
+  "id": "transport_race_car",
+  "sku_id": "card_transport_race_car",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "road_vehicle",
+      "fast"
+    ],
+    "secondary": [
+      "has_wheels",
+      "has_engine",
+      "small"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "race_car"
+    ],
+    "color": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "racetrack",
+      "garage"
+    ],
+    "fuel": [
+      "gasoline"
+    ],
+    "features": [
+      "wheels",
+      "engine",
+      "seat"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "赛车",
+      "aloud": "sài chē",
+      "words": "race car",
+      "intro": "赛车是一种跑得特别快的车，它的身体很光滑，有很厉害的发动机。它在专门的赛道上飞驰，看起来好酷哦！",
+      "story": {
+        "title": "🏎️小红赛车的一天",
+        "body": "天一亮，小红赛车就醒了。它最喜欢在跑道上飞快地跑，嗖——一下子就冲出去。今天有一场重要的比赛，小红赛车早早来到赛场。它开始有点紧张，可是当绿灯亮起，它鼓足勇气，飞快地向前冲。跑着跑着，它看到前面的小蓝赛车出了点问题，慢了下来。小红赛车放慢速度，轻轻地问：“需要帮忙吗？”小蓝赛车说它没油了。小红赛车赶紧叫来救援车，然后继续比赛。虽然没有拿到第一名，但小红赛车很开心，因为它帮助了朋友。回家后，它美美地睡了一觉，梦里还在开心地跑呢！"
+      },
+      "knowledge": {
+        "title": "什么是赛车？",
+        "body": "赛车是一种专门用来比赛的车，它跑得非常快，身体是流线型的，可以减少风的阻力。赛车有特别大的轮子和强大的发动机。不过，赛车不能在普通马路上开，只能在安全的赛车场里比赛哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_race_car_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_race_car_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Race Car",
+      "aloud": "/reɪs kɑːr/",
+      "words": "",
+      "intro": "A race car is a very fast car made for racing. It has a sleek body and a powerful engine. It zooms around a racetrack, going very fast!",
+      "story": {
+        "title": "🏎️The Little Red Race Car's Day",
+        "body": "The little red race car woke up with the sun. It loved to zoom fast on the track—whoosh! Today, there was a big race. At first, it felt nervous, but when the green light came on, it bravely sped ahead. Along the way, it saw a little blue race car slowing down. The red car slowed down and asked, \"Do you need help?\" The blue car said it ran out of fuel. The red car quickly called for a rescue truck, then continued racing. Even though it didn't win first place, it was happy because it helped a friend. Back home, it fell asleep sweetly, dreaming of zooming happily."
+      },
+      "knowledge": {
+        "title": "What is a race car?",
+        "body": "A race car is a special car made for racing. It goes very fast and has a sleek shape to cut through the air. Race cars have big wheels and strong engines. They can only drive on racetracks, not on regular roads, to keep everyone safe."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_race_car_intro.mp3",
+        "story": "../item-audio/en/transport_race_car_story.mp3"
+      }
+    }
+  }
+}

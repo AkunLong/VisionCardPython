@@ -1,0 +1,92 @@
+{
+  "id": "person_fisherman",
+  "sku_id": "card_person_fisherman",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "in_nature"
+    ],
+    "secondary": [
+      "adult",
+      "worker_job",
+      "at_workplace"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "fisherman"
+    ],
+    "workplace": [
+      "sea",
+      "boat"
+    ],
+    "tools": [
+      "net",
+      "fishing_rod"
+    ],
+    "clothing": [
+      "raincoat",
+      "boots"
+    ],
+    "actions": [
+      "catch",
+      "sail",
+      "cast"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "渔民",
+      "aloud": "yú mín",
+      "words": "fisherman",
+      "intro": "渔民是生活在海边的人，他们每天开着渔船去大海里捕鱼。新鲜的鱼虾就是他们带给我们的礼物。",
+      "story": {
+        "title": "🎣小海豚和渔民",
+        "body": "早晨，太阳刚刚升起，渔民叔叔就开着渔船出海了。小海鸥飞来说：“渔民叔叔，您要捕鱼吗？”渔民叔叔笑着说：“是啊，我要去撒网。”到了海上，渔民叔叔把大大的渔网撒下去。过一会儿，拉上来一看，好多银光闪闪的鱼！这时，一只小海豚游过来，它饿得直叫。渔民叔叔给了它几条鱼，小海豚吃完开心地跳起来，喷出高高的水花。第二天，小海豚带来了一大群鱼，围着渔船转。渔民叔叔又捕了好多鱼，高高兴兴地回家了。从那以后，小海豚和渔民叔叔成了最好的朋友。"
+      },
+      "knowledge": {
+        "title": "渔民怎样捕鱼？",
+        "body": "渔民通常驾驶渔船出海，用渔网或钓竿来捕鱼。渔网像一个大口袋，可以兜住很多鱼。晚上，船上亮起灯，鱼儿喜欢光，就会游过来。捕回来的鱼会送到市场，变成我们餐桌上的美味。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_fisherman_intro.mp3",
+        "story": "../item-audio/zh-CN/person_fisherman_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Fisherman",
+      "aloud": "/ˈfɪʃərmən/",
+      "words": "",
+      "intro": "A fisherman is a person who works at sea, catching fish and other seafood. They sail on boats and use nets or rods to bring fresh food to our tables.",
+      "story": {
+        "title": "🎣 The Little Dolphin and the Fisherman",
+        "body": "Early in the morning, as the sun rose, the fisherman sailed out to sea. A little seagull flew by and said, “Fisherman, are you going fishing?” The fisherman smiled, “Yes, I’m going to cast my net.” Out at sea, he threw the big net into the water. After a while, he pulled it up — so many shiny silver fish! Then a little dolphin swam over, crying because it was hungry. The fisherman gave it some fish, and the dolphin jumped for joy, splashing high. The next day, the dolphin brought a whole school of fish circling the boat. The fisherman caught many more and happily went home. From that day on, the little dolphin and the fisherman became best friends."
+      },
+      "knowledge": {
+        "title": "How do fishermen catch fish?",
+        "body": "Fishermen go out to sea in boats. They use big nets like a bag to scoop up fish, or long fishing rods with hooks. Some fishermen use lights at night to attract fish. The caught fish are brought to the market, and then we can buy them and cook yummy meals."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_fisherman_intro.mp3",
+        "story": "../item-audio/en/person_fisherman_story.mp3"
+      }
+    }
+  }
+}

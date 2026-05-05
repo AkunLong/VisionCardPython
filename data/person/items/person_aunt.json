@@ -1,0 +1,93 @@
+{
+  "id": "person_aunt",
+  "sku_id": "card_person_aunt",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "at_home"
+    ],
+    "secondary": [
+      "female",
+      "adult",
+      "take_care"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "aunt"
+    ],
+    "workplace": [
+      "home"
+    ],
+    "tools": [
+      "apron",
+      "rolling_pin",
+      "storybook"
+    ],
+    "clothing": [
+      "casual_clothes",
+      "apron"
+    ],
+    "actions": [
+      "hug",
+      "cook",
+      "tell_story",
+      "care"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "阿姨",
+      "aloud": "ā yí",
+      "words": "aunt",
+      "intro": "阿姨是妈妈的姐妹，她像妈妈一样温柔，会陪我们玩，给我们讲故事。",
+      "story": {
+        "title": "🏡去阿姨家玩",
+        "body": "小猫咪今天要去看望阿姨。阿姨家在城里的另一边，小猫咪坐妈妈的车去。一进门，阿姨就给了小猫咪一个大大的拥抱，还给它穿上了自己小时候的花围裙。阿姨和小猫咪一起做好吃的：揉一揉面团，擀一擀面皮，压出各种各样的小饼干。小猫咪最喜欢小星星形状的饼干。烤好后，整个屋子都香喷喷的。小猫咪尝了一口，哇，真好吃！吃完饼干，阿姨抱着小猫咪坐在摇椅上，给它讲了一个长长的故事，故事里有一只勇敢的小兔子。小猫咪听着听着，慢慢地闭上了眼睛。在梦里，它和阿姨一起在草地上放风筝。小猫咪觉得，阿姨的怀抱和妈妈的一样温暖，它好喜欢阿姨呀。"
+      },
+      "knowledge": {
+        "title": "阿姨是谁？",
+        "body": "阿姨是妈妈的姐妹，或者爸爸的姐妹。阿姨很爱我们，会陪我们玩，给我们做好吃的。有时候阿姨也会像妈妈一样照顾我们，是第二个妈妈。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_aunt_intro.mp3",
+        "story": "../item-audio/zh-CN/person_aunt_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Aunt",
+      "aloud": "/ænt/",
+      "words": "",
+      "intro": "An aunt is your mommy’s sister. She is kind and loving, just like mommy. She plays with you and tells you stories.",
+      "story": {
+        "title": "🏡Visiting Auntie",
+        "body": "The little kitten went to visit Auntie today. Auntie lived on the other side of town, so the kitten rode in Mama’s car. When they arrived, Auntie gave the kitten a big, warm hug. She even let the kitten wear her old flowery apron from when she was small. Auntie and the kitten made cookies together: they kneaded the dough, rolled it out, and cut it into little star shapes. The whole house smelled so good when they were baking. The kitten took a bite—yummy! After the cookies, Auntie held the kitten in the rocking chair and told a long story about a brave little rabbit. The kitten listened and listened until its eyes slowly closed. In its dream, it flew a kite with Auntie in a big green field. The kitten thought, Auntie’s arms are just as warm as Mama’s. It loved Auntie so much."
+      },
+      "knowledge": {
+        "title": "Who is an aunt?",
+        "body": "An aunt is the sister of your mother or father. Sometimes a close family friend is also called auntie. Aunts love us, play with us, and cook yummy food for us. They take care of us like a second mom."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_aunt_intro.mp3",
+        "story": "../item-audio/en/person_aunt_story.mp3"
+      }
+    }
+  }
+}

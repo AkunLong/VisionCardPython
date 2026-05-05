@@ -1,0 +1,91 @@
+{
+  "id": "person_maternal_grandma",
+  "sku_id": "card_person_maternal_grandma",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "family_member",
+      "elder"
+    ],
+    "secondary": [
+      "female",
+      "at_home",
+      "take_care"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "grandmother"
+    ],
+    "workplace": [
+      "home"
+    ],
+    "tools": [
+      "cooking_pot",
+      "knitting_needles"
+    ],
+    "clothing": [
+      "apron"
+    ],
+    "actions": [
+      "cook",
+      "hug",
+      "tell_stories",
+      "take_care"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "外婆",
+      "aloud": "wài pó",
+      "words": "grandma",
+      "intro": "外婆是妈妈的妈妈。她很疼爱小朋友，会做好吃的饭菜，会讲有趣的故事，还会给温暖的抱抱。每次见到外婆，心里都暖暖的。",
+      "story": {
+        "title": "👵外婆的魔法厨房",
+        "body": "星期天，小豆子去外婆家。一进门，就闻到香香的味道。外婆在厨房里忙呢，她围着花围裙，笑眯眯地说：小豆子来啦，外婆给你做最爱吃的鸡蛋饼。小豆子搬来小板凳，坐在旁边看。外婆打鸡蛋、和面粉、切葱花，动作好熟练。锅里滋滋响，饼子变金黄，香味飘满屋。吃饼的时候，外婆还讲她小时候的故事：外婆像你这么大时，也喜欢吃鸡蛋饼呢。吃完饼，外婆拉着小豆子的手，在院子里看花晒太阳。小豆子抱着外婆说：外婆，我最爱你了。外婆眼睛弯弯的，把一颗糖悄悄塞进小豆子口袋里。天快黑了，小豆子要回家，外婆在门口挥手：下周再来，外婆还给你做好吃的。小豆子大声喊：外婆，我会想你的！"
+      },
+      "knowledge": {
+        "title": "外婆为什么那么疼我们？",
+        "body": "外婆是妈妈的妈妈，从妈妈小时候起，外婆就学会了照顾小孩。现在外婆把对妈妈的爱，也分给了你。外婆退休了，有更多时间陪你，给你做好吃的，讲过去的故事。外婆的爱很特别，像暖暖的阳光。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_maternal_grandma_intro.mp3",
+        "story": "../item-audio/zh-CN/person_maternal_grandma_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Grandma",
+      "aloud": "/ˈɡrænmɑː/",
+      "words": "",
+      "intro": "Grandma is mommy's mommy. She loves little ones so much. She cooks yummy food, tells fun stories, and gives the warmest hugs. Every time you see Grandma, your heart feels cozy.",
+      "story": {
+        "title": "👵Grandma's Magic Kitchen",
+        "body": "On Sunday, Little Bean visits Grandma. As soon as she walks in, she smells something delicious. Grandma is busy in the kitchen, wearing a floral apron and smiling warmly. Little Bean, you're here! I'm making your favorite egg pancakes. Little Bean pulls up a little stool and watches. Grandma cracks eggs, mixes flour, and chops green onions—her hands move so smoothly. The pan sizzles, the pancakes turn golden, and the yummy smell fills the house. While eating, Grandma tells a story from her childhood: When I was as little as you, I loved egg pancakes too. After the meal, Grandma takes Little Bean's hand, and they look at flowers in the garden, feeling the sunshine. Little Bean hugs Grandma tightly and says, Grandma, I love you the most. Grandma's eyes crinkle, and she quietly slips a candy into Little Bean's pocket. As evening comes, Little Bean has to go home. Grandma waves at the door: Come again next week, and I'll make more yummy treats for you. Little Bean shouts back, Grandma, I'll miss you!"
+      },
+      "knowledge": {
+        "title": "Why does Grandma love us so much?",
+        "body": "Grandma is Mommy's mommy. She learned how to take care of little ones since Mommy was small. Now she shares that love with you too. Grandma has more time after retirement to spend with you, cook treats, and tell stories from long ago. Her love is special, like warm sunshine."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_maternal_grandma_intro.mp3",
+        "story": "../item-audio/en/person_maternal_grandma_story.mp3"
+      }
+    }
+  }
+}

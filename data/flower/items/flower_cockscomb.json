@@ -1,0 +1,89 @@
+{
+  "id": "flower_cockscomb",
+  "sku_id": "card_flower_cockscomb",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_red",
+      "in_garden"
+    ],
+    "secondary": [
+      "big_flower",
+      "summer_flower",
+      "decorative"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "red"
+    ],
+    "size": [
+      "medium"
+    ],
+    "scenes": [
+      "garden",
+      "park"
+    ],
+    "season": [
+      "summer",
+      "autumn"
+    ],
+    "smell": [
+      "none"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "鸡冠花",
+      "aloud": "jī guān huā",
+      "words": "cockscomb",
+      "intro": "鸡冠花是一种长得像鸡冠的花，颜色红红的，像火焰一样漂亮。它喜欢阳光，在公园和花园里常常能看见。",
+      "story": {
+        "title": "🐔鸡冠花的小秘密",
+        "body": "公园里有一朵红红的鸡冠花，它长得真像大公鸡的鸡冠。小蜜蜂飞过来说：“你的花瓣好特别呀，像火焰一样！”小鸡冠花害羞地笑了。一只小鸡跑过来，盯着它看：“咦，你怎么和我的鸡冠一样？”小鸡冠花摇摇身体，说：“我是花，但我喜欢太阳，也喜欢和你做朋友。”从此，小鸡经常来和鸡冠花玩，鸡冠花开得更红了。秋天来了，鸡冠花结出许多小黑籽，风一吹，籽儿飞到泥土里，等着明年春天再发芽。"
+      },
+      "knowledge": {
+        "title": "鸡冠花的名字是怎么来的？",
+        "body": "鸡冠花的名字是因为它的花朵像大公鸡头上的鸡冠。它有很多颜色，红色、粉色和黄色最常见。鸡冠花的种子又多又小，藏在干枯的花瓣下，风一吹就能飞很远。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_cockscomb_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_cockscomb_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cockscomb",
+      "aloud": "/ˈkɒkskəʊm/",
+      "words": "",
+      "intro": "A cockscomb is a flower that looks like a rooster's comb, with bright red color that is as beautiful as flames. It loves sunshine and can be seen in parks and gardens.",
+      "story": {
+        "title": "🐔The Little Cockscomb's Secret",
+        "body": "In the park, there was a red cockscomb flower. It looked just like a rooster's comb. A little bee flew by and said, \"Your petals are so special, like flames!\" The little cockscomb smiled shyly. A chick ran over and stared at it, \"Why do you look just like my comb?\" The little cockscomb swayed and said, \"I am a flower, but I love the sun and I want to be your friend.\" From then on, the chick often came to play with the cockscomb, and the flower grew even redder. When autumn came, the cockscomb produced many tiny black seeds. The wind blew and the seeds flew into the soil, waiting to sprout next spring."
+      },
+      "knowledge": {
+        "title": "How did the cockscomb get its name?",
+        "body": "The cockscomb gets its name because its flower looks like a rooster's comb. It comes in many colors, with red, pink, and yellow being most common. The seeds are many and tiny, hidden under the dried petals, and the wind can carry them far away."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_cockscomb_intro.mp3",
+        "story": "../item-audio/en/flower_cockscomb_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "plant_ginkgo",
+  "sku_id": "card_plant_ginkgo",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "color_green"
+    ],
+    "secondary": [
+      "has_trunk",
+      "has_leaf",
+      "in_park"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "green",
+      "yellow"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "trunk",
+      "branches",
+      "leaves",
+      "roots"
+    ],
+    "scenes": [
+      "park",
+      "roadside",
+      "garden"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "银杏",
+      "aloud": "yín xìng",
+      "words": "ginkgo",
+      "intro": "银杏树高高的，叶子像一把把小扇子。春天嫩绿，秋天金黄，风一吹，叶子飘落下来，像蝴蝶在跳舞。",
+      "story": {
+        "title": "🌳银杏叶的小扇子",
+        "body": "在一个小公园里，有一棵高高的银杏树。春天，银杏树长出了嫩绿的小叶子，像一把把绿色的小扇子，在风里摇呀摇。夏天，叶子变得更绿了，密密的，给人们带来一片清凉。秋天来了，银杏叶慢慢变成了金黄色，漂亮极了！一阵风吹过，叶子像蝴蝶一样飘落下来。小宝宝跑过去，捡起一片片叶子，开心地笑着。妈妈说：“银杏叶真美呀，我们可以把它做成书签。”宝宝把叶子带回家，夹在书里。冬天，银杏树光秃秃的，但宝宝知道，明年春天，它又会发芽。宝宝喜欢这棵银杏树，它是他的好朋友。"
+      },
+      "knowledge": {
+        "title": "银杏有什么用处？",
+        "body": "银杏叶像小扇子，很好看，可以做成书签。银杏的果子叫白果，煮熟后可以吃，但要少吃。银杏树还能让空气更干净，美化我们的环境。银杏真是一种特别的树！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_ginkgo_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_ginkgo_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Ginkgo",
+      "aloud": "/ˈɡɪŋkoʊ/",
+      "words": "",
+      "intro": "The ginkgo tree is tall, with leaves that look like little fans. They are fresh green in spring and golden yellow in autumn. When the wind blows, the leaves flutter down like dancing butterflies.",
+      "story": {
+        "title": "🌳The Little Fan Leaves of the Ginkgo Tree",
+        "body": "There was a tall ginkgo tree in a small park. In spring, it grew tender green leaves, like tiny green fans, swaying in the breeze. In summer, the leaves became greener and thicker, bringing cool shade to everyone. When autumn came, the ginkgo leaves slowly turned golden yellow, so beautiful! A gust of wind blew, and the leaves fluttered down like butterflies. A little child ran over, picked up the leaves, and laughed happily. His mother said, \"The ginkgo leaves are so pretty! We can make bookmarks with them.\" The child took the leaves home and put them in a book. In winter, the ginkgo tree was bare, but the child knew that next spring, it would sprout again. The child loved the ginkgo tree—it was his good friend."
+      },
+      "knowledge": {
+        "title": "What is ginkgo good for?",
+        "body": "Ginkgo leaves look like little fans and are very pretty. You can use them to make bookmarks. Its seeds, called white fruits, can be eaten after cooking, but only a little. Ginkgo trees also help clean the air and make our environment beautiful. Ginkgo is truly a special tree!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_ginkgo_intro.mp3",
+        "story": "../item-audio/en/plant_ginkgo_story.mp3"
+      }
+    }
+  }
+}

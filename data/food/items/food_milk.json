@@ -1,0 +1,90 @@
+{
+  "id": "food_milk",
+  "sku_id": "card_food_milk",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "drinkable",
+      "color_white",
+      "breakfast_food"
+    ],
+    "secondary": [
+      "milky",
+      "smooth",
+      "at_breakfast"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "drink"
+    ],
+    "color": [
+      "white"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "cold",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "school"
+    ],
+    "is_edible": true,
+    "is_drinkable": true,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "牛奶",
+      "aloud": "niú nǎi",
+      "words": "milk",
+      "intro": "牛奶是白白的，喝起来香香甜甜的。它来自奶牛妈妈，能让我们长高高、变强壮。",
+      "story": {
+        "title": "🥛一杯牛奶的旅行",
+        "body": "每天早上，小明都会喝一杯温温的牛奶。有一天，他好奇地问妈妈：“牛奶是从哪里来的呀？”妈妈笑着拿出一本图画书，指给小明看：在绿绿的草原上，奶牛妈妈吃着青草，身体里就产出白白的牛奶。工人叔叔把牛奶收集起来，装进大大的罐子里，用很快很快的车送到工厂。在工厂里，牛奶经过消毒，变得干干净净，再装进小盒子里。超市阿姨把牛奶摆在货架上，妈妈买回家，倒进杯子里热一热，香喷喷的牛奶就出现在小明眼前。小明咕咚咕咚喝完，开心地说：“牛奶真好喝，谢谢奶牛妈妈！”"
+      },
+      "knowledge": {
+        "title": "牛奶是怎么来的？",
+        "body": "牛奶是从奶牛身上挤出来的，然后经过杀菌处理，变得安全又卫生。它富含蛋白质和钙，能帮助小朋友长高长大，身体棒。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_milk_intro.mp3",
+        "story": "../item-audio/zh-CN/food_milk_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Milk",
+      "aloud": "/mɪlk/",
+      "words": "",
+      "intro": "Milk is white and tastes sweet and yummy. It comes from dairy cows and helps us grow tall and strong.",
+      "story": {
+        "title": "🥛The Journey of a Glass of Milk",
+        "body": "Every morning, Xiao Ming drinks a cup of warm milk. One day, he asked his mom, 'Where does milk come from?' Mom smiled and showed him a picture book. On the green grassland, cows eat grass and then produce white milk. Workers collect the milk, put it into big tanks, and send it quickly to a factory. At the factory, the milk is pasteurized to make it clean and safe, and then packed into cartons. The supermarket lady puts the milk on the shelf, and Mom buys it and heats it at home. Then the fragrant milk appears in Xiao Ming's cup. He drinks it all up and says happily, 'Milk is so delicious! Thank you, cow!'"
+      },
+      "knowledge": {
+        "title": "Where does milk come from?",
+        "body": "Milk comes from dairy cows. After pasteurization, it becomes safe to drink. It is rich in protein and calcium, which help children grow tall and healthy."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_milk_intro.mp3",
+        "story": "../item-audio/en/food_milk_story.mp3"
+      }
+    }
+  }
+}

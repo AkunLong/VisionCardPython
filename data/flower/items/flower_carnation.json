@@ -1,0 +1,89 @@
+{
+  "id": "flower_carnation",
+  "sku_id": "card_flower_carnation",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_pink",
+      "in_garden"
+    ],
+    "secondary": [
+      "fragrant",
+      "many_petals",
+      "spring_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "pink"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "garden",
+      "pot",
+      "balcony"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "fragrant"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "康乃馨",
+      "aloud": "kāng nǎi xīn",
+      "words": "carnation",
+      "intro": "康乃馨是一种香香的花，花瓣粉粉的、漂亮极了。它代表对妈妈的爱和感恩，人们喜欢把它送给妈妈。",
+      "story": {
+        "title": "🌸康乃馨的礼物",
+        "body": "春天来了，小美在阳台上发现了一个小花盆，里面有一棵绿绿的小苗。小美每天给它浇水，小苗慢慢长大，长出了好多叶子。有一天，花苞冒出来了，是粉红色的，像小豆子一样。小美好奇地问妈妈：“这是什么花呀？”妈妈说：“这是康乃馨，开了会很漂亮哦。”过了几天，花苞展开了，变成一朵粉粉的花，花瓣软软的、香香的，像小裙边。小美轻轻摘下一朵，送给妈妈：“妈妈，谢谢您爱我，这朵花送给您！”妈妈笑着抱住小美，把康乃馨别在衣服上，真好看。从那以后，小美种了更多康乃馨，阳台变成了香香的小花园，每年春天都开满粉色的花。"
+      },
+      "knowledge": {
+        "title": "康乃馨为什么代表妈妈的爱？",
+        "body": "康乃馨的花瓣一层又一层，就像妈妈的爱一样，暖暖的、厚厚的。所以人们常常在母亲节送给妈妈康乃馨，表示谢谢妈妈。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_carnation_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_carnation_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Carnation",
+      "aloud": "/kɑːrˈneɪʃən/",
+      "words": "",
+      "intro": "A carnation is a sweet-smelling flower with pink, pretty petals. It stands for love and gratitude to mothers, so people often give it to their moms.",
+      "story": {
+        "title": "🌸A Gift of Carnations",
+        "body": "Spring came, and little Mei found a small flowerpot on the balcony with a tiny green sprout inside. She watered it every day, and the sprout grew taller with many leaves. One day, a pink bud appeared, like a little bean. Mei asked her mother, \"What flower is this?\" Mother said, \"It's a carnation. It will be so beautiful when it blooms.\" After a few days, the bud opened into a lovely pink flower with soft, fragrant petals like tiny skirts. Mei gently picked one and gave it to her mother. \"Mom, thank you for loving me. This flower is for you!\" Mother smiled and hugged Mei, pinning the carnation on her dress. It looked so pretty. From that day on, Mei grew more carnations, and the balcony became a sweet little garden. Every spring, it was full of pink blossoms."
+      },
+      "knowledge": {
+        "title": "Why do carnations mean a mother's love?",
+        "body": "Carnation petals have many layers, just like a mother's warm, deep love. That's why people often give carnations to their mothers on Mother's Day to say thank you."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_carnation_intro.mp3",
+        "story": "../item-audio/en/flower_carnation_story.mp3"
+      }
+    }
+  }
+}

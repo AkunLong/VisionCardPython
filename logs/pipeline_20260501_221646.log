@@ -1,0 +1,14 @@
+日志文件: /Users/kun/PycharmProjects/VisionCardPython/logs/pipeline_20260501_221646.log
+
+============================================================
+  [步骤1-items_make] 品类: animal
+  命令: /Users/kun/PycharmProjects/VisionCardPython/.venv/bin/python items_make.py --category animal --model deepseek-v4-pro
+============================================================
+  ❌ [步骤1-items_make] animal 失败 (exit code 1)
+
+============================================================
+  汇总
+============================================================
+  animal: items_make:❌
+
+日志已保存: /Users/kun/PycharmProjects/VisionCardPython/logs/pipeline_20260501_221646.log

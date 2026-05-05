@@ -1,0 +1,95 @@
+{
+  "id": "transport_ambulance",
+  "sku_id": "card_transport_ambulance",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "special_vehicle",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_rescue",
+      "has_siren"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "ambulance"
+    ],
+    "color": [
+      "white",
+      "red"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "road",
+      "hospital",
+      "city"
+    ],
+    "fuel": [
+      "gasoline"
+    ],
+    "features": [
+      "siren",
+      "stretcher",
+      "medical_equipment"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "救护车",
+      "aloud": "jiù hù chē",
+      "words": "ambulance",
+      "intro": "救护车是一辆白色的车，身上有红色的十字，头顶有闪亮的灯和响亮的警笛。它专门帮助生病或受伤的人，把他们快快送到医院去。",
+      "story": {
+        "title": "🚑小白车的紧急任务",
+        "body": "叮铃铃——急救电话响了！小白车立刻发动，警笛呜呜叫，一路飞驰。一位老爷爷不小心摔倒了，腿很疼。小白车轻轻停下，穿白衣服的叔叔阿姨把爷爷抬上车，给他盖上软软的毯子。小白车又快又稳地向前开，路上的车都主动让行。很快到了医院，医生马上赶来帮忙。爷爷说：“谢谢小白车，你救了我！”小白车闪了闪灯，笑着说：“这是我应该做的。”随后它回到车库，安静地等待下一次任务。"
+      },
+      "knowledge": {
+        "title": "救护车为什么很重要？",
+        "body": "救护车是马路上的“移动医院”，里面有很多急救工具。当有人受伤或突然生病时，它能快速赶到，在去医院的路上就开始救人，为生命争取时间。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_ambulance_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_ambulance_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Ambulance",
+      "aloud": "/ˈæmbjələns/",
+      "words": "",
+      "intro": "An ambulance is a white vehicle with a red cross and a loud siren. It helps sick or injured people and quickly takes them to the hospital.",
+      "story": {
+        "title": "🚑Little White Ambulance’s Emergency",
+        "body": "Ring! The emergency phone rang. Little White Ambulance started its engine right away, siren wailing. An old grandpa had fallen and hurt his leg. The ambulance stopped gently, and helpers in white put him on a soft bed inside. It drove fast but smoothly, and all the cars on the road moved aside. Soon they arrived at the hospital, and the doctors rushed to help. The grandpa said, “Thank you, Little White Ambulance, you saved me!” The ambulance flashed its lights and smiled, “It’s my job to help.” Then it went back to the station, quietly waiting for the next call."
+      },
+      "knowledge": {
+        "title": "Why is an ambulance important?",
+        "body": "An ambulance is like a small hospital on wheels. It comes quickly when someone is hurt or feels very sick, and helpers start care on the way to the hospital. This helps save lives by not wasting time."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_ambulance_intro.mp3",
+        "story": "../item-audio/en/transport_ambulance_story.mp3"
+      }
+    }
+  }
+}

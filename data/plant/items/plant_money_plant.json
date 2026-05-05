@@ -1,0 +1,99 @@
+{
+  "id": "plant_money_plant",
+  "sku_id": "card_plant_money_plant",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "potted_plant",
+      "color_green"
+    ],
+    "secondary": [
+      "has_leaf",
+      "at_home",
+      "can_watch"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "herb",
+      "succulent_plant"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ],
+    "size": [
+      "medium"
+    ],
+    "parts": [
+      "leaves",
+      "stems",
+      "roots"
+    ],
+    "scenes": [
+      "indoor",
+      "office",
+      "living_room"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "金钱树",
+      "aloud": "jīn qián shù",
+      "words": "money plant",
+      "intro": "金钱树的叶子绿油油的，一片一片像小小的铜钱。它喜欢住在温暖的家里，安安静静地长高，带给大家好心情。",
+      "story": {
+        "title": "💰金钱树的幸福",
+        "body": "阳台上有一盆金钱树，它总是挺直腰板，闪着绿光。小主人朵朵每天给它浇水，和它说悄悄话。有一天，朵朵的好朋友豆豆来做客，看见金钱树，好奇地问：“它为什么叫金钱树呀？”朵朵说：“因为它能带来好运呀，你看它的叶子，圆圆的像小钱币！”豆豆轻轻摸了摸叶子，说：“好光滑呀，好像涂了蜡。”金钱树听到了，心里美滋滋的。晚上，月亮出来了，金钱树在月光下悄悄许愿：希望朵朵一家永远开开心心。日子一天天过去，金钱树越长越茂盛，家里也总是充满了笑声。金钱树想：能给别人带来快乐，就是最幸福的事呀！"
+      },
+      "knowledge": {
+        "title": "金钱树有什么特别？",
+        "body": "金钱树很会储存水分，叶子厚厚的，不怕忘记浇水。它能净化空气，让家里更清新。放在室内绿绿的，看着就舒服，大家都喜欢它。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_money_plant_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_money_plant_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Money Plant",
+      "aloud": "/ˈmʌni plɑːnt/",
+      "words": "",
+      "intro": "The money plant has shiny green leaves that look like little coins. It loves living in a warm home, growing quietly and bringing good cheer.",
+      "story": {
+        "title": "💰The Happiness of the Money Plant",
+        "body": "There was a potted money plant on the balcony. It stood straight and shone with green light. Little Duoduo watered it every day and whispered secrets. One day, Duoduo's friend Doudou came over. Curious, Doudou asked, 'Why is it called a money plant?' Duoduo said, 'Because it brings good luck! See, its leaves are round like coins!' Doudou gently touched a leaf and said, 'So smooth, like it's coated with wax.' The money plant heard and felt happy inside. At night, under the moonlight, it made a wish: hope Duoduo's family is always joyful. As days passed, the plant grew thicker and the home was full of laughter. The money plant thought: bringing happiness to others is the happiest thing!"
+      },
+      "knowledge": {
+        "title": "What’s special about the money plant?",
+        "body": "The money plant stores water in its thick leaves, so it's okay if you forget to water it sometimes. It cleans the air, making your home fresher. Its green color is so relaxing to look at."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_money_plant_intro.mp3",
+        "story": "../item-audio/en/plant_money_plant_story.mp3"
+      }
+    }
+  }
+}

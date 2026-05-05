@@ -1,0 +1,98 @@
+{
+  "id": "plant_osmanthus_tree",
+  "sku_id": "card_plant_osmanthus_tree",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "color_yellow"
+    ],
+    "secondary": [
+      "has_flower",
+      "fragrant",
+      "in_garden"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "green",
+      "yellow",
+      "brown"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "trunk",
+      "branches",
+      "leaves",
+      "flowers",
+      "roots"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "roadside"
+    ],
+    "season": [
+      "autumn"
+    ],
+    "is_edible": true,
+    "is_drinkable": true,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "桂花树",
+      "aloud": "guì huā shù",
+      "words": "osmanthus",
+      "intro": "桂花树秋天开小小的黄花，香香的，像星星一样挂满枝头。风吹过来，到处都是甜甜的味道。",
+      "story": {
+        "title": "🌼桂花树下的秋天",
+        "body": "幼儿园旁边有一棵桂花树。秋天到了，桂花开了，黄黄的小花藏在绿叶里，像一个个小铃铛。风一吹，香味飘进教室，小朋友们都说：“好香呀！”老师说，桂花可以做好吃的。大家拿来小篮子，轻轻捡起落下的桂花。小花软软的，香香的。他们做成了桂花蜜，泡茶喝，甜甜的，暖洋洋的。他们还把桂花缝进小布袋里，放在枕头边，晚上睡觉也香香的。桂花树看着孩子们，心里想：我好高兴，能给你们带来快乐。明年秋天，我还会开满花，等着你们来！"
+      },
+      "knowledge": {
+        "title": "桂花可以做什么？",
+        "body": "桂花开在秋天，香喷喷的。它可以泡茶，做成甜甜的桂花糕、桂花蜜。人们把桂花收集起来，让美食变得更好吃，也让秋天更香更美。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_osmanthus_tree_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_osmanthus_tree_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Osmanthus Tree",
+      "aloud": "/ɑzˈmænθəs triː/",
+      "words": "",
+      "intro": "In autumn, the osmanthus tree is full of tiny yellow flowers. They are sweet and fragrant. When the wind blows, the lovely scent travels far and wide.",
+      "story": {
+        "title": "🌼Gifts from the Osmanthus Tree",
+        "body": "Next to the kindergarten, there was an osmanthus tree. When autumn came, it bloomed with small yellow flowers, hidden among the green leaves like little bells. The sweet smell floated into the classroom. 'How nice it smells!' the children said. The teacher told them that osmanthus flowers can be used to make treats. They brought little baskets and gently picked the fallen flowers. The tiny blossoms were soft and sweet. They made osmanthus honey, which they drank as warm tea—so sweet and cozy. They also sewed the flowers into little cloth bags and put them by their pillows. Every night, they slept with a lovely scent. The osmanthus tree watched the children and thought, 'I am so happy to bring you joy. Next autumn, I will bloom again and wait for you!'"
+      },
+      "knowledge": {
+        "title": "What can we do with osmanthus?",
+        "body": "Osmanthus blooms in autumn and smells wonderful. It can be brewed into tea, made into sweet cakes, or made into honey. People collect the flowers to make food more delicious and to fill autumn with fragrance and beauty."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_osmanthus_tree_intro.mp3",
+        "story": "../item-audio/en/plant_osmanthus_tree_story.mp3"
+      }
+    }
+  }
+}

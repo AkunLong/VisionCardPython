@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_v",
+  "sku_id": "card_number_letter_v",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "alphabet_order",
+      "letter_stage",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": "V",
+    "is_even": false,
+    "is_prime": false,
+    "ordinal": "22nd",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母V",
+      "aloud": "wēi",
+      "words": "v",
+      "intro": "字母V是英语字母表里的一个字母，它看起来像尖尖的小山，读作“微”。我们来认识它吧！",
+      "story": {
+        "title": "🅥尖尖的胜利手势",
+        "body": "小熊维尼在纸上画了一个大大的V，说：“看，这是字母V，像不像两支铅笔碰在一起？”小蜜蜂飞过来说：“嗡嗡，V也像我的翅膀尖！”小兔子竖起耳朵说：“V还像胜利的手势，耶！”大家一起举起小手，比出V字，开心地喊：“V for Victory! V for Very happy!”字母V真神气，它总是站得直直的，尖尖的脑袋指向天空，好像永远在说：“我很棒！”"
+      },
+      "knowledge": {
+        "title": "字母V的小知识",
+        "body": "字母V是英语里的第22个字母，它是辅音字母。很多有趣的单词都以V开头，比如小提琴（violin）和火山（volcano）。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_v_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_v_story.mp3"
+      }
+    },
+    "en": {
+      "name": "V",
+      "aloud": "/viː/",
+      "words": "",
+      "intro": "Letter V is the 22nd letter of the alphabet. It looks like a sharp mountain and sounds like 'vee'. Let's get to know V!",
+      "story": {
+        "title": "🅥Pointy Victory Sign",
+        "body": "Winnie the Pooh drew a big V on the paper and said, 'Look, this is letter V. Doesn't it look like two pencils touching at the top?' A little bee buzzed over and said, 'Bzz, V also looks like the tips of my wings!' A bunny raised its ears and said, 'V is also like the victory sign, yay!' Everyone held up their hands to make a V and shouted happily, 'V for Victory! V for Very happy!' Letter V is so proud—it always stands up straight, its pointy head reaching toward the sky, as if saying, 'I'm great!'"
+      },
+      "knowledge": {
+        "title": "Fun Facts about Letter V",
+        "body": "V is the 22nd letter of the English alphabet and it is a consonant. Many fun words start with V, like violin and volcano."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_v_intro.mp3",
+        "story": "../item-audio/en/number_letter_v_story.mp3"
+      }
+    }
+  }
+}

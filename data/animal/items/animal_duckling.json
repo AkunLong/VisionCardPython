@@ -1,0 +1,104 @@
+{
+  "id": "animal_duckling",
+  "sku_id": "card_animal_duckling",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "bird",
+      "cute"
+    ],
+    "secondary": [
+      "small",
+      "has_feathers",
+      "quack"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "bird",
+      "poultry"
+    ],
+    "color": [
+      "yellow",
+      "brown",
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "feathers",
+      "wings",
+      "beak",
+      "webbed feet"
+    ],
+    "scenes": [
+      "farm",
+      "pond",
+      "yard"
+    ],
+    "actions": [
+      "walk",
+      "swim",
+      "run",
+      "waddle"
+    ],
+    "sound": [
+      "quack"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "小鸭子",
+      "aloud": "xiǎo yā zi",
+      "words": "duckling",
+      "intro": "小鸭子是一种毛茸茸的小动物，它有扁扁的嘴巴，走起路来摇摇摆摆，叫起来‘嘎嘎嘎’。小鸭子喜欢在水里游泳，是小朋友的好朋友。",
+      "story": {
+        "title": "🐥小鸭子找妈妈",
+        "body": "有一天，小鸭子嘎嘎和妈妈在农场里散步。嘎嘎看到一只漂亮的蝴蝶，就追着蝴蝶跑呀跑。跑着跑着，它发现自己迷路了，妈妈不见了。嘎嘎有点着急，它‘嘎嘎嘎’地叫起来。这时，一只大白鹅游过来说：‘别着急，我带你去找妈妈。’大白鹅带着嘎嘎来到池塘边。远远地，嘎嘎就看见了妈妈。妈妈也在‘嘎嘎嘎’地叫它呢！嘎嘎飞快地跑过去，扑进妈妈怀里，心里暖暖的。从此以后，嘎嘎再也不乱跑了。"
+      },
+      "knowledge": {
+        "title": "小鸭子为什么喜欢排成一排走？",
+        "body": "小鸭子排成一排走路，是为了不掉队，这样最安全。鸭妈妈在前面带路，小鸭子跟着妈妈就不会迷路，也能躲开危险。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_duckling_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_duckling_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Duckling",
+      "aloud": "/ˈdʌklɪŋ/",
+      "words": "",
+      "intro": "A duckling is a baby duck. It has soft yellow feathers, a flat beak, and it waddles when it walks. Ducklings love to swim and go 'quack, quack'.",
+      "story": {
+        "title": "🐥The Little Duckling Finds His Mother",
+        "body": "One day, Little Duckling Quack was waddling on the farm with his mother. He saw a beautiful butterfly and chased after it. When he stopped, he realized he was lost. He called 'Quack, quack!' but his mother was not in sight. A kind white goose swam over and said, 'Don't worry, I'll help you find your mother.' They went to the pond. From far away, Quack saw his mother! She was calling 'Quack, quack!' too. Quack ran quickly and hugged his mother. He felt warm and safe. After that, Quack never wandered off alone again."
+      },
+      "knowledge": {
+        "title": "Why do ducklings walk in a line?",
+        "body": "Ducklings walk in a line to stay safe. When they follow their mother, they won't get lost and can avoid danger. It helps them stick together."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_duckling_intro.mp3",
+        "story": "../item-audio/en/animal_duckling_story.mp3"
+      }
+    }
+  }
+}

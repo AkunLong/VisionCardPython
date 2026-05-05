@@ -1,0 +1,97 @@
+{
+  "id": "plant_fernleaf_bamboo",
+  "sku_id": "card_plant_fernleaf_bamboo",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "bamboo",
+      "color_green"
+    ],
+    "secondary": [
+      "has_leaf",
+      "in_garden",
+      "potted_plant"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "bamboo"
+    ],
+    "color": [
+      "green"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "leaves",
+      "stems",
+      "roots"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "home"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "凤尾竹",
+      "aloud": "fèng wěi zhú",
+      "words": "bamboo",
+      "intro": "凤尾竹的叶子细细的，像小羽毛一样，绿油油的很好看。它喜欢阳光，也喜欢喝水，是家里和公园里常见的小竹子。",
+      "story": {
+        "title": "🎋凤尾竹的小秘密",
+        "body": "妈妈带回来一盆凤尾竹，它的叶子像凤凰的尾巴，细细软软的。小美每天给它浇水，和它说话。有一天，她发现泥土里冒出了一个小小的竹笋，尖尖的，可爱极了。小美高兴地喊妈妈来看。竹笋一天天长高，变成了嫩绿的新竹子。凤尾竹在小美的照顾下，越长越茂盛。小美觉得，植物就像小朋友，需要关心和爱。她更喜欢这盆凤尾竹了！"
+      },
+      "knowledge": {
+        "title": "凤尾竹有什么特点？",
+        "body": "凤尾竹是竹子的一种，叶子像羽毛，四季常绿。它喜欢温暖的地方，可以种在花盆里，也能种在花园里。它能净化空气，让家里更美丽。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_fernleaf_bamboo_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_fernleaf_bamboo_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Fernleaf Bamboo",
+      "aloud": "/ˈfɜːnliːf bæmˈbuː/",
+      "words": "",
+      "intro": "Fernleaf bamboo has fine, feathery leaves that are bright green. It loves sunshine and water, and can be found in homes and gardens. It's a lovely little bamboo plant.",
+      "story": {
+        "title": "🎋The Little Bamboo's Secret",
+        "body": "Mom brought home a pot of fernleaf bamboo. Its leaves were as fine as feathers, soft and green. Lily watered it every day and talked to it. One day, she noticed a tiny bamboo shoot poking out of the soil, pointy and cute. She happily called Mom to see. The shoot grew taller and turned into a tender green new bamboo. With Lily's care, the fernleaf bamboo became lush and beautiful. Lily learned that plants, like children, need love and care. She loved her bamboo even more!"
+      },
+      "knowledge": {
+        "title": "What is special about fernleaf bamboo?",
+        "body": "Fernleaf bamboo is a type of bamboo with feathery leaves. It stays green all year and loves warmth. It can be planted in pots or gardens. It helps clean the air and makes our home beautiful."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_fernleaf_bamboo_intro.mp3",
+        "story": "../item-audio/en/plant_fernleaf_bamboo_story.mp3"
+      }
+    }
+  }
+}

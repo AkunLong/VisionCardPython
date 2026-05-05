@@ -1,0 +1,90 @@
+{
+  "id": "vegetable_cauliflower",
+  "sku_id": "card_vegetable_cauliflower",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_white",
+      "flower_shape"
+    ],
+    "secondary": [
+      "can_cook",
+      "healthy",
+      "soft"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "white"
+    ],
+    "shape": [
+      "flower"
+    ],
+    "taste": [
+      "mild"
+    ],
+    "grow_location": [
+      "ground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "花菜",
+      "aloud": "huā cài",
+      "words": "cauliflower",
+      "intro": "花菜是一种白色的蔬菜，看起来像一朵大大的花，吃起来软软的，很有营养。它长在地面上，被绿叶包着，就像穿着绿色外套。",
+      "story": {
+        "title": "🥦一朵白色的花",
+        "body": "小兔子在菜园里发现了一朵白色的花，它说：“这朵花真漂亮！”伸手想去摘，妈妈连忙拦住说：“那不是花，是花菜，可以吃的哦！”小兔子好奇地看着这个圆圆的、像云朵一样的花菜。妈妈把花菜摘下来，洗得干干净净，切成小块，煮了一锅香喷喷的汤。小兔子尝了一口，说：“软软的，真好吃！”它叫来小松鼠和小刺猬，大家一起喝汤。小松鼠说：“花菜甜甜的！”小刺猬说：“吃了身体棒！”喝完了汤，小兔子把花菜叶子种回地里，盼望着再长出一大朵白色的花菜。"
+      },
+      "knowledge": {
+        "title": "吃花菜有什么好处？",
+        "body": "花菜含有丰富的维生素C，吃了能让身体更强壮，不容易生病。而且花菜可以煮汤、炒着吃，怎么吃都很健康！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_cauliflower_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_cauliflower_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cauliflower",
+      "aloud": "/ˈkɒlɪflaʊər/",
+      "words": "",
+      "intro": "Cauliflower is a white vegetable that looks like a big flower. It tastes soft and is very nutritious. It grows on the ground, wrapped in green leaves like a green coat.",
+      "story": {
+        "title": "🥦A White Flower",
+        "body": "The little rabbit saw a white flower in the garden and said, “How pretty!” It tried to pick it, but Mama stopped it and said, “That’s not a flower, it’s cauliflower, and we can eat it!” The rabbit looked at the round, cloud-like cauliflower with curiosity. Mama picked it and washed it clean, then cut it into small pieces and made a pot of yummy soup. The rabbit took a sip and said, “So soft and delicious!” It invited the little squirrel and the little hedgehog to share the soup. The squirrel said, “It’s a bit sweet!” The hedgehog said, “It makes us strong!” After finishing the soup, the rabbit planted the cauliflower leaves back in the ground, hoping to grow another big white cauliflower."
+      },
+      "knowledge": {
+        "title": "Why is eating cauliflower good for you?",
+        "body": "Cauliflower has lots of vitamin C, which helps your body stay strong and fight off sickness. You can cook it in soup or stir-fry it — it’s healthy and yummy!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_cauliflower_intro.mp3",
+        "story": "../item-audio/en/vegetable_cauliflower_story.mp3"
+      }
+    }
+  }
+}

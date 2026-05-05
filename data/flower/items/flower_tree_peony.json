@@ -1,0 +1,89 @@
+{
+  "id": "flower_tree_peony",
+  "sku_id": "card_flower_tree_peony",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_pink",
+      "in_garden"
+    ],
+    "secondary": [
+      "big_flower",
+      "fragrant",
+      "spring_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "pink"
+    ],
+    "size": [
+      "medium"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "balcony"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "fragrant"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "芍药",
+      "aloud": "sháo yào",
+      "words": "peony",
+      "intro": "芍药是一种漂亮的花，花瓣很多，颜色粉粉的，像一朵大绒球。春天的时候，它在花园里盛开，闻起来香香的，大家都喜欢它。",
+      "story": {
+        "title": "🌸小芍药开花啦",
+        "body": "春天到了，妈妈带着小琪在花园里种下了一棵芍药苗。小琪每天都来看它，给它浇水，说：“小芍药，你快快长大吧！”过了几天，芍药长出了绿色的叶子，又过了几天，枝头上冒出了几个圆圆的花苞。小琪轻轻地摸了摸花苞，软软的，粉粉的。有一天早上，小琪推开窗户，看到花园里开了一朵好大的粉色花！她跑过去，闻到一股香香的味道。小琪高兴地喊：“妈妈，快来看，芍药开花啦！”蜜蜂也飞来了，围着花跳舞。小琪觉得这朵芍药是花园里最漂亮的。她每天都要和它说说话，看着花瓣在风里轻轻摇摆，像在说你好。小琪心里甜甜的。"
+      },
+      "knowledge": {
+        "title": "芍药的花瓣为什么那么多？",
+        "body": "芍药的花瓣是一层层包起来的，所以看起来蓬蓬的。它的花苞刚开始是绿色小球，慢慢长大就变成粉色的花。芍药喜欢阳光，春天开放，能给花园带来美丽和香气。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_tree_peony_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_tree_peony_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Peony",
+      "aloud": "/ˈpiːəni/",
+      "words": "",
+      "intro": "A peony is a beautiful flower with lots of petals that look like a fluffy pink ball. In spring, it blooms in the garden and smells very sweet. Everyone loves it.",
+      "story": {
+        "title": "🌸The Little Peony Blooms",
+        "body": "In spring, Mom and little Qi planted a peony in the garden. Qi watered it every day and said, 'Grow fast, little peony!' Soon, green leaves came out, and then round buds appeared. One morning, Qi opened the window and saw a big pink flower! She ran to the garden and smelled a lovely fragrance. 'Mom, come see! The peony has bloomed!' Qi shouted. A bee came and danced around the flower. Qi thought it was the most beautiful flower in the garden. She talked to it every day, and the petals gently waved in the wind, as if saying hello. Qi's heart was full of joy."
+      },
+      "knowledge": {
+        "title": "Why do peonies have so many petals?",
+        "body": "Peony petals are layered like a fluffy ball. The bud starts as a green ball and slowly turns pink. Peonies love sunshine and bloom in spring, bringing beauty and lovely scent to the garden."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_tree_peony_intro.mp3",
+        "story": "../item-audio/en/flower_tree_peony_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_x",
+  "sku_id": "card_number_letter_x",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "alphabet_order",
+      "pronunciation_stage",
+      "can_trace"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 24,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "24th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母X",
+      "aloud": "x",
+      "words": "x",
+      "intro": "字母X是英文字母表中的第24个字母。它看起来像两条交叉的线，就像海盗地图上的标记一样！X是个很特别的字母哦。",
+      "story": {
+        "title": "🗺️寻找宝藏的X",
+        "body": "在一张大大的藏宝图上，有一个大大的X标记。X说：我就是目标点！所有的小朋友都跟着X出发。左边一条线，右边一条线，交叉在一起，就是藏宝的地方。我们沿着线走啊走，穿过了A字形的山，跨过了S形的小河，终于来到了X标记的地方。挖开泥土，里面藏着闪闪发光的宝石和一本英文字母书！X真厉害，帮助我们找到了宝藏。现在，每次看到X，我们都会想起那次有趣的冒险。"
+      },
+      "knowledge": {
+        "title": "X为什么像交叉的线？",
+        "body": "很久以前，人们用X表示交叉或记号。在罗马数字中，X代表数字十，也是因为两条线交叉。现在，X在字母表中还是很特别的字母，很多词都以X开头，比如x-ray（X光）。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_x_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_x_story.mp3"
+      }
+    },
+    "en": {
+      "name": "X",
+      "aloud": "/eks/",
+      "words": "",
+      "intro": "X is the 24th letter of the English alphabet. It looks like two crossed lines, just like the mark on a pirate map! X is a very special letter.",
+      "story": {
+        "title": "🗺️X Marks the Treasure",
+        "body": "On a big treasure map, there was a big X. X said, I'm the target! All the kids followed X to set off. Left line, right line, crossing together, that's where the treasure was. We walked along the lines, passed the A-shaped mountain, crossed the S-shaped river, and finally arrived at the X spot. We dug up the soil and found shiny gems and an alphabet book! X was so great, helping us find the treasure. Now, every time we see X, we remember that fun adventure."
+      },
+      "knowledge": {
+        "title": "Why does X look like crossed lines?",
+        "body": "Long ago, people used X to mean a cross or a mark. In Roman numerals, X stands for ten, also because two lines cross. Now, X is still a special letter in the alphabet, and many words start with X, like x-ray."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_x_intro.mp3",
+        "story": "../item-audio/en/number_letter_x_story.mp3"
+      }
+    }
+  }
+}

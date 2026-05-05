@@ -1,0 +1,89 @@
+{
+  "id": "flower_blue_plumbago",
+  "sku_id": "card_flower_blue_plumbago",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_blue",
+      "in_garden"
+    ],
+    "secondary": [
+      "small_flower",
+      "summer_flower",
+      "star_shape"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "blue"
+    ],
+    "size": [
+      "bushy"
+    ],
+    "scenes": [
+      "garden",
+      "balcony",
+      "pot"
+    ],
+    "season": [
+      "summer"
+    ],
+    "smell": [
+      "none"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "蓝雪花",
+      "aloud": "lán xuě huā",
+      "words": "blue plumbago",
+      "intro": "蓝雪花是一种开着淡蓝色小花的植物，花瓣像一颗颗小星星。它喜欢阳光，夏天开得最热闹。",
+      "story": {
+        "title": "🌊蓝雪花的小星星",
+        "body": "阳台上，妈妈种了一盆蓝雪花。夏天到了，枝头冒出一簇簇小花苞，慢慢地张开了。哇，淡蓝色的花瓣真好看，就像许多小星星挂在绿叶间。小风一吹，花儿轻轻摇晃，好像在眨眼睛。小女孩朵朵趴在盆边，对蓝雪花说：“你们是天上掉下来的小星星吗？”蓝雪花没有说话，但是开得更欢了。天气越来越热，别的花都蔫了，只有蓝雪花不怕晒，花儿越开越多。朵朵每天早上都给它们浇水，蓝雪花用美丽的小花回报她，整个夏天阳台都像一片小小的星空。"
+      },
+      "knowledge": {
+        "title": "蓝雪花为什么是蓝色的？",
+        "body": "蓝雪花的花瓣里含有一种天然色素，让它呈现出漂亮的蓝色。它原产于南非，喜欢温暖和阳光，越热花开得越多，能给夏天带来清凉的感觉。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_blue_plumbago_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_blue_plumbago_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Blue Plumbago",
+      "aloud": "/ˈplʌmbəɡoʊ/",
+      "words": "",
+      "intro": "Blue Plumbago is a plant with clusters of small, pale blue flowers that look like tiny stars. It loves sunshine and blooms the most in summer.",
+      "story": {
+        "title": "🌊The Little Stars of Blue Plumbago",
+        "body": "On the balcony, Mom grew a pot of Blue Plumbago. When summer came, little buds appeared on the branches and slowly opened. Wow! The pale blue petals were so pretty, just like many tiny stars hanging among the green leaves. A gentle breeze blew, and the flowers swayed softly, as if winking. Little girl Dodo leaned close and asked the flowers, “Are you little stars that fell from the sky?” The Blue Plumbago didn’t answer, but bloomed even more cheerfully. The weather grew hotter, and other flowers drooped, but the Plumbago loved the sun and grew more and more flowers. Every morning Dodo watered them, and the Blue Plumbago rewarded her with its beauty, making the balcony like a little starry sky all summer."
+      },
+      "knowledge": {
+        "title": "Why is Blue Plumbago blue?",
+        "body": "The petals of Blue Plumbago contain a natural pigment that gives them a lovely blue color. It comes from South Africa and loves warmth and sunshine. The hotter it gets, the more it blooms, bringing a cool feeling to summer."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_blue_plumbago_intro.mp3",
+        "story": "../item-audio/en/flower_blue_plumbago_story.mp3"
+      }
+    }
+  }
+}

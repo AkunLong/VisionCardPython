@@ -1,0 +1,92 @@
+{
+  "id": "object_toy",
+  "sku_id": "card_object_toy",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "toy_item",
+      "color_red"
+    ],
+    "secondary": [
+      "at_home",
+      "soft",
+      "can_play"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "red",
+      "yellow"
+    ],
+    "shape": [
+      "round"
+    ],
+    "material": [
+      "fabric",
+      "plastic"
+    ],
+    "scenes": [
+      "home",
+      "kindergarten",
+      "playground"
+    ],
+    "function": [
+      "play",
+      "comfort"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "玩具",
+      "aloud": "wán jù",
+      "words": "toy",
+      "intro": "玩具是我们最好的朋友。它们有各种各样的形状和颜色，可以陪我们做游戏，带给我们快乐。",
+      "story": {
+        "title": "🧸小熊宝宝的一天",
+        "body": "小熊宝宝是欢欢最喜欢的玩具。每天早上，欢欢都会抱着小熊宝宝说早安。小熊宝宝陪欢欢一起吃早饭，一起听故事。下午，欢欢带着小熊宝宝去公园玩滑梯和秋千。小熊宝宝虽然不会说话，但它总是笑眯眯的，好像在说：和你在一起真开心！晚上，欢欢抱着小熊宝宝睡觉，小熊宝宝让欢欢不怕黑森林。小熊宝宝是欢欢最温暖的朋友，每天都陪着她。"
+      },
+      "knowledge": {
+        "title": "玩具是什么？",
+        "body": "玩具是小朋友用来玩耍的物品，有布娃娃、小汽车、积木等多种。它们可以陪伴我们，带给我们快乐，还能帮助我们学习新东西。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_toy_intro.mp3",
+        "story": "../item-audio/zh-CN/object_toy_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Toy",
+      "aloud": "/tɔɪ/",
+      "words": "",
+      "intro": "Toys are our best friends. They come in many shapes and colors. We can play with them and they bring us joy.",
+      "story": {
+        "title": "🧸Teddy Bear's Day",
+        "body": "Teddy Bear is Huanhuan's favorite toy. Every morning, Huanhuan hugs Teddy Bear and says good morning. Teddy Bear eats breakfast with Huanhuan and listens to stories. In the afternoon, Huanhuan takes Teddy Bear to the park to play on the slide and swing. Teddy Bear cannot talk, but it always smiles, as if to say: It's so happy to be with you! At night, Huanhuan hugs Teddy Bear to sleep. Teddy Bear helps Huanhuan not be afraid of the dark forest. Teddy Bear is Huanhuan's warmest friend, staying with her every day."
+      },
+      "knowledge": {
+        "title": "What is a toy?",
+        "body": "A toy is something children play with, like dolls, cars, and building blocks. Toys can be soft or hard, big or small. They can keep us company, bring us joy, and help us learn new things. Some toys even make sounds or move."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_toy_intro.mp3",
+        "story": "../item-audio/en/object_toy_story.mp3"
+      }
+    }
+  }
+}

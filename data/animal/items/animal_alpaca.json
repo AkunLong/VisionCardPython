@@ -1,0 +1,102 @@
+{
+  "id": "animal_alpaca",
+  "sku_id": "card_animal_alpaca",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "farm_animal",
+      "cute"
+    ],
+    "secondary": [
+      "has_fur",
+      "has_long_neck",
+      "eats_grass"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "farm_animal"
+    ],
+    "color": [
+      "white",
+      "brown",
+      "black",
+      "gray"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "fur",
+      "neck",
+      "ears",
+      "tail"
+    ],
+    "scenes": [
+      "farm",
+      "grassland",
+      "field"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "jump"
+    ],
+    "sound": [],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "羊驼",
+      "aloud": "yáng tuó",
+      "words": "alpaca",
+      "intro": "羊驼是一种可爱的动物，身上有厚厚的软软的毛，脖子长长的，性格很温和。羊驼喜欢在草地上散步，也喜欢和朋友们在一起。",
+      "story": {
+        "title": "🦙小羊驼找围巾",
+        "body": "小羊驼朵朵有一条最喜欢的白色绒毛围巾，那是农场奶奶送给它的。朵朵每天都戴着它，软软的暖暖的，它觉得特别幸福。一天早上，朵朵醒来后，发现围巾不在脖子上了。它好着急呀，在草地上跑来跑去，这边看看，那边找找。它去问小白兔：“你看见我的围巾了吗？”小白兔摇摇头说：“没有呀。”朵朵又去问小鸭子：“请问你看见我的白色围巾了吗？”小鸭子也摇摇脑袋。朵朵难过地低下头，忽然，它看见自己的脖子上有一圈白白的东西。原来，围巾被风吹得绕了一圈，藏在了脖子后面。朵朵开心地叫了起来：“找到啦！找到啦！”它又把围巾围好，暖暖的，继续在阳光下散步。"
+      },
+      "knowledge": {
+        "title": "羊驼的脖子为什么长长的？",
+        "body": "羊驼生活在高高的山上或农场里。它们有一条长长的脖子，可以高高地抬起头，看到很远的地方，这样就能早早发现有没有危险。羊驼全身长着厚厚的绒毛，这些绒毛软软的、暖暖的，就像穿着一件大棉衣，在寒冷的天气里也能保持温暖。人们常常用羊驼的绒毛做成衣服和围巾。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_alpaca_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_alpaca_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Alpaca",
+      "aloud": "/ælˈpækə/",
+      "words": "",
+      "intro": "The alpaca is a cute animal with thick, soft fur and a long neck. It is very gentle and likes to walk on the grass with its friends.",
+      "story": {
+        "title": "🦙The Little Alpaca Looks for Her Scarf",
+        "body": "Dodo the little alpaca had a favorite white woolen scarf. Grandma on the farm gave it to her. Dodo wore it every day; it was so soft and warm, and she felt very happy. One morning, Dodo woke up and found the scarf was not around her neck. She was so worried! She ran back and forth on the grass, looking here and there. She asked Little Rabbit, “Did you see my scarf?” Little Rabbit shook her head. Then she asked Little Duck, but Little Duck hadn’t seen it either. Dodo felt sad. She lowered her head, and suddenly, she saw something white around her own neck. The scarf had been blown by the wind and wrapped around the back of her neck! Dodo shouted happily, “Found it! Found it!” She wrapped her scarf snugly and continued her walk in the warm sunshine."
+      },
+      "knowledge": {
+        "title": "Why do alpacas have long necks?",
+        "body": "Alpacas live on high mountains or on farms. They have long necks so they can lift their heads high and see far away, which helps them notice danger early. Alpacas have thick, soft fleece all over their bodies. This fleece is like a warm coat that keeps them cozy in cold weather. People often use alpaca fleece to make clothes and scarves."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_alpaca_intro.mp3",
+        "story": "../item-audio/en/animal_alpaca_story.mp3"
+      }
+    }
+  }
+}

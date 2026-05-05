@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_cilantro",
+  "sku_id": "card_vegetable_cilantro",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "leafy_vegetable"
+    ],
+    "secondary": [
+      "fragrant",
+      "soft",
+      "can_cook"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "leafy"
+    ],
+    "taste": [
+      "fragrant"
+    ],
+    "grow_location": [
+      "garden",
+      "field"
+    ],
+    "scenes": [
+      "garden",
+      "kitchen",
+      "market",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "香菜",
+      "aloud": "xiāng cài",
+      "words": "cilantro",
+      "intro": "香菜是一种绿色的叶菜，有着特别的香味。它常常被用来做汤或者凉拌，小朋友可能一开始不习惯，但慢慢会喜欢上哦。",
+      "story": {
+        "title": "🌿 香香的香菜",
+        "body": "小猫咪第一次在汤里看到绿色的香菜，它闻了闻，皱了皱鼻子：“这是什么味道呀？” 妈妈笑着说：“这是香菜，很香很特别哦。” 小猫咪小心地尝了一小口，觉得凉凉的、香香的。后来，小猫咪发现凉拌菜里也有香菜，它鼓起勇气又尝了尝，越嚼越觉得好吃。现在，小猫咪每次看到香菜都会说：“我还要吃香香的香菜！” 它的好朋友小狗本来不喜欢香菜，看见小猫咪吃得这么开心，也试着吃了一口，慢慢地也喜欢上了。两个小伙伴经常一起分享有香菜的菜肴，还告诉别的小动物：“香菜可健康啦，吃了身体棒！”"
+      },
+      "knowledge": {
+        "title": "吃香菜有什么好处？",
+        "body": "香菜里有很多维生素和矿物质，可以帮助消化，还能让身体更强壮。吃香菜就像给身体穿上了一层保护衣，特别对牙齿和骨骼好。不管是放在汤里还是凉拌，都很美味又健康！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_cilantro_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_cilantro_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cilantro",
+      "aloud": "/sɪˈlæntroʊ/",
+      "words": "",
+      "intro": "Cilantro is a green leafy vegetable with a special fresh smell. It is often used in soups or cold dishes. Some people love it, some don't, but it's full of vitamins.",
+      "story": {
+        "title": "🌿 The Fragrant Cilantro",
+        "body": "Kitty was having soup and saw something green. She sniffed and wrinkled her nose, “What's that smell?” Mommy smiled, “It's cilantro, very fragrant and special.” Kitty took a tiny taste. It felt cool and fresh. Later, she found cilantro in a cold dish. This time she tried a bigger bite. The more she chewed, the more she liked it. Now Kitty always says, “I want more fragrant cilantro!” Her friend Puppy didn't like cilantro at first, but seeing Kitty enjoy it so much, he tried some too. Slowly he began to love it. They often share cilantro dishes and tell other animals, “Cilantro is so healthy, eat it and grow strong!”"
+      },
+      "knowledge": {
+        "title": "Why is cilantro good for you?",
+        "body": "Cilantro is full of vitamins and minerals. It helps your tummy digest food and makes your body strong. It's especially good for your teeth and bones. Try it in soup or salad – it's yummy and healthy!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_cilantro_intro.mp3",
+        "story": "../item-audio/en/vegetable_cilantro_story.mp3"
+      }
+    }
+  }
+}

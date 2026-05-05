@@ -1,0 +1,89 @@
+{
+  "id": "object_remote_control",
+  "sku_id": "card_object_remote_control",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "electronic_item",
+      "color_black"
+    ],
+    "secondary": [
+      "at_home",
+      "long",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "black",
+      "gray"
+    ],
+    "shape": [
+      "long"
+    ],
+    "material": [
+      "plastic"
+    ],
+    "scenes": [
+      "home",
+      "office"
+    ],
+    "function": [
+      "control_devices"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "遥控器",
+      "aloud": "yáo kòng qì",
+      "words": "remote control",
+      "intro": "遥控器是一个神奇的小盒子，上面有许多按钮。它可以帮我们开关电视、换频道，还能调节声音大小，让我们的生活更方便。",
+      "story": {
+        "title": "📺遥控器小精灵",
+        "body": "客厅里住着一个遥控器小精灵，它身上有好多彩色按钮。一天晚上，小主人想看电视，可是电视黑着脸说：“我今天好累，不想打开。”小精灵轻轻按了一下红色按钮，电视没动静。它又按了蓝色按钮，电视还是不理。小精灵想了想，说：“我带你去找天线宝宝玩吧！”它按下绿色按钮，“叮”的一声，电视屏幕亮了，天线宝宝正在跳舞呢！小主人高兴地拍手。电视笑着对小精灵说：“你真是个魔法师！”小精灵眨眨眼：“我只是帮你找到了开心的事呀。”从此，它们成了好朋友，每天都一起玩耍。"
+      },
+      "knowledge": {
+        "title": "遥控器是怎么工作的？",
+        "body": "遥控器里有一个小灯泡，按按钮时会发出看不见的光，电视接收到光信号后，就会按照我们的指令行动啦。就像传递密码一样，告诉电视该做什么。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_remote_control_intro.mp3",
+        "story": "../item-audio/zh-CN/object_remote_control_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Remote Control",
+      "aloud": "/rɪˈmoʊt kənˈtroʊl/",
+      "words": "",
+      "intro": "A remote control is a small, magical box with many buttons. It can turn the TV on and off, change channels, and adjust the volume. It makes our life more convenient.",
+      "story": {
+        "title": "📺The Little Remote Control Elf",
+        "body": "In the living room lived a little remote control elf with many colorful buttons. One evening, the little owner wanted to watch TV, but the TV said with a black face, “I'm very tired today and don't want to turn on.” The elf gently pressed the red button, but nothing happened. It pressed the blue button, still no response. After thinking, the elf said, “How about I take you to play with the Teletubbies?” It pressed the green button, “Ding!” The screen lit up, and the Teletubbies were dancing! The little owner clapped happily. The TV smiled and said to the elf, “You are really a magician!” The elf blinked, “I just helped you find something fun.” From then on, they became good friends and played together every day."
+      },
+      "knowledge": {
+        "title": "How does a remote control work?",
+        "body": "Inside a remote control, there is a tiny light bulb. When you press a button, it sends out invisible light. The TV receives the light signal and then follows the command, just like sending a secret code to tell the TV what to do."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_remote_control_intro.mp3",
+        "story": "../item-audio/en/object_remote_control_story.mp3"
+      }
+    }
+  }
+}

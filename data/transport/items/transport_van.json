@@ -1,0 +1,97 @@
+{
+  "id": "transport_van",
+  "sku_id": "card_transport_van",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "on_road",
+      "can_carry_people"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_carry_goods",
+      "small"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "van"
+    ],
+    "color": [
+      "white",
+      "blue",
+      "red"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "road",
+      "city",
+      "parking"
+    ],
+    "fuel": [
+      "gasoline",
+      "electricity"
+    ],
+    "features": [
+      "seats",
+      "wheels",
+      "cargo_space"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "面包车",
+      "aloud": "miàn bāo chē",
+      "words": "van",
+      "intro": "面包车是一种方方的车，可以坐人，也可以装东西。它比公共汽车小，比小汽车大一点点。爸爸妈妈有时候开着它带我们出去玩。",
+      "story": {
+        "title": "🚐小方的一天",
+        "body": "早上，小方面包车被主人擦得亮亮的。今天要搬家啦！主人把椅子、桌子、大箱子一个一个放进小方的肚子里。小方说：“放心，我装得下！”接着，小朋友抱着玩具熊上了车，狗狗也跳上来，汪汪叫。小方稳稳地开上马路，路过公园，路过超市。虽然它开得不是最快的，但每一件东西都安全地送到了新家。到了新家，大家一起搬东西，主人拍拍小方说：“你真能干！”小方开心地笑了，虽然有点累，但能帮助别人，心里暖暖的。晚上，小方在停车场安静地休息，梦里还在开心地跑呢。"
+      },
+      "knowledge": {
+        "title": "面包车棒在哪里？",
+        "body": "面包车方方的身体里藏着大大的空间，既能坐人又能拉货。一家人出门、搬东西都很方便。它个头不大，很容易找到停车位，是生活中的好帮手！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_van_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_van_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Van",
+      "aloud": "/væn/",
+      "words": "",
+      "intro": "A van is a boxy vehicle that can carry people and goods. It is smaller than a bus but a little bigger than a car. Mom and dad sometimes drive it to take us on trips.",
+      "story": {
+        "title": "🚐Little Square's Day",
+        "body": "In the morning, Little Square the van was polished bright by its owner. Today was moving day! The owner put chairs, a table, and big boxes one by one into Little Square's belly. Little Square said, 'Don't worry, I can fit them all!' Then the child came aboard with a teddy bear, and the dog jumped in, barking happily. Little Square drove smoothly down the road, past the park and the supermarket. Though it wasn't the fastest, every item arrived safely at the new home. At the new house, everyone helped unload. The owner patted Little Square and said, 'You're so helpful!' Little Square smiled happily. Even though it was a little tired, helping others made it feel warm inside. At night, Little Square rested quietly in the parking lot, still running happily in its dreams."
+      },
+      "knowledge": {
+        "title": "What's great about vans?",
+        "body": "A van's boxy shape hides a big space inside. It can carry people and cargo. It's perfect for family trips or moving things. Small and easy to park, it's a great helper in daily life!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_van_intro.mp3",
+        "story": "../item-audio/en/transport_van_story.mp3"
+      }
+    }
+  }
+}

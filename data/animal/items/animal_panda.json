@@ -1,0 +1,103 @@
+{
+  "id": "animal_panda",
+  "sku_id": "card_animal_panda",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "forest_animal",
+      "cute"
+    ],
+    "secondary": [
+      "black_white",
+      "eats_bamboo",
+      "has_fur"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "wild"
+    ],
+    "color": [
+      "black",
+      "white"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "fur",
+      "ears",
+      "tail",
+      "paws"
+    ],
+    "scenes": [
+      "forest",
+      "mountain",
+      "bamboo_grove"
+    ],
+    "actions": [
+      "walk",
+      "climb",
+      "eat",
+      "roll"
+    ],
+    "sound": [
+      "bleat"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "熊猫",
+      "aloud": "xióng māo",
+      "words": "panda",
+      "intro": "熊猫是一种可爱的动物，身上有黑白两色的毛，圆圆的脸蛋和黑黑的眼圈，看起来非常憨厚可爱。它们喜欢安静地吃竹子，也喜欢在树上爬来爬去。",
+      "story": {
+        "title": "🐼熊猫宝宝找竹笋",
+        "body": "熊猫宝宝胖胖最爱吃竹笋。一天早上，胖胖醒来，发现身边的竹笋不见了。它记得昨晚把竹笋放在大石头旁的。胖胖慢慢走进竹林，四处寻找。它用爪子拨开地上的竹叶，没找到；它望望远处的山坡，也没看到。胖胖有点着急了。这时，一只小鸟飞来，叽叽喳喳地说：“那边的山坡上有新长出来的竹笋哦！”胖胖高兴地往山坡上走。山坡上，阳光暖暖的，野花开了。胖胖发现，在大石头后面，真的有几根嫩绿的竹笋尖儿。它小心翼翼地挖开泥土，拔出一根竹笋，啊呜啊呜地吃起来，真好吃！吃饱了，胖胖觉得好幸福，它趴在一棵老树下，闭上眼睛，呼噜呼噜睡着了。"
+      },
+      "knowledge": {
+        "title": "熊猫为什么是黑白色的？",
+        "body": "熊猫身上有黑色和白色的毛，这样在竹林和雪地里不容易被发现。黑色部分可以吓走别的动物，白色部分可以帮助它们躲在雪里。另外，黑黑的眼圈让熊猫看起来特别可爱。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_panda_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_panda_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Panda",
+      "aloud": "/ˈpændə/",
+      "words": "",
+      "intro": "The panda is a cute animal with black and white fur. It has a round face and dark circles around its eyes, making it look gentle and adorable. Pandas like to quietly eat bamboo, and they also enjoy climbing trees.",
+      "story": {
+        "title": "🐼Baby Panda Looks for Bamboo Shoots",
+        "body": "Baby panda Pangpang loved eating bamboo shoots. One morning, Pangpang woke up and found his bamboo shoot was missing. He remembered putting it next to a big rock before sleeping. Pangpang slowly walked into the bamboo forest, looking around. He used his paw to move aside bamboo leaves on the ground, but no shoot. He climbed up a tree and looked far away, still couldn’t see it. Pangpang felt a little worried. Then a little bird flew by and chirped, “Over on the hillside, new bamboo shoots are growing!” Pangpang happily went toward the hillside. The sun was warm, and wildflowers were blooming. Behind a big rock, he found several tender bamboo shoot tips. He carefully dug the soil, pulled out a shoot, and took a big bite—crunch, crunch—so tasty! After eating his fill, Pangpang felt happy and tired. He lay down under an old tree, closed his eyes, and fell asleep with a soft snore."
+      },
+      "knowledge": {
+        "title": "Why are pandas black and white?",
+        "body": "Pandas have black and white fur to help them hide in the bamboo forest and in the snow. The black parts can scare away other animals, and the white parts help them blend into the snow. Also, the dark circles around their eyes make them look especially cute. Their black-and-white coat is like a special suit. It helps them stay safe in the wild. When they sit still, they can be hard to see among bamboo shadows. And those black eye patches make them look friendly and adorable."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_panda_intro.mp3",
+        "story": "../item-audio/en/animal_panda_story.mp3"
+      }
+    }
+  }
+}

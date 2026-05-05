@@ -1,0 +1,87 @@
+{
+  "id": "fruit_hawthorn",
+  "sku_id": "card_fruit_hawthorn",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_red",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sour",
+      "tree_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "red"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sour",
+      "crisp"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "山楂",
+      "aloud": "shān zhā",
+      "words": "hawthorn",
+      "intro": "山楂是一种小小的红色水果，味道酸酸甜甜的。它可以帮助小朋友开胃，吃饭更香。",
+      "story": {
+        "title": "🐦小鸟的山楂树",
+        "body": "小鸟飞呀飞，落到一棵山楂树上。树上挂满了红彤彤的小果子，圆溜溜的，像一串串小灯笼。小鸟轻轻啄了一颗山楂，“哎呀，好酸呀！”它皱皱眉头，但马上又觉得有点甜。小鸟想：“这么特别的味道，我要请朋友们都来尝尝。”于是，它用嘴巴摘下好多山楂，一颗一颗地放到小路上。小兔子蹦蹦跳跳地来了，尝了一口，酸得眯起眼睛，然后又笑了：“酸酸的，真好吃！”小松鼠也跑来了，它把山楂抱在怀里，啃了一小口，觉得浑身都变得有劲儿了。大家坐在山楂树下，你一颗我一颗，酸酸甜甜的味道，让大家心里都暖洋洋的。小鸟知道了，和好朋友一起分享，就是最开心的事。"
+      },
+      "knowledge": {
+        "title": "山楂在什么季节成熟？",
+        "body": "山楂通常在秋天成熟。它的果实红红的，里面有几颗小种子。人们喜欢用山楂做冰糖葫芦，酸酸甜甜的特别好吃。山楂还可以帮助消化，让小朋友吃饭更香。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_hawthorn_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_hawthorn_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Hawthorn",
+      "aloud": "/ˈhɔːθɔːrn/",
+      "words": "",
+      "intro": "Hawthorn is a small, red fruit that tastes sour and sweet. It can help children have a healthy appetite.",
+      "story": {
+        "title": "🐦The Little Bird's Hawthorn Tree",
+        "body": "The little bird flew and flew, and landed on a hawthorn tree. The tree was full of little red fruits, round and shiny, like strings of tiny lanterns. The bird gently pecked a hawthorn. “Oh, it’s so sour!” it frowned, but then it tasted a bit of sweetness. The bird thought, “Such a special taste! I must invite my friends to try it.” So it used its beak to pick many hawthorns and placed them one by one on the path. A little rabbit hopped over and took a bite. It squinted from the sourness, then smiled, “Sour and yummy!” A little squirrel came running, hugged a hawthorn, and took a small nibble. It felt full of energy. They all sat under the hawthorn tree, eating one after another. The sweet and sour taste warmed everyone’s heart. The little bird learned that sharing with good friends is the happiest thing."
+      },
+      "knowledge": {
+        "title": "When do hawthorns ripen?",
+        "body": "Hawthorn fruits usually ripen in autumn. They are red and contain several small seeds. People often make candied hawthorn sticks, which are sweet and sour. Hawthorn can also help with digestion, making children eat better."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_hawthorn_intro.mp3",
+        "story": "../item-audio/en/fruit_hawthorn_story.mp3"
+      }
+    }
+  }
+}

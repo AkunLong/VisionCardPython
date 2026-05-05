@@ -1,0 +1,91 @@
+{
+  "id": "object_knife",
+  "sku_id": "card_object_knife",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "tableware",
+      "color_gray"
+    ],
+    "secondary": [
+      "at_home",
+      "at_table",
+      "hard"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "gray",
+      "white"
+    ],
+    "shape": [
+      "long"
+    ],
+    "material": [
+      "metal",
+      "plastic"
+    ],
+    "scenes": [
+      "home",
+      "kitchen",
+      "table"
+    ],
+    "function": [
+      "cut"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "餐刀",
+      "aloud": "cān dāo",
+      "words": "knife",
+      "intro": "餐刀是吃饭时用的工具，可以帮我们切软软的食物。它有一端是手柄，拿起来很舒服，另一端是刀刃，很锋利，小朋友要多加小心哦。",
+      "story": {
+        "title": "🔪餐刀小助手",
+        "body": "小餐刀住在大大的厨房里，它的身体亮亮的，手柄软软的。每天吃饭的时候，它都会从抽屉里跳出来帮忙。有一天，小主人想吃软软的香蕉，可是皮怎么也剥不开。小餐刀说：‘让我轻轻划一下，你就能剥开啦！’它小心地在香蕉皮上划了一道小口子，小主人一下子就剥开了，开心地吃起来。吃完饭，小主人想拿着餐刀玩，妈妈走过来摇摇头：‘宝贝，餐刀的刀刃很锋利，只有大人才可以用，小朋友不能自己拿哦。’餐刀也说：‘是呀是呀，我只和大人一起帮忙，这样才安全。’小主人乖乖地点点头。从那以后，他再也不碰餐刀，只是好好吃饭。小餐刀很高兴，因为它可以安全地做大家的小帮手。"
+      },
+      "knowledge": {
+        "title": "餐刀有什么特点？",
+        "body": "餐刀有锋利的刀刃和结实的手柄，是用来切软食物的。它一般用金属或塑料做成。小朋友要在大人陪着的时候，才能小心地使用它。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_knife_intro.mp3",
+        "story": "../item-audio/zh-CN/object_knife_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Knife",
+      "aloud": "/naɪf/",
+      "words": "",
+      "intro": "A knife is a tool we use when eating. It helps us cut soft food. It has a sharp blade and a handle that is easy to hold. Remember, children should not use a knife without a grown-up.",
+      "story": {
+        "title": "🔪The Little Knife Helper",
+        "body": "Little Knife lived in the big kitchen. Its body was shiny and its handle was soft. Every mealtime, it came out of the drawer to help. One day, the little boy wanted to eat a soft banana, but the peel was tricky to open. Little Knife said, 'Let me make a tiny cut. Then you can peel it!' It carefully made a small slit on the peel, and the boy opened it easily and ate happily. After the meal, the boy wanted to play with the knife. His mom shook her head and said, 'No, sweetie. The blade is very sharp. Only grown-ups can use it. Children must not touch it alone.' The knife nodded, 'Yes, I only help with a grown-up. That's the safe way.' The little boy listened and never touched the knife by himself. Little Knife was happy to be a safe helper."
+      },
+      "knowledge": {
+        "title": "What is special about a knife?",
+        "body": "A knife has a sharp blade and a strong handle. It is used to cut soft foods. Knives can be made of metal or plastic. Children should always be with an adult when a knife is being used."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_knife_intro.mp3",
+        "story": "../item-audio/en/object_knife_story.mp3"
+      }
+    }
+  }
+}

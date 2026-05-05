@@ -1,0 +1,86 @@
+{
+  "id": "fruit_sugarcane",
+  "sku_id": "card_fruit_sugarcane",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_purple",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "long",
+      "sweet",
+      "juicy"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "purple"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "scenes": [
+      "farm",
+      "supermarket",
+      "home"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "甘蔗",
+      "aloud": "gān zhe",
+      "words": "sugarcane",
+      "intro": "甘蔗是一种长长的植物，外皮是紫色的，里面甜甜的汁水可以嚼着吃，也可以榨成甘蔗汁。它含有丰富的糖分，能给小朋友带来能量。",
+      "story": {
+        "title": "🐘小象的甘蔗",
+        "body": "小象在田里发现了一根长长的、紫紫的甘蔗。小象用鼻子卷起甘蔗，惊奇地说：“好重呀！”它把甘蔗带到小河边，用小溪水洗得亮亮的。小象用牙齿小心地咬下一小块，轻轻一嚼，甜甜的汁水就跑了出来。“哇，真甜！”小象开心地甩了甩耳朵。它想到好朋友小河马也喜欢甜甜的东西，就把甘蔗分成两半，一半留给自己，一半送给小河马。小河马接过甘蔗，高兴地跳起舞来。两个好朋友一起嚼着甘蔗，你一口我一口，甜甜的汁水顺着嘴角流下来。它们坐在草地上，看太阳慢慢落山，觉得这一天真美好。小象心里想：分享让甜甜的味道变得更甜了。"
+      },
+      "knowledge": {
+        "title": "甘蔗长在哪里？",
+        "body": "甘蔗喜欢温暖、阳光充足的地方，常常种在田地里。它的茎秆一节一节的，就像小竹子一样。我们吃的就是它甜甜的茎秆。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_sugarcane_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_sugarcane_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Sugarcane",
+      "aloud": "/ˈʃʊɡərˌkeɪn/",
+      "words": "",
+      "intro": "Sugarcane is a tall, purple-skinned plant with sweet juice inside. You can chew it to enjoy the sweet juice or press it to make sugarcane juice. It gives children energy.",
+      "story": {
+        "title": "🐘The Little Elephant's Sugarcane",
+        "body": "The little elephant found a long, purple sugarcane in the field. Using its trunk, it lifted the sugarcane and said in surprise, 'It’s so heavy!' Then it took the sugarcane to the riverbank and washed it clean with the stream water. Carefully, the little elephant bit off a small piece with its teeth and began to chew. Sweet juice filled its mouth. 'Wow, so sweet!' It happily flapped its ears. It remembered that its friend the little hippo also loved sweet things. So, it broke the sugarcane into two halves, keeping one and giving the other to the little hippo. The little hippo received it and danced with joy. The two friends sat on the grass, chewing the sugarcane together, with sweet juice dripping down their chins. They watched the sun slowly set, feeling that it was a wonderful day. The little elephant thought: sharing makes sweet things even sweeter."
+      },
+      "knowledge": {
+        "title": "Where does sugarcane grow?",
+        "body": "Sugarcane likes warm, sunny places and is often grown in fields. Its stalk grows in sections, a bit like little bamboo sticks. We eat its sweet stalk."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_sugarcane_intro.mp3",
+        "story": "../item-audio/en/fruit_sugarcane_story.mp3"
+      }
+    }
+  }
+}

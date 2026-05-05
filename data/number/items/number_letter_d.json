@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_d",
+  "sku_id": "card_number_letter_d",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "alphabet_order",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": 4,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "4th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母D",
+      "aloud": "zì mǔ dì",
+      "words": "d",
+      "intro": "字母D是第四个字母，它有一个圆圆的肚子，直直的背，看起来像一扇门。D 能帮我们说好多词，比如 dog 和 daddy。",
+      "story": {
+        "title": "字母D的故事",
+        "body": "字母D是第四个字母，它有一个圆圆的肚子，直直的背，看起来就像一扇门。有一天，字母D出门去玩，它先遇到了小鼓，小鼓咚咚咚地敲，D就跟着节奏跳起了舞。接着，一只小狗跑过来，摇着尾巴汪汪叫，D和小狗一起赛跑，玩得满头大汗。傍晚，爸爸下班回家了，D张开双臂给了爸爸一个大大的拥抱。晚上，D躺在妈妈怀里，听着妈妈说故事，故事里有很多D开头的词：doll, duck, dinner。D觉得好幸福，因为它能帮大家表达爱和快乐。"
+      },
+      "knowledge": {
+        "title": "为什么字母D有肚皮？",
+        "body": "古时候人们用符号表示门和帐篷，D就是从这个符号变来的。弯弯的部分像门框，直直的部分像门的边。大写D需要一笔写成：先写一竖，再画一个大肚子。记住，D是字母表里第四个字母哦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_d_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_d_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Letter D",
+      "aloud": "/diː/",
+      "words": "",
+      "intro": "Letter D is the fourth letter of the alphabet. It has a round belly and a straight back, looking like a door. D helps us say many words, like dog and daddy.",
+      "story": {
+        "title": "The Story of Letter D",
+        "body": "Letter D is the fourth letter of the alphabet. It has a round belly and a straight back, looking just like a door. One day, D went out to play. First it met a drum. The drum beat 'dum, dum, dum,' so D danced along. Then a little dog ran up, wagging its tail and barking. D and the dog raced each other, playing until they were tired. In the evening, daddy came home from work, and D gave him a big hug. At night, D lay in mommy's arms, listening to her tell a story full of words that start with D: doll, duck, dinner. D felt so happy because it helps everyone express love and joy."
+      },
+      "knowledge": {
+        "title": "Why does letter D have a belly?",
+        "body": "Long ago, people used a symbol to mean a door or tent. D comes from that symbol. The curved part is like a door frame, and the straight part is like the side. To write capital D, make a straight line down, then a big belly. Remember, D is the fourth letter of the alphabet."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_d_intro.mp3",
+        "story": "../item-audio/en/number_letter_d_story.mp3"
+      }
+    }
+  }
+}

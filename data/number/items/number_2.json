@@ -1,0 +1,76 @@
+{
+  "id": "number_2",
+  "sku_id": "card_number_two",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "single_digit",
+      "even_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 2,
+    "is_even": true,
+    "is_prime": true,
+    "ordinal": "2nd",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字2",
+      "aloud": "èr",
+      "words": "two",
+      "intro": "数字2比1多一，它是最小的偶数。我们身上有很多成对的东西，比如两只眼睛、两只耳朵，2就在我们身边！",
+      "story": {
+        "title": "👫 2个好朋友",
+        "body": "小熊和小兔是2个好朋友。小熊有2只胖胖的手，小兔有2只长长的耳朵。它们一起玩，需要2个勺子、2个碗。它们种了2棵小树，每天浇2次水。下雨了，它们撑着2把伞。雨停了，天上出现2道彩虹。小熊跳2下，小兔跳2下，2个好朋友真开心！原来，2就是成双成对，你陪着我，我陪着你，永远不孤单。"
+      },
+      "knowledge": {
+        "title": "2为什么很特别？",
+        "body": "2是最小的偶数，也是唯一的偶质数。自然界中许多事物都成对出现，比如我们的手和脚，这样能保持平衡。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_2_intro.mp3",
+        "story": "../item-audio/zh-CN/number_2_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Two",
+      "aloud": "/tuː/",
+      "words": "",
+      "intro": "Two is the number that comes after one. It is the smallest even number. We have many pairs on our body, like two eyes and two ears. Two is all around us!",
+      "story": {
+        "title": "👫 Two Good Friends",
+        "body": "Little Bear and Little Rabbit are two good friends. Little Bear has two chubby hands, and Little Rabbit has two long ears. When they play together, they need two spoons and two bowls. They planted two little trees and watered them twice a day. When it rained, they held two umbrellas. After the rain, two rainbows appeared in the sky. Little Bear jumped twice, and Little Rabbit jumped twice. Two good friends are so happy! You see, two means a pair, you and me together, never alone."
+      },
+      "knowledge": {
+        "title": "Why is two special?",
+        "body": "Two is the smallest even number and the only even prime number. Many things in nature come in pairs, like our hands and feet, which help us keep balance."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_2_intro.mp3",
+        "story": "../item-audio/en/number_2_story.mp3"
+      }
+    }
+  }
+}

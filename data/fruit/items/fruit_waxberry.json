@@ -1,0 +1,87 @@
+{
+  "id": "fruit_waxberry",
+  "sku_id": "card_fruit_waxberry",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_red",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "juicy",
+      "sweet",
+      "sour"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "red"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "sour"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "杨梅",
+      "aloud": "yáng méi",
+      "words": "waxberry",
+      "intro": "杨梅是一种圆圆的红色小果子，咬一口汁水就流出来，味道酸酸甜甜的，是夏天特别好吃的水果。",
+      "story": {
+        "title": "🐻小棕熊的杨梅树",
+        "body": "夏天到了，小棕熊家后院的杨梅树上挂满了红红的小果子。它们圆溜溜的，像一个个小灯笼，在风里轻轻摇。小棕熊喊来好朋友小鹿和小兔子，一起摘杨梅。小鹿踮起脚，小兔子跳起来，小棕熊用胖胖的爪子托着篮子。一颗、两颗……红红的杨梅落到篮子里，像在做游戏。大家坐在树荫下，抓起杨梅放进嘴里，“噗！”甜甜的汁水一下子冒出来，嘴唇都染成紫红色啦。“好甜啊，又有点酸，真好吃！”小鹿笑着说。小兔子把杨梅核吐在小碗里，说要留到明年种。小棕熊开心地拍拍手：等到明年，杨梅树会更多，好朋友也要一起来哦！"
+      },
+      "knowledge": {
+        "title": "杨梅什么时候成熟？",
+        "body": "杨梅喜欢住在温暖的地方，一般在初夏的六月到七月成熟。这时候的杨梅红得发紫，汁水最满，是最好吃的时候。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_waxberry_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_waxberry_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Waxberry",
+      "aloud": "/ˈwæksˌberi/",
+      "words": "",
+      "intro": "A waxberry is a small, round, red fruit that bursts with juice when you bite it. It tastes sweet and sour, and is a delicious summer treat.",
+      "story": {
+        "title": "🐻Little Brown Bear’s Waxberry Tree",
+        "body": "Summer came, and the waxberry tree in little brown bear’s backyard was full of tiny red fruits. They were round like little lanterns, gently swaying in the breeze. Little brown bear called his good friends little deer and little rabbit to help pick waxberries. Little deer stood on tiptoe, little rabbit jumped up high, and little brown bear held the basket with his chubby paws. One, two… the red waxberries dropped into the basket, as if playing a game. They sat together in the shade, grabbed the waxberries, and put them in their mouths. “Pop!” Sweet juice burst out, staining their lips purple-red. “So sweet, and a little sour, so yummy!” little deer smiled. Little rabbit spit the seeds into a small bowl and said they should be saved to plant next year. Little brown bear clapped his paws happily: next year, there will be more waxberry trees, and all good friends must come together again!"
+      },
+      "knowledge": {
+        "title": "When do waxberries ripen?",
+        "body": "Waxberries love warm places and usually ripen in early summer, from June to July. At this time, they turn deep red and are at their juiciest and most delicious."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_waxberry_intro.mp3",
+        "story": "../item-audio/en/fruit_waxberry_story.mp3"
+      }
+    }
+  }
+}

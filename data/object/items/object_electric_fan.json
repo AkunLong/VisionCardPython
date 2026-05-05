@@ -1,0 +1,92 @@
+{
+  "id": "object_electric_fan",
+  "sku_id": "card_object_electric_fan",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "home_appliance",
+      "color_blue"
+    ],
+    "secondary": [
+      "at_home",
+      "round",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "blue",
+      "white"
+    ],
+    "shape": [
+      "round"
+    ],
+    "material": [
+      "plastic",
+      "metal"
+    ],
+    "scenes": [
+      "home",
+      "office",
+      "outdoor"
+    ],
+    "function": [
+      "blow_wind",
+      "cool_down"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "小风扇",
+      "aloud": "xiǎo fēng shàn",
+      "words": "fan",
+      "intro": "小风扇有圆圆的脑袋，里面住着几片叶子。一按开关，叶子就飞快地转起来，吹出凉凉的风，可舒服啦！",
+      "story": {
+        "title": "🌬️小风扇呼呼呼",
+        "body": "夏天到了，天气好热好热。小兔子热得直喘气，小猫咪热得趴在地上，小狗热得吐舌头。小风扇看见了，说：“别怕，我来帮你们！”它转动圆圆的脑袋，扇叶呼呼呼地转起来。一阵凉风吹来，小兔子凉快了，小猫咪舒服了，小狗开心得摇尾巴。小风扇吹啊吹，大家都围着它，好像一个凉快的小乐园。突然，小风扇转得太快，有点站不稳了。小兔子赶紧扶住它，说：“小风扇，谢谢你的凉风，但你要休息一下哦。”小风扇慢慢停下来，说：“好的，我休息一下，等会儿再给你们吹风。”大家都笑了，夸小风扇真是个懂事的好朋友。"
+      },
+      "knowledge": {
+        "title": "小风扇为什么会吹风？",
+        "body": "风扇里有扇叶，打开开关后，扇叶就会转起来。扇叶转动时，把空气推出去，就形成了风。所以风扇能让我们凉快。但是千万不能把手伸进扇叶里，那样会受伤哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_electric_fan_intro.mp3",
+        "story": "../item-audio/zh-CN/object_electric_fan_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Electric Fan",
+      "aloud": "/ɪˈlɛk.trɪk fæn/",
+      "words": "",
+      "intro": "A small electric fan has a round head with blades inside. When you turn it on, the blades spin fast and blow cool wind. It feels so nice!",
+      "story": {
+        "title": "🌬️The Little Fan Goes Whirrr",
+        "body": "Summer arrived, and it was very, very hot. Little Rabbit panted, Little Kitty lay flat on the floor, and Little Puppy stuck out his tongue. The little fan saw them and said, 'Don't worry, I'll help you!' It turned its round head, and the blades went whirrrr. A cool breeze blew, and Little Rabbit felt better, Little Kitty felt comfortable, and Little Puppy wagged his tail happily. The little fan kept blowing, and everyone gathered around, as if they were in a cool little paradise. Suddenly, the fan spun too fast and almost tipped over. Little Rabbit held it steady and said, 'Little Fan, thank you for the cool wind, but you need a rest.' The fan slowed down and said, 'Okay, I'll rest a while and then blow more wind later.' Everyone smiled and said the little fan was a really thoughtful good friend."
+      },
+      "knowledge": {
+        "title": "How does a fan blow wind?",
+        "body": "Inside a fan, there are blades. When you turn on the fan, the blades start spinning. As they spin, they push the air, creating wind. That's why a fan can cool us down. But remember, never put your fingers near the spinning blades — it can hurt you!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_electric_fan_intro.mp3",
+        "story": "../item-audio/en/object_electric_fan_story.mp3"
+      }
+    }
+  }
+}

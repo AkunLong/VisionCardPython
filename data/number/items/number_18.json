@@ -1,0 +1,76 @@
+{
+  "id": "number_18",
+  "sku_id": "card_number_eighteen",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "two_digit",
+      "even_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "medium_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 18,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "18th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字18",
+      "aloud": "shí bā",
+      "words": "eighteen",
+      "intro": "数字18比17多1，比19少1。它由1和8组成，像一根棍子旁边站着一个胖乎乎的雪人。小朋友，我们来认识它吧！",
+      "story": {
+        "title": "🌟18颗小星星",
+        "body": "天上住着18颗小星星，一到晚上就眨眼睛。它们排成两排：前面10颗手拉手，后面8颗跟着走。第一颗叫“1”，第八颗叫“8”，合起来就是“18”。小星星最爱和小朋友捉迷藏，你数1、2、3……一直数到18，就能找到它们啦！找齐18颗小星星，天空就亮闪闪的。数一数，对不对？18颗小星星，一颗也不少，陪你进入甜甜的梦乡。"
+      },
+      "knowledge": {
+        "title": "数字18的小秘密",
+        "body": "数字18是两位数，左边的1代表1个十，右边的8代表8个一。合在一起就是18，比17大1，比19小1。18是偶数，能分成两半一样多。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_18_intro.mp3",
+        "story": "../item-audio/zh-CN/number_18_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Eighteen",
+      "aloud": "/ˌeɪˈtiːn/",
+      "words": "",
+      "intro": "Number 18 is one more than 17 and one less than 19. It is made of 1 and 8, like a stick and a chubby snowman. Let's learn about it!",
+      "story": {
+        "title": "🌟18 Little Stars",
+        "body": "In the sky live 18 little stars. They twinkle at night. They line up in two rows: the first ten hold hands, and the next eight follow behind. The first star is named '1,' and the eighth star is named '8.' Together they make '18.' The stars love to play hide-and-seek with children. You count 1, 2, 3... all the way to 18, and you’ll find them! When you find all 18 stars, the sky glitters bright. Count with me: one, two, three... all the way to eighteen! 18 little stars, not one missing, stay with you in sweet dreams."
+      },
+      "knowledge": {
+        "title": "The Secret of Number 18",
+        "body": "Number 18 has two digits. The left digit 1 means one ten, and the right digit 8 means eight ones. Together they make 18, which is one more than 17 and one less than 19. 18 is an even number, as it can be divided into two equal parts."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_18_intro.mp3",
+        "story": "../item-audio/en/number_18_story.mp3"
+      }
+    }
+  }
+}

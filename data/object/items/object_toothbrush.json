@@ -1,0 +1,90 @@
+{
+  "id": "object_toothbrush",
+  "sku_id": "card_object_toothbrush",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "personal_item",
+      "cleaning_item"
+    ],
+    "secondary": [
+      "in_bathroom",
+      "soft",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "blue",
+      "white"
+    ],
+    "shape": [
+      "long"
+    ],
+    "material": [
+      "plastic",
+      "nylon"
+    ],
+    "scenes": [
+      "bathroom",
+      "home"
+    ],
+    "function": [
+      "clean_teeth"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "牙刷",
+      "aloud": "yá shuā",
+      "words": "toothbrush",
+      "intro": "牙刷是我们每天刷牙的好帮手。它有软软的刷毛和长长的把手，帮助我们把牙齿刷得干干净净。",
+      "story": {
+        "title": "🦷小牙刷的冒险",
+        "body": "小牙刷叫刷刷，它每天最开心的事情就是和小主人一起打败牙齿上的小细菌。一天早上，小主人起床后，刷刷就跳进小主人的手里，挤上白白香香的牙膏，开始工作啦！刷刷在牙齿上上上下下、左左右右地刷呀刷，一边刷一边唱：'小细菌，快走开，我要把牙齿刷得亮晶晶！'小细菌们吓得四处逃跑。刷完牙，小主人的牙齿又白又亮，笑起来真好看。刷刷说：'每天早晚都要记得和我一起玩哦，这样牙齿才会健康又漂亮！'"
+      },
+      "knowledge": {
+        "title": "为什么每天要刷牙？",
+        "body": "刷牙可以清除牙齿上的食物残渣和细菌，防止蛀牙和口臭。每天早晚刷牙，每次刷两分钟，能让牙齿一直洁白又健康。记得要用软毛牙刷，轻轻刷，不要伤害牙龈哦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_toothbrush_intro.mp3",
+        "story": "../item-audio/zh-CN/object_toothbrush_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Toothbrush",
+      "aloud": "/ˈtuːθbrʌʃ/",
+      "words": "",
+      "intro": "A toothbrush helps us clean our teeth every day. It has soft bristles and a long handle, and we use it with toothpaste to keep our teeth shiny and healthy.",
+      "story": {
+        "title": "🦷The Little Toothbrush's Big Adventure",
+        "body": "There was a little toothbrush named Bristle. Every morning and night, Bristle was so excited to help his owner fight the germs on her teeth. One morning, when the girl woke up, Bristle jumped into her hand. She put some yummy toothpaste on him, and they started the battle! Bristle moved up and down, left and right, singing, 'Germs, germs, go away! I'm making these teeth sparkle today!' The germs ran away as fast as they could. After two minutes, the teeth were squeaky clean. The girl smiled in the mirror. Her teeth were so white! Bristle said, 'Remember, we must do this every morning and night to keep your teeth strong and bright!'"
+      },
+      "knowledge": {
+        "title": "Why do we brush our teeth every day?",
+        "body": "Brushing removes food bits and germs from our teeth. It helps stop cavities and bad breath. Brush twice a day for two minutes each time, using a soft toothbrush. Gently brush all sides of your teeth to keep them healthy."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_toothbrush_intro.mp3",
+        "story": "../item-audio/en/object_toothbrush_story.mp3"
+      }
+    }
+  }
+}

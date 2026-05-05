@@ -1,0 +1,98 @@
+{
+  "id": "animal_gorilla",
+  "sku_id": "card_animal_gorilla",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "forest_animal",
+      "big"
+    ],
+    "secondary": [
+      "has_fur",
+      "strong",
+      "can_climb"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal"
+    ],
+    "color": [
+      "black"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "fur",
+      "arms",
+      "chest"
+    ],
+    "scenes": [
+      "forest",
+      "jungle"
+    ],
+    "actions": [
+      "walk",
+      "climb",
+      "run"
+    ],
+    "sound": [
+      "roar"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "大猩猩",
+      "aloud": "dà xīng xing",
+      "words": "gorilla",
+      "intro": "大猩猩是一种强壮的动物，住在森林里。它身上长着黑色的毛，手臂很长，走起路来慢慢地。大猩猩很温柔，喜欢吃树叶和水果。",
+      "story": {
+        "title": "🦍大猩猩荡秋千",
+        "body": "大猩猩壮壮住在绿色的大森林里。有一天，它发现了一根长长的藤蔓，挂在大树上。壮壮用大手抓住藤蔓，试着荡来荡去。风在耳边呼呼地吹，叶子沙沙地响。一只小鸟飞过来，叽叽喳喳地说：“壮壮，你荡得真高！”壮壮开心地笑了，露出白白的牙齿。它又爬上一棵更高的树，看到远处的小河亮晶晶的。壮壮觉得，森林里的每一天都很快乐。玩累了，它坐在树杈上，摘下一片大叶子当扇子，轻轻地扇着风。慢慢地，壮壮闭上眼睛，听着树叶唱歌，舒舒服服地睡着了。"
+      },
+      "knowledge": {
+        "title": "大猩猩为什么捶胸？",
+        "body": "大猩猩用拳头捶打自己的胸口，会发出咚咚的声音。有时候，这是它在告诉别的动物：“我很强壮，不要靠近我。”有时候，大猩猩开心或者想和同伴玩，也会轻轻地捶胸。这是一种特别的说话方式。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_gorilla_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_gorilla_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Gorilla",
+      "aloud": "/ɡəˈrɪlə/",
+      "words": "",
+      "intro": "A gorilla is a strong animal that lives in the forest. It has black fur and long arms, and it walks slowly. Gorillas are gentle and like eating leaves and fruits.",
+      "story": {
+        "title": "🦍Gorilla Swings on a Vine",
+        "body": "Zhuangzhuang the gorilla lived in a big green forest. One day, he found a long vine hanging from a tall tree. Zhuangzhuang grabbed the vine with his big hands and started swinging back and forth. The wind whistled in his ears, and the leaves rustled softly. A little bird flew by and chirped, \"Zhuangzhuang, you're swinging so high!\" Zhuangzhuang smiled happily, showing his white teeth. Then he climbed up an even taller tree and saw a shiny little river far away. Zhuangzhuang felt so joyful in the forest. After a while, he felt tired. He sat on a branch, picked a big leaf to use as a fan, and gently fanned himself. Slowly, Zhuangzhuang closed his eyes, listened to the leaves singing, and fell into a cozy sleep."
+      },
+      "knowledge": {
+        "title": "Why do gorillas beat their chests?",
+        "body": "Gorillas beat their chests with their fists, making a drumming sound. Sometimes, it means \"I am strong, stay away!\" Other times, a gorilla may do it gently when it is happy or wants to play. It is a special way of talking."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_gorilla_intro.mp3",
+        "story": "../item-audio/en/animal_gorilla_story.mp3"
+      }
+    }
+  }
+}

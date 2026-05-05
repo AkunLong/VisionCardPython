@@ -1,0 +1,107 @@
+{
+  "id": "animal_dog",
+  "sku_id": "card_animal_dog",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "home_animal",
+      "cute"
+    ],
+    "secondary": [
+      "has_fur",
+      "has_tail",
+      "woof"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "pet"
+    ],
+    "color": [
+      "brown",
+      "white",
+      "black",
+      "gray"
+    ],
+    "size": [
+      "small",
+      "medium"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "ears",
+      "paws"
+    ],
+    "scenes": [
+      "home",
+      "yard",
+      "park"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "jump",
+      "play",
+      "fetch"
+    ],
+    "sound": [
+      "woof"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "小狗",
+      "aloud": "xiǎo gǒu",
+      "words": "dog",
+      "intro": "小狗是一种很友好的小动物，身上有软软的毛，长着圆溜溜的眼睛和摇来摇去的尾巴。小狗喜欢汪汪叫，也喜欢和人一起玩游戏。",
+      "story": {
+        "title": "🐶小狗捡球",
+        "body": "小狗狗豆豆最喜欢和小朋友玩皮球。一天下午，小朋友把黄色的皮球扔得远远的，豆豆飞快地跑过去，用嘴巴轻轻把球叼起来，转身跑回小朋友身边。小朋友拍拍豆豆的头，夸它真棒。豆豆高兴地摇摇尾巴，汪汪叫了两声。他们又玩了一次又一次，豆豆一点儿也不累。天快黑了，小朋友要回家吃饭了，豆豆乖乖地趴在小窝里，闭上眼睛，等着明天再一起玩。"
+      },
+      "knowledge": {
+        "title": "小狗为什么喜欢摇尾巴？",
+        "body": "小狗摇尾巴是在告诉我们它很开心。有时候，小狗看到喜欢的人，就会不停地摇尾巴。小狗还会用不同的叫声和动作来表达自己的想法，比如高兴时汪汪叫，害怕时趴下身子。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_dog_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_dog_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Dog",
+      "aloud": "/dɔːɡ/",
+      "words": "",
+      "intro": "A dog is a friendly little animal with soft fur, round eyes, and a wagging tail. Dogs like to bark and enjoy playing games with people.",
+      "story": {
+        "title": "🐶The Little Dog Fetches a Ball",
+        "body": "Doudou the little dog loved playing ball with the child. One afternoon, the child threw a yellow ball far away. Doudou ran quickly, gently picked up the ball with his mouth, and ran back to the child. The child patted Doudou's head and said, 'Good boy!' Doudou wagged his tail happily and barked twice. They played again and again, and Doudou was not tired at all. When it got dark, the child had to go home for dinner. Doudou lay down obediently in his little bed, closed his eyes, and waited to play again tomorrow."
+      },
+      "knowledge": {
+        "title": "Why do dogs wag their tails?",
+        "body": "Dogs wag their tails to show they are happy. Sometimes when a dog sees someone it likes, it wags its tail a lot. Dogs also use different sounds and body language to express themselves, like barking when they are excited or lying down when they are scared."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_dog_intro.mp3",
+        "story": "../item-audio/en/animal_dog_story.mp3"
+      }
+    }
+  }
+}

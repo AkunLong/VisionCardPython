@@ -1,0 +1,90 @@
+{
+  "id": "object_microwave",
+  "sku_id": "card_object_microwave",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "home_appliance",
+      "color_white"
+    ],
+    "secondary": [
+      "in_kitchen",
+      "at_home",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "white",
+      "black"
+    ],
+    "shape": [
+      "rectangular"
+    ],
+    "material": [
+      "metal",
+      "plastic"
+    ],
+    "scenes": [
+      "home",
+      "office"
+    ],
+    "function": [
+      "heat_food"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "微波炉",
+      "aloud": "wēi bō lú",
+      "words": "microwave",
+      "intro": "微波炉可以快快地帮我们热好饭菜，只要按几个按钮，就能让食物变得热乎乎。",
+      "story": {
+        "title": "叮！微波炉帮忙啦",
+        "body": "小熊宝宝肚子饿了，妈妈做的饭已经凉了。妈妈笑着说：“别急，我们请微波炉来帮忙！”小熊把饭放进微波炉里，关上门，按下小按钮。微波炉里面亮起了黄黄的灯，转盘开始转呀转。“嗡嗡嗡……”微波炉轻轻唱着歌。过了一小会儿，传来“叮”的一声，饭热好啦！小熊打开门，香喷喷的热气冒了出来。小熊高兴地说：“微波炉真厉害，像魔法盒子一样！”妈妈摸了摸小熊的头说：“对呀，微波炉能让冷饭变热，但要记住，小朋友不能自己用哦，一定要请大人帮忙。”小熊点点头，大口吃着热饭，觉得特别香。"
+      },
+      "knowledge": {
+        "title": "微波炉为什么能加热食物？",
+        "body": "微波炉里面藏着看不见的微波，这些微波能让食物里的水分子跳舞。水分子一跳起来就变热，食物也就跟着热了。这样不用火也能加热，又快又方便。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_microwave_intro.mp3",
+        "story": "../item-audio/zh-CN/object_microwave_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Microwave",
+      "aloud": "/ˈmaɪkrəweɪv/",
+      "words": "",
+      "intro": "A microwave can heat up food quickly. You just press a few buttons, and the food becomes nice and warm.",
+      "story": {
+        "title": "Ding! The Microwave Helps",
+        "body": "Little Bear was hungry, but Mommy's meal had gone cold. Mommy smiled, \"Don't worry, let's ask the microwave for help!\" Little Bear put the food inside, closed the door, and pressed a small button. A yellow light turned on inside, and the turntable began to spin. \"Hummm...\" the microwave sang softly. After a little while, \"Ding!\" The food was hot! Little Bear opened the door, and delicious steam came out. \"Wow, the microwave is amazing, like a magic box!\" said Little Bear happily. Mommy patted his head, \"Yes, the microwave can warm up cold food, but remember, children shouldn't use it alone. Always ask a grown-up for help.\" Little Bear nodded and ate his warm meal, which tasted extra good."
+      },
+      "knowledge": {
+        "title": "Why can a microwave heat food?",
+        "body": "A microwave has invisible microwaves inside. These make the water molecules in food dance. When they move, they get hot, and the food heats up too. This way, we can heat food without fire—fast and easy."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_microwave_intro.mp3",
+        "story": "../item-audio/en/object_microwave_story.mp3"
+      }
+    }
+  }
+}

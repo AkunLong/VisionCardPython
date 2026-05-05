@@ -1,0 +1,90 @@
+{
+  "id": "food_rice_cake",
+  "sku_id": "card_food_rice_cake",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "staple_food",
+      "color_white",
+      "edible"
+    ],
+    "secondary": [
+      "chewy",
+      "at_party",
+      "sweet"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "staple"
+    ],
+    "color": [
+      "white"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "warm",
+      "room"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "年糕",
+      "aloud": "nián gāo",
+      "words": "rice cake",
+      "intro": "年糕是用糯米做的，软软的、甜甜的，过年的时候大家都会吃。吃了年糕，一年更比一年高哦。",
+      "story": {
+        "title": "🧧年糕的故事",
+        "body": "过新年啦，妈妈端出一盘热乎乎的年糕。小美好奇地问：为什么过年要吃年糕呀？奶奶笑着说：年糕年糕，就是‘年高’呀！吃了年糕，小朋友会长得更高，大人工作会更好，全家一年比一年好。小美咬了一口，年糕又软又甜，像云朵一样。她开心地说：我要多吃几块，明年长得像爸爸那么高！爸爸抱起小美，说：我们一起吃年糕，全家都开开心心，年年高！"
+      },
+      "knowledge": {
+        "title": "年糕是怎么做出来的？",
+        "body": "把糯米磨成粉，和上水、糖，揉成面团，然后放在锅里蒸熟，就变成软软糯糯、甜甜的年糕啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_rice_cake_intro.mp3",
+        "story": "../item-audio/zh-CN/food_rice_cake_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Rice Cake",
+      "aloud": "/raɪs keɪk/",
+      "words": "",
+      "intro": "Rice cake is made from glutinous rice. It's soft and sweet, and we often eat it during the New Year. Eating rice cake means getting better year after year.",
+      "story": {
+        "title": "🧧The Story of Rice Cake",
+        "body": "It's New Year! Mom brings out a plate of warm rice cake. Xiao Mei asks curiously, 'Why do we eat rice cake for New Year?' Grandma smiles and says, 'Rice cake sounds like 'year high' in Chinese! Eating it means children will grow taller, grown-ups will do better at work, and the whole family will have a better year.' Xiao Mei takes a bite; it's soft and sweet like a cloud. She says happily, 'I want to eat more so I can grow as tall as Dad next year!' Dad picks her up and says, 'Let's all eat rice cake together, be happy, and get higher every year!'"
+      },
+      "knowledge": {
+        "title": "How is rice cake made?",
+        "body": "Grind glutinous rice into powder, mix with water and sugar to form a dough, then steam it until it becomes soft, chewy, and sweet. That's rice cake!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_rice_cake_intro.mp3",
+        "story": "../item-audio/en/food_rice_cake_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "flower_jasmine_gardenia",
+  "sku_id": "card_flower_jasmine_gardenia",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_white",
+      "fragrant"
+    ],
+    "secondary": [
+      "summer_flower",
+      "garden_flower",
+      "potted_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "garden",
+      "balcony",
+      "pot"
+    ],
+    "season": [
+      "summer"
+    ],
+    "smell": [
+      "strong"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "栀子花",
+      "aloud": "zhī zi huā",
+      "words": "gardenia",
+      "intro": "栀子花是一种白白的、香香的花，花瓣软软的，像小星星。夏天开花，闻起来甜甜的，很多人都喜欢把它种在花园里或花盆里。",
+      "story": {
+        "title": "🌼栀子花的香气",
+        "body": "夏天的早晨，小兔子白白在花园里玩，突然闻到一阵甜甜的香味。它找啊找，发现了一丛栀子花，开着洁白的花儿。白白凑近闻了闻，说：“哇，好香呀！”它想摘一朵，但妈妈说：“花儿留在枝头上更漂亮，我们可以每天来闻。”于是白白每天来和栀子花打招呼，花儿也越来越香。邻居小鸟也被吸引来了，大家围着栀子花唱歌跳舞。白白觉得，栀子花是夏天最好的朋友。"
+      },
+      "knowledge": {
+        "title": "栀子花为什么这么香？",
+        "body": "栀子花的花瓣里有很多小小的香囊，能发出甜甜的香味。这香味能吸引小蜜蜂和小蝴蝶来帮它传播花粉。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_jasmine_gardenia_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_jasmine_gardenia_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Gardenia",
+      "aloud": "/ˈɡɑːrdəniə/",
+      "words": "",
+      "intro": "Gardenia is a white, sweet-smelling flower with soft petals like little stars. It blooms in summer and smells so good that many people plant it in gardens or pots.",
+      "story": {
+        "title": "🌼 The Sweet Scent of Gardenia",
+        "body": "One summer morning, a little bunny named Whitey was playing in the garden. Suddenly, he smelled a sweet, lovely scent. He looked and looked, and found a bush full of white gardenia flowers. Whitey leaned close and took a big sniff. \"Wow, it smells so good!\" he said. He wanted to pick one, but his mom said, \"The flower is happier on the bush. We can come and smell it every day.\" So Whitey visited the gardenia every morning. The flowers smelled even sweeter. Soon, a little bird came too, and they sang together near the gardenia. Whitey felt the gardenia was the best friend of summer."
+      },
+      "knowledge": {
+        "title": "Why are gardenias so fragrant?",
+        "body": "Gardenia petals have tiny scent pockets that release a sweet smell. This scent attracts bees and butterflies to help spread pollen."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_jasmine_gardenia_intro.mp3",
+        "story": "../item-audio/en/flower_jasmine_gardenia_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "animal_pig",
+  "sku_id": "card_animal_pig",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "farm_animal",
+      "cute"
+    ],
+    "secondary": [
+      "small",
+      "color_pink",
+      "has_tail"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal"
+    ],
+    "color": [
+      "pink"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "ears",
+      "snout"
+    ],
+    "scenes": [
+      "farm",
+      "mud",
+      "yard"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "eat",
+      "roll"
+    ],
+    "sound": [
+      "oink"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "小猪",
+      "aloud": "xiǎo zhū",
+      "words": "pig",
+      "intro": "小猪是一种可爱的农场动物，身上有粉粉的皮肤，长着圆圆的鼻子和卷卷的小尾巴。小猪喜欢哼哼叫，也喜欢在泥巴里打滚。",
+      "story": {
+        "title": "🐷小猪找朋友",
+        "body": "小粉猪噜噜住在一个热闹的农场里。一天早上，噜噜醒来后，觉得好孤单，它想找一个好朋友一起玩。它先走到小鸭子住的池塘边，小声地问：“小鸭子，你能和我玩吗？”小鸭子摇摇头说：“对不起，我要学游泳。”噜噜又走到小羊的草地上，轻轻地问：“小羊，你能和我玩吗？”小羊低着头说：“对不起，我的草还没吃完。”噜噜难过地走开了，它坐在一个软软的泥巴坑旁边，用鼻子拱了拱泥巴。忽然，泥巴坑里钻出另一只小猪，它满身泥巴，笑眯眯地说：“我们一起滚泥巴吧！”噜噜开心极了，立刻跳进泥巴坑，两只小猪滚来滚去，泥巴溅得到处都是，笑声回荡在整个农场。太阳慢慢下山了，噜噜和好朋友一起摇着尾巴，回到了温暖的猪圈，心里装满了快乐。"
+      },
+      "knowledge": {
+        "title": "小猪为什么喜欢在泥巴里打滚？",
+        "body": "小猪在泥巴里打滚是为了凉快，因为它们的身体不容易出汗。泥巴还可以保护皮肤，不让虫子咬，也能挡住太阳光。所以小猪爱玩泥巴，又好玩又有用。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_pig_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_pig_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Pig",
+      "aloud": "/pɪɡ/",
+      "words": "",
+      "intro": "A pig is a cute farm animal with pink skin, a round nose, and a curly tail. Pigs like to oink, and they love to roll in the mud.",
+      "story": {
+        "title": "🐷The Little Pig Looks for a Friend",
+        "body": "Pinky the little pig lived on a busy farm. One morning, Pinky woke up feeling lonely and wanted a friend to play with. She first went to the duck pond and softly asked, “Little duck, can you play with me?” The duck shook its head and said, “Sorry, I need to practice swimming.” Pinky then went to the sheep’s grassy field and asked, “Little sheep, can you play with me?” The sheep looked down and said, “Sorry, I haven’t finished eating my grass.” Pinky felt sad and walked away. She sat beside a muddy pit and pushed her nose into the mud. Suddenly, another little pig popped out of the mud, covered in dirt and smiling. “Let’s roll in the mud together!” it said. Pinky was so happy. She jumped right in, and the two pigs rolled around, splashing mud everywhere, their laughter filling the farm. As the sun set, Pinky and her new friend wagged their tails and went back to their warm pen, their hearts full of joy."
+      },
+      "knowledge": {
+        "title": "Why do pigs like to roll in mud?",
+        "body": "Pigs roll in mud to cool down because they don’t sweat much. The mud also protects their skin from bugs and sunburn. So playing in mud is both fun and helpful for pigs."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_pig_intro.mp3",
+        "story": "../item-audio/en/animal_pig_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "object_bucket",
+  "sku_id": "card_object_bucket",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "cleaning_item",
+      "color_blue"
+    ],
+    "secondary": [
+      "at_home",
+      "round",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "blue",
+      "red"
+    ],
+    "shape": [
+      "round"
+    ],
+    "material": [
+      "plastic",
+      "metal"
+    ],
+    "scenes": [
+      "home",
+      "bathroom",
+      "outdoor"
+    ],
+    "function": [
+      "carry_water",
+      "clean"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "水桶",
+      "aloud": "shuǐ tǒng",
+      "words": "bucket",
+      "intro": "水桶可以用来装水、洗东西。它有一个圆圆的桶身和一个提手，拎起来很方便。",
+      "story": {
+        "title": "💧小水桶丁丁",
+        "body": "丁丁是一只蓝色的塑料水桶，圆圆的肚子，弯弯的提手。每天，妈妈都会拎着它去接水，浇灌阳台上的小花。丁丁总是咕嘟咕嘟地装满水，再哗啦啦地倒下，小花们喝饱了水，都开心地笑了。一天，丁丁想：如果我能去更多地方帮助别人，那该多好啊！于是，它滚呀滚，滚到了厨房，帮忙洗青菜；滚到了浴室，帮忙接洗澡水；滚到了院子，帮忙冲洗地面。虽然忙得满头是水珠，但丁丁觉得快乐极了。晚上，妈妈把丁丁放回墙角，轻轻说：谢谢你，小水桶，你真是我们家的小帮手！丁丁甜甜地睡着了，梦里还在快乐地忙活呢。"
+      },
+      "knowledge": {
+        "title": "水桶有什么特点？",
+        "body": "水桶通常有一个圆形的桶身和一个提手，方便我们拎着它移动。它由塑料或金属做成，可以装水、洗东西，是家里和户外的清洁好帮手。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_bucket_intro.mp3",
+        "story": "../item-audio/zh-CN/object_bucket_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Bucket",
+      "aloud": "/ˈbʌkɪt/",
+      "words": "",
+      "intro": "A bucket can carry water and help with cleaning. It has a round body and a handle, making it easy to carry around.",
+      "story": {
+        "title": "💧Little Bucket Dingding",
+        "body": "Dingding is a blue plastic bucket with a round belly and a curved handle. Every day, Mom carries it to fetch water for the little flowers on the balcony. Dingding always gulps water in, then splashes it out—the flowers drink happily. One day, Dingding thought, “How wonderful it would be if I could help more people!” So it rolled into the kitchen to wash veggies, into the bathroom to help fill the bath, and into the yard to rinse the floor. Though covered with water drops, Dingding felt so happy. At night, Mom put Dingding back in the corner and said softly, “Thank you, little bucket, you’re such a helper in our home!” Dingding fell asleep sweetly, dreaming of more busy and happy moments."
+      },
+      "knowledge": {
+        "title": "What are the features of a bucket?",
+        "body": "A bucket usually has a round body and a handle, making it easy to carry. It is made of plastic or metal, and can hold water or be used for cleaning. It is a helpful tool at home and outdoors."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_bucket_intro.mp3",
+        "story": "../item-audio/en/object_bucket_story.mp3"
+      }
+    }
+  }
+}

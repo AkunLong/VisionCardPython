@@ -1,0 +1,90 @@
+{
+  "id": "vegetable_eggplant",
+  "sku_id": "card_vegetable_eggplant",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_purple",
+      "long"
+    ],
+    "secondary": [
+      "soft",
+      "healthy",
+      "can_cook"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "purple"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "bitter"
+    ],
+    "grow_location": [
+      "above ground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "茄子",
+      "aloud": "qié zi",
+      "words": "eggplant",
+      "intro": "茄子是一种紫色的蔬菜，长长的，摸起来滑滑软软的。它长在地面上的植物上，煮熟后软软的，很好吃。",
+      "story": {
+        "title": "🍆 紫色的小茄子",
+        "body": "菜园里，小茄子一个人挂在藤上。它看着红红的番茄、绿绿的黄瓜，觉得自己颜色不一样，有点难过。一只小兔子跳过来，说：“小茄子，你好漂亮啊！紫紫的，像宝石一样。”小茄子害羞地笑了。后来，小茄子和番茄、黄瓜成了好朋友，一起被送进厨房。厨师叔叔把它们做成好吃的菜，小茄子变成了软软的炒茄子。大家都说：“真好吃！”小茄子高兴极了，原来自己的颜色也很美。"
+      },
+      "knowledge": {
+        "title": "吃茄子有什么好处？",
+        "body": "茄子软软的，好消化，还有维生素和纤维，帮助小朋友长身体。紫色的皮里有花青素，对身体健康很棒。可以炒着吃、蒸着吃，都很美味。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_eggplant_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_eggplant_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Eggplant",
+      "aloud": "/ˈɛɡplænt/",
+      "words": "",
+      "intro": "Eggplant is a purple vegetable that is long and smooth. It grows on plants above the ground. When cooked, it becomes soft and tasty.",
+      "story": {
+        "title": "🍆 The Little Purple Eggplant",
+        "body": "In the garden, a little eggplant hung on its vine alone. It saw the red tomatoes and the green cucumbers, and it felt a little sad because it was different. A little rabbit hopped over and said, 'Little Eggplant, you are so beautiful! So purple, like a jewel.' The eggplant smiled shyly. Later, the eggplant, tomato, and cucumber became good friends and were taken to the kitchen. The chef cooked them into a delicious dish, and the eggplant became soft and tasty. Everyone said, 'So yummy!' The little eggplant was very happy to learn that its color was also lovely."
+      },
+      "knowledge": {
+        "title": "Why is eating eggplant good for you?",
+        "body": "Eggplants are soft and easy to digest. They have vitamins and fiber to help you grow strong. The purple skin has anthocyanins, which are great for your health. You can stir-fry or steam them — always delicious."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_eggplant_intro.mp3",
+        "story": "../item-audio/en/vegetable_eggplant_story.mp3"
+      }
+    }
+  }
+}

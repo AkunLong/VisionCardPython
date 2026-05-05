@@ -1,0 +1,89 @@
+{
+  "id": "food_cola",
+  "sku_id": "card_food_cola",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "drink",
+      "color_brown",
+      "sweet"
+    ],
+    "secondary": [
+      "cold_food",
+      "at_party",
+      "at_snack_time"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "drink"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "cold"
+    ],
+    "scenes": [
+      "party",
+      "home",
+      "restaurant"
+    ],
+    "is_edible": false,
+    "is_drinkable": true,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "可乐",
+      "aloud": "kě lè",
+      "words": "cola",
+      "intro": "可乐是一种甜甜的、冒着好多小泡泡的饮料，喝起来凉凉的，咕噜咕噜很好玩！我们经常在聚会或者大热天喝它。",
+      "story": {
+        "title": "🥤小泡泡的旅行",
+        "body": "小乐今天第一次喝可乐。妈妈把可乐倒进杯子里，哗啦啦——好多小泡泡冒了出来！小乐好奇地问：妈妈，这些泡泡是从哪里来的呀？妈妈说：这些泡泡啊，是可乐里藏着的小精灵，它们一直在瓶子里睡觉，一打开，就高兴地跑出来啦。小乐喝了一口，泡泡在嘴里跳来跳去，痒痒的。他咕噜咕噜咽下去，泡泡顺着嗓子滑滑梯，跑到肚子里去开派对。小乐笑着说：原来喝可乐，就像肚子里放烟花一样，真好玩！从那以后，每次喝可乐，小乐都会想起那些跳舞的小泡泡。"
+      },
+      "knowledge": {
+        "title": "可乐为什么会冒泡泡？",
+        "body": "可乐里加了一种叫二氧化碳的气体，它被压到水里藏起来。一打开瓶盖，气体就变成小泡泡跑出来了，所以我们能看到好多泡泡飘起来。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_cola_intro.mp3",
+        "story": "../item-audio/zh-CN/food_cola_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cola",
+      "aloud": "/ˈkoʊlə/",
+      "words": "",
+      "intro": "Cola is a sweet drink with lots of little bubbles. It's cool and fizzy, and it's fun to drink gulp by gulp! We often have it at parties or on hot days.",
+      "story": {
+        "title": "🥤The Journey of the Little Bubbles",
+        "body": "Xiao Le tried cola for the first time today. Mom poured the cola into a glass, fizzzz—lots of little bubbles came out! Xiao Le asked curiously, \"Mom, where do these bubbles come from?\" Mom said, \"These bubbles are little elves hiding inside the cola. They sleep in the bottle, and when you open it, they happily run out.\" Xiao Le took a sip, and the bubbles danced and tickled his mouth. He gulped them down, and the bubbles slid down his throat like a slide and went to his tummy to have a party. Xiao Le laughed and said, \"Drinking cola is like setting off fireworks in my tummy, so much fun!\" From then on, every time he drank cola, Xiao Le remembered those dancing little bubbles."
+      },
+      "knowledge": {
+        "title": "Why does cola bubble?",
+        "body": "Cola has a gas called carbon dioxide dissolved in it. When you open the bottle, the gas escapes and forms lots of little bubbles that rise up."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_cola_intro.mp3",
+        "story": "../item-audio/en/food_cola_story.mp3"
+      }
+    }
+  }
+}

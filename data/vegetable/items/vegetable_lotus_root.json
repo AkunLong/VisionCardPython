@@ -1,0 +1,92 @@
+{
+  "id": "vegetable_lotus_root",
+  "sku_id": "card_vegetable_lotus_root",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_white",
+      "root_vegetable"
+    ],
+    "secondary": [
+      "long",
+      "crisp",
+      "sweet"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "white",
+      "brown"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "crisp",
+      "sweet"
+    ],
+    "grow_location": [
+      "underground"
+    ],
+    "scenes": [
+      "farm",
+      "kitchen",
+      "supermarket",
+      "pond"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "莲藕",
+      "aloud": "lián ǒu",
+      "words": "lotus root",
+      "intro": "莲藕是长在水里的蔬菜，皮是褐色的，里面有好多小洞洞。吃起来脆脆甜甜的，可以生吃也可以做菜。",
+      "story": {
+        "title": "🌱挖莲藕",
+        "body": "夏天的池塘开满了粉粉的荷花，绿绿的荷叶像一把把小伞。小兔子来到池塘边，它听说池底藏着好吃的莲藕。小兔子不敢下水，就叫来了好朋友小青蛙。小青蛙噗通跳进水里，钻进软软的泥里，嘿哟嘿哟拔出来一根长长的莲藕。莲藕胖乎乎的，身上还有黑黑的泥巴。小兔子和小青蛙把莲藕洗干净，咔嚓咬一口，又脆又甜！小兔子高兴地说：莲藕真好吃！小青蛙呱呱地笑了。它们还把莲藕切成小段，一串串洞洞像小哨子，举起来看太阳，真有趣！最后，它们一起把莲藕片分给池塘边的小朋友们，大家都吃得笑眯眯。"
+      },
+      "knowledge": {
+        "title": "吃莲藕有什么好处？",
+        "body": "莲藕里有很多营养，吃了能让身体变得强壮。它里面有小洞洞，像小吸管一样，可以帮助消化，让我们的小肚子舒舒服服的。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_lotus_root_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_lotus_root_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Lotus Root",
+      "aloud": "/ˈloʊtəs ruːt/",
+      "words": "",
+      "intro": "Lotus root is a vegetable that grows in water. Its skin is brown and it has many little holes inside. It tastes crisp and sweet, and can be eaten raw or cooked.",
+      "story": {
+        "title": "🌱Digging Lotus Root",
+        "body": "In summer, the pond was full of pink lotus flowers and green leaves like little umbrellas. A little rabbit came to the pond, having heard that tasty lotus roots were hidden beneath. But the rabbit didn't dare go into the water, so it called its good friend the frog. The frog plop jumped in, dived into the soft mud, and heave-ho pulled out a long lotus root. It was chubby and still covered in dark mud. They washed it clean, and crunch! took a bite – so crisp and sweet! The rabbit said happily, Lotus root is delicious! The frog laughed croakily. They sliced the root into rounds, and the lines of holes looked like little whistles. They held them up to the sun – so fun! Finally, they shared the slices with all the children at the pond, and everyone ate with big smiles."
+      },
+      "knowledge": {
+        "title": "Why is eating lotus root good for you?",
+        "body": "Lotus root is packed with nutrients that make your body strong. The little holes inside act like tiny straws, helping with digestion and keeping your tummy happy."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_lotus_root_intro.mp3",
+        "story": "../item-audio/en/vegetable_lotus_root_story.mp3"
+      }
+    }
+  }
+}

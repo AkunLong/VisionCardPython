@@ -1,0 +1,97 @@
+{
+  "id": "transport_truck",
+  "sku_id": "card_transport_truck",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "road_vehicle",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_carry_goods",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "truck"
+    ],
+    "color": [
+      "red",
+      "blue",
+      "white"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "road",
+      "highway",
+      "city"
+    ],
+    "fuel": [
+      "diesel",
+      "gasoline"
+    ],
+    "features": [
+      "wheels",
+      "cargo_bed",
+      "strong_engine"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "货车",
+      "aloud": "huò chē",
+      "words": "truck",
+      "intro": "货车是一种大大的车，后面有一个大大的车厢，可以装好多好多东西。它在马路上跑，把东西从一个地方送到另一个地方。",
+      "story": {
+        "title": "🚚小蓝货车的一天",
+        "body": "早上，小蓝货车精神满满地出发了。它先开到农场，装满了红红的苹果和黄黄的香蕉，送到城里的超市。超市阿姨笑着说：“谢谢你，小蓝！”接着，小蓝又开到玩具工厂，装了好多毛绒小熊和彩色积木，送到幼儿园。小朋友们看到玩具，开心地拍手跳起来。下午，小蓝帮家具店送了两把舒服的小椅子给老爷爷。一整天，小蓝在路上跑来跑去，虽然有点累，但想到大家收到东西的笑脸，它也觉得特别幸福。天黑时，小蓝回到停车场，安安静静地休息，准备明天再帮大家送东西。"
+      },
+      "knowledge": {
+        "title": "货车有什么用？",
+        "body": "货车是专门运东西的车。吃的、玩的、用的，很多东西都要靠货车送到商店或家里。货车让我们的生活更方便，想要什么就能买到什么。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_truck_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_truck_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Truck",
+      "aloud": "/trʌk/",
+      "words": "",
+      "intro": "A truck is a big vehicle with a large cargo bed. It can carry lots and lots of things. It drives on the road, delivering goods from one place to another.",
+      "story": {
+        "title": "🚚The Little Blue Truck's Day",
+        "body": "In the morning, the little blue truck set off full of energy. First, it went to a farm and got loaded with red apples and yellow bananas, then delivered them to a supermarket in the city. The shop assistant smiled and said, \"Thank you, little blue!\" Next, the truck went to a toy factory and picked up lots of teddy bears and colorful blocks, taking them to a kindergarten. The children clapped and jumped with joy when they saw the toys. In the afternoon, it helped a furniture store deliver two cozy chairs to a grandpa. All day long, the little blue truck drove back and forth on the road. Though a bit tired, it felt so happy seeing everyone's smiling faces. When it got dark, the truck returned to the parking lot, rested quietly, and got ready to help deliver things again tomorrow."
+      },
+      "knowledge": {
+        "title": "What are trucks used for?",
+        "body": "Trucks are made for carrying goods. Many things we eat, play with, and use are delivered to stores or our homes by trucks. Trucks make our lives more convenient, so we can buy whatever we want."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_truck_intro.mp3",
+        "story": "../item-audio/en/transport_truck_story.mp3"
+      }
+    }
+  }
+}

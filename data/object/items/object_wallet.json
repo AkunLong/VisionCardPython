@@ -1,0 +1,91 @@
+{
+  "id": "object_wallet",
+  "sku_id": "card_object_wallet",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "personal_item",
+      "color_black"
+    ],
+    "secondary": [
+      "go_out",
+      "can_store",
+      "soft"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "black",
+      "brown"
+    ],
+    "shape": [
+      "rectangle"
+    ],
+    "material": [
+      "leather",
+      "fabric"
+    ],
+    "scenes": [
+      "home",
+      "go_out"
+    ],
+    "function": [
+      "store_money",
+      "store_cards"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "钱包",
+      "aloud": "qián bāo",
+      "words": "wallet",
+      "intro": "钱包是我们随身携带的小袋子，可以装钱和卡片。它软软的，有拉链或扣子，保护里面的东西不掉出来。",
+      "story": {
+        "title": "💰小小钱包的旅行",
+        "body": "小兔有一个红色的钱包，每天跟着它出门。一天，钱包悄悄说：小兔，今天我们带什么呀？小兔打开钱包，放进三枚硬币、一张妈妈的照片和一张画着小花的卡片。钱包鼓鼓的，开心地说：好满足呀！他们先去面包店，钱包打开嘴巴，吐出一枚硬币，换了一个热乎乎的面包。然后去公园，小兔掏出卡片，在秋千上画下蓝天。晚上回家，小兔摸摸钱包：谢谢你，今天辛苦了。钱包笑弯了拉链：不辛苦，跟着你到处走，看到好多好玩的东西，我最喜欢旅行啦！小兔把钱包放在枕头边，一起进入了甜甜的梦乡。"
+      },
+      "knowledge": {
+        "title": "钱包里可以装什么？",
+        "body": "钱包可以装钱、卡片、照片等小东西。它让我们出门时方便携带重要的物品，不容易弄丢。材质通常是布或皮革，有拉链或按扣保护安全。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_wallet_intro.mp3",
+        "story": "../item-audio/zh-CN/object_wallet_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Wallet",
+      "aloud": "/ˈwɒlɪt/",
+      "words": "",
+      "intro": "A wallet is a small pouch we carry with us. It can hold money and cards. It is soft and has a zipper or button to keep things safe.",
+      "story": {
+        "title": "💰Little Wallet's Adventure",
+        "body": "Bunny has a red wallet and takes it everywhere. One day, the wallet whispered, \"Bunny, what shall we take today?\" Bunny opened the wallet and put in three coins, a photo of Mommy, and a card with a little flower. The wallet was plump and said happily, \"I'm so full!\" First, they went to the bakery. Wallet opened its mouth, spit out a coin, and got a warm bread. Then they went to the park. Bunny took out the card and drew the blue sky on the swing. In the evening, Bunny patted Wallet: \"Thank you, you worked hard today.\" Wallet smiled and its zipper curved: \"Not hard at all. Following you around, I saw so many fun things. I love adventures!\" Bunny placed Wallet by the pillow, and they drifted into a sweet dream together."
+      },
+      "knowledge": {
+        "title": "What can you put in a wallet?",
+        "body": "You can put money, cards, photos, and other small items in a wallet. It helps you carry important things safely when you go out. Wallets are usually made of cloth or leather and have a zipper or snap to keep everything secure."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_wallet_intro.mp3",
+        "story": "../item-audio/en/object_wallet_story.mp3"
+      }
+    }
+  }
+}

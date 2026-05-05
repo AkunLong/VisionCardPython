@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_i",
+  "sku_id": "card_number_letter_i",
+  "category": "letter",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "vowel_letter",
+      "uppercase_letter"
+    ],
+    "secondary": [
+      "can_say",
+      "can_read",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "letter",
+    "value": "I",
+    "is_even": false,
+    "is_prime": false,
+    "ordinal": "9th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母I",
+      "aloud": "ài",
+      "words": "i",
+      "intro": "字母I是英语字母表里第九个字母，它看起来像一根小棍子，但作用可大啦！",
+      "story": {
+        "title": "🎩字母I的故事",
+        "body": "字母I站得直直的，像个挺拔的小士兵。有一天，它觉得自己好孤单，就对朋友们说：“你们看，我没有弯弯的曲线，也没有圈圈，我只是一条竖线。”其他字母说：“才不是呢！你是字母里最高最直的！而且，很多重要的单词从你开始，比如Ice cream（冰淇淋）、I（我）。我们都很喜欢你！”字母I听了，开心地笑了。现在，它每天站在单词里，骄傲地发挥它的作用。小朋友，你找到身边的字母I了吗？"
+      },
+      "knowledge": {
+        "title": "字母I的发音",
+        "body": "字母I发/ai/音，就像我们唱“唉”一样。它是元音字母，可以发不同的音，比如在big里发/i/，在ice里发/ai/。字母I很重要，它帮助组成很多单词。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_i_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_i_story.mp3"
+      }
+    },
+    "en": {
+      "name": "I",
+      "aloud": "/aɪ/",
+      "words": "",
+      "intro": "Letter I is the ninth letter of the English alphabet. It looks like a little stick, but it's very useful!",
+      "story": {
+        "title": "🎩Story of Letter I",
+        "body": "Letter I stands very straight, like a tall little soldier. One day, it felt lonely and said to its friends, 'Look at me, I have no curves, no loops, I am just a straight line.' The other letters said, 'No way! You are the tallest and straightest of all letters! And many important words start with you, like Ice cream, I (myself). We all like you!' Letter I heard this and smiled happily. Now, every day, it stands proudly in words, playing its part. Little one, can you find the letter I around you?"
+      },
+      "knowledge": {
+        "title": "The Sound of Letter I",
+        "body": "Letter I makes the /aɪ/ sound, like saying 'eye'. It is a vowel letter and can make different sounds, like /ɪ/ in 'big' or /aɪ/ in 'ice'. Letter I is very important and helps form many words."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_i_intro.mp3",
+        "story": "../item-audio/en/number_letter_i_story.mp3"
+      }
+    }
+  }
+}

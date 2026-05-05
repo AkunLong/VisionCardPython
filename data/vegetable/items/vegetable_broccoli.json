@@ -1,0 +1,90 @@
+{
+  "id": "vegetable_broccoli",
+  "sku_id": "card_vegetable_broccoli",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "flower_shape"
+    ],
+    "secondary": [
+      "crisp",
+      "healthy",
+      "can_cook"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "flower_shape"
+    ],
+    "taste": [
+      "crisp"
+    ],
+    "grow_location": [
+      "field"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "西兰花",
+      "aloud": "xī lán huā",
+      "words": "broccoli",
+      "intro": "西兰花是一种绿色的蔬菜，长得像一棵小树，头上开满小花蕾，吃起来脆脆的，很有营养。",
+      "story": {
+        "title": "🥦小树的秘密",
+        "body": "小兔子今天在菜园里发现了一种新的蔬菜。它长得绿绿的，像一棵小树，头顶上有好多好多的绿色小球。“这是什么呀？”小兔子好奇地摸了摸。妈妈笑着说：“这是西兰花，很好吃哦！”小兔子小心地咬了一小口，咔嚓！脆脆的，还有一点点甜甜的味道。它高兴极了，跑去叫来好朋友小羊和小鹿，一起品尝这棵神奇的“小树”。小羊说：“好像一朵绿色的花！”小鹿说：“而且吃起来脆脆的，真有趣。”三个小伙伴你一口我一口，很快就把西兰花吃完啦！小兔子开心地想，原来绿色的蔬菜也这么美味，以后要多吃蔬菜身体棒！"
+      },
+      "knowledge": {
+        "title": "西兰花有什么营养？",
+        "body": "西兰花含有丰富的维生素和纤维，还含有帮助身体强壮的营养素。常吃西兰花能提高免疫力，让小朋友更健康，眼睛也会更亮！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_broccoli_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_broccoli_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Broccoli",
+      "aloud": "/ˈbrɒkəli/",
+      "words": "",
+      "intro": "Broccoli is a green vegetable that looks like a little tree. It has many tiny buds on top and tastes crisp and healthy.",
+      "story": {
+        "title": "🥦The Secret of the Little Tree",
+        "body": "One day, Bunny found a new vegetable in the garden. It was green and looked just like a tiny tree, with lots of little green balls on top. “What is this?” Bunny asked, touching it gently. Mommy smiled and said, “This is broccoli. It’s very yummy!” Bunny took a small bite. Crunch! It was crisp and a little sweet. Bunny was so happy and ran to call Lamb and Deer. Together they tasted the magical “little tree.” Lamb said, “It looks like a green flower!” Deer said, “And it’s so crispy and fun to eat.” The three friends munched away, and soon the broccoli was all gone. Bunny thought happily, green vegetables can be so delicious! I will eat more veggies to grow strong!"
+      },
+      "knowledge": {
+        "title": "What makes broccoli good for you?",
+        "body": "Broccoli is packed with vitamins and fiber. It helps build strong bodies, boosts immunity, and keeps your eyes bright and healthy!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_broccoli_intro.mp3",
+        "story": "../item-audio/en/vegetable_broccoli_story.mp3"
+      }
+    }
+  }
+}

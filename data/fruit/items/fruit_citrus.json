@@ -1,0 +1,87 @@
+{
+  "id": "fruit_citrus",
+  "sku_id": "card_fruit_citrus",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_orange",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sweet",
+      "orchard"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "orange"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "juicy"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "柑橙",
+      "aloud": "gān chéng",
+      "words": "orange",
+      "intro": "柑橙是一种圆圆的水果，穿着橙色的外衣，剥开皮，里面是一瓣一瓣的果肉，吃起来甜甜的、水水的。它很有营养，会让小朋友长得棒棒的。",
+      "story": {
+        "title": "🐻小熊的柑橙",
+        "body": "秋天到了，果园里的柑橙变黄了，像一个个小灯笼挂在树上。小熊来到树下，伸手摘下一个最大的柑橙。它把柑橙拿回家，先用清水洗一洗，然后轻轻剥开皮。“哇，好香呀！”小熊看到一瓣瓣弯弯的果肉，口水都要流出来了。它小心翼翼地掰下一瓣放进嘴里，轻轻一咬，甜甜的汁水就流了出来，好吃极了。小熊没有一个人吃完柑橙，它把剩下的果肉分成几瓣，装在盘子里，端给爸爸妈妈。爸爸妈妈尝了也笑着说：“真甜！”小熊觉得，和家人一起分享，柑橙的味道更美了。"
+      },
+      "knowledge": {
+        "title": "柑橙对小朋友有什么好处？",
+        "body": "柑橙里有很多维生素C，吃了可以帮助小朋友少生病，让皮肤变得更好。它甜甜的汁水还能让小朋友喝水一样补充水分。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_citrus_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_citrus_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Orange",
+      "aloud": "/ˈɔːrɪndʒ/",
+      "words": "",
+      "intro": "An orange is a round fruit with a bright orange peel. When you peel it, you find juicy segments inside. It tastes sweet and is very nutritious.",
+      "story": {
+        "title": "🐻Little Bear's Orange",
+        "body": "In autumn, the oranges in the orchard turned yellow, hanging like little lanterns on the trees. Little Bear came to the tree and picked the biggest orange. He took it home, washed it carefully, and gently peeled off the skin. “Wow, it smells so good!” Little Bear saw the curved segments and couldn’t wait to taste them. He put one segment into his mouth and bit gently. The sweet juice burst out, and it was so delicious. Little Bear didn’t eat the whole orange by himself. He put the rest of the segments on a plate and gave them to his parents. They tasted it and smiled, “It’s so sweet!” Little Bear felt that sharing with family made the orange taste even better."
+      },
+      "knowledge": {
+        "title": "Why are oranges good for children?",
+        "body": "Oranges are rich in vitamin C, which can help children stay healthy and make their skin better. The sweet juice also helps keep you hydrated."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_citrus_intro.mp3",
+        "story": "../item-audio/en/fruit_citrus_story.mp3"
+      }
+    }
+  }
+}

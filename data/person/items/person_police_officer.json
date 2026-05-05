@@ -1,0 +1,94 @@
+{
+  "id": "person_police_officer",
+  "sku_id": "card_person_police_officer",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "protect"
+    ],
+    "secondary": [
+      "adult",
+      "rescue",
+      "public_service"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "police officer"
+    ],
+    "workplace": [
+      "police station",
+      "road"
+    ],
+    "tools": [
+      "handcuffs",
+      "walkie-talkie",
+      "badge",
+      "police car"
+    ],
+    "clothing": [
+      "uniform",
+      "hat"
+    ],
+    "actions": [
+      "help",
+      "patrol",
+      "rescue"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "警察",
+      "aloud": "jǐng chá",
+      "words": "police officer",
+      "intro": "警察是保护大家安全的人。他们穿着帅气的制服，在马路上巡逻，还会帮助迷路的小朋友找到妈妈。",
+      "story": {
+        "title": "👮小猫咪找妈妈",
+        "body": "一天傍晚，小猫咪在公园里玩，回头一看，妈妈不见了。它急得喵喵叫，眼泪都要掉下来了。这时，一位警察叔叔走过来，蹲下身子轻声问：“小猫咪，你是不是找不到妈妈了？”警察叔叔牵着小猫咪的手，带它到警车里，用对讲机呼叫其他警察。很快，猫妈妈哭着跑过来，紧紧抱住小猫咪。“谢谢警察叔叔！”小猫咪亲了亲警察叔叔的脸。警察叔叔笑着说：“以后要牵紧妈妈的手哦。”小猫咪点点头，朝警察叔叔挥挥手，开心地和妈妈回家了。"
+      },
+      "knowledge": {
+        "title": "警察叔叔有哪些本领？",
+        "body": "警察叔叔会开警车巡逻，用对讲机和同事通话。他们还有手铐、警徽这些工具。警察最重要的任务就是保护大家，抓住坏人，帮助好人。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_police_officer_intro.mp3",
+        "story": "../item-audio/zh-CN/person_police_officer_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Police Officer",
+      "aloud": "/pəˈliːs ˈɒfɪsər/",
+      "words": "",
+      "intro": "A police officer keeps us safe. They wear a neat uniform, drive police cars, and help people in trouble.",
+      "story": {
+        "title": "👮Little Kitten Finds Mommy",
+        "body": "One evening, Little Kitten was playing in the park. When it looked back, Mommy was gone. It meowed anxiously, almost crying. Just then, a police officer came by, knelt down, and asked softly, \"Little Kitten, are you lost?\" The officer held Little Kitten's hand and led it to the police car. He used the walkie-talkie to call other officers. Soon, Mommy Cat came running, hugged Little Kitten tightly, and said, \"Thank you, Officer!\" Little Kitten kissed the officer's cheek. The officer smiled and said, \"Always hold Mommy's hand tight, okay?\" Little Kitten nodded, waved goodbye, and went home happily with Mommy."
+      },
+      "knowledge": {
+        "title": "What can a police officer do?",
+        "body": "Police officers patrol in police cars and talk to each other with walkie-talkies. They carry handcuffs and badges. Their most important job is to protect people, catch bad guys, and help those in need."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_police_officer_intro.mp3",
+        "story": "../item-audio/en/person_police_officer_story.mp3"
+      }
+    }
+  }
+}

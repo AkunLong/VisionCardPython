@@ -1,0 +1,94 @@
+{
+  "id": "person_animal_keeper",
+  "sku_id": "card_person_animal_keeper",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "at_workplace"
+    ],
+    "secondary": [
+      "adult",
+      "take_care",
+      "protect"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "animal_keeper"
+    ],
+    "workplace": [
+      "zoo",
+      "animal_shelter"
+    ],
+    "tools": [
+      "food_bucket",
+      "broom",
+      "water_hose"
+    ],
+    "clothing": [
+      "uniform",
+      "boots",
+      "gloves"
+    ],
+    "actions": [
+      "feed",
+      "clean",
+      "care"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "动物饲养员",
+      "aloud": "dòng wù sì yǎng yuán",
+      "words": "animal keeper",
+      "intro": "动物饲养员是照顾小动物的人。他们每天给动物宝宝们喂食、打扫房间，还会陪它们玩耍，让动物们健康快乐。",
+      "story": {
+        "title": "🐼熊猫宝宝的饲养员",
+        "body": "星期天，妈妈带我去动物园。我们看到一只可爱的小熊猫，毛茸茸的，正抱着竹子啃。旁边站着一位穿蓝色工作服的阿姨，她是熊猫宝宝的饲养员。她手里提着一个大桶，里面装满新鲜的竹子和水果。她轻轻唤着熊猫的名字，把食物放在石头上。熊猫宝宝跑过来，吃得津津有味。吃完后，阿姨用扫帚把笼舍打扫得干干净净，又用水管冲洗地面。她还给熊猫挠痒痒，熊猫高兴地打滚。我问阿姨：‘你每天都来照顾熊猫吗？’阿姨笑着说：‘是啊，我要让熊猫宝宝健康长大。’我觉得动物饲养员真了不起，我也想像她一样和动物做朋友。"
+      },
+      "knowledge": {
+        "title": "动物饲养员用什么工具照顾动物？",
+        "body": "动物饲养员有很多工具：大桶用来装食物，扫帚用来打扫笼舍，水管用来冲洗地面。他们穿统一的工作服和胶靴，有时还戴手套保护自己。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_animal_keeper_intro.mp3",
+        "story": "../item-audio/zh-CN/person_animal_keeper_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Animal Keeper",
+      "aloud": "/ˈænɪməl ˈkiːpər/",
+      "words": "",
+      "intro": "An animal keeper is someone who takes care of animals. They feed the animals, clean their homes, and play with them every day to keep them healthy and happy.",
+      "story": {
+        "title": "🐼The Little Panda's Caretaker",
+        "body": "One Sunday, Mom took me to the zoo. We saw a cute little panda, fluffy and cuddly, munching on bamboo. Next to the panda stood a lady in a blue uniform—she was the panda's keeper. She carried a big bucket filled with fresh bamboo and fruits. Softly calling the panda's name, she placed the food on a rock. The little panda ran over and ate with joy. Afterward, the keeper swept the enclosure clean with a broom and rinsed the floor with a hose. She even tickled the panda, and it rolled around happily. I asked, 'Do you come to take care of the panda every day?' The keeper smiled, 'Yes, I have to make sure the little panda grows up healthy.' I think animal keepers are amazing. I want to be friends with animals just like her."
+      },
+      "knowledge": {
+        "title": "What tools do animal keepers use?",
+        "body": "Animal keepers have many tools: big buckets for food, brooms for cleaning, and hoses for washing the floors. They also wear uniforms and boots, and sometimes gloves to protect themselves."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_animal_keeper_intro.mp3",
+        "story": "../item-audio/en/person_animal_keeper_story.mp3"
+      }
+    }
+  }
+}

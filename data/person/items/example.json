@@ -1,0 +1,97 @@
+{
+  "_基本字段配置": "↓",
+  "id": "person_doctor",
+  "sku_id": "card_person_doctor",
+  "category": "person",
+  "_年龄及难度": "↓",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "_图片链接信息": "↓",
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "_标签信息": "↓",
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "in_hospital"
+    ],
+    "secondary": [
+      "adult",
+      "heal",
+      "public_service"
+    ]
+  },
+  "_属性信息": "↓",
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "doctor"
+    ],
+    "workplace": [
+      "hospital",
+      "clinic"
+    ],
+    "tools": [
+      "stethoscope",
+      "thermometer"
+    ],
+    "clothing": [
+      "white_coat"
+    ],
+    "actions": [
+      "examine",
+      "prescribe",
+      "heal"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "_核心内容字段": "↓",
+  "content": {
+    "zh-CN": {
+      "name": "医生",
+      "aloud": "yī shēng",
+      "words": "doctor",
+      "intro": "医生是帮助我们看病的人。当小朋友不舒服的时候，医生会仔细检查，给我们开药，让我们快快好起来。",
+      "story": {
+        "title": "🩺小白兔看医生",
+        "body": "小白兔今天有点不舒服，耳朵耷拉着，不想吃饭。兔妈妈说：我们去看看医生吧。到了医院，山羊医生笑眯眯地迎接它们。山羊医生戴上听诊器，轻轻放在小白兔的胸口，听了听：嗯，心跳很正常。又用小手电筒照了照小白兔的喉咙：哦，有一点红，是嗓子发炎了。山羊医生开了药，说：按时吃药，多喝水，好好休息，很快就会好的。小白兔乖乖照做，没几天就活蹦乱跳了。它对妈妈说：医生真厉害，我长大也要当医生！"
+      },
+      "knowledge": {
+        "title": "医生用什么工具看病？",
+        "body": "医生有很多好帮手：听诊器可以听心跳和呼吸，温度计可以量体温，小手电筒可以看喉咙。现在还有X光和超声波，能看见身体里面呢。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_doctor_intro.mp3",
+        "story": "../item-audio/zh-CN/person_doctor_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Doctor",
+      "aloud": "/ˈdɒktər/",
+      "words": "",
+      "intro": "A doctor is someone who helps us when we're sick. When you don't feel well, a doctor will examine you carefully and give you medicine to help you get better.",
+      "story": {
+        "title": "🩺The Little Rabbit Visits the Doctor",
+        "body": "The little rabbit wasn't feeling well today. Its ears drooped and it didn't want to eat. Mama Rabbit said, Let's go see the doctor. At the hospital, Dr. Goat welcomed them with a warm smile. Dr. Goat put on a stethoscope and gently placed it on the rabbit's chest. Your heartbeat sounds fine. Then Dr. Goat used a little flashlight to look into the rabbit's throat. Oh, it's a bit red — you have a sore throat. Dr. Goat gave some medicine and said, Take your medicine on time, drink lots of water, and get plenty of rest. You'll get better soon. The little rabbit did as told and was bouncing around again in a few days. It said to Mama, Doctors are amazing! I want to be a doctor when I grow up!"
+      },
+      "knowledge": {
+        "title": "What tools do doctors use?",
+        "body": "Doctors have many helpful tools: a stethoscope to listen to your heartbeat and breathing, a thermometer to check your temperature, and a little flashlight to look at your throat. There are also X-rays and ultrasounds that can see inside your body!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_doctor_intro.mp3",
+        "story": "../item-audio/en/person_doctor_story.mp3"
+      }
+    }
+  }
+}

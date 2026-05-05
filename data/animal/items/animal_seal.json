@@ -1,0 +1,102 @@
+{
+  "id": "animal_seal",
+  "sku_id": "card_animal_seal",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "ocean_animal",
+      "cute"
+    ],
+    "secondary": [
+      "can_swim",
+      "has_fur",
+      "woof"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "ocean_animal"
+    ],
+    "color": [
+      "gray",
+      "brown",
+      "white"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "whiskers"
+    ],
+    "scenes": [
+      "ocean",
+      "beach",
+      "rock"
+    ],
+    "actions": [
+      "swim",
+      "crawl",
+      "dive"
+    ],
+    "sound": [
+      "woof"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "海豹",
+      "aloud": "hǎi bào",
+      "words": "seal",
+      "intro": "海豹是一种生活在海洋里的可爱动物，身体圆圆的，有柔软的短毛和长长的胡须。它们喜欢在水里游来游去，也会在岸边晒太阳。",
+      "story": {
+        "title": "🐟小海豹学游泳",
+        "body": "小海豹豆豆最喜欢在水里游泳了。一天，妈妈带着豆豆来到蓝色的大海边。豆豆看到海浪轻轻地拍打着沙滩，开心地拍着小尾巴。妈妈温柔地说：“豆豆，今天我们来学怎么在水里翻跟头吧！”豆豆点点头，跟着妈妈游进了海水。一开始，豆豆有点害怕，不敢把头伸进水里。妈妈在旁边鼓励它：“别怕，像妈妈这样，深吸一口气。”豆豆鼓起勇气，吸了一口气，把头扎进水里，然后用力摆动身体。哇！它真的翻了一个跟头！豆豆高兴地游来游去，一遍又一遍地练习。后来，它还学会了在水里转圈圈。天慢慢变暗了，豆豆跟着妈妈回到岸上，躺在温暖的岩石上，望着满天的星星，慢慢睡着了。"
+      },
+      "knowledge": {
+        "title": "海豹为什么能在水里游得这么快？",
+        "body": "海豹是一种生活在海洋里的哺乳动物。它们的身体圆圆的，皮肤上有短短的毛，还有一对有力的鳍。海豹在水里游得特别快，因为它们的身体像鱼雷一样光滑。海豹最喜欢吃鱼，也会吃鱿鱼。它们会在岸上休息，有时候还会发出“汪汪”的叫声，就像小狗一样。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_seal_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_seal_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Seal",
+      "aloud": "/siːl/",
+      "words": "",
+      "intro": "A seal is a cute animal that lives in the ocean. It has a round body, short soft fur, and long whiskers. Seals love swimming in the water and resting on the shore.",
+      "story": {
+        "title": "🐟The Little Seal Learns to Swim",
+        "body": "Sammy the little seal loved swimming in the ocean. One day, Mom took Sammy to the big blue sea. Sammy saw the waves gently splashing on the beach and happily clapped his tail. Mom said softly, 'Sammy, today let's learn how to do a somersault in the water!' Sammy nodded and followed Mom into the sea. At first, Sammy was a little scared to put his head under the water. Mom encouraged him, 'Don't be afraid. Take a deep breath like me.' Sammy gathered his courage, took a breath, put his head into the water, and then swung his body hard. Wow! He really did a somersault! Sammy swam around happily, practicing. Later, he learned to spin in circles. As the sky grew dark, Sammy followed Mom back to the shore, lay down on a warm rock, looked at the starry sky, and slowly fell asleep."
+      },
+      "knowledge": {
+        "title": "Why can seals swim so fast?",
+        "body": "Seals are marine mammals. They have round bodies with short fur and strong flippers. Seals swim very fast because their bodies are smooth like torpedoes. They love to eat fish and sometimes squid. Seals rest on land and sometimes make barking sounds like a dog."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_seal_intro.mp3",
+        "story": "../item-audio/en/animal_seal_story.mp3"
+      }
+    }
+  }
+}

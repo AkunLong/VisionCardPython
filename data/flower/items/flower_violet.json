@@ -1,0 +1,89 @@
+{
+  "id": "flower_violet",
+  "sku_id": "card_flower_violet",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_purple",
+      "in_garden"
+    ],
+    "secondary": [
+      "small_flower",
+      "spring_flower",
+      "fragrant"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "purple"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "garden",
+      "pot",
+      "balcony"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "fragrant"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "紫罗兰",
+      "aloud": "zǐ luó lán",
+      "words": "violet",
+      "intro": "紫罗兰是一种小小的花，花瓣是紫色或白色的，闻起来香香的。它喜欢长在花园里，或者小花盆里。",
+      "story": {
+        "title": "🌼小紫罗兰的香味",
+        "body": "从前，在一个温暖的小花园里，长着一株小小的紫罗兰。它的叶子绿绿的，花朵紫紫的，像一颗颗小星星。紫罗兰最喜欢太阳公公和雨滴姐姐。太阳公公照一照，紫罗兰就开心地摇摇身子；雨滴姐姐浇一浇，紫罗兰就咕嘟咕嘟喝水。一天，一只小蝴蝶飞来了，它说：“小紫罗兰，你的香味真好闻！”小紫罗兰害羞地说：“谢谢，你要不要停下来歇一歇？”小蝴蝶停在花瓣上，翅膀一开一合，就像在跳舞。小紫罗兰高兴极了，它把香味送给小蝴蝶，也送给整个花园。从此，花园里总是飘着甜甜的香味，小朋友们都喜欢来这里玩。"
+      },
+      "knowledge": {
+        "title": "紫罗兰的香味从哪里来？",
+        "body": "紫罗兰的花瓣上有小小的香腺，会分泌出香香的物质。人们用紫罗兰来做香水，它的香味能让人心情变好。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_violet_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_violet_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Violet",
+      "aloud": "/ˈvaɪəlɪt/",
+      "words": "",
+      "intro": "Violet is a small flower with purple or white petals and a sweet smell. It likes to grow in gardens or small pots.",
+      "story": {
+        "title": "🌼The Little Violet's Scent",
+        "body": "In a cozy little garden, there was a tiny violet plant with soft purple petals and green leaves. Every morning, it opened its flowers to greet the sun. One day, a little butterfly flew by and said, \"Oh, what a sweet smell! Where is it coming from?\" The violet smiled and said, \"It’s from me! I’m a violet, and I like to share my scent with everyone.\" The butterfly danced around, and the violet’s scent made the whole garden feel happy. Then a friendly bee came and sat on the violet’s petal. \"Can I help you take your pollen to other flowers?\" asked the bee. \"Yes, please!\" said the violet. The bee buzzed away, and soon new violets grew in other parts of the garden. Now the garden was full of purple stars, and all the children loved to play there, breathing in the sweet, lovely smell."
+      },
+      "knowledge": {
+        "title": "Where does the violet's sweet smell come from?",
+        "body": "Violet petals have tiny glands that make a sweet-smelling oil. People use this oil to make perfume, and the scent can make us feel calm and happy."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_violet_intro.mp3",
+        "story": "../item-audio/en/flower_violet_story.mp3"
+      }
+    }
+  }
+}

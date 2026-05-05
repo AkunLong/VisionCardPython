@@ -1,0 +1,76 @@
+{
+  "id": "number_16",
+  "sku_id": "card_number_sixteen",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "two_digit",
+      "even_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 16,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "16th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字16",
+      "aloud": "shí liù",
+      "words": "sixteen",
+      "intro": "16 是比 15 多 1 的数字。它由 1 和 6 手拉手组成，是一个两位数。我们一起来认识它吧！",
+      "story": {
+        "title": "🎨 16 支小蜡笔",
+        "body": "小美有一盒新蜡笔，打开数一数：1、2、3……哇，足足有 16 支！红橙黄绿青蓝紫，还有好多漂亮颜色。第 1 支画太阳，第 2 支画小花，第 16 支画彩虹。每支蜡笔排着队，一个接一个，谁也不挤谁。小美用它们画了一幅大大的画，送给妈妈。妈妈说，16 支蜡笔真了不起，把世界都变成彩色的啦！"
+      },
+      "knowledge": {
+        "title": "16 有什么特别的？",
+        "body": "16 是两个 8 加在一起，也是 4 个 4 手拉手。在古代，人们把 16 两算作一斤，所以有“半斤八两”的说法。16 是个整整齐齐的数字。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_16_intro.mp3",
+        "story": "../item-audio/zh-CN/number_16_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Sixteen",
+      "aloud": "/ˌsɪksˈtiːn/",
+      "words": "",
+      "intro": "Sixteen is the number after 15. It has two digits, 1 and 6, holding hands. Let's get to know it!",
+      "story": {
+        "title": "🎨 Sixteen Little Crayons",
+        "body": "Lily has a new box of crayons. She opens it and counts: 1, 2, 3... Wow, there are sixteen! Red, orange, yellow, green, blue, purple, and many pretty colors. The first draws the sun, the second draws a flower, and the sixteenth draws a rainbow. All the crayons line up nicely, one after another. Lily uses them to draw a big picture for her mom. Mom says, sixteen crayons are amazing—they turn the whole world colorful!"
+      },
+      "knowledge": {
+        "title": "What is special about 16?",
+        "body": "Sixteen is two 8s together, or four 4s holding hands. Long ago, people used 16 ounces to make one pound. Sixteen is a very neat and tidy number."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_16_intro.mp3",
+        "story": "../item-audio/en/number_16_story.mp3"
+      }
+    }
+  }
+}

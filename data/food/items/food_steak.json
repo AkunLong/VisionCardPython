@@ -1,0 +1,90 @@
+{
+  "id": "food_steak",
+  "sku_id": "card_food_steak",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "meat_food",
+      "color_brown",
+      "edible"
+    ],
+    "secondary": [
+      "chewy",
+      "hot_food",
+      "western_food"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "meat"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "salty"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "牛排",
+      "aloud": "niú pái",
+      "words": "steak",
+      "intro": "牛排是一块香喷喷的肉，煎得滋滋响，咬一口，又香又嫩，好吃极了！它来自牛身上，能让小朋友长得高高壮壮的。",
+      "story": {
+        "title": "🥩小美吃牛排",
+        "body": "星期天，爸爸带小美去西餐厅。服务员叔叔端来一个滚烫的铁盘，牛排在上面滋滋冒油，香味飘得整个屋子都是。小美拿起小刀小叉，学着爸爸的样子切了一小块。哇，外面有点焦焦的，里面却是粉粉嫩嫩的。她放进嘴里，眼睛眯成一条线，开心地说：“好好吃呀，像在吃肉肉面包！”爸爸笑着说：“这是牛排，是牛牛身上的肉。多吃点，就能像牛牛一样有力量哦！”小美听了，大口大口地吃起来，连盘子边边的蔬菜也吃光了，小肚子变得圆滚滚的，像个西瓜。从此以后，小美每次吃牛排都想起那头强壮的牛，觉得自己也力气满满。"
+      },
+      "knowledge": {
+        "title": "牛排是从哪里来的？",
+        "body": "牛排来自牛身上。牛在草原上吃草长大，长得很结实。人们取牛身上最好的部分切成厚厚的片，放在锅里煎一煎，就变成美味的牛排啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_steak_intro.mp3",
+        "story": "../item-audio/zh-CN/food_steak_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Steak",
+      "aloud": "/steɪk/",
+      "words": "",
+      "intro": "Steak is a yummy piece of meat that sizzles in the pan. It's juicy and tender when you bite into it. It comes from cows and helps you grow big and strong.",
+      "story": {
+        "title": "🥩Little Mei Tries Steak",
+        "body": "On Sunday, Dad took little Mei to a steakhouse. The waiter brought a hot plate with a steak sizzling on it. The yummy smell filled the whole room. Mei picked up her little knife and fork and tried to copy Dad to cut a piece. Wow, the outside was a bit crispy and the inside was pink and soft. She put it in her mouth and squinted her eyes, saying, 'So yummy, like meat bread!' Dad laughed and said, 'This is steak, meat from a cow. Eat more and you'll be as strong as a cow!' Mei ate it all up, even the vegetables on the side. Her tummy became round like a watermelon. From then on, every time Mei ate steak, she remembered the strong cow and felt full of power."
+      },
+      "knowledge": {
+        "title": "Where does steak come from?",
+        "body": "Steak comes from cows. Cows eat grass in the fields and grow strong. People choose the best parts of the cow, cut them into thick slices, and fry them in a pan to make delicious steak."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_steak_intro.mp3",
+        "story": "../item-audio/en/food_steak_story.mp3"
+      }
+    }
+  }
+}

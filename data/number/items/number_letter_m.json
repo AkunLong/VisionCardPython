@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_m",
+  "sku_id": "card_number_thirteen",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "two_digit",
+      "odd_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 13,
+    "is_even": false,
+    "is_prime": true,
+    "ordinal": "13th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母M",
+      "aloud": "M",
+      "words": "thirteen",
+      "intro": "字母M是第13个字母，就像数字13。M像两座山，13里有1和3，它们手拉手一起玩。",
+      "story": {
+        "title": "🏔️M像两座山，13个小精灵",
+        "body": "快看，字母M像两座大山手拉手。M是第13个字母，数字13来啦！让我们数一数：1、2、3...12、13！13个小精灵排成队。第一个小精灵叫1，第二个叫3，它们抱在一起变成13。13比12多一个，比14少一个。我们可以用13颗糖果来数：一颗、两颗...十三颗！哇，好甜。M和13是好朋友，一个在字母表里唱歌，一个在数字表里跳舞。记住13哦，它很温暖，就像妈妈的手握住你的小手，一步一步陪你长大。"
+      },
+      "knowledge": {
+        "title": "为什么M是第13个字母？",
+        "body": "英文字母表从A开始，一个一个排好队。M排在中间，它是第13个。从A数到M，就是1到13，是不是很有趣？"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_m_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_m_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Thirteen",
+      "aloud": "/ˈθɜːrˈtiːn/",
+      "words": "",
+      "intro": "Thirteen is the number that comes after twelve. The letter M is the 13th letter, just like number 13. It's fun to count!",
+      "story": {
+        "title": "🏔️M is like mountains, 13 little friends",
+        "body": "Look, letter M looks like two mountains holding hands. M is the 13th letter, and here comes number 13! Let's count: one, two, three... twelve, thirteen! Thirteen little friends in a row. The first is 1, the second is 3, they hug and make 13. Thirteen is one more than twelve, one less than fourteen. We can count with 13 candies: one candy, two candies... thirteen candies! Yummy. M and 13 are good friends, one sings in the alphabet, the other dances in the number line. Remember 13, it's warm and happy, like a hug from Mommy."
+      },
+      "knowledge": {
+        "title": "Why is M the 13th letter?",
+        "body": "The English alphabet starts with A and goes in order. M is right in the middle, it's the 13th. Count from A to M, and you get 1 to 13."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_m_intro.mp3",
+        "story": "../item-audio/en/number_letter_m_story.mp3"
+      }
+    }
+  }
+}

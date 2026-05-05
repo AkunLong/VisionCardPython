@@ -1,0 +1,98 @@
+{
+  "id": "plant_chinese_evergreen",
+  "sku_id": "card_plant_chinese_evergreen",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "potted_plant",
+      "color_red"
+    ],
+    "secondary": [
+      "at_home",
+      "has_leaf",
+      "can_watch"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "herb"
+    ],
+    "color": [
+      "red",
+      "green"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "leaves",
+      "stem",
+      "roots"
+    ],
+    "scenes": [
+      "home",
+      "living_room",
+      "balcony"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "如意皇后",
+      "aloud": "rú yì huáng hòu",
+      "words": "aglaonema",
+      "intro": "如意皇后是一种漂亮的盆栽植物，叶子红红的，绿绿的，像穿着花裙子。它喜欢温暖的家，静静地站在那里，让房间变得更美丽。",
+      "story": {
+        "title": "🌿如意皇后的悄悄话",
+        "body": "在一个明亮的客厅里，有一盆漂亮的如意皇后。它的叶子红红的、绿绿的，像穿着花裙子。每天早晨，小主人都会给它浇浇水，跟它说早安。如意皇后开心地摇摇叶子，吸收阳光，越长越漂亮。有时候，小蜜蜂飞来做客，围着它转圈圈。如意皇后想：我虽然不开花，但我的叶子也是最美的！晚上，小主人睡觉了，如意皇后就在月光下静静地守护着家。它觉得，能陪在小主人身边，就是最幸福的事！"
+      },
+      "knowledge": {
+        "title": "如意皇后有什么特点？",
+        "body": "如意皇后是一种漂亮的室内植物，喜欢温暖和明亮的地方。它的叶子有红色和绿色，像一幅美丽的画。它可以净化空气，让家里的空气更清新。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_chinese_evergreen_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_chinese_evergreen_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Chinese Evergreen",
+      "aloud": "/ˌaɪɡləˈnoʊmə/",
+      "words": "",
+      "intro": "The Chinese evergreen is a beautiful potted plant with red and green leaves, like wearing a colorful dress. It loves a warm home, standing quietly and making the room prettier.",
+      "story": {
+        "title": "🌿The Chinese Evergreen's Whisper",
+        "body": "In a bright living room, there was a beautiful Chinese evergreen. Its leaves were red and green, like wearing a colorful dress. Every morning, the little owner watered it and said good morning. The Chinese evergreen happily shook its leaves, soaking up sunshine and growing prettier. Sometimes, a little bee came to visit, flying around in circles. The Chinese evergreen thought: I may not bloom, but my leaves are the most beautiful! At night, the little owner slept, and the Chinese evergreen quietly guarded the home under the moonlight. It felt that being with its little owner was the happiest thing!"
+      },
+      "knowledge": {
+        "title": "What is special about the Chinese evergreen?",
+        "body": "The Chinese evergreen is a beautiful indoor plant that likes warm and bright places. Its leaves have red and green patterns, like a lovely painting. It can purify the air, making the air in the home fresher."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_chinese_evergreen_intro.mp3",
+        "story": "../item-audio/en/plant_chinese_evergreen_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "animal_octopus",
+  "sku_id": "card_animal_octopus",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "ocean_animal",
+      "clever"
+    ],
+    "secondary": [
+      "small",
+      "can_swim",
+      "long"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [],
+    "color": [
+      "brown",
+      "gray"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [],
+    "scenes": [
+      "ocean",
+      "coral reef",
+      "rock"
+    ],
+    "actions": [
+      "swim",
+      "crawl",
+      "grab",
+      "hide"
+    ],
+    "sound": [],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "章鱼",
+      "aloud": "zhāng yú",
+      "words": "octopus",
+      "intro": "章鱼是一种住在海里的神奇动物，它有一个圆圆的脑袋和八条长长的腿，腿上还有小小的吸盘。章鱼很聪明，会用腿来抓东西，也会变化颜色来保护自己。",
+      "story": {
+        "title": "🐙小章鱼找朋友",
+        "body": "小章鱼圆圆住在一片彩色的珊瑚礁里。一天，圆圆想去找朋友玩。它伸开八条长长的腿，轻轻一划，就游了出去。圆圆先遇到一条小丑鱼，小丑鱼说：“我们一起玩捉迷藏吧！”圆圆摇摇身体，一下子就变成了珊瑚的颜色，躲在一块石头后面。小丑鱼找了好久都没有找到。后来，圆圆又遇到一只螃蟹，螃蟹正想找圆圆帮忙搬一块小石头。圆圆用两条腿轻轻一卷，就把石头搬开了。螃蟹高兴地挥挥大钳子。圆圆和小伙伴们玩得真开心。天黑的时候，圆圆回到自己的石头洞里，缩成一团，安安静静地睡着了。"
+      },
+      "knowledge": {
+        "title": "章鱼有几条腿？",
+        "body": "章鱼有八条长长的腿，我们叫它触腕。每条触腕上都有很多小吸盘，可以帮它抓住东西。章鱼还是变颜色高手，能像魔术师一样改变身体的颜色，这能帮助它躲避敌人和寻找食物。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_octopus_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_octopus_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Octopus",
+      "aloud": "/ˈɑːktəpʊs/",
+      "words": "",
+      "intro": "An octopus is an amazing sea animal with a round head and eight long arms covered with tiny suckers. Octopuses are very clever. They can use their arms to grab things and change color to protect themselves.",
+      "story": {
+        "title": "🐙The Little Octopus Looks for Friends",
+        "body": "Ollie the little octopus lived in a colorful coral reef. One day, Ollie wanted to find some friends to play with. He stretched out his eight long arms and gently pushed off to swim. First, Ollie met a little clownfish. The clownfish said, “Let’s play hide and seek!” Ollie wiggled his body and instantly changed color to match the coral. He hid behind a rock. The clownfish looked and looked but couldn’t find him. Later, Ollie met a crab. The crab wanted help moving a small rock. Ollie easily wrapped two arms around the rock and lifted it. The crab happily waved his big claws. Ollie had so much fun with his friends. When it got dark, Ollie went back to his little cave, curled up into a ball, and quietly fell asleep."
+      },
+      "knowledge": {
+        "title": "How many arms does an octopus have?",
+        "body": "An octopus has eight long arms, which we call tentacles. Each arm has many tiny suckers that help it grab things. Octopuses are also masters of disguise. They can change color like a magician to hide from enemies and find food."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_octopus_intro.mp3",
+        "story": "../item-audio/en/animal_octopus_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "plant_air_plant",
+  "sku_id": "card_plant_air_plant",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "potted_plant",
+      "color_green"
+    ],
+    "secondary": [
+      "has_leaf",
+      "at_home",
+      "can_watch"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "herb"
+    ],
+    "color": [
+      "green"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "leaves",
+      "roots"
+    ],
+    "scenes": [
+      "at_home",
+      "garden"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "空气凤梨",
+      "aloud": "kōng qì fèng lí",
+      "words": "air plant",
+      "intro": "空气凤梨是一种可爱的小植物，它不用种在土里也能长大。它用叶子喝水和呼吸，放在小托盘上或者贝壳里，就像家里的小精灵。",
+      "story": {
+        "title": "🌱空气凤梨的小窝",
+        "body": "小丽在桌子上放了一棵空气凤梨，绿绿的叶子卷卷的，像小章鱼的脚。每天早上，小丽给它喷喷水，空气凤梨就张开叶子，好像在说“谢谢你！”一天，小猫咪跳上桌子，好奇地碰了碰它。空气凤梨晃了晃，没有受伤。小猫咪也觉得它很神奇。后来，妈妈给空气凤梨换了一个透明的玻璃罩，挂在窗前。阳光照进来，空气凤梨的影子在墙上跳舞。小丽开心极了：我的小植物不需要泥土，只要一点点水和阳光，就能每天陪着我，真是我的好朋友呀！"
+      },
+      "knowledge": {
+        "title": "空气凤梨为什么不用土？",
+        "body": "空气凤梨的叶子上有很多小鳞片，能抓住空气中的水分和营养。它不需要土里的根来吸收营养，所以可以放在任何地方生长，非常特别！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_air_plant_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_air_plant_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Air Plant",
+      "aloud": "/ɛr plænt/",
+      "words": "",
+      "intro": "An air plant is a cute little plant that grows without soil. It drinks water through its leaves and can live in a little dish or seashell, like a tiny green fairy at home.",
+      "story": {
+        "title": "🌱The Air Plant's Little Home",
+        "body": "Lily put an air plant on her desk. Its green leaves were curly, like little octopus arms. Every morning, Lily sprayed it with water, and the air plant opened its leaves as if saying \"Thank you!\" One day, the kitten jumped onto the desk and sniffed it curiously. The air plant wobbled a bit, but it was fine. Even the kitten thought it was magical. Later, Mom put the air plant in a clear glass dome and hung it by the window. The sunlight came in, and the air plant's shadow danced on the wall. Lily was so happy: my little plant doesn't need soil, just a little water and sunshine, and it stays with me every day. It's truly my good friend!"
+      },
+      "knowledge": {
+        "title": "Why don't air plants need soil?",
+        "body": "Air plants have tiny scales on their leaves that catch water and nutrients from the air. They don't need roots to take in food from the soil, so they can grow in many creative places. Isn't that special?"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_air_plant_intro.mp3",
+        "story": "../item-audio/en/plant_air_plant_story.mp3"
+      }
+    }
+  }
+}

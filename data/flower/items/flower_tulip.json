@@ -1,0 +1,89 @@
+{
+  "id": "flower_tulip",
+  "sku_id": "card_flower_tulip",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_red",
+      "in_garden"
+    ],
+    "secondary": [
+      "spring_flower",
+      "bell_shape",
+      "potted_flower"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "red"
+    ],
+    "size": [
+      "medium"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "balcony"
+    ],
+    "season": [
+      "spring"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "郁金香",
+      "aloud": "yù jīn xiāng",
+      "words": "tulip",
+      "intro": "郁金香是一种春天开的花，花朵像漂亮的小杯子，有红色、黄色、粉色很多颜色。它从小小球茎长出来，像变魔术一样。",
+      "story": {
+        "title": "🌷小郁金香开花啦",
+        "body": "春天轻轻敲了敲花园的门，郁金香的小球茎醒了过来。它伸了个懒腰，从泥土里探出嫩嫩的小芽。小芽晒着太阳，喝着雨水，一天天长高，变成绿油油的叶子。又过了几天，花茎顶上冒出一个圆鼓鼓的花苞，好像一个小铃铛。太阳公公温柔地摸了摸它，花苞慢慢打开啦——哇，是一朵红艳艳的小杯子花！小蜜蜂嗡嗡地飞过来，开心地说：“你好香，好漂亮呀！”小郁金香摇了摇花瓣，和旁边黄色的、粉色的郁金香一起在风里跳舞。它喜欢春天，喜欢看小朋友在花园里笑着跑过。"
+      },
+      "knowledge": {
+        "title": "郁金香的秘密小球是什么？",
+        "body": "郁金香有一个圆圆的球茎，就像小洋葱。秋天人们把球茎种进土里，冬天它安静地睡觉，春天一到就发芽开花。球茎里藏着好多营养，帮它长大。花谢以后，叶子还会继续工作，给球茎做更多的营养，让它明年再开出美丽的花。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_tulip_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_tulip_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Tulip",
+      "aloud": "/ˈtuːlɪp/",
+      "words": "",
+      "intro": "A tulip is a spring flower that looks like a pretty little cup. It comes in many colors like red, yellow, and pink. It grows from a small bulb, like magic.",
+      "story": {
+        "title": "🌷Little Tulip Blooms",
+        "body": "Spring gently knocked on the garden door, and the little tulip bulb woke up. It stretched and pushed a tiny shoot out of the soil. The shoot got sunshine and drank rain, growing taller day by day into green leaves. After a few days, a round bud appeared at the top of the stem, like a little bell. Mr. Sun gave it a warm touch, and the bud slowly opened — wow, a bright red little cup flower! A little bee buzzed over and happily said, 'You smell so nice and look so beautiful!' The little tulip shook its petals and danced in the breeze with the yellow and pink tulips nearby. It loved spring and loved watching children laugh and run through the garden."
+      },
+      "knowledge": {
+        "title": "What is the secret little ball of a tulip?",
+        "body": "A tulip has a round bulb, just like a little onion. In autumn, people plant the bulb in the soil. It sleeps quietly in winter, then sprouts and blooms when spring comes. The bulb stores lots of nutrients to help the tulip grow. After the flower fades, the leaves keep working to make more food for the bulb, so it can bloom again next year."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_tulip_intro.mp3",
+        "story": "../item-audio/en/flower_tulip_story.mp3"
+      }
+    }
+  }
+}

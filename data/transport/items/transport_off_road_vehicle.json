@@ -1,0 +1,101 @@
+{
+  "id": "transport_off_road_vehicle",
+  "sku_id": "card_transport_off_road_vehicle",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "road_vehicle",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_carry_people",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "off_road_vehicle"
+    ],
+    "color": [
+      "red",
+      "black",
+      "blue",
+      "white"
+    ],
+    "size": [
+      "big",
+      "small"
+    ],
+    "scenes": [
+      "road",
+      "mountain",
+      "desert",
+      "forest",
+      "city"
+    ],
+    "fuel": [
+      "petrol",
+      "diesel"
+    ],
+    "features": [
+      "four_wheel_drive",
+      "wheels",
+      "engine"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "越野车",
+      "aloud": "yuè yě chē",
+      "words": "off-road vehicle",
+      "intro": "越野车是一种很强壮的车，它可以在各种路上跑，比如泥巴路、石头路，还能爬小山坡哦。",
+      "story": {
+        "title": "🚙小越野车探险记",
+        "body": "今天，小越野车决定去大森林探险。他开过泥巴坑，泥巴溅到身上也不怕；他爬过石头坡，轮子打滑又用力爬了上去。路上，他遇到一只小兔子在路边哭，原来小兔子找不到家了。小越野车说：“别哭，我带你去找家。”他让小兔子坐在车里，慢慢穿过树林，终于找到了小兔子的家。兔妈妈很感谢他，送他一朵小花。小越野车开心地回家了，他觉得帮助别人是世界上最开心的事。"
+      },
+      "knowledge": {
+        "title": "为什么越野车能去那么多地方？",
+        "body": "越野车有四个大大的轮子，轮子上的花纹很深，可以抓住地面。它的车身很高，不容易碰到石头。它的力气也很大，可以爬上陡峭的山坡。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_off_road_vehicle_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_off_road_vehicle_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Off-Road Vehicle",
+      "aloud": "/ˌɔːf ˈroʊd ˈviːəkəl/",
+      "words": "",
+      "intro": "An off-road vehicle is a strong car that can drive on all kinds of roads, like muddy roads and rocky roads. It can even climb small hills.",
+      "story": {
+        "title": "🚙Little Off-Roader's Adventure",
+        "body": "Today, the little off-roader decided to explore the big forest. He drove through a muddy puddle, and mud splashed on him, but he didn't mind. He climbed a rocky slope, his wheels slipped a bit, but he pushed hard and made it up. On the way, he saw a little rabbit crying by the road because she was lost. The little off-roader said, \"Don't cry, I'll help you find your home.\" He let the rabbit sit inside and slowly went through the trees until they found her home. The mother rabbit thanked him and gave him a small flower. The little off-roader went home happily. He thought helping others was the happiest thing in the world."
+      },
+      "knowledge": {
+        "title": "Why can off-road vehicles go so many places?",
+        "body": "Off-road vehicles have big wheels with deep treads to grip the ground. Their body is high so they don't hit rocks easily. They are also very powerful and can climb steep slopes."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_off_road_vehicle_intro.mp3",
+        "story": "../item-audio/en/transport_off_road_vehicle_story.mp3"
+      }
+    }
+  }
+}

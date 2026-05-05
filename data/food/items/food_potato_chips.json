@@ -1,0 +1,89 @@
+{
+  "id": "food_potato_chips",
+  "sku_id": "card_food_potato_chips",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "snack",
+      "color_brown",
+      "edible"
+    ],
+    "secondary": [
+      "crispy",
+      "salty",
+      "at_snack_time"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "snack"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "salty"
+    ],
+    "temperature": [
+      "cold"
+    ],
+    "scenes": [
+      "home",
+      "party",
+      "school"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "薯片",
+      "aloud": "shǔ piàn",
+      "words": "potato chips",
+      "intro": "薯片是脆脆的、香香的零食，一片片金黄色的，吃起来咔嚓咔嚓响。它是用土豆做成的，小朋友们都很喜欢。",
+      "story": {
+        "title": "🍟小兔子跳跳尝薯片",
+        "body": "小兔子跳跳第一次吃薯片。妈妈买了一包薯片回来，跳跳好奇地问：“这是什么呀？”妈妈打开包装，拿出一片金黄色的薯片说：“这是薯片，你尝尝看。”跳跳轻轻咬了一口，“咔嚓”一声，薯片在嘴里碎掉了，又香又咸，真好吃！跳跳一片接一片地吃，小嘴巴停不下来。妈妈说：“薯片虽然好吃，但不能吃太多哦，不然小肚子会不舒服的。”跳跳点点头，把剩下的薯片收起来，说：“我明天再吃！”"
+      },
+      "knowledge": {
+        "title": "薯片是怎么做出来的？",
+        "body": "土豆洗干净，削掉皮，切成薄薄的片，然后放到热油里炸得金黄酥脆，撒上一点盐，就变成香香的薯片啦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_potato_chips_intro.mp3",
+        "story": "../item-audio/zh-CN/food_potato_chips_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Potato Chips",
+      "aloud": "/pəˈteɪtoʊ tʃɪps/",
+      "words": "",
+      "intro": "Potato chips are crispy, tasty snacks. They are thin, golden, and make a crunching sound when you eat them. Made from potatoes, children love them.",
+      "story": {
+        "title": "🍟Little Rabbit Tiaotiao Tries Potato Chips",
+        "body": "Little Rabbit Tiaotiao tried potato chips for the first time. Mom bought a bag of chips. Tiaotiao asked, 'What is this?' Mom opened the bag, took out a golden chip, and said, 'This is a potato chip. Try it!' Tiaotiao took a small bite. 'Crunch!' The chip broke in his mouth. It was savory and salty, so delicious! Tiaotiao ate one after another, his little mouth couldn't stop. Mom said, 'Potato chips are yummy, but don't eat too many, or your tummy might feel unwell.' Tiaotiao nodded, put the rest away, and said, 'I'll eat them tomorrow!'"
+      },
+      "knowledge": {
+        "title": "How are potato chips made?",
+        "body": "Wash potatoes, peel them, slice them thin, fry them in hot oil until golden and crispy, then sprinkle a little salt. That's how you get tasty potato chips!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_potato_chips_intro.mp3",
+        "story": "../item-audio/en/food_potato_chips_story.mp3"
+      }
+    }
+  }
+}

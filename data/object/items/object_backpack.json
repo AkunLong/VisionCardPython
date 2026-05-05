@@ -1,0 +1,90 @@
+{
+  "id": "object_backpack",
+  "sku_id": "card_object_backpack",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "study_item",
+      "can_store"
+    ],
+    "secondary": [
+      "at_school",
+      "soft",
+      "color_blue"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "blue",
+      "red"
+    ],
+    "shape": [
+      "rectangle"
+    ],
+    "material": [
+      "fabric",
+      "plastic"
+    ],
+    "scenes": [
+      "school",
+      "outdoor"
+    ],
+    "function": [
+      "carry_items"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "书包",
+      "aloud": "shū bāo",
+      "words": "backpack",
+      "intro": "书包是我们的好朋友，每天陪我们去上学。它有大大的肚子，可以装下书本和文具，还有两条长长的带子，可以背在肩膀上。",
+      "story": {
+        "title": "🎒小书包的大冒险",
+        "body": "小书包叫蓝蓝，因为它最喜欢蓝色。每天早晨，小主人都会把故事书、蜡笔和水壶放进它的肚子里。蓝蓝觉得好幸福，因为它能装下这么多有用的东西。有一天，小主人带蓝蓝去公园玩，蓝蓝想：我也要当一次探险家！它悄悄拉开拉链，让故事书探出头来看花，蜡笔跳出来画蓝天，水壶给大家喝水。小主人笑着说：蓝蓝，你真调皮，但谢谢你把快乐分享给大家！蓝蓝不好意思地拉上拉链，心想：虽然不能乱跑，但只要能陪着小主人，就是最棒的冒险！"
+      },
+      "knowledge": {
+        "title": "为什么书包要背在背上？",
+        "body": "书包背在背上，可以让两只手空出来，方便走路和拿东西。双肩带的设计还能分散重量，让肩膀不容易累，身体也能挺得直直的。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_backpack_intro.mp3",
+        "story": "../item-audio/zh-CN/object_backpack_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Backpack",
+      "aloud": "/ˈbækˌpæk/",
+      "words": "",
+      "intro": "A backpack is our good friend. It goes with us to school every day. It has a big belly to hold books and supplies, and two long straps so we can carry it on our shoulders.",
+      "story": {
+        "title": "🎒Little Backpack's Big Adventure",
+        "body": "Little Backpack was named Bluey because he loved the color blue. Every morning, his owner would put storybooks, crayons, and a water bottle into his belly. Bluey felt so happy because he could hold so many useful things. One day, his owner took Bluey to the park. Bluey thought, I want to be an explorer too! He quietly opened his zipper, let the storybook peek out to see the flowers, let the crayons jump out to draw the blue sky, and let the water bottle give everyone a drink. The little owner laughed and said, Bluey, you're so naughty, but thank you for sharing happiness with everyone! Bluey shyly zipped himself up and thought, even though I can't run around, being with my owner is the best adventure of all!"
+      },
+      "knowledge": {
+        "title": "Why do we carry backpacks on our backs?",
+        "body": "Carrying a backpack on our back frees up our hands so we can walk and hold things easily. The two shoulder straps spread the weight evenly, so our shoulders don't get tired and we can stand up straight."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_backpack_intro.mp3",
+        "story": "../item-audio/en/object_backpack_story.mp3"
+      }
+    }
+  }
+}

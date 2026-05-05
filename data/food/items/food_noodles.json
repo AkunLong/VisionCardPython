@@ -1,0 +1,90 @@
+{
+  "id": "food_noodles",
+  "sku_id": "card_food_noodles",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "staple_food",
+      "color_white",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "at_meal",
+      "hot_food"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "staple"
+    ],
+    "color": [
+      "white"
+    ],
+    "taste": [
+      "mild"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "school"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "面条",
+      "aloud": "miàn tiáo",
+      "words": "noodles",
+      "intro": "面条是一根根长长的、软软的主食，可以煮着吃、炒着吃，热乎乎的，吃完肚子暖暖的。",
+      "story": {
+        "title": "🍜小面条的大旅行",
+        "body": "妈妈在厨房里忙，小明闻到香味跑过去：“妈妈，今天吃什么呀？” 妈妈笑着指指锅里：“长长的面条！” 小明看到面条在水里翻滚，像在跳舞。妈妈说：“面条原来只是一小把面粉哦。加了水，揉成面团，再擀平，切成细条，就变成现在的样子啦。” 小明觉得真神奇。面条煮好了，妈妈加上青菜和鸡蛋。小明夹起一根面条，吸溜吸溜吃下去，开心地说：“软软的，滑滑的，好好吃！原来面粉走了这么远的路，才变成我碗里的面条呀。”"
+      },
+      "knowledge": {
+        "title": "面条怎么做出来的？",
+        "body": "把面粉加上水揉成面团，擀成薄薄的片，再切成一条条，放进滚烫的水里煮熟，就可以加上喜欢的菜一起吃啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_noodles_intro.mp3",
+        "story": "../item-audio/zh-CN/food_noodles_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Noodles",
+      "aloud": "/ˈnuːdəlz/",
+      "words": "",
+      "intro": "Noodles are long, soft staple food. You can boil them or stir-fry them. They are warm and make your tummy feel cozy after eating.",
+      "story": {
+        "title": "🍜The Big Journey of Little Noodles",
+        "body": "Mom was busy in the kitchen. Xiao Ming smelled something yummy and ran over. \"Mom, what are we eating today?\" Mom smiled and pointed to the pot. \"Long noodles!\" Xiao Ming saw the noodles dancing in the boiling water. Mom said, \"Noodles start as just a little flour. You add water, knead it into dough, roll it flat, and cut it into strips. That's how they become noodles.\" Xiao Ming thought it was magical. When the noodles were ready, Mom added green veggies and an egg. Xiao Ming picked up a noodle with his chopsticks, slurped it up, and said happily, \"So soft and slippery, so yummy! The flour had a long journey to become the noodles in my bowl!\""
+      },
+      "knowledge": {
+        "title": "How are noodles made?",
+        "body": "Mix flour with water to make dough, roll it out thin, cut it into strips, and cook them in boiling water. Then you can add your favorite vegetables and enjoy."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_noodles_intro.mp3",
+        "story": "../item-audio/en/food_noodles_story.mp3"
+      }
+    }
+  }
+}

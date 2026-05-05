@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_radish",
+  "sku_id": "card_vegetable_radish",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_white",
+      "root_vegetable"
+    ],
+    "secondary": [
+      "long",
+      "crisp",
+      "juicy"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "white"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "crisp",
+      "juicy"
+    ],
+    "grow_location": [
+      "underground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "萝卜",
+      "aloud": "luó bo",
+      "words": "radish",
+      "intro": "萝卜是一种白白的蔬菜，长长的，吃起来脆脆的，汁水很多。它长在泥土下面，拔出来的时候还带着泥土的香味呢。",
+      "story": {
+        "title": "🥕拔萝卜",
+        "body": "小兔子来到菜园里，看见地里冒出一点绿绿的叶子。它抓住叶子用力一拔，嘿哟！拔出了一根白白胖胖的大萝卜！小兔子开心地跳起来，正想咬一口，突然听到轻轻的声音。原来是小地鼠，它也想要一根萝卜。小兔子想了想，又拔了一根，分给了小地鼠。两个好朋友坐在田埂上，咔嚓咔嚓地啃着萝卜。小兔子说：萝卜好脆呀！小地鼠点点头：汁水好多，真解渴！吃完以后，它们把萝卜头上的绿叶种回了土里，希望明年长出更多大萝卜。"
+      },
+      "knowledge": {
+        "title": "吃萝卜有什么好处？",
+        "body": "萝卜里有很多维生素，吃了可以帮助消化，让肚子舒舒服服。萝卜可以生吃、凉拌、煮汤，还能做成爽口的小菜，怎么吃都很健康！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_radish_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_radish_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Radish",
+      "aloud": "/ˈrædɪʃ/",
+      "words": "",
+      "intro": "A radish is a white vegetable that is long and crisp, full of juice. It grows underground, and when you pull it out, it still smells of fresh earth.",
+      "story": {
+        "title": "🥕Pulling Radishes",
+        "body": "The little rabbit came to the garden and saw some green leaves sticking out of the soil. It grabbed the leaves and pulled hard — Heave-ho! Out came a big, white, plump radish! The rabbit jumped for joy and was about to take a bite when it heard a soft sound. It was the little mole, who also wanted a radish. The rabbit thought for a moment, then pulled another one and shared it with the mole. The two friends sat on the ridge, crunching on their radishes. The rabbit said, This radish is so crispy! The mole nodded, So much juice, so refreshing! After they finished, they planted the green tops back in the soil, hoping for more big radishes next year."
+      },
+      "knowledge": {
+        "title": "Why is eating radishes good for you?",
+        "body": "Radishes are rich in vitamins and can help with digestion, keeping your tummy happy. You can eat them raw, in salads, or in soups — they're a healthy treat in any dish!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_radish_intro.mp3",
+        "story": "../item-audio/en/vegetable_radish_story.mp3"
+      }
+    }
+  }
+}

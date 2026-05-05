@@ -1,0 +1,97 @@
+{
+  "id": "transport_taxi",
+  "sku_id": "card_transport_taxi",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "public_transport",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_carry_people",
+      "small"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "taxi"
+    ],
+    "color": [
+      "yellow",
+      "green",
+      "blue"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "road",
+      "taxi_stand",
+      "city"
+    ],
+    "fuel": [
+      "gasoline",
+      "electricity"
+    ],
+    "features": [
+      "seats",
+      "wheels",
+      "taximeter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "计程车",
+      "aloud": "jì chéng chē",
+      "words": "taxi",
+      "intro": "计程车是一种小小的车，头顶上有个小帽子（灯）。你站在路边招招手，它就会开过来，带你去想去的地方。车里面软软的，很舒服。",
+      "story": {
+        "title": "🚖小黄出租车的一天",
+        "body": "早上，小黄出租车擦亮眼睛（车灯），出发啦！第一位客人是一位阿姨，要去市场买水果。小黄稳稳地开，很快就到了。第二位客人是小哥哥，他要去动物园。小黄一边开一边想：我也好想看熊猫呀！下午，一位老爷爷招手，小黄停下，轻轻地送爷爷去医院。天黑了，小黄送完最后一位客人，开心地说：“今天帮助了好多人，虽然累了，但心里暖暖的。”它回到停车场，安安静静地睡着了，梦里还在城市里快乐地奔跑。"
+      },
+      "knowledge": {
+        "title": "什么时候坐计程车？",
+        "body": "当你急着去一个地方，或者拿着好多东西不方便走路时，可以坐计程车。它比公共汽车灵活，可以直接送到家门口。不过短距离坐公交车更省钱哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_taxi_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_taxi_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Taxi",
+      "aloud": "/ˈtæksi/",
+      "words": "",
+      "intro": "A taxi is a small car with a little hat (light) on top. You wave your hand on the side of the road, and it comes to take you where you want to go. The inside is soft and cozy.",
+      "story": {
+        "title": "🚖The Little Yellow Taxi's Day",
+        "body": "In the morning, the little yellow taxi polished its eyes (headlights) and set off! Its first passenger was a lady going to the market to buy fruit. The taxi drove smoothly and arrived quickly. Next, a little boy got in — he was going to the zoo. The taxi thought, 'I'd love to see the pandas too!' In the afternoon, an old man waved, and the taxi stopped and gently took him to the hospital. After dark, when the last passenger had gone, the taxi said happily, 'I helped so many people today. I'm tired, but my heart feels warm.' It returned to the parking lot and fell quietly asleep, dreaming of happily running through the city again."
+      },
+      "knowledge": {
+        "title": "When should we take a taxi?",
+        "body": "When you're in a hurry or carrying lots of things, a taxi can help. It's more flexible than a bus and can take you right to your door. But for short trips, the bus is cheaper!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_taxi_intro.mp3",
+        "story": "../item-audio/en/transport_taxi_story.mp3"
+      }
+    }
+  }
+}

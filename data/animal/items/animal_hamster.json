@@ -1,0 +1,107 @@
+{
+  "id": "animal_hamster",
+  "sku_id": "card_animal_hamster",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "home_animal",
+      "cute"
+    ],
+    "secondary": [
+      "small",
+      "has_fur",
+      "soft"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "pet"
+    ],
+    "color": [
+      "white",
+      "gray",
+      "brown",
+      "black"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "fur",
+      "whiskers",
+      "ears",
+      "tail",
+      "paws"
+    ],
+    "scenes": [
+      "cage",
+      "home",
+      "wheel",
+      "hand"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "climb",
+      "dig",
+      "eat",
+      "hide"
+    ],
+    "sound": [],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "仓鼠",
+      "aloud": "cāng shǔ",
+      "words": "hamster",
+      "intro": "仓鼠是一种小小的宠物，身上有软软的毛，圆滚滚的身体，喜欢把食物藏在脸颊里。仓鼠白天喜欢睡觉，晚上跑滚轮玩。",
+      "story": {
+        "title": "🐹小仓鼠藏瓜子",
+        "body": "小仓鼠豆豆最爱吃瓜子。一天，它得到一颗大大的瓜子，舍不得马上吃掉。豆豆用小手捧着瓜子，这里看看，那里闻闻，想找一个最安全的地方藏起来。它把瓜子塞进木屑下面，又扒出来，觉得不够隐蔽。它又把瓜子推到小房子后面，歪着头想了想，还是换地方。最后，豆豆把瓜子放进了自己的小窝里，用软软的棉花盖好。它高兴地搓搓小手，觉得这个藏宝地真棒。晚上，豆豆跑完滚轮，钻进小窝，摸着瓜子安心地睡着了。"
+      },
+      "knowledge": {
+        "title": "仓鼠的脸颊为什么鼓鼓的？",
+        "body": "仓鼠的嘴巴两边有颊囊，就像小口袋。它们会把食物装进颊囊，运到安全的地方再慢慢吃。有时候颊囊塞满食物，脸就变得鼓鼓的，非常可爱。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_hamster_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_hamster_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Hamster",
+      "aloud": "/ˈhæmstər/",
+      "words": "",
+      "intro": "A hamster is a tiny pet with soft fur and a round body. It likes to store food in its cheeks. Hamsters sleep during the day and love running on wheels at night.",
+      "story": {
+        "title": "🐹Little Hamster Hides a Seed",
+        "body": "Doudou the little hamster loved sunflower seeds. One day, he got a big seed and didn't want to eat it right away. He held it with his tiny paws, looked around, and sniffed the air, trying to find the safest hiding spot. He buried the seed under the bedding, then dug it out, thinking it wasn't hidden well enough. He pushed it behind the little house, tilted his head, and changed his mind. Finally, Doudou put the seed inside his cozy nest and covered it with soft cotton. He rubbed his tiny paws happily, feeling very proud of his secret treasure. That night, after running on his wheel, he curled up in his nest, touched the seed, and fell asleep peacefully."
+      },
+      "knowledge": {
+        "title": "Why are a hamster’s cheeks so puffy?",
+        "body": "Hamsters have cheek pouches, which are like tiny pockets inside their mouths. They stuff food into these pouches and carry it to a safe place to eat later. When the pouches are full, their cheeks get very round and cute."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_hamster_intro.mp3",
+        "story": "../item-audio/en/animal_hamster_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "object_clothes",
+  "sku_id": "card_object_clothes",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "clothing",
+      "color_blue"
+    ],
+    "secondary": [
+      "at_home",
+      "go_out",
+      "soft"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "blue"
+    ],
+    "shape": [
+      "various"
+    ],
+    "material": [
+      "cotton",
+      "fabric"
+    ],
+    "scenes": [
+      "home",
+      "outdoor"
+    ],
+    "function": [
+      "keep_warm",
+      "cover_body"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "衣服",
+      "aloud": "yī fu",
+      "words": "clothes",
+      "intro": "衣服穿在我们身上，可以保暖，让我们变得漂亮。有上衣、裤子、裙子，很多种类。",
+      "story": {
+        "title": "小明的蓝色衣服",
+        "body": "早上，妈妈拿出小明最喜欢的蓝色衣服。衣服上有可爱的小汽车图案。小明高兴地穿上衣服，扣好扣子。‘真暖和呀！’小明说。小猫咪跑过来，用爪子碰碰衣服，觉得软软的。小明拍拍衣服：‘这是我的衣服，穿着它出去玩，既不冷又漂亮！’下午，小明去公园，衣服被风吹得飘起来，像蓝色的小旗子。小朋友都夸他的衣服好看。晚上回家，小明把衣服叠好，放在床边，衣服好像在对他说：‘明天我们还要一起玩哦！’"
+      },
+      "knowledge": {
+        "title": "衣服是怎么来的？",
+        "body": "衣服用布料做成，布料由棉花、羊毛或线织成。工人叔叔阿姨用缝纫机把布料缝成衣服，我们穿上就很暖和。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_clothes_intro.mp3",
+        "story": "../item-audio/zh-CN/object_clothes_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Clothes",
+      "aloud": "/kloʊðz/",
+      "words": "",
+      "intro": "We wear clothes to keep warm and look nice. There are shirts, pants, dresses, and lots of types.",
+      "story": {
+        "title": "The Blue Clothes",
+        "body": "In the morning, Mom takes out Xiao Ming's favorite blue clothes. The clothes have cute little car patterns. Xiao Ming happily puts them on and buttons up. 'So warm!' he says. The kitten comes over and touches the clothes with its paw, feeling how soft they are. Xiao Ming pats his clothes: 'These are my clothes. Wearing them to play outside keeps me warm and makes me look good!' In the afternoon, Xiao Ming goes to the park. The wind blows the clothes, and they flutter like a blue flag. The kids all compliment his nice clothes. At night, Xiao Ming folds the clothes and puts them beside the bed. The clothes seem to say to him, 'We'll play together again tomorrow!'"
+      },
+      "knowledge": {
+        "title": "Where do clothes come from?",
+        "body": "Clothes are made from fabric. Fabric comes from cotton, wool, or thread. Workers use sewing machines to stitch the fabric into clothes. Then we wear them to stay warm and comfortable."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_clothes_intro.mp3",
+        "story": "../item-audio/en/object_clothes_story.mp3"
+      }
+    }
+  }
+}

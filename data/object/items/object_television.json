@@ -1,0 +1,90 @@
+{
+  "id": "object_television",
+  "sku_id": "card_object_television",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "home_appliance",
+      "color_black"
+    ],
+    "secondary": [
+      "at_home",
+      "can_watch",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "black",
+      "gray"
+    ],
+    "shape": [
+      "long"
+    ],
+    "material": [
+      "plastic"
+    ],
+    "scenes": [
+      "home",
+      "school",
+      "office"
+    ],
+    "function": [
+      "show_videos"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "电视机",
+      "aloud": "diàn shì jī",
+      "words": "television",
+      "intro": "电视机是一种神奇的盒子，可以播放动画片和有趣的节目。它有一个大大的屏幕，按一下遥控器就能看啦！",
+      "story": {
+        "title": "📺电视机的奇妙世界",
+        "body": "小宝最喜欢和电视机做朋友了。每当小宝宝想看动画片时，电视机就会亮起，里面有小熊、小兔子，它们又唱又跳。电视机还会变魔术呢！按一下遥控器，能看小鱼游来游去；再按一下，能看到草原上的大老虎。小宝说：“电视机，你真会变！”电视机说：“我是你的窗口，让你看遍世界。”于是，小宝和电视机一起，每天探索新的地方，认识新的事物。"
+      },
+      "knowledge": {
+        "title": "电视机是怎么工作的？",
+        "body": "电视机内部有很多电子零件，它接收电视塔发来的信号，然后把信号变成图像和声音。我们看动画片、听新闻都要靠它。现在的电视屏幕又大又薄，还能连上网络呢！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_television_intro.mp3",
+        "story": "../item-audio/zh-CN/object_television_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Television",
+      "aloud": "/ˈtɛlɪvɪʒən/",
+      "words": "",
+      "intro": "A television is a magic box that shows cartoons and fun programs. It has a big screen, and you can watch it with a remote control.",
+      "story": {
+        "title": "📺The Magic Television",
+        "body": "Little Bao loves his television friend. Whenever he wants to watch cartoons, the TV lights up and shows little bears and rabbits singing and dancing. The TV can even do magic! Press the remote once, and you see fish swimming; press again, and you see a big tiger on the grassland. Little Bao says, 'Television, you're so magical!' The TV replies, 'I'm your window to see the world!' So every day, Little Bao and the TV explore new places and learn new things together."
+      },
+      "knowledge": {
+        "title": "How does a television work?",
+        "body": "A television has many electronic parts inside. It receives signals from TV towers and turns them into pictures and sounds. We watch cartoons and news on it. Today's TVs have big, thin screens and can even connect to the Internet."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_television_intro.mp3",
+        "story": "../item-audio/en/object_television_story.mp3"
+      }
+    }
+  }
+}

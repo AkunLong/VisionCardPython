@@ -1,0 +1,101 @@
+{
+  "id": "plant_kumquat_tree",
+  "sku_id": "card_plant_kumquat_tree",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "tree",
+      "has_fruit"
+    ],
+    "secondary": [
+      "color_yellow",
+      "can_eat",
+      "fragrant"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "tree"
+    ],
+    "color": [
+      "green",
+      "yellow",
+      "brown"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "trunk",
+      "branches",
+      "leaves",
+      "roots",
+      "fruits"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "orchard"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": true,
+    "is_drinkable": true,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "金桔树",
+      "aloud": "jīn jú shù",
+      "words": "kumquat",
+      "intro": "金桔树是一棵小小的果树，春天开出白白的香花，秋天结出金黄的小果子。金桔香香甜甜，可以吃，还可以泡茶呢！",
+      "story": {
+        "title": "🍊小金桔树和妞妞",
+        "body": "妞妞家的院子里有一棵金桔树。春天，树上开满了白色的小花，香香的，引来了蜜蜂和蝴蝶。妞妞每天去看，盼着金桔快点长出来。秋天到了，树上挂满了金黄的小灯笼，妞妞踮起脚尖摸一摸，滑溜溜的。妈妈说：“金桔熟了，我们摘一些吧！”妞妞轻轻地摘下一颗，放进嘴里尝了尝，有点酸又有点甜，特别好吃。他们把剩下的金桔做成了果酱和蜜饯，泡了暖暖的金桔茶。冬天，小金桔树还是绿绿的，妞妞给它围上小围巾，说：“明年，你还要结好多好多金桔哦！”"
+      },
+      "knowledge": {
+        "title": "金桔树有什么特别？",
+        "body": "金桔树一年四季都是绿色的，很好看。它的果子小小的，金黄金黄，能直接吃，也能泡茶，还能做成好吃的果酱和蜜饯。金桔含有维生素，吃了对身体好。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_kumquat_tree_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_kumquat_tree_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Kumquat Tree",
+      "aloud": "/ˈkʌmkwɑːt triː/",
+      "words": "",
+      "intro": "The kumquat tree is a small fruit tree. It has white fragrant flowers in spring and golden little fruits in autumn. The fruits smell sweet and can be eaten fresh or made into tea.",
+      "story": {
+        "title": "🍊The Little Kumquat Tree and Niu Niu",
+        "body": "There was a kumquat tree in Niu Niu's yard. In spring, the tree was covered with white flowers that smelled so sweet. Bees and butterflies came to visit. Niu Niu watched it every day, hoping for the fruits to grow. In autumn, the tree was full of golden little lanterns. Niu Niu stood on tiptoe to touch them; they felt shiny and smooth. Mama said, 'The kumquats are ripe! Let's pick some.' Niu Niu gently picked one and tasted it. It was a little sour and a little sweet, very yummy. They made jam and preserves from the rest, and brewed warm kumquat tea. In winter, the tree stayed green, and Niu Niu wrapped a little scarf around it. 'Next year, you must give us lots and lots of kumquats!' she said."
+      },
+      "knowledge": {
+        "title": "What's special about kumquat trees?",
+        "body": "Kumquat trees are evergreen and stay green all year. Their tiny golden fruits can be eaten whole, made into tea, or turned into delicious jams and preserves. They're full of vitamins and good for your body."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_kumquat_tree_intro.mp3",
+        "story": "../item-audio/en/plant_kumquat_tree_story.mp3"
+      }
+    }
+  }
+}

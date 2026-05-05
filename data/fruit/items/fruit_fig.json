@@ -1,0 +1,86 @@
+{
+  "id": "fruit_fig",
+  "sku_id": "card_fruit_fig",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_purple",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sweet",
+      "has_seeds"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "purple"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "无花果",
+      "aloud": "wú huā guǒ",
+      "words": "fig",
+      "intro": "无花果是一种软软的水果，外皮紫紫的，果肉甜甜的，里面还有好多小籽。它营养丰富，小朋友吃了身体棒。",
+      "story": {
+        "title": "🐿️小松鼠的无花果",
+        "body": "夏天到了，无花果树上结满了紫红色的小果子，圆溜溜的，像一个个小灯笼。小松鼠跳上树枝，轻轻摘下一颗，软软的，香香的。它用小爪子掰开，看见里面粉粉的果肉和细细的籽。“哇，好甜呀！”小松鼠尝了一口，开心地甩了甩尾巴。它把无花果带回树洞，和妈妈一起分享。妈妈告诉它，无花果虽然看不见开花，但每一颗甜甜的果子都是大自然的礼物。小松鼠记住了，以后每次吃无花果，都会想起妈妈的话，心里也变得甜甜的。"
+      },
+      "knowledge": {
+        "title": "无花果真的没有花吗？",
+        "body": "无花果其实有花，只是花藏在果子里面，外面看不见。我们吃的果肉就是花托膨大形成的，里面的一粒粒小籽才是真正的果实。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_fig_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_fig_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Fig",
+      "aloud": "/fɪɡ/",
+      "words": "",
+      "intro": "A fig is a soft fruit with purple skin and sweet flesh full of tiny seeds. It’s packed with nutrients that help children grow strong.",
+      "story": {
+        "title": "🐿️Little Squirrel's Fig",
+        "body": "Summer arrived, and the fig tree was full of little purple-red fruits, round like tiny lanterns. Little Squirrel hopped onto a branch and gently picked one. It was soft and smelled sweet. Using its little paws, Little Squirrel split the fig open and saw pink flesh with fine seeds inside. “Wow, so sweet!” It took a bite and wagged its tail happily. It carried the fig back to the tree hollow to share with Mama. Mama told it that although we don’t see figs bloom, every sweet fruit is a gift from nature. Little Squirrel remembered those words, and from then on, every time it ate a fig, it felt warm and sweet inside."
+      },
+      "knowledge": {
+        "title": "Do figs really have no flowers?",
+        "body": "Figs actually have flowers, but they bloom inside the fruit where we can’t see them. The fleshy part we eat is a swollen flower base, and the tiny seeds inside are the true fruits."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_fig_intro.mp3",
+        "story": "../item-audio/en/fruit_fig_story.mp3"
+      }
+    }
+  }
+}

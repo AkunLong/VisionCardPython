@@ -1,0 +1,90 @@
+{
+  "id": "flower_calendula",
+  "sku_id": "card_flower_calendula",
+  "category": "flower",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "flower",
+      "color_orange",
+      "in_garden"
+    ],
+    "secondary": [
+      "summer_flower",
+      "fragrant",
+      "decorative"
+    ]
+  },
+  "attributes": {
+    "object_type": "flower",
+    "color": [
+      "orange"
+    ],
+    "size": [
+      "short"
+    ],
+    "scenes": [
+      "garden",
+      "field",
+      "balcony"
+    ],
+    "season": [
+      "summer",
+      "autumn"
+    ],
+    "smell": [
+      "mild"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "金盏花",
+      "aloud": "jīn zhǎn huā",
+      "words": "calendula",
+      "intro": "金盏花是一种橘黄色的小花，花瓣层层叠叠，像小太阳一样。它喜欢阳光，常在花园里开放，还能泡茶喝呢。",
+      "story": {
+        "title": "🌼金盏花的小秘密",
+        "body": "花园里，有一朵橘黄色的小金盏花，她的名字叫小盏。小盏的花瓣一层又一层，软软的，闻起来还有点香。每天清晨，太阳公公刚露出笑脸，小盏就慢慢地张开自己的花瓣，迎着阳光伸懒腰。她说：“新的一天开始啦，我要开得漂漂亮亮的！”到了傍晚，太阳公公下山回家，小盏就开始合拢花瓣，把花心藏好，准备睡觉。一只小蜜蜂飞过，奇怪地问：“小盏，你为什么晚上要合起来呢？”小盏打了个哈欠说：“因为晚上的露水太凉，我怕我的花心着凉呀。合上花瓣，就像盖了一床小被子，暖暖和和的。”小蜜蜂点点头，说：“你真聪明！”夏天到秋天，小盏每天开开合合，开出了好多花朵。路过的小朋友都忍不住停下脚步，说：“哇，金盏花像一个个小太阳，好温暖！”小盏听了，开心地在风中轻轻摇摆，觉得能给世界带来快乐，真好。"
+      },
+      "knowledge": {
+        "title": "金盏花为什么会睡觉？",
+        "body": "金盏花和很多花一样，喜欢白天开放、晚上闭合。这是因为白天有阳光，花瓣会舒展开来；晚上冷了，花瓣就合起来保护里面的花蕊。另外，合拢花瓣能防止花粉被雨水或露水冲走，帮助金盏花结出种子。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/flower_calendula_intro.mp3",
+        "story": "../item-audio/zh-CN/flower_calendula_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Calendula",
+      "aloud": "/ˈkæləndjuːlə/",
+      "words": "",
+      "intro": "Calendula is a small orange flower with many soft petals. It loves the sun and often blooms in gardens. You can even make tea from it!",
+      "story": {
+        "title": "🌼Little Calendula's Secret",
+        "body": "In a garden, there was a little orange calendula named Callie. Callie had layers of soft petals and a sweet, mild fragrance. Every morning, when the sun came up, Callie slowly opened her petals and stretched in the sunshine. \"A new day! I want to bloom as beautifully as I can!\" she said. In the evening, when the sun went down, Callie closed her petals again to sleep. A little bee flew by and asked, \"Callie, why do you close at night?\" Callie yawned and said, \"The night dew is too cold, and I don't want my flower heart to catch a chill. Closing my petals is like covering myself with a cozy little blanket.\" The bee nodded, \"That's very clever!\" From summer to autumn, Callie opened and closed every day, growing more and more lovely. Children passing by would stop and say, \"Wow, the calendulas look like tiny suns, so warm!\" Callie swayed happily in the wind, feeling glad to brighten the world."
+      },
+      "knowledge": {
+        "title": "Why do calendulas close at night?",
+        "body": "Like many flowers, calendulas like to open during the day and close at night. In daylight, the petals spread out; at night, they close to keep the flower center warm and protect it from cold dew. This also helps prevent pollen from getting washed away, which helps the flower make seeds."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/flower_calendula_intro.mp3",
+        "story": "../item-audio/en/flower_calendula_story.mp3"
+      }
+    }
+  }
+}

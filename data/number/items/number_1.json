@@ -1,0 +1,76 @@
+{
+  "id": "number_1",
+  "sku_id": "card_number_one",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "number",
+      "single_digit",
+      "odd_number"
+    ],
+    "secondary": [
+      "counting_number",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 1,
+    "is_even": false,
+    "is_prime": false,
+    "ordinal": "1st",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "数字1",
+      "aloud": "yī",
+      "words": "one",
+      "intro": "数字1是最小的数字，它代表一个东西。就像你有一个小鼻子，一个小嘴巴，数字1就在你身边。",
+      "story": {
+        "title": "☝️一根手指头",
+        "body": "宝宝伸出一根手指头，数一数：只有一根！一根手指头像一个小士兵，站得直直的。它可以指东西，可以按按钮，还可以玩‘点一点’游戏。有一天，一根小蜡烛站在蛋糕上，亮亮的，大家都在唱生日快乐歌。一根小筷子虽然夹不起菜，但两根在一起就可以啦。不过，一根手指头依然很能干，它可以摸摸小猫，挖挖沙子，还有，扣扣小鼻子。一根手指头真奇妙！"
+      },
+      "knowledge": {
+        "title": "为什么1是第一个数字？",
+        "body": "数字1是所有数字的开始，就像排队时第一个小朋友。从1开始，我们可以数出好多好多的东西。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_1_intro.mp3",
+        "story": "../item-audio/zh-CN/number_1_story.mp3"
+      }
+    },
+    "en": {
+      "name": "One",
+      "aloud": "/wʌn/",
+      "words": "",
+      "intro": "One is the smallest number. It means a single thing. Just like you have one little nose and one little mouth, number one is all around you.",
+      "story": {
+        "title": "☝️One Little Finger",
+        "body": "Stretch out one little finger and count: just one! One finger stands like a little soldier, straight and tall. It can point at things, press buttons, and play the ‘poke-it’ game. One day, one candle glowed on the cake, and everyone sang Happy Birthday. One chopstick can’t pick up food, but two together can. Still, one little finger is very capable. It can pet a kitten, dig in the sand, and even tickle a little nose. One little finger is so amazing!"
+      },
+      "knowledge": {
+        "title": "Why is 1 the first number?",
+        "body": "Number 1 is the beginning of all numbers, just like the first child in a line. Starting from 1, we can count many, many things."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_1_intro.mp3",
+        "story": "../item-audio/en/number_1_story.mp3"
+      }
+    }
+  }
+}

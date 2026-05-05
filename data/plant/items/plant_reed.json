@@ -1,0 +1,98 @@
+{
+  "id": "plant_reed",
+  "sku_id": "card_plant_reed",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "aquatic_plant",
+      "color_green"
+    ],
+    "secondary": [
+      "in_water",
+      "has_leaf",
+      "can_watch"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "grass",
+      "aquatic_plant"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "stems",
+      "leaves",
+      "roots",
+      "flowers"
+    ],
+    "scenes": [
+      "river",
+      "lake",
+      "wetland"
+    ],
+    "season": [
+      "summer",
+      "autumn"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "芦苇",
+      "aloud": "lú wěi",
+      "words": "reed",
+      "intro": "芦苇长在水边，细细高高的，风一吹就摇摇摆摆。它的叶子像长条，秋天还会开出毛茸茸的花穗，好看极了。",
+      "story": {
+        "title": "🌾小芦苇的快乐",
+        "body": "在小河边，住着一丛芦苇。春天，它们从泥土里钻出尖尖的芽，像一个个小哨兵。夏天，芦苇长得好高好高，绿绿的叶子沙沙响。小蜻蜓喜欢停在芦苇秆上休息，小青蛙在下面呱呱唱歌。秋天，芦苇顶上开出了白白的、软软的花穗，风儿一吹，花穗像小扫帚一样飘啊飘。孩子们跑过来，折下芦苇秆做成小笛子，吹出好听的曲子。冬天，芦苇枯黄了，但它们仍然站在水边，给小鸟当温暖的窝。芦苇们说：一年四季，我们都有朋友陪伴，真开心呀！第二年春天，新的芦苇又冒了出来，继续快乐地生长。"
+      },
+      "knowledge": {
+        "title": "芦苇有什么用处？",
+        "body": "芦苇可以净化水质，让水变得更干净。它的茎能做笛子，花穗能当扫把，根还能帮泥土抓紧，不让水岸坍塌。芦苇是小动物的家，真是有用又可爱的植物！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_reed_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_reed_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Reed",
+      "aloud": "/riːd/",
+      "words": "",
+      "intro": "Reeds grow by the water, tall and slender, swaying in the breeze. Their leaves are long and narrow, and in autumn they bloom with fluffy flower spikes, so pretty.",
+      "story": {
+        "title": "🌾 The Happy Little Reed",
+        "body": "Beside a little river lived a clump of reeds. In spring, they poked their pointy shoots out of the mud like tiny guards. In summer, the reeds grew very tall, their green leaves rustling softly. Dragonflies loved to rest on their stems, and little frogs sang below. In autumn, fuzzy white flower spikes appeared at the tops. When the wind blew, the fluff floated like little brooms. Children came and made small flutes from the stems, blowing sweet tunes. In winter, the reeds turned brown, but they still stood by the water, giving birds a warm place to nest. The reeds said, 'We have friends all year round. What joy!' Next spring, new reeds sprouted and grew happily again."
+      },
+      "knowledge": {
+        "title": "What are reeds good for?",
+        "body": "Reeds help clean water and make it pure. Their stems can be made into flutes, their fluffy spikes can be used as brooms, and their roots hold the soil tight to stop riverbanks from washing away. Reeds are homes for little animals. They are such useful and lovely plants!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_reed_intro.mp3",
+        "story": "../item-audio/en/plant_reed_story.mp3"
+      }
+    }
+  }
+}

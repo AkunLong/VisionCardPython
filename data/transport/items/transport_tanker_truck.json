@@ -1,0 +1,96 @@
+{
+  "id": "transport_tanker_truck",
+  "sku_id": "card_transport_tanker_truck",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "special_vehicle",
+      "on_road"
+    ],
+    "secondary": [
+      "has_wheels",
+      "can_carry_goods",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "tanker_truck"
+    ],
+    "color": [
+      "white",
+      "orange",
+      "silver"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "road",
+      "gas_station",
+      "highway"
+    ],
+    "fuel": [
+      "diesel"
+    ],
+    "features": [
+      "tank",
+      "wheels",
+      "hazmat_sign"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "油罐车",
+      "aloud": "yóu guàn chē",
+      "words": "tanker truck",
+      "intro": "油罐车是一种大卡车，身上背着一个圆圆的罐子，专门运送汽油或者牛奶这样的液体。它开在路上要特别小心，因为里面的东西很重要。",
+      "story": {
+        "title": "🚛小白罐车的任务",
+        "body": "清晨，小白罐车就出发了。它要去炼油厂装汽油，然后送到远方的加油站。路上，小白罐车开得很稳很稳，它想着：一定不能颠，要把汽油安全送到。经过一片田野，它看见小羊在吃草，但它没有停留。经过一座桥，它听见河水哗啦啦，但它也没有停留。终于到了加油站，站长叔叔摸摸小白罐车说：你真棒，这些汽油够好多汽车跑一星期啦！小白罐车开心地笑了，虽然有点累，但它完成了重要的任务。太阳下山时，它慢慢开回车库，安静地休息，准备明天再出发。"
+      },
+      "knowledge": {
+        "title": "油罐车里装的是什么？",
+        "body": "油罐车专门运送液体，比如汽油、柴油，有时候也运牛奶或水。它的罐子很坚固，不会漏。有了它，加油站的汽车才能加到油，超市的牛奶才能更新鲜。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_tanker_truck_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_tanker_truck_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Tanker Truck",
+      "aloud": "/ˈtæŋkər trʌk/",
+      "words": "",
+      "intro": "A tanker truck is a big truck with a round tank that carries liquids like gasoline or milk. It drives carefully on the road because what's inside is important.",
+      "story": {
+        "title": "🚛The Little White Tanker's Task",
+        "body": "Early in the morning, the little white tanker truck set off. It was going to the refinery to load gasoline, then deliver it to a gas station far away. On the road, the little tanker drove very steadily, thinking, 'I must not bump, I must keep the gasoline safe.' Passing a field, it saw sheep eating grass, but it didn't stop. Crossing a bridge, it heard the river babbling, but it didn't stop. Finally, it arrived at the gas station. The station master patted it and said, 'You did a great job! This gasoline will keep lots of cars running for a whole week.' The little tanker smiled happily. Though it was a little tired, it had finished an important task. As the sun set, it slowly drove back to the garage, rested quietly, and got ready to set off again tomorrow."
+      },
+      "knowledge": {
+        "title": "What does a tanker truck carry?",
+        "body": "A tanker truck is made to carry liquids, like gasoline, diesel, or sometimes milk and water. Its tank is strong and won't leak. Thanks to tanker trucks, gas stations have fuel for cars and supermarkets have fresh milk."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_tanker_truck_intro.mp3",
+        "story": "../item-audio/en/transport_tanker_truck_story.mp3"
+      }
+    }
+  }
+}

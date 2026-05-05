@@ -1,0 +1,90 @@
+{
+  "id": "food_hamburger",
+  "sku_id": "card_food_hamburger",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "western_food",
+      "color_brown",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "at_meal",
+      "hot_food"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "western"
+    ],
+    "color": [
+      "brown"
+    ],
+    "taste": [
+      "salty"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "汉堡包",
+      "aloud": "hàn bǎo bāo",
+      "words": "hamburger",
+      "intro": "汉堡包是圆圆的、香香的食物，上面有面包，中间夹着肉饼和蔬菜，一口咬下去，软软的、热热的，好多小朋友都喜欢。",
+      "story": {
+        "title": "🍔分享的快乐",
+        "body": "周末，妈妈带小乐去公园野餐。妈妈拿出一个大大的汉堡包，小乐高兴地拍手：“好香呀！”他正要咬一大口，看见旁边的小妹妹眼巴巴地望着。小乐想了想，把汉堡包掰成两半，递给小妹妹一半。小妹妹笑着说：“谢谢哥哥！”小乐咬了一口自己的一半，觉得比平时更好吃了。妈妈摸摸他的头说：“分享让食物变得更美味哦！”小乐开心地笑了，他和小妹妹一起吃完了汉堡包，还一起舔了舔手指，觉得这是世界上最好吃的午餐。"
+      },
+      "knowledge": {
+        "title": "汉堡包里有什么？",
+        "body": "汉堡包由两片面包、一块肉饼、生菜、番茄和酱料组成。肉饼通常是牛肉或鸡肉做的，加上蔬菜和酱料，夹在一起就成了美味的汉堡包。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_hamburger_intro.mp3",
+        "story": "../item-audio/zh-CN/food_hamburger_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Hamburger",
+      "aloud": "/ˈhæmbɜːrɡər/",
+      "words": "",
+      "intro": "A hamburger is a round, yummy food with bread, meat, and vegetables. It's soft, warm, and loved by many kids.",
+      "story": {
+        "title": "🍔The Joy of Sharing",
+        "body": "On the weekend, Mom took Xiao Le to the park for a picnic. Mom took out a big hamburger, and Xiao Le clapped his hands happily. \"It smells so good!\" Just as he was about to take a big bite, he saw a little girl staring at his food. Xiao Le thought for a moment, then broke the hamburger in half and gave one half to the little girl. She smiled and said, \"Thank you, big brother!\" Xiao Le took a bite of his half and found it even tastier than usual. Mom patted his head and said, \"Sharing makes food even more delicious!\" Xiao Le smiled happily. He and the little girl finished the hamburger together and licked their fingers, thinking it was the best lunch in the world."
+      },
+      "knowledge": {
+        "title": "What's inside a hamburger?",
+        "body": "A hamburger is made of two buns, a meat patty, lettuce, tomatoes, and sauce. The patty is often made of beef or chicken. Put them together with veggies and sauce, and you get a tasty hamburger."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_hamburger_intro.mp3",
+        "story": "../item-audio/en/food_hamburger_story.mp3"
+      }
+    }
+  }
+}

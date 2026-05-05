@@ -1,0 +1,93 @@
+{
+  "id": "person_cashier",
+  "sku_id": "card_person_cashier",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "in_shop"
+    ],
+    "secondary": [
+      "adult",
+      "life_service",
+      "worker_job"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "cashier"
+    ],
+    "workplace": [
+      "supermarket",
+      "store"
+    ],
+    "tools": [
+      "cash_register",
+      "scanner",
+      "cash_drawer"
+    ],
+    "clothing": [
+      "uniform"
+    ],
+    "actions": [
+      "scan",
+      "take_money",
+      "give_change",
+      "bag_items"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "收银员",
+      "aloud": "shōu yín yuán",
+      "words": "cashier",
+      "intro": "收银员是在商店里帮我们结账的人。他们用机器“嘀”一下，就知道东西多少钱，然后我们付钱，他们找零，还会说“谢谢光临”哦！",
+      "story": {
+        "title": "🛒小熊帮妈妈结账",
+        "body": "今天天气真好，妈妈带小熊去超市买东西。超市里好多好吃好玩的，小熊选了喜欢的饼干和果汁，推着小车来到收银台。收银员是小兔姐姐，她穿着干净的工作服，笑眯眯地说：“你们好呀！”小熊和妈妈把东西放在传送带上，小兔姐姐拿起一件，用扫描枪“嘀”一下，收银机“叮咚”一声，屏幕上就跳出价格。小熊觉得好神奇！接着，妈妈用手机付了钱，小兔姐姐递给妈妈一张小票，还给了小熊一张小熊贴纸：“谢谢你，小帮手，再见！”小熊开心极了，回家后也拿出玩具收银机玩起来，对妈妈说：“我是收银员，我来帮你结账！”"
+      },
+      "knowledge": {
+        "title": "收银员的好帮手",
+        "body": "收银台上有许多工具：扫描枪可以“嘀”一下读取商品信息，收银机记录价格并算出总钱数，钱箱放着纸币和硬币，电脑屏幕显示每件东西的价格。这些工具让结账又快又准确。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_cashier_intro.mp3",
+        "story": "../item-audio/zh-CN/person_cashier_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cashier",
+      "aloud": "/kæˈʃɪr/",
+      "words": "",
+      "intro": "A cashier is someone who helps us pay for things at the store. They scan each item, tell us how much to pay, and give us a receipt. Then we can take our yummy snacks and fun toys home!",
+      "story": {
+        "title": "🛒Little Bear Helps Mom Check Out",
+        "body": "It was a beautiful day. Mama Bear took Little Bear to the supermarket. Little Bear pushed a little cart and picked out his favorite cookies and juice. When they reached the checkout counter, Miss Rabbit the cashier was there in her neat uniform. She smiled and said, \"Hello!\" Little Bear and Mama put the items on the belt. Miss Rabbit picked up each one, scanned it with a beep, and the register went \"ding!\" showing the price. Little Bear watched in wonder. Then Mama paid with her phone. Miss Rabbit gave Mama a receipt and a little sticker to Little Bear. \"Thank you, little helper! Goodbye!\" Little Bear was so happy. At home, he took out his toy cash register and played, saying, \"I'm the cashier! Let me help you check out!\""
+      },
+      "knowledge": {
+        "title": "What tools does a cashier use?",
+        "body": "A cashier has many helpful tools: a scanner beeps to read the items, a cash register shows the price and adds up the total, a cash drawer holds coins and bills, and a screen shows each price. These tools make checking out fast and easy."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_cashier_intro.mp3",
+        "story": "../item-audio/en/person_cashier_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "food_popcorn",
+  "sku_id": "card_food_popcorn",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "snack",
+      "color_yellow",
+      "edible"
+    ],
+    "secondary": [
+      "crispy",
+      "sweet",
+      "at_snack_time"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "snack"
+    ],
+    "color": [
+      "yellow"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "cinema",
+      "party"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "爆米花",
+      "aloud": "bào mǐ huā",
+      "words": "popcorn",
+      "intro": "爆米花是用玉米做的，金黄金黄的，吃起来脆脆的，闻起来香香的。看电影的时候，我们都爱吃它，一颗一颗停不下来！",
+      "story": {
+        "title": "🍿玉米粒大变身",
+        "body": "周末，妈妈带小明去电影院。一走进大厅，小明就闻到一股甜甜的香味。他拉着妈妈问：“这是什么味道呀？好香呀！”妈妈笑着说：“这是爆米花的味道。”小明好奇地看着玻璃柜里，一颗颗金黄色的米花，像小花一样。妈妈买了一桶，小明赶紧拿了一颗放进嘴里，“咔嚓！咔嚓！”又脆又甜，真好吃！妈妈告诉他，爆米花是用玉米粒做出来的：把小小的玉米粒放到热锅里，它们就会“嘭”的一声，变成大大的爆米花，就像在变魔术一样。小明一边吃着爆米花，一边想：小小的玉米粒真神奇呀！等电影结束，他还在回味那香甜的味道呢。"
+      },
+      "knowledge": {
+        "title": "爆米花是怎么做出来的？",
+        "body": "把干的玉米粒放进锅里，盖上盖子，加热一会儿。玉米粒里的水分受热变成蒸汽，压力变大，“嘭”的一声，玉米粒就膨胀成了白白的爆米花。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_popcorn_intro.mp3",
+        "story": "../item-audio/zh-CN/food_popcorn_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Popcorn",
+      "aloud": "/ˈpɑːpkɔːrn/",
+      "words": "",
+      "intro": "Popcorn is made from corn. It's golden, crispy, and smells sweet. We love to eat it when watching movies — it's hard to stop munching!",
+      "story": {
+        "title": "🍿The Magical Corn Kernel",
+        "body": "One weekend, Mom took Xiao Ming to the cinema. As soon as they entered, Xiao Ming smelled a sweet fragrance. He tugged at Mom and asked, 'What's that yummy smell?' Mom smiled and said, 'That's popcorn.' Xiao Ming looked through the glass and saw golden popcorn like little flowers. Mom bought a bucket, and Xiao Ming quickly popped one into his mouth. 'Crunch, crunch!' It was crispy and sweet, so delicious! Mom told him that popcorn is made from corn kernels. When you heat the kernels in a pot, they pop and turn into big, fluffy popcorn, just like magic. Xiao Ming munched away and thought, 'What magical little kernels!' After the movie, he still remembered that sweet taste."
+      },
+      "knowledge": {
+        "title": "How is popcorn made?",
+        "body": "Put dried corn kernels into a pot, cover it, and heat it. The water inside the kernels turns to steam, and the pressure builds up. With a 'pop' sound, the kernels burst open into soft, white popcorn."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_popcorn_intro.mp3",
+        "story": "../item-audio/en/food_popcorn_story.mp3"
+      }
+    }
+  }
+}

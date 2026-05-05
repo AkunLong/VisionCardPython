@@ -1,0 +1,91 @@
+{
+  "id": "person_pilot",
+  "sku_id": "card_person_pilot",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "in_airport"
+    ],
+    "secondary": [
+      "adult",
+      "drive",
+      "life_service"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "pilot"
+    ],
+    "workplace": [
+      "airport",
+      "airplane"
+    ],
+    "tools": [
+      "control stick",
+      "headset"
+    ],
+    "clothing": [
+      "uniform"
+    ],
+    "actions": [
+      "fly",
+      "navigate",
+      "land"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "飞行员",
+      "aloud": "fēi xíng yuán",
+      "words": "pilot",
+      "intro": "飞行员是开飞机的人，能带我们去很远的地方。他们穿着帅气的制服，坐在驾驶舱里，让飞机飞上蓝天。",
+      "story": {
+        "title": "✈️小熊第一次坐飞机",
+        "body": "小熊要去看望远方的外婆，它第一次坐飞机，又兴奋又有点紧张。走到大大的机场，熊妈妈指着窗外的飞机说：“看，那就是我们要坐的飞机！”登机后，飞行员叔叔微笑着广播：“欢迎乘坐本次航班，请系好安全带。”飞机缓缓滑行，然后加速、抬头，一下子就飞起来了！小熊贴着窗户看：房子变小了，云朵就在旁边飘。飞行员叔叔稳稳地驾驶着，穿过云层，阳光洒满机舱。过了一会儿，飞机轻轻降落在跑道上。小熊开心地说：“飞行员叔叔真了不起，我以后也要开飞机！”"
+      },
+      "knowledge": {
+        "title": "飞行员怎么开飞机？",
+        "body": "飞行员坐在驾驶舱里，面前有很多按钮和屏幕。操纵杆控制飞机的方向，像玩游戏一样。还有仪表盘显示高度和速度。飞行员要时刻和地面联系，保证飞行安全。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_pilot_intro.mp3",
+        "story": "../item-audio/zh-CN/person_pilot_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Pilot",
+      "aloud": "/ˈpaɪlət/",
+      "words": "",
+      "intro": "A pilot flies an airplane and can take us to faraway places. They wear a smart uniform and sit in the cockpit, making the plane soar into the sky.",
+      "story": {
+        "title": "✈️Little Bear's First Flight",
+        "body": "Little Bear was going to visit his grandma far away. It was his first time flying, so he felt excited and a little nervous. At the big airport, Mama Bear pointed out the window and said, Look, that's the plane we're taking! After boarding, the pilot announced with a smile, Welcome aboard, please fasten your seatbelt. The plane taxied slowly, then sped up, lifted its nose, and zoomed into the air! Little Bear pressed his face to the window: houses became tiny, and clouds floated right beside them. The pilot flew steadily through the clouds, and sunlight filled the cabin. Soon, the plane landed gently on the runway. Little Bear cheered, Pilots are amazing! I want to fly a plane when I grow up!"
+      },
+      "knowledge": {
+        "title": "How does a pilot fly a plane?",
+        "body": "A pilot sits in the cockpit with many buttons and screens. The control stick steers the plane, just like a game. Dials show how high and fast you are flying. Pilots always talk to the ground to keep the flight safe."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_pilot_intro.mp3",
+        "story": "../item-audio/en/person_pilot_story.mp3"
+      }
+    }
+  }
+}

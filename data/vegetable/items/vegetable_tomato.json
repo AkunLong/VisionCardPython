@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_tomato",
+  "sku_id": "card_vegetable_tomato",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_red",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "juicy",
+      "sweet"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "red"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "juicy"
+    ],
+    "grow_location": [
+      "on_vine"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "西红柿",
+      "aloud": "xī hóng shì",
+      "words": "tomato",
+      "intro": "西红柿是一种红红的蔬菜，圆圆的，吃起来甜甜的，还有很多汁。它长在藤上，像一个个小灯笼。",
+      "story": {
+        "title": "🍅西红柿红了",
+        "body": "院子里种了几棵西红柿，小苗苗慢慢长大，开出了黄色的小花。花落了，结出小小的绿果子。小绿果子一天天长大，慢慢变黄，又变红，最后红得像小灯笼。宝宝伸手轻轻一碰，西红柿就掉到了手里，软软的，亮亮的。宝宝咬了一口，甜甜的汁水溅出来，小嘴都染红了。妈妈笑着说：“这是阳光的味道哦。”宝宝点点头，把剩下的西红柿都吃光了。晚上，宝宝在梦里看见自己变成了一株西红柿，身上挂满了红红的小灯笼。"
+      },
+      "knowledge": {
+        "title": "吃西红柿有什么好处？",
+        "body": "西红柿里有丰富的维生素C和番茄红素，可以帮助身体更强壮，皮肤更健康。炒着吃、煮汤喝、凉拌或者直接生吃都很好吃！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_tomato_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_tomato_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Tomato",
+      "aloud": "/təˈmeɪtoʊ/",
+      "words": "",
+      "intro": "A tomato is a red, round vegetable that tastes sweet and juicy. It grows on a vine and looks like a little lantern.",
+      "story": {
+        "title": "🍅The Tomato Turns Red",
+        "body": "In the yard, a few tomato plants grew from little sprouts. They got bigger and bloomed with tiny yellow flowers. After the flowers fell, small green fruits appeared. Day by day, the green fruits grew, turning yellow and then red, until they looked like little red lanterns. The little bunny reached out and softly touched one — it fell right into her paw, soft and shiny. She took a bite, and sweet juice burst out, coloring her mouth red. Mama bunny smiled and said, “That’s the taste of sunshine.” The little bunny nodded and ate the rest of her tomato happily. That night, she dreamed she was a tomato plant with lots of red lanterns hanging all over."
+      },
+      "knowledge": {
+        "title": "Why are tomatoes good for you?",
+        "body": "Tomatoes are rich in vitamin C and lycopene, which help keep your body strong and your skin healthy. You can eat them raw, in salads, cooked, or in soup — they're delicious any way!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_tomato_intro.mp3",
+        "story": "../item-audio/en/vegetable_tomato_story.mp3"
+      }
+    }
+  }
+}

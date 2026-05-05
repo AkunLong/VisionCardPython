@@ -1,0 +1,86 @@
+{
+  "id": "fruit_red_date",
+  "sku_id": "card_fruit_red_date",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_red",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "oval",
+      "sweet",
+      "has_seeds"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "red"
+    ],
+    "shape": [
+      "oval"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "红枣",
+      "aloud": "hóng zǎo",
+      "words": "red date",
+      "intro": "红枣是一种红红的小果子，吃起来甜甜的、软软的。它很有营养，小朋友吃了对身体好哦。",
+      "story": {
+        "title": "🐿️小松鼠的红枣",
+        "body": "秋天到了，果园里的红枣树挂满了红彤彤的小果子。小松鼠跳上树枝，摘下一颗红枣，放在手心里看了看。红枣椭圆椭圆的，像一颗红色的小宝石。小松鼠轻轻咬了一口，“好甜呀！”它开心地摇了摇尾巴。小松鼠没有把红枣全吃光，它把摘下来的红枣分给了小鸟、小兔子和小刺猬。大家坐在树下，一边吃红枣，一边晒太阳。小鸟说：“红枣真甜，暖暖的！”小兔子说：“吃完了，我们一起种红枣，明年就有更多啦！”大家都笑了，觉得这个秋天真美好。"
+      },
+      "knowledge": {
+        "title": "红枣长在哪里？",
+        "body": "红枣长在枣树上，枣树喜欢阳光。秋天的时候，红枣成熟，变成红红的颜色，就可以摘下来吃啦。晒干后的红枣可以保存很久。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_red_date_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_red_date_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Red Date",
+      "aloud": "/rɛd deɪt/",
+      "words": "",
+      "intro": "A red date is a small, red fruit that tastes sweet and soft. It is nutritious and good for children's health.",
+      "story": {
+        "title": "🐿️The Little Squirrel's Red Dates",
+        "body": "In the autumn, the red date tree in the orchard was full of bright red little fruits. A little squirrel hopped onto a branch and picked a red date, holding it in its little paws. The red date was oval, like a tiny red gem. The squirrel took a gentle bite. “So sweet!” It wagged its tail happily. But the squirrel didn't eat all the dates by itself. It shared the dates with a little bird, a little rabbit, and a little hedgehog. They sat under the tree, eating red dates and basking in the sun. The little bird said, “The dates are so sweet and warm!” The little rabbit said, “After we finish, let's plant some seeds. Next year we'll have even more!” Everyone smiled, thinking what a wonderful autumn day it was."
+      },
+      "knowledge": {
+        "title": "Where do red dates grow?",
+        "body": "Red dates grow on date trees that love sunshine. In autumn, the dates ripen and turn red, ready to be picked. Dried red dates can be stored for a long time."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_red_date_intro.mp3",
+        "story": "../item-audio/en/fruit_red_date_story.mp3"
+      }
+    }
+  }
+}

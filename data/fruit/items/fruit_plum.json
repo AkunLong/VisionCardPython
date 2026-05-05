@@ -1,0 +1,87 @@
+{
+  "id": "fruit_plum",
+  "sku_id": "card_fruit_plum",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_purple",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "round",
+      "sweet",
+      "tree_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "purple"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet",
+      "sour"
+    ],
+    "scenes": [
+      "orchard",
+      "home",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "李子",
+      "aloud": "lǐ zi",
+      "words": "plum",
+      "intro": "李子是一种圆圆的紫色水果，咬一口酸酸甜甜，非常美味。它含有丰富的维生素，能帮助小朋友健康长大。",
+      "story": {
+        "title": "🐒小猴子的李子",
+        "body": "夏天来啦，果园里的李子树上挂满了紫色的李子。圆圆的李子像一颗颗小宝石，在阳光下闪闪发光。小猴子跳跳来到树下，伸手摘了一颗。“我先尝一尝！”跳跳轻轻咬了一口，“哎呀，好酸！”它皱起了眉头。可是过了一会儿，嘴里却有一股甜甜的味道。跳跳笑了：“原来李子是先酸后甜呀！”它摘了好多李子，分给小兔、小鹿和小熊。大家围在一起吃李子，都眯着眼睛笑。小猴子明白了：和朋友一起分享，连酸酸的李子也会变得更甜！"
+      },
+      "knowledge": {
+        "title": "李子是什么时候成熟的？",
+        "body": "李子通常在夏天成熟，天气热的时候就会变得紫紫的、软软的。夏天的阳光让李子积累糖分，吃起来酸甜多汁。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_plum_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_plum_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Plum",
+      "aloud": "/plʌm/",
+      "words": "",
+      "intro": "A plum is a round, purple fruit that tastes sour and sweet. It’s full of vitamins that help children grow up strong and healthy.",
+      "story": {
+        "title": "🐒Little Monkey's Plum",
+        "body": "Summer came, and the plum tree in the orchard was full of purple plums. The round plums looked like little gems shining in the sun. Little Monkey Tiao Tiao came to the tree and picked one. “Let me try it first!” Tiao Tiao took a gentle bite. “Oh, so sour!” He wrinkled his nose. But after a moment, a sweet taste filled his mouth. Tiao Tiao smiled: “So plums are sour at first, then sweet!” He picked many plums and shared them with Little Rabbit, Little Deer, and Little Bear. They all sat together, eating plums and smiling. Little Monkey understood: sharing with friends makes even sour plums taste sweeter!"
+      },
+      "knowledge": {
+        "title": "When do plums ripen?",
+        "body": "Plums usually ripen in summer. The hot sun helps them turn purple and juicy, with a perfect balance of sour and sweet flavors."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_plum_intro.mp3",
+        "story": "../item-audio/en/fruit_plum_story.mp3"
+      }
+    }
+  }
+}

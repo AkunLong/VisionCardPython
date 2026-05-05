@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_spinach",
+  "sku_id": "card_vegetable_spinach",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "leafy_vegetable"
+    ],
+    "secondary": [
+      "soft",
+      "healthy",
+      "in_soup"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "leaf_shape"
+    ],
+    "taste": [
+      "soft"
+    ],
+    "grow_location": [
+      "in_garden",
+      "in_field"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "菠菜",
+      "aloud": "bō cài",
+      "words": "spinach",
+      "intro": "菠菜是一种绿绿的蔬菜，叶子软软的，煮熟后吃起来滑滑的。它长在菜园里，很有营养哦。",
+      "story": {
+        "title": "🥬大力水手的菠菜",
+        "body": "小兔子蹦蹦跳跳来到菜园，看见一片绿油油的菠菜。叶子大大的，像一把把小扇子。小兔子摘了一片尝了尝，咦，有点涩涩的。兔妈妈说：菠菜要煮熟了才好吃，吃了还会变得有力气呢！小兔子帮忙把菠菜洗干净，放进锅里煮。不一会儿，菠菜变软了，颜色更绿了。小兔子吃了一口，滑滑嫩嫩的，真好吃！它忽然觉得自己力气变大了，一下子跳得老高。小兔子高兴地想：以后我要经常吃菠菜，像大力水手一样强壮！晚上，小兔子把剩下的菠菜分给了小刺猬，两个好朋友一起吃得津津有味。"
+      },
+      "knowledge": {
+        "title": "吃菠菜有什么好处？",
+        "body": "菠菜含有丰富的铁和维生素，吃了能让身体更强壮，还能让皮肤红润润的。不过菠菜里有草酸，最好煮熟了再吃，这样更健康！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_spinach_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_spinach_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Spinach",
+      "aloud": "/ˈspɪnɪtʃ/",
+      "words": "",
+      "intro": "Spinach is a green leafy vegetable. Its leaves are soft, and when cooked, they become smooth and tender. It grows in gardens and is very nutritious.",
+      "story": {
+        "title": "🥬Popeye's Spinach",
+        "body": "A little rabbit hopped to the garden and saw a patch of bright green spinach. The leaves were big, like little fans. The rabbit picked a leaf and tasted it— yuck, it was a bit bitter. Mama Rabbit said, “Spinach tastes much better when cooked, and it makes you strong!” The little rabbit helped wash the spinach and put it in a pot. Soon the spinach turned soft and brighter green. The rabbit took a bite: smooth, tender, and delicious! Suddenly it felt stronger and jumped really high. The rabbit thought, “I’ll eat spinach often, just like Popeye, to be strong!” That evening, the rabbit shared the rest of the spinach with a little hedgehog, and they both ate happily."
+      },
+      "knowledge": {
+        "title": "Why is eating spinach good for you?",
+        "body": "Spinach is rich in iron and vitamins. It helps make your body strong and keeps your skin rosy. But because spinach contains oxalic acid, it's healthier to eat it cooked."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_spinach_intro.mp3",
+        "story": "../item-audio/en/vegetable_spinach_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "person_athlete",
+  "sku_id": "card_person_athlete",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "play_sports"
+    ],
+    "secondary": [
+      "adult",
+      "sports_job",
+      "perform"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "athlete"
+    ],
+    "workplace": [
+      "stadium",
+      "field",
+      "track",
+      "gym"
+    ],
+    "tools": [
+      "ball",
+      "racquet",
+      "running shoes"
+    ],
+    "clothing": [
+      "jersey",
+      "shorts",
+      "sneakers"
+    ],
+    "actions": [
+      "run",
+      "jump",
+      "throw",
+      "compete"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "运动员",
+      "aloud": "yùn dòng yuán",
+      "words": "athlete",
+      "intro": "运动员是很会运动的人。他们跑得很快，跳得很高，像小超人一样！",
+      "story": {
+        "title": "🐇小兔子运动员",
+        "body": "森林里要开运动会了，小兔子天天练习跑步。第一天，它跑了一会儿就累了，躺在地上不想动。兔爸爸说：当运动员不能怕累哦，要坚持。天天点点头，每天早早起来锻炼，慢慢地，它跑得越来越快，跳得也越来越高。终于到比赛那天，天天站在跑道上，心里怦怦跳。发令枪一响，它像风一样冲了出去，第一个冲过终点线！大家都为它鼓掌。天天开心极了，它决定长大后要当一名真正的运动员，去更大的赛场奔跑。"
+      },
+      "knowledge": {
+        "title": "运动员平时做什么？",
+        "body": "运动员每天都要训练，练习跑步、跳跃、投球等。他们还会吃有营养的食物，让身体更强壮。比赛时，他们会尽全力，追求更快、更高、更强。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_athlete_intro.mp3",
+        "story": "../item-audio/zh-CN/person_athlete_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Athlete",
+      "aloud": "/ˈæθliːt/",
+      "words": "",
+      "intro": "Athletes are people who are really good at sports. They run fast and jump high, just like little superheroes!",
+      "story": {
+        "title": "🐇The Little Rabbit Athlete",
+        "body": "The forest was having a sports day, and the little rabbit practiced running every day. On the first day, it got tired quickly and lay on the ground, not wanting to move. Papa Rabbit said, 'Athletes can't be afraid of tiredness. You must keep going.' The little rabbit nodded and started to train early every morning. Slowly, it ran faster and jumped higher. Finally, on race day, the little rabbit stood on the track, heart pounding. The starting gun fired, and it dashed like the wind, crossing the finish line first! Everyone cheered. The little rabbit was overjoyed. It decided to become a real athlete when it grew up and run in bigger races."
+      },
+      "knowledge": {
+        "title": "What do athletes do every day?",
+        "body": "Athletes train every day—running, jumping, and throwing. They also eat healthy food to make their bodies strong. In competitions, they try their best to be faster, higher, and stronger."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_athlete_intro.mp3",
+        "story": "../item-audio/en/person_athlete_story.mp3"
+      }
+    }
+  }
+}

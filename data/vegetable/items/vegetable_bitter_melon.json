@@ -1,0 +1,90 @@
+{
+  "id": "vegetable_bitter_melon",
+  "sku_id": "card_vegetable_bitter_melon",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "melon_vegetable"
+    ],
+    "secondary": [
+      "bitter",
+      "healthy",
+      "can_cook"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "bitter"
+    ],
+    "grow_location": [
+      "on vine"
+    ],
+    "scenes": [
+      "in_garden",
+      "in_field",
+      "in_kitchen",
+      "on_table"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "苦瓜",
+      "aloud": "kǔ guā",
+      "words": "bitter melon",
+      "intro": "苦瓜是一种绿色的蔬菜，长长的，表面有很多小疙瘩。它吃起来苦苦的，但是很有营养，可以炒着吃或者煮汤。",
+      "story": {
+        "title": "🥒小兔和苦瓜",
+        "body": "小兔跳跳从菜园里摘了一个绿色的瓜，长长的，上面疙疙瘩瘩的。它问妈妈：这是什么呀？看起来好奇怪。妈妈说：这是苦瓜，虽然有点苦，但是吃了对身体好。跳跳好奇地咬了一小口，马上皱起眉头：好苦呀！妈妈笑了，把苦瓜切成薄片，用鸡蛋一起炒。跳跳试着夹了一小块，咦，好像没那么苦了，还有一点香呢。后来，妈妈还用苦瓜煮了汤，跳跳喝了一口，感觉真清凉。它高兴地说：原来苦瓜也挺好吃的！从此以后，跳跳就喜欢上苦瓜了。"
+      },
+      "knowledge": {
+        "title": "吃苦瓜有什么好处？",
+        "body": "苦瓜里有很多维生素，能够清热去火，特别适合夏天吃。虽然它有点苦，但吃了可以让身体更健康，不容易生病哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_bitter_melon_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_bitter_melon_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Bitter Melon",
+      "aloud": "/ˈbɪtər ˈmɛlən/",
+      "words": "",
+      "intro": "Bitter melon is a green vegetable that is long and has bumpy skin. It tastes bitter, but it's very healthy. You can stir-fry it or cook it in soup.",
+      "story": {
+        "title": "🥒Bunny and the Bitter Melon",
+        "body": "Bunny Hoppy went to the garden and picked a green, long melon with bumpy skin. He asked his mom, \"What is this? It looks so strange.\" Mom said, \"This is bitter melon. It's a bit bitter, but it's good for you.\" Curious, Hoppy took a tiny bite and frowned. \"It's so bitter!\" Mom smiled and sliced it thinly, then stir-fried it with eggs. Hoppy tried a small piece. \"Oh, it's not that bitter anymore, and it smells nice!\" Later, Mom made bitter melon soup. Hoppy took a sip and felt so refreshed. He said happily, \"Bitter melon is actually tasty!\" From then on, Hoppy loved bitter melon."
+      },
+      "knowledge": {
+        "title": "Why is eating bitter melon good for you?",
+        "body": "Bitter melon has lots of vitamins and helps cool your body, especially in summer. Even though it's bitter, it keeps you healthy and strong!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_bitter_melon_intro.mp3",
+        "story": "../item-audio/en/vegetable_bitter_melon_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "id": "vegetable_tea_tree_mushroom",
+  "sku_id": "card_vegetable_tea_tree_mushroom",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_brown",
+      "mushroom_vegetable"
+    ],
+    "secondary": [
+      "long",
+      "can_cook",
+      "fragrant"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "brown"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "tasty"
+    ],
+    "grow_location": [
+      "on wood",
+      "in forest"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "茶树菇",
+      "aloud": "chá shù gū",
+      "words": "tea tree mushroom",
+      "intro": "茶树菇是一种棕色的蘑菇，长长的，闻起来香香的，吃起来滑滑嫩嫩的。它喜欢长在木头或者树根旁边，一朵一朵像小伞一样。",
+      "story": {
+        "title": "🍄采蘑菇",
+        "body": "小兔子和小熊一起去树林里找吃的。它们发现一棵老树根旁长满了棕色的蘑菇。小兔子高兴地叫起来：“哇！好多蘑菇！是茶树菇！”小熊伸手摘下一朵闻了闻：“好香呀！”它们小心地采了一篮子蘑菇带回家。兔妈妈把蘑菇洗干净，放进汤里煮。很快，厨房里飘出浓浓的香味。兔妈妈盛了两碗汤给小兔子和小熊。小兔子喝了一口：“真好喝，滑溜溜的！”小熊也咕咚咕咚喝完。它们都爱上了茶树菇的味道，决定下次再去采。"
+      },
+      "knowledge": {
+        "title": "吃茶树菇有什么好处？",
+        "body": "茶树菇含有优质蛋白质和多种维生素，吃了让小朋友长身体、变强壮。它还能让我们的肠胃更健康，吃饭更香。茶树菇可以炒菜、煮汤，软软嫩嫩很好吃！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_tea_tree_mushroom_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_tea_tree_mushroom_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Tea Tree Mushroom",
+      "aloud": "/tiː triː ˈmʌʃrʊm/",
+      "words": "",
+      "intro": "Tea tree mushroom is a brown mushroom that is long and smells lovely. It has a smooth, tender texture. It likes to grow on wood or near tree roots, looking like little umbrellas.",
+      "story": {
+        "title": "🍄Picking Mushrooms",
+        "body": "Little Rabbit and Little Bear went into the woods to look for food. They found an old tree stump covered with brown mushrooms. Little Rabbit shouted happily, “Wow! So many mushrooms! They are tea tree mushrooms!” Little Bear reached out, picked one, and sniffed it. “What a nice smell!” They carefully gathered a basketful of mushrooms and took them home. Mama Rabbit washed the mushrooms and put them into a pot of soup. Soon, a rich, delicious smell filled the kitchen. Mama Rabbit ladled two bowls of soup for Little Rabbit and Little Bear. Little Rabbit took a sip, “Yummy! It’s so smooth!” Little Bear gulped it down, too. They both fell in love with the taste of tea tree mushrooms and decided to pick more next time."
+      },
+      "knowledge": {
+        "title": "Why is eating tea tree mushrooms good for you?",
+        "body": "Tea tree mushrooms are rich in high-quality protein and many vitamins, which help children grow strong and healthy. They also support good digestion and make meals more enjoyable. You can stir-fry them or add them to soup — they are soft, tender, and very tasty."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_tea_tree_mushroom_intro.mp3",
+        "story": "../item-audio/en/vegetable_tea_tree_mushroom_story.mp3"
+      }
+    }
+  }
+}

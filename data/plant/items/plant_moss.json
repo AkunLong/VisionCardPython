@@ -1,0 +1,95 @@
+{
+  "id": "plant_moss",
+  "sku_id": "card_plant_moss",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "color_green",
+      "small_leaf"
+    ],
+    "secondary": [
+      "has_leaf",
+      "in_forest",
+      "can_watch"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "grass"
+    ],
+    "color": [
+      "green"
+    ],
+    "size": [
+      "small"
+    ],
+    "parts": [
+      "leaves",
+      "stems"
+    ],
+    "scenes": [
+      "forest",
+      "garden"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "苔藓",
+      "aloud": "tái xiǎn",
+      "words": "moss",
+      "intro": "苔藓软软的，绿绿的，像一块绿色的小地毯。它喜欢住在潮湿的地方，给小小的虫子一个温暖的家。",
+      "story": {
+        "title": "🌿苔藓小毯子",
+        "body": "森林里的小石头上，长着一片绿绿的苔藓。它软软的，摸上去像绒布。小蚂蚁爬过来，说：“苔藓，你好舒服呀，我可以在你身上休息吗？”苔藓笑着说：“当然可以，我的叶子很小，但很柔软，你可以当我的小客人。”小蚂蚁躺在上面，暖暖的。下雨了，苔藓喝饱了水，变得更绿了。小蜗牛慢慢爬来，也躲在苔藓下面避雨。苔藓像一床小被子，盖在石头上，让石头不冷也不热。大家都喜欢苔藓，说它是森林里最温柔的小毯子。苔藓心里甜甜的，它觉得自己虽然小小的，却能帮助大家，真开心。"
+      },
+      "knowledge": {
+        "title": "苔藓有什么用？",
+        "body": "苔藓能保持水分，让周围的空气湿润。它给小虫子提供住的地方，还能告诉我们空气干不干净。如果苔藓长得绿绿的，说明空气很好哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_moss_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_moss_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Moss",
+      "aloud": "/mɔːs/",
+      "words": "",
+      "intro": "Moss is soft and green, like a little green carpet. It loves wet places and gives tiny bugs a cozy home.",
+      "story": {
+        "title": "🌿The Little Moss Blanket",
+        "body": "On a small stone in the forest grew a patch of green moss. It was soft, like velvet. One day, a little ant crawled over and said, 'Moss, you're so comfy! Can I rest on you?' Moss smiled, 'Of course! My leaves are tiny but very soft. You can be my little guest.' The ant lay down and felt warm. When it rained, the moss drank up the water and became even greener. A snail slowly came and hid under the moss to stay dry. The moss was like a little quilt covering the stone, keeping it neither too cold nor too hot. Everyone loved the moss and said it was the gentlest blanket in the forest. The moss felt sweet inside, happy that even though it was small, it could help others."
+      },
+      "knowledge": {
+        "title": "What is moss good for?",
+        "body": "Moss holds water and keeps the air moist. It gives small bugs a place to live and tells us if the air is clean. When moss is bright green, it means the air is fresh!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_moss_intro.mp3",
+        "story": "../item-audio/en/plant_moss_story.mp3"
+      }
+    }
+  }
+}

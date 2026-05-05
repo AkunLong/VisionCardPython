@@ -1,0 +1,98 @@
+{
+  "id": "plant_grapevine",
+  "sku_id": "card_plant_grapevine",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "vine",
+      "color_green"
+    ],
+    "secondary": [
+      "has_fruit",
+      "can_eat",
+      "in_garden"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "vine"
+    ],
+    "color": [
+      "green",
+      "purple"
+    ],
+    "size": [
+      "tall"
+    ],
+    "parts": [
+      "stem",
+      "leaves",
+      "tendrils",
+      "fruit"
+    ],
+    "scenes": [
+      "garden",
+      "field",
+      "orchard"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "葡萄藤",
+      "aloud": "pú táo téng",
+      "words": "grapevine",
+      "intro": "葡萄藤弯弯曲曲，爬在架子上，长出绿绿的叶子和甜甜的葡萄。它喜欢晒太阳，给大家带来美味的水果。",
+      "story": {
+        "title": "🍇葡萄藤的小秘密",
+        "body": "院子里有一株葡萄藤，它的枝条细细长长的，绕啊绕，爬满了架子。春天，藤上冒出了嫩绿的新芽，像一个个小绿点。慢慢儿，绿点长成了大叶子，还开出了很多小花。蜜蜂飞来飞去，忙着采蜜。过了不久，花落了，结出一串串青色的小葡萄。夏天到了，太阳公公使劲晒，葡萄一点一点变大，还染上了紫色，像一颗颗宝石挂在藤上。小葡萄们挤在一起，悄悄说：“我们快熟啦！”秋天来了，葡萄变得又大又甜，散发着香气。小朋友摘下一颗，放进嘴里，眼睛都眯起来了：“哇，真甜！”葡萄藤看着大家开心的样子，心里美滋滋的。冬天，葡萄藤要睡觉了，叶子飘落，它紧紧靠着架子，等着明年再长出新的葡萄来。"
+      },
+      "knowledge": {
+        "title": "葡萄藤有什么用？",
+        "body": "葡萄藤能结出酸甜的葡萄，我们可以直接吃，也可以做成葡萄干、果汁和果酱。葡萄里有丰富的营养，吃了对身体好。农民伯伯还会用葡萄酿酒呢！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_grapevine_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_grapevine_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Grapevine",
+      "aloud": "/ˈɡreɪpvaɪn/",
+      "words": "",
+      "intro": "A grapevine is a climbing plant. It has long curly stems, green leaves, and sweet juicy grapes. It loves sunshine and gives us yummy fruit.",
+      "story": {
+        "title": "🍇The Secret of the Grapevine",
+        "body": "There was a grapevine in the yard. Its stems were long and thin, twisting around the trellis. In spring, tiny green buds appeared, like little green dots. Slowly, the dots grew into big leaves, and many small flowers bloomed. Bees came to collect nectar. Soon the flowers fell, and small green grapes formed in bunches. In summer, the sun shone brightly, and the grapes grew bigger and turned purple, like gems hanging on the vine. The little grapes snuggled together and whispered, \"We're almost ripe!\" In autumn, the grapes were big and sweet, giving off a lovely smell. A child picked one, put it in his mouth, and his eyes sparkled: \"Wow, so sweet!\" The grapevine felt so happy watching everyone smile. In winter, it was time to sleep. The leaves fell, and the vine hugged the trellis tightly, waiting for next spring to grow new grapes again."
+      },
+      "knowledge": {
+        "title": "What are grapevines good for?",
+        "body": "Grapevines give us tasty grapes. We can eat them fresh, or make them into raisins, juice, and jam. Grapes are full of goodness and good for our health. Farmers can even use grapes to make wine!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_grapevine_intro.mp3",
+        "story": "../item-audio/en/plant_grapevine_story.mp3"
+      }
+    }
+  }
+}

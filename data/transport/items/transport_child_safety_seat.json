@@ -1,0 +1,94 @@
+{
+  "id": "transport_child_safety_seat",
+  "sku_id": "card_transport_child_safety_seat",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "safety_item",
+      "on_road"
+    ],
+    "secondary": [
+      "small",
+      "safe",
+      "can_carry_people"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "child_safety_seat"
+    ],
+    "color": [
+      "black",
+      "red",
+      "blue"
+    ],
+    "size": [
+      "small"
+    ],
+    "scenes": [
+      "car",
+      "road",
+      "travel"
+    ],
+    "fuel": [],
+    "features": [
+      "harness",
+      "cushion",
+      "adjustable"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "安全座椅",
+      "aloud": "ān quán zuò yǐ",
+      "words": "car seat",
+      "intro": "安全座椅是小朋友坐车时专用的椅子，有软软的垫子和安全带，把宝宝牢牢保护起来。它安装在汽车后排，让宝宝乘车更安全。",
+      "story": {
+        "title": "🪑小座椅的守护任务",
+        "body": "今天，小座椅和宝宝一起坐车去公园。妈妈把宝宝轻轻放进座椅里，系好安全带。小座椅说：“别担心，我会紧紧抱住宝宝！”路上车一颠一颠，宝宝却安安稳稳，因为小座椅的垫子软软的，像妈妈的怀抱。红灯亮了，爸爸刹车有点急，宝宝向前一冲，却被安全带温柔地拉回来。宝宝咯咯笑了，小座椅也笑了。到了公园，宝宝下车时摸摸小座椅：“谢谢你保护我！”小座椅心里暖暖的，它想：每天守护宝宝的安全，就是我最开心的事！"
+      },
+      "knowledge": {
+        "title": "为什么宝宝要用安全座椅？",
+        "body": "宝宝个子小，身体还很软，车上的普通安全带不合适。安全座椅专为宝宝设计，能稳稳护住头颈和身体，让每一次出行都安全又舒服。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_child_safety_seat_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_child_safety_seat_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Child Safety Seat",
+      "aloud": "/tʃaɪld ˈseɪfti siːt/",
+      "words": "",
+      "intro": "A child safety seat is a special chair for kids in the car. It has soft cushions and a harness to keep little ones safe and snug. It is installed in the back seat to protect your child while traveling.",
+      "story": {
+        "title": "🪑The Little Seat's Protective Mission",
+        "body": "Today, the little seat and the baby are going to the park by car. Mommy gently places the baby into the seat and buckles the harness. The little seat says, 'Don't worry, I will hold the baby tight!' On the bumpy road, the baby stays steady because the seat's cushion is soft like a hug. When the traffic light turns red, Daddy brakes a bit suddenly. The baby leans forward but is pulled back gently by the harness. The baby giggles, and the little seat smiles too. At the park, the baby pats the seat and says, 'Thank you for protecting me!' The little seat feels warm inside. It thinks: Keeping the baby safe every day is my happiest job!"
+      },
+      "knowledge": {
+        "title": "Why do babies need a safety seat?",
+        "body": "Babies are small and their bodies are still soft. A regular seat belt does not fit them well. A child safety seat is specially designed to protect the head, neck, and body, making every ride safe and cozy."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_child_safety_seat_intro.mp3",
+        "story": "../item-audio/en/transport_child_safety_seat_story.mp3"
+      }
+    }
+  }
+}

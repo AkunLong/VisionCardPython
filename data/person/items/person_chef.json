@@ -1,0 +1,95 @@
+{
+  "id": "person_chef",
+  "sku_id": "card_person_chef",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "in_kitchen"
+    ],
+    "secondary": [
+      "adult",
+      "cook",
+      "at_workplace"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "chef"
+    ],
+    "workplace": [
+      "kitchen",
+      "restaurant"
+    ],
+    "tools": [
+      "knife",
+      "pot",
+      "pan",
+      "whisk"
+    ],
+    "clothing": [
+      "chef_hat",
+      "apron"
+    ],
+    "actions": [
+      "cook",
+      "chop",
+      "stir",
+      "bake"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "厨师",
+      "aloud": "chú shī",
+      "words": "chef",
+      "intro": "厨师是做好吃饭菜的人。他们戴着高高的帽子，穿着围裙，在厨房里忙来忙去，做出香香的饭菜。",
+      "story": {
+        "title": "👨‍🍳小猫咪学做菜",
+        "body": "小猫咪想给妈妈做一顿生日晚餐。它走进厨房，请来厨师熊叔叔帮忙。熊叔叔戴上高高的厨师帽，系上白围裙，笑着说：“今天我是你的大厨师，你是小助手！”他们先洗蔬菜，红红的番茄、绿绿的青椒，切得整整齐齐。熊熊叔叔打开火，锅里倒上油，嗞啦一声，菜下锅啦！小猫咪小心地翻炒，熊叔叔加了一点点盐和糖。不一会儿，香喷喷的蔬菜炒饭就做好啦。妈妈下班回家，闻着香味说：“哇，好香呀！”小猫咪开心极了，它觉得厨师能让家人吃到美味，真了不起。"
+      },
+      "knowledge": {
+        "title": "厨师用什么做饭？",
+        "body": "厨师有很多工具：菜刀切菜，炒锅炒菜，锅铲翻菜，勺子盛汤。还有打蛋器、擀面杖，把食物变成各种形状和味道。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_chef_intro.mp3",
+        "story": "../item-audio/zh-CN/person_chef_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Chef",
+      "aloud": "/ʃef/",
+      "words": "",
+      "intro": "A chef is someone who makes yummy food. They wear tall hats and aprons, working in the kitchen to create delicious meals.",
+      "story": {
+        "title": "👨‍🍳Little Cat Learns to Cook",
+        "body": "Little Cat wanted to make a birthday dinner for Mama. It went to the kitchen and asked Chef Bear for help. Chef Bear put on a tall chef hat and a white apron, smiling: \"Today I’ll be the head chef, and you’ll be my little helper!\" First they washed the vegetables—red tomatoes and green peppers, all cut neatly. Chef Bear turned on the stove, poured oil into the pan, and sizzle! In went the veggies. Little Cat stirred carefully while Chef Bear added a little salt and sugar. Soon, a fragrant vegetable fried rice was ready. When Mama came home, she smelled the delicious food and said, \"Wow, it smells so good!\" Little Cat was thrilled. It thought chefs can make their families happy with tasty meals—how wonderful!"
+      },
+      "knowledge": {
+        "title": "What does a chef use to cook?",
+        "body": "A chef has many tools: a knife for cutting vegetables, a wok for stir-frying, a spatula for flipping food, and a ladle for soup. There are also whisks and rolling pins to create different shapes and flavors."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_chef_intro.mp3",
+        "story": "../item-audio/en/person_chef_story.mp3"
+      }
+    }
+  }
+}

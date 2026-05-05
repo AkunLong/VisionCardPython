@@ -1,0 +1,92 @@
+{
+  "id": "vegetable_sweet_potato",
+  "sku_id": "card_vegetable_sweet_potato",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_brown",
+      "root_vegetable"
+    ],
+    "secondary": [
+      "sweet",
+      "soft",
+      "healthy"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "brown",
+      "red"
+    ],
+    "shape": [
+      "long"
+    ],
+    "taste": [
+      "sweet",
+      "soft"
+    ],
+    "grow_location": [
+      "underground"
+    ],
+    "scenes": [
+      "garden",
+      "farm",
+      "kitchen",
+      "supermarket"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "红薯",
+      "aloud": "hóng shǔ",
+      "words": "sweet potato",
+      "intro": "红薯是长在土里的蔬菜，皮是红褐色的，摸起来有点粗糙。烤熟以后，掰开露出金黄色的肉，吃起来又甜又软，热乎乎的，可香了！",
+      "story": {
+        "title": "🍠挖红薯",
+        "body": "秋天到了，爸爸带小乐去田里挖红薯。小乐拿着小铲子，顺着藤蔓往下挖，哎呀，一个个胖乎乎的红薯露出来了！小乐捡起一个，擦掉泥土，高兴地说：“这个最大！” 回到家，妈妈把红薯洗干净，放进烤箱。过了一会儿，香味飘满了屋子。小乐等不及，鼓起小嘴吹了吹，小心地咬了一口：“哇，好甜好软呀！” 一家人围坐在一起，吃着热乎乎的红薯，心里也暖暖的。小乐说：“明天我还想去挖红薯！”"
+      },
+      "knowledge": {
+        "title": "吃红薯有什么好处？",
+        "body": "红薯里有很多营养，吃了能让身体变强壮，还能让肚子不饿。红薯的纤维素能帮助便便更轻松，而且烤着吃、蒸着吃、煮粥喝都很美味哟！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_sweet_potato_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_sweet_potato_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Sweet Potato",
+      "aloud": "/swiːt pəˈteɪtoʊ/",
+      "words": "",
+      "intro": "A sweet potato is a vegetable that grows underground. Its skin is brownish-red and a little rough. When roasted, it turns golden and soft inside, and it tastes sweet and warm.",
+      "story": {
+        "title": "🍠 Digging Sweet Potatoes",
+        "body": "In autumn, Dad took Leo to the field to dig sweet potatoes. Leo held a small shovel and dug along the vines. Soon, chubby sweet potatoes popped out of the soil! Leo picked one up, brushed off the dirt, and said, “This one is the biggest!” At home, Mom washed the sweet potatoes and put them in the oven. A little later, a sweet smell filled the house. Leo couldn't wait. He blew on it gently and took a careful bite. “Wow, so sweet and soft!” he said. The whole family sat together, eating warm sweet potatoes, feeling cozy inside. Leo said, “I want to dig sweet potatoes again tomorrow!”"
+      },
+      "knowledge": {
+        "title": "Why is eating sweet potatoes good for you?",
+        "body": "Sweet potatoes are full of good nutrients that make your body strong and keep you full. The fiber in them helps your tummy feel good, and they taste delicious baked, steamed, or in porridge!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_sweet_potato_intro.mp3",
+        "story": "../item-audio/en/vegetable_sweet_potato_story.mp3"
+      }
+    }
+  }
+}

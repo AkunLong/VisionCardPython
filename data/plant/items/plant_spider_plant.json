@@ -1,0 +1,102 @@
+{
+  "id": "plant_spider_plant",
+  "sku_id": "card_plant_spider_plant",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "potted_plant",
+      "color_green"
+    ],
+    "secondary": [
+      "has_leaf",
+      "long_leaf",
+      "at_home"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "herb",
+      "potted_plant"
+    ],
+    "color": [
+      "green",
+      "white",
+      "yellow"
+    ],
+    "size": [
+      "small",
+      "medium"
+    ],
+    "parts": [
+      "leaves",
+      "roots",
+      "stolons",
+      "offsets"
+    ],
+    "scenes": [
+      "home",
+      "garden",
+      "balcony"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "吊兰",
+      "aloud": "diào lán",
+      "words": "spider plant",
+      "intro": "吊兰有长长的绿叶，像绿色的瀑布一样垂下来。它会生出好多小宝宝，挂在妈妈身上，可爱极了。放在家里，空气都变新鲜啦！",
+      "story": {
+        "title": "🌱吊兰的小宝宝",
+        "body": "阳台的花架上，住着一盆吊兰妈妈。她的叶子又绿又长，像一条条绿色的丝带。春天来了，吊兰妈妈长出了细细的走茎，走茎上冒出了一个个小芽。小芽慢慢地长大，变成了小吊兰宝宝。宝宝们有的卷卷叶子，有的伸伸懒腰，可爱极了。小主人朵朵看见了，高兴地说：“小宝宝们真可爱！我要帮你们搬家。”朵朵轻轻地把小宝宝剪下来，种在小小的花盆里，放在窗台上。小宝宝们在新家喝饱了水，晒着太阳，长得可快了。没过多久，小宝宝们也变成了吊兰妈妈，生出了自己的小宝宝。吊兰一家幸福地生活在一起，阳台变成了绿色的瀑布，美丽极了。"
+      },
+      "knowledge": {
+        "title": "吊兰有什么本领？",
+        "body": "吊兰是个空气清洁小能手，它能吸走空气中的脏东西，让家里的空气更清新。它很好养，不怕冷也不怕热，多晒晒太阳就能长出漂亮的长叶子和小宝宝。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_spider_plant_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_spider_plant_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Spider Plant",
+      "aloud": "/ˈspaɪdər plænt/",
+      "words": "",
+      "intro": "The spider plant has long, green leaves that cascade like a green waterfall. It grows little baby plants and makes the air fresh at home. It's so lovely!",
+      "story": {
+        "title": "🌱 The Spider Plant's Babies",
+        "body": "On the balcony stood a potted spider plant mother. Her leaves were long and green, like ribbons. When spring came, the mother grew thin stolons, and on them appeared tiny buds. The buds slowly grew into baby spider plants. Some curled their leaves, some stretched, so cute! Little girl Duo Duo saw them and said, \"How adorable! I'll help you move.\" She carefully cut the babies off and planted them in small pots on the windowsill. The babies drank water, basked in the sun, and grew quickly. Before long, they also became spider plant mothers and had their own babies. The whole spider plant family lived happily together, and the balcony turned into a beautiful green waterfall."
+      },
+      "knowledge": {
+        "title": "What can spider plants do?",
+        "body": "Spider plants are great air cleaners. They absorb pollutants from the air and make indoor air fresher. They are easy to care for and can thrive with just some sunlight, growing pretty long leaves and baby plants."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_spider_plant_intro.mp3",
+        "story": "../item-audio/en/plant_spider_plant_story.mp3"
+      }
+    }
+  }
+}

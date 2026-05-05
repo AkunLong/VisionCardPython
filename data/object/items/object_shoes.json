@@ -1,0 +1,93 @@
+{
+  "id": "object_shoes",
+  "sku_id": "card_object_shoes",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "clothing",
+      "color_red"
+    ],
+    "secondary": [
+      "can_wear",
+      "go_out",
+      "soft"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "red"
+    ],
+    "shape": [
+      "long"
+    ],
+    "material": [
+      "leather",
+      "rubber",
+      "fabric"
+    ],
+    "scenes": [
+      "home",
+      "go_out",
+      "school"
+    ],
+    "function": [
+      "protect_feet",
+      "walk",
+      "wear"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "鞋子",
+      "aloud": "xié zi",
+      "words": "shoe",
+      "intro": "鞋子是我们的好朋友，每天陪着我们走路、跑步、玩耍。它保护我们的小脚丫，不让它们受伤。",
+      "story": {
+        "title": "👟小鞋子的快乐旅程",
+        "body": "有一双红色的小鞋子，它们是乐乐的好伙伴。每天早晨，乐乐起床后，小鞋子就迫不及待地跳到他的脚上。今天乐乐要去公园玩，小鞋子高兴极了。在公园里，它们踩过软软的草地，跳过亮晶晶的水坑，还走过沙沙的沙滩。小鞋子觉得有点累，但是看到乐乐笑得那么开心，它们也觉得好快乐。傍晚回到家，乐乐把小鞋子轻轻放回鞋架。小鞋子靠在一起说：“今天真是美好的一天！”它们闭上眼睛，很快就进入了梦乡，梦里还在和乐乐一起奔跑呢。"
+      },
+      "knowledge": {
+        "title": "鞋子有什么作用？",
+        "body": "鞋子由鞋底、鞋面和鞋带组成。它能保护我们的脚不受伤，让我们走路更舒服。运动时穿运动鞋，下雨天穿雨鞋，不同的鞋子有不同的用处。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_shoes_intro.mp3",
+        "story": "../item-audio/zh-CN/object_shoes_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Shoe",
+      "aloud": "/ʃuː/",
+      "words": "",
+      "intro": "Shoes are our good friends. They go with us every day when we walk, run, and play. They protect our little feet from getting hurt.",
+      "story": {
+        "title": "👟Little Shoes' Happy Journey",
+        "body": "There was a pair of bright red shoes with soft, squishy soles. They were the good friends of their little owner, LeLe. Every morning, after LeLe got up, the shoes couldn't wait to jump onto his feet. Today, LeLe was going to the park, and the shoes were very excited. In the park, they stepped on the soft grass, jumped over shiny puddles, and walked on the sandy beach. The shoes felt a little tired, but seeing LeLe so happy made them feel joyful too. In the evening, LeLe gently put the shoes back on the shoe rack. The shoes leaned against each other and said, 'What a wonderful day!' They closed their eyes and soon fell asleep, dreaming of running with LeLe again."
+      },
+      "knowledge": {
+        "title": "What do shoes do?",
+        "body": "Shoes are made of soles, uppers, and laces. They protect our feet from getting hurt and make walking more comfortable. We wear sports shoes for exercise and rain boots on rainy days. Different shoes have different uses."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_shoes_intro.mp3",
+        "story": "../item-audio/en/object_shoes_story.mp3"
+      }
+    }
+  }
+}

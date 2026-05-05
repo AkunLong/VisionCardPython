@@ -1,0 +1,103 @@
+{
+  "id": "animal_rabbit",
+  "sku_id": "card_animal_rabbit",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "home_animal",
+      "cute"
+    ],
+    "secondary": [
+      "has_fur",
+      "can_jump",
+      "eats_carrot"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal",
+      "pet"
+    ],
+    "color": [
+      "white",
+      "gray",
+      "brown",
+      "black"
+    ],
+    "size": [
+      "small"
+    ],
+    "body": [
+      "fur",
+      "tail",
+      "ears",
+      "whiskers"
+    ],
+    "scenes": [
+      "home",
+      "yard",
+      "grassland"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "jump",
+      "eat"
+    ],
+    "sound": [],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "兔子",
+      "aloud": "tù zi",
+      "words": "rabbit",
+      "intro": "兔子是一种可爱的小动物，身上有软软的毛，长着长长的耳朵和圆圆的短尾巴。小兔子喜欢蹦蹦跳跳，爱吃胡萝卜和青菜。",
+      "story": {
+        "title": "🐰小兔子找胡萝卜",
+        "body": "小兔子白白最喜欢吃胡萝卜了。一天早上，白白发现自己的胡萝卜不见了。它跳到院子里，用鼻子闻了闻，没有找到。它又跑到菜园边，竖起长长的耳朵听，还是没有找到。忽然，白白看见草丛里有个橘红色的尖尖，它开心地跳过去，用小爪子拨开草，果然是一根大胡萝卜。白白咬着胡萝卜，一蹦一跳地回到家里。它把胡萝卜洗干净，坐在小椅子上，嘎吱嘎吱地吃了起来，真甜呀。吃完胡萝卜，白白趴在软软的垫子上，闭上眼睛，美美地睡着了。"
+      },
+      "knowledge": {
+        "title": "兔子的耳朵为什么这么长？",
+        "body": "兔子的长耳朵像两个小雷达，能听到很远很轻的声音，帮助它发现危险。耳朵还能转动方向，听清来自身边的动静。天气热的时候，兔子耳朵还能帮助身体散热，让自己凉快下来。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_rabbit_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_rabbit_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Rabbit",
+      "aloud": "/ˈræbɪt/",
+      "words": "",
+      "intro": "A rabbit is a cute little animal with soft fur, long ears, and a round short tail. Rabbits love to hop around and enjoy eating carrots and greens.",
+      "story": {
+        "title": "🐰The Little Rabbit Finds a Carrot",
+        "body": "Bai Bai the little rabbit loved eating carrots. One morning, Bai Bai found that her carrot was missing. She hopped into the yard and sniffed with her nose, but she couldn’t find it. Then she ran to the garden and listened with her long ears, but still no carrot. Suddenly, Bai Bai saw something orange peeking out from the grass. She happily hopped over and pushed the grass aside with her little paw. It was a big carrot! Bai Bai held the carrot in her mouth and hopped back home. She washed the carrot and sat on her little chair, nibbling it with a crunchy sound. It was so sweet! After finishing the carrot, Bai Bai lay down on her soft cushion, closed her eyes, and fell into a sweet sleep."
+      },
+      "knowledge": {
+        "title": "Why do rabbits have long ears?",
+        "body": "A rabbit's long ears work like little radars. They can hear very soft sounds from far away, which helps the rabbit stay safe from danger. The ears can also turn in different directions to listen carefully. On hot days, the ears help release heat and keep the rabbit cool."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_rabbit_intro.mp3",
+        "story": "../item-audio/en/animal_rabbit_story.mp3"
+      }
+    }
+  }
+}

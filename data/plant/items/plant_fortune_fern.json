@@ -1,0 +1,97 @@
+{
+  "id": "plant_fortune_fern",
+  "sku_id": "card_plant_fortune_fern",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "herb",
+      "color_green"
+    ],
+    "secondary": [
+      "has_leaf",
+      "potted_plant",
+      "at_home"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "herb"
+    ],
+    "color": [
+      "green",
+      "brown"
+    ],
+    "size": [
+      "medium"
+    ],
+    "parts": [
+      "leaves",
+      "stems",
+      "roots"
+    ],
+    "scenes": [
+      "home",
+      "garden"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "富贵蕨",
+      "aloud": "fù guì jué",
+      "words": "fortune fern",
+      "intro": "富贵蕨有绿绿的、像羽毛一样的叶子，很漂亮。它喜欢住在花盆里，乖乖地陪着我们，是我们家的小绿朋友。",
+      "story": {
+        "title": "🌿小蕨蕨的快乐一天",
+        "body": "阳台上有一盆可爱的富贵蕨，小朋友都叫它小蕨蕨。每天早晨，太阳公公一出来，小蕨蕨就张开绿油油的叶子，好像在说：早上好呀！小朋友会给小蕨蕨喝一点点水，水珠在叶子上滚来滚去，亮晶晶的。有时候，微风吹过来，小蕨蕨的叶子轻轻摇摆，像在跳舞。下午，小朋友会和小蕨蕨说悄悄话，告诉它今天看到了什么好玩的东西。小蕨蕨静静地听着，叶子轻轻晃动，好像很开心。晚上，月亮婆婆出来了，小蕨蕨合上一点叶子，乖乖地睡觉了。它梦见自己长得更高了，叶子更漂亮了，小朋友更爱它了。小蕨蕨想：在家里真好呀，我是最幸福的小植物！"
+      },
+      "knowledge": {
+        "title": "富贵蕨有什么好处？",
+        "body": "富贵蕨能让家里的空气变得更干净、更清新。它绿绿的叶子看着很舒服，让眼睛不觉得累，家里也变得更漂亮了。而且它很好养，只要一点点水和光就能快乐生长。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_fortune_fern_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_fortune_fern_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Fortune Fern",
+      "aloud": "/ˈfɔːr.tʃuːn fɜrn/",
+      "words": "",
+      "intro": "Fortune Fern has soft, feathery green leaves. It likes living in a pot and staying indoors with us. It's a lovely green friend at home.",
+      "story": {
+        "title": "🌿 Fortune Fern's Happy Day",
+        "body": "On the balcony, there is a cute Fortune Fern. Everyone calls it Fernie. Every morning, when the sun comes out, Fernie stretches out its green leaves and seems to say: Good morning! A little child gives Fernie a little water. The water drops roll and shine on the leaves like tiny pearls. Sometimes, a gentle breeze comes, and Fernie's leaves sway softly, like a dance. In the afternoon, the child whispers to Fernie, telling it all the fun things seen today. Fernie listens quietly, leaves trembling a little, as if smiling. At night, the moon rises, and Fernie folds its leaves a bit and goes to sleep. It dreams of growing taller, with even prettier leaves, and the child loving it more. Fernie thinks: It's so good to be at home. I am the happiest little plant!"
+      },
+      "knowledge": {
+        "title": "What is Fortune Fern good for?",
+        "body": "Fortune Fern helps make the air indoors cleaner and fresher. Its green leaves are pleasant to look at, so your eyes don't feel tired, and it makes the room prettier. It's also very easy to care for, needing only a little water and light to grow happily."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_fortune_fern_intro.mp3",
+        "story": "../item-audio/en/plant_fortune_fern_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "object_washing_machine",
+  "sku_id": "card_object_washing_machine",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "home_appliance",
+      "color_white"
+    ],
+    "secondary": [
+      "at_home",
+      "can_clean",
+      "safe"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "white",
+      "gray"
+    ],
+    "shape": [
+      "square"
+    ],
+    "material": [
+      "metal",
+      "plastic"
+    ],
+    "scenes": [
+      "home"
+    ],
+    "function": [
+      "clean_clothes"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "洗衣机",
+      "aloud": "xǐ yī jī",
+      "words": "washing machine",
+      "intro": "洗衣机是我们家里的洗衣小帮手。它有一个圆圆的滚筒，把脏衣服放进去，加上洗衣液，按下按钮，它就会咕噜咕噜地转起来，把衣服洗得干干净净。",
+      "story": {
+        "title": "🧺洗衣机的一天",
+        "body": "小明今天在公园玩，衣服上沾满了泥巴和草汁。回到家，妈妈把脏衣服放进洗衣机，说：‘洗衣机，拜托你啦！’洗衣机嗡嗡地回答：‘交给我吧！’它先咕噜咕噜地喝足水，然后慢慢转起圈来。泡沫像云朵一样涌出来，把泥巴和草汁都带走啦。洗完后，洗衣机又飞快地转呀转，把水甩得一滴不剩。小明打开门，哇，衣服变得又干净又清香！他抱抱洗衣机说：‘谢谢你，洗衣机，你真是我的好朋友！’洗衣机心里暖暖的，又等着下一次的冒险。"
+      },
+      "knowledge": {
+        "title": "洗衣机怎样把衣服洗干净？",
+        "body": "洗衣机里有一个滚筒，放进衣服、水和洗衣液，滚筒就会来回转动，让衣服在水中翻滚，把脏东西搓掉。最后，滚筒会转得很快很快，把水甩出去，衣服就变干一些啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_washing_machine_intro.mp3",
+        "story": "../item-audio/zh-CN/object_washing_machine_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Washing Machine",
+      "aloud": "/ˈwɒʃɪŋ məˈʃiːn/",
+      "words": "",
+      "intro": "A washing machine is a helper that cleans our clothes. It has a round drum. We put in dirty clothes, add some soap, press a button, and it spins around and around to make the clothes nice and clean.",
+      "story": {
+        "title": "🧺A Day of the Washing Machine",
+        "body": "Little Ming played in the park and got mud and grass all over his clothes. Back home, his mom put the dirty clothes into the washing machine and said, ‘Washing machine, please help!’ The machine buzzed, ‘Leave it to me!’ First, it gulped water, then started spinning slowly. Bubbles rose like white clouds, carrying away the mud and grass stains. After washing, it spun even faster to shake out every drop of water. When Ming opened the door, wow, the clothes were clean and smelled fresh! He hugged the machine and said, ‘Thank you, washing machine, you’re my good friend!’ The machine felt warm inside and waited for the next adventure."
+      },
+      "knowledge": {
+        "title": "How does a washing machine clean clothes?",
+        "body": "Inside the washing machine is a drum. When we put in clothes, water, and soap, the drum turns back and forth, making the clothes tumble and rub away the dirt. At the end, it spins very fast to throw out the water, so the clothes come out drier."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_washing_machine_intro.mp3",
+        "story": "../item-audio/en/object_washing_machine_story.mp3"
+      }
+    }
+  }
+}

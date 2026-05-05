@@ -1,0 +1,90 @@
+{
+  "id": "vegetable_mung_bean",
+  "sku_id": "card_vegetable_mung_bean",
+  "category": "vegetable",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "vegetable",
+      "color_green",
+      "bean_vegetable"
+    ],
+    "secondary": [
+      "round",
+      "in_soup",
+      "healthy"
+    ]
+  },
+  "attributes": {
+    "object_type": "vegetable",
+    "color": [
+      "green"
+    ],
+    "shape": [
+      "round"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "grow_location": [
+      "field"
+    ],
+    "scenes": [
+      "farm",
+      "kitchen",
+      "supermarket",
+      "on_table"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "绿豆",
+      "aloud": "lǜ dòu",
+      "words": "mung bean",
+      "intro": "绿豆是一种小小的、圆圆的绿色豆子。它可以煮成好喝的绿豆汤，夏天喝了解暑又舒服。",
+      "story": {
+        "title": "🥣小豆子变绿豆汤",
+        "body": "夏天好热呀，小兔子热得直冒汗。妈妈拿出一把小豆子，泡在水里。小兔子好奇地问：这是什么呀？妈妈说：这是绿豆，等它们喝饱水，我们就能煮绿豆汤啦。小兔子守在旁边，看着小绿豆慢慢变胖。然后妈妈把绿豆放进锅里，咕嘟咕嘟煮啊煮。香味飘出来，小兔子吸吸鼻子：好香呀！妈妈舀了两碗，一碗给小兔子，一碗给隔壁的小松鼠。小兔子喝了一口，甜甜的，凉凉的，从嘴巴舒服到肚子。小兔子说：绿豆汤真好喝！以后我也要学会煮，给朋友们喝。"
+      },
+      "knowledge": {
+        "title": "绿豆有什么好处？",
+        "body": "绿豆可以清热解毒，夏天喝绿豆汤能帮助身体降温，不容易中暑。而且绿豆还能做成绿豆芽，炒着吃也很美味哦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/vegetable_mung_bean_intro.mp3",
+        "story": "../item-audio/zh-CN/vegetable_mung_bean_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Mung Bean",
+      "aloud": "/mʌŋ biːn/",
+      "words": "",
+      "intro": "A mung bean is a small, round, green bean. You can cook it into a sweet soup that is perfect for cooling down on a hot summer day.",
+      "story": {
+        "title": "🥣Little Beans Become Soup",
+        "body": "It was a hot summer day, and the little rabbit was sweating. Mama took out a handful of tiny beans and soaked them in water. The rabbit asked, What are these? Mama said, These are mung beans. Once they drink enough water, we can make mung bean soup. The rabbit watched as the beans slowly got bigger and plumper. Then Mama put them into a pot, and they bubbled and boiled. A sweet smell filled the air. Mama poured two bowls, one for the rabbit and one for the little squirrel next door. The rabbit took a sip—sweet and cool, so comforting. The rabbit said, This soup is delicious! I want to learn to make it so I can share it with my friends too."
+      },
+      "knowledge": {
+        "title": "Why are mung beans good for you?",
+        "body": "Mung beans can help cool your body and keep you from feeling too hot in the summer. You can also sprout them into bean sprouts, which are tasty in stir-fries!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/vegetable_mung_bean_intro.mp3",
+        "story": "../item-audio/en/vegetable_mung_bean_story.mp3"
+      }
+    }
+  }
+}

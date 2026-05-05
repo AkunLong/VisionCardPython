@@ -1,0 +1,90 @@
+{
+  "id": "object_alarm_clock",
+  "sku_id": "card_object_alarm_clock",
+  "category": "object",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 2,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "object",
+      "home_appliance",
+      "color_white"
+    ],
+    "secondary": [
+      "at_home",
+      "round",
+      "hard"
+    ]
+  },
+  "attributes": {
+    "object_type": "object",
+    "color": [
+      "white",
+      "black"
+    ],
+    "shape": [
+      "round"
+    ],
+    "material": [
+      "plastic",
+      "metal"
+    ],
+    "scenes": [
+      "home",
+      "school"
+    ],
+    "function": [
+      "wake_up"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "闹钟",
+      "aloud": "nào zhōng",
+      "words": "alarm clock",
+      "intro": "闹钟可以设定时间，到了时间就会‘叮铃铃’地响，提醒我们起床。它小小的，放在床头，是我们的好朋友。",
+      "story": {
+        "title": "⏰闹钟小铃铛",
+        "body": "小明的床头有一个可爱的小闹钟，它圆圆的，身上有两个小铃铛。每天早晨，太阳刚刚露出笑脸，小闹钟就“叮铃铃，叮铃铃”地唱起歌来。可是，小闹钟也有犯困的时候。一天晚上，小闹钟忘记上发条了，早上没有响。小明睡过了头，上幼儿园迟到了。他难过地对小闹钟说：“你为什么不叫我呀？”小闹钟红着脸说：“对不起，我昨晚太累了，睡着了。”小明摸摸它说：“没关系，我们一起记住，每天都要早早睡觉，这样你就不会累了。”从那以后，小闹钟总是准时起床，叫醒小明。"
+      },
+      "knowledge": {
+        "title": "闹钟为什么能叫我们起床？",
+        "body": "闹钟里面有发条或者电池，可以设定时间。到了设定的时间，它就会发出“叮铃铃”的声音，提醒我们该起床啦。有些闹钟还有贪睡功能，按一下按钮，它会过几分钟再响一次。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/object_alarm_clock_intro.mp3",
+        "story": "../item-audio/zh-CN/object_alarm_clock_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Alarm Clock",
+      "aloud": "/əˈlɑːrm klɒk/",
+      "words": "",
+      "intro": "An alarm clock can be set to a time. When it's time, it rings 'ding-a-ling' to wake us up. It sits by our bedside and is our good friend.",
+      "story": {
+        "title": "⏰ The Little Alarm Clock",
+        "body": "Xiao Ming has a cute little alarm clock by his bedside. It is round and has two little bells on top. Every morning, when the sun just peeks out, the little alarm clock sings, 'Ring-a-ling, ring-a-ling.' But one day, the little alarm clock forgot to wind up and didn’t ring in the morning. Xiao Ming overslept and was late for kindergarten. He said sadly, 'Why didn’t you wake me up?' The alarm clock blushed and said, 'Sorry, I was too tired and fell asleep.' Xiao Ming patted it and said, 'It's okay, let's remember to go to bed early every night, then you won't be tired.' From then on, the little alarm clock always woke up on time and called Xiao Ming."
+      },
+      "knowledge": {
+        "title": "How does an alarm clock wake us up?",
+        "body": "An alarm clock has a spring or battery inside. You can set a time, and when it's time, it makes a loud sound like 'ring ring' to wake you up. Some alarm clocks have a snooze button; if you press it, the alarm will ring again in a few minutes."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/object_alarm_clock_intro.mp3",
+        "story": "../item-audio/en/object_alarm_clock_story.mp3"
+      }
+    }
+  }
+}

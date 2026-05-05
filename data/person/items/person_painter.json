@@ -1,0 +1,92 @@
+{
+  "id": "person_painter",
+  "sku_id": "card_person_painter",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "at_workplace"
+    ],
+    "secondary": [
+      "adult",
+      "create_art",
+      "art_job"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "painter"
+    ],
+    "workplace": [
+      "art studio",
+      "home"
+    ],
+    "tools": [
+      "paintbrush",
+      "palette",
+      "canvas"
+    ],
+    "clothing": [
+      "apron"
+    ],
+    "actions": [
+      "paint",
+      "draw",
+      "create"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "画家",
+      "aloud": "huà jiā",
+      "words": "painter",
+      "intro": "画家是用画笔和颜料画出漂亮图画的人。他们能画出小花、小动物，还有美丽的风景，让我们的世界变得更美。",
+      "story": {
+        "title": "🎨小猫咪的第一幅画",
+        "body": "小猫咪看到墙上挂着一幅美丽的画，有蓝蓝的天空和金色的太阳。妈妈说：这是画家叔叔画的。小猫咪好羡慕，它也想当画家。妈妈带它去画室，画家叔叔穿着花围裙，笑眯眯地递来一支小画笔。小猫咪在画布上涂涂抹抹，画了一朵歪歪扭扭的小花。画家叔叔说：真棒！你再画几只小蝴蝶吧。小猫咪开心地画呀画，最后一幅五颜六色的画完成了。它把画挂在家里，每天看到都很快乐。它说：我长大也要当一个让大家都开心的画家！"
+      },
+      "knowledge": {
+        "title": "画家怎么画画的？",
+        "body": "画家先用铅笔轻轻画出轮廓，再用画笔蘸颜料涂色。调色板上有好多颜色，像彩虹一样。画布就像一张大纸，可以画大大的画。有的画家站着画，有的坐着画，可认真啦！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_painter_intro.mp3",
+        "story": "../item-audio/zh-CN/person_painter_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Painter",
+      "aloud": "/ˈpeɪntər/",
+      "words": "",
+      "intro": "A painter is someone who uses brushes and paints to create beautiful pictures. They can paint flowers, animals, and lovely scenery, making our world more colorful.",
+      "story": {
+        "title": "🎨The Little Cat's First Painting",
+        "body": "The little cat saw a beautiful painting on the wall with a blue sky and a golden sun. Mama said, 'The painter uncle made that.' The little cat wished it could be a painter too. Mama took it to the art studio. The painter uncle wore a colorful apron and smiled, handing over a little brush. The little cat dabbled and doodled on the canvas, drawing a wobbly little flower. The painter uncle said, 'Wonderful! Now try a few butterflies.' The little cat happily painted away, and soon a colorful picture was done. It hung the painting at home and felt happy every time it looked at it. It said, 'When I grow up, I want to be a painter who makes everyone happy!'"
+      },
+      "knowledge": {
+        "title": "How do painters paint?",
+        "body": "Painters first lightly sketch an outline with a pencil, then use brushes to apply paint. The palette has many colors, just like a rainbow. A canvas is like a big piece of paper for big paintings. Some painters stand, some sit, and they work very carefully!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_painter_intro.mp3",
+        "story": "../item-audio/en/person_painter_story.mp3"
+      }
+    }
+  }
+}

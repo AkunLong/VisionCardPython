@@ -1,0 +1,93 @@
+{
+  "id": "person_barber",
+  "sku_id": "card_person_barber",
+  "category": "person",
+  "age_range": {
+    "min": 2,
+    "max": 4
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "person",
+      "job",
+      "in_shop"
+    ],
+    "secondary": [
+      "adult",
+      "life_service",
+      "take_care"
+    ]
+  },
+  "attributes": {
+    "object_type": "person",
+    "role": [
+      "barber"
+    ],
+    "workplace": [
+      "barbershop",
+      "salon"
+    ],
+    "tools": [
+      "scissors",
+      "comb",
+      "hair_clipper"
+    ],
+    "clothing": [
+      "apron"
+    ],
+    "actions": [
+      "cut",
+      "style",
+      "wash",
+      "trim"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "理发师",
+      "aloud": "lǐ fà shī",
+      "words": "barber",
+      "intro": "理发师是帮我们剪头发、做漂亮发型的人。小朋友头发长了，理发师会给我们剪得又整齐又好看。",
+      "story": {
+        "title": "✂️小绵羊剪头发",
+        "body": "小绵羊毛毛的头发长得太长了，都遮住眼睛了。妈妈笑着说：我们去理发店找理发师吧。到了理发店，长颈鹿理发师系着彩色围裙，笑眯眯地欢迎它们。理发师给小绵羊围上柔软的围布，拿起梳子和剪刀，咔嚓咔嚓地剪起来。小绵羊有点紧张，缩了缩脖子。理发师温柔地说：别怕，很快你就有个漂亮的新发型了。剪完头发，理发师又用吹风机轻轻吹了吹，拿出镜子给小绵羊看。哇，头发整齐又精神！小绵羊开心地照来照去，对妈妈说：理发师叔叔真厉害！我们下次还要来。"
+      },
+      "knowledge": {
+        "title": "理发师用什么工具？",
+        "body": "理发师有好几样好帮手：剪刀咔嚓咔嚓剪头发，梳子把头发梳整齐，电推剪嗡嗡响，可以推短头发。还有吹风机，把头发吹干吹蓬松。现在理发店还有烫发棒和染发膏，能做出更多漂亮发型呢。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/person_barber_intro.mp3",
+        "story": "../item-audio/zh-CN/person_barber_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Barber",
+      "aloud": "/ˈbɑːrbər/",
+      "words": "",
+      "intro": "A barber is someone who cuts our hair and makes it look nice. When your hair gets too long, a barber can help you get a neat and tidy haircut.",
+      "story": {
+        "title": "✂️The Little Sheep Gets a Haircut",
+        "body": "The little sheep's woolly hair had grown too long, covering its eyes. Mama said with a smile, Let's go see the barber. At the barber shop, the giraffe barber wore a colorful apron and welcomed them warmly. The barber put a soft cape around the little sheep, took a comb and scissors, and began snipping away. The little sheep felt a bit nervous and shrank its neck, but the barber said gently, Don't worry, you'll have a nice new haircut soon. After cutting, the barber used a hairdryer to blow gently, then held up a mirror. Wow, neat and fresh! The little sheep looked in the mirror happily and said to Mama, The barber is amazing! We must come again."
+      },
+      "knowledge": {
+        "title": "What tools do barbers use?",
+        "body": "Barbers have several helpful tools: scissors go snip snip to cut the hair, combs make it tidy, and electric clippers buzz to trim hair short. There is also a hairdryer to blow hair dry and fluffy. Nowadays, there are curling irons and hair dye too, for even more beautiful styles."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/person_barber_intro.mp3",
+        "story": "../item-audio/en/person_barber_story.mp3"
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "fruit_mulberry",
+  "sku_id": "card_fruit_mulberry",
+  "category": "fruit",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "color_purple",
+      "plant",
+      "edible"
+    ],
+    "secondary": [
+      "small",
+      "soft",
+      "tree_fruit"
+    ]
+  },
+  "attributes": {
+    "object_type": "fruit",
+    "color": [
+      "purple"
+    ],
+    "shape": [
+      "small"
+    ],
+    "taste": [
+      "sweet",
+      "slightly sour"
+    ],
+    "scenes": [
+      "tree",
+      "orchard",
+      "farm"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "桑葚",
+      "aloud": "sāng shèn",
+      "words": "mulberry",
+      "intro": "桑葚是一种长在树上的小果子，成熟后变成紫黑色，味道甜甜软软。它很有营养，小朋友可以放心吃。",
+      "story": {
+        "title": "🐿️小松鼠的桑葚树",
+        "body": "小松鼠家的后面有一棵老桑树。春天来了，桑树上开出了不起眼的小花。夏天一到，树枝上挂满了一条条毛毛虫一样的小果子。它们先是青青的，然后慢慢变红，最后变成深紫色，亮晶晶的。小松鼠摘下一颗，放进嘴里说：“哇，好甜呀，软软的，一抿就化开了！”它高兴地叫来好朋友小刺猬和小兔子。大家轻轻地摘桑葚，小心地放在树叶小碗里。小松鼠说：“变紫变黑才是熟透的，这样才最甜。”大家一边吃一边笑，嘴巴和爪爪都染上了紫色，变成了可爱的小花猫。树上的小鸟看到，也叽叽喳喳地唱起歌来。"
+      },
+      "knowledge": {
+        "title": "桑葚是长在哪里的？",
+        "body": "桑葚长在桑树上。春天开花，夏天果实成熟，颜色从绿变红再到紫黑色。只有变成深色的桑葚才最甜最好吃，绿色的桑葚不能吃哦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/fruit_mulberry_intro.mp3",
+        "story": "../item-audio/zh-CN/fruit_mulberry_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Mulberry",
+      "aloud": "/ˈmʌlbəri/",
+      "words": "",
+      "intro": "A mulberry is a small fruit that grows on trees. When ripe, it turns dark purple and tastes sweet and soft. It's nutritious and safe for kids to eat.",
+      "story": {
+        "title": "🐿️Little Squirrel's Mulberry Tree",
+        "body": "Behind little squirrel's house stood an old mulberry tree. In spring, tiny flowers bloomed on the branches. When summer came, the branches were covered with little fruits that looked like fuzzy caterpillars. At first they were green, then slowly turned red, and finally became shiny deep purple. Little squirrel picked one, put it in its mouth, and said, “Wow, so sweet and soft, it just melts!” It happily called its friends, little hedgehog and little rabbit. They gently picked mulberries and put them in little leaf bowls. Little squirrel said, “Only the dark purple ones are ripe and sweetest.” They ate and laughed, their mouths and paws stained purple, looking like cute little kittens. The birds in the tree saw them and chirped a cheerful song."
+      },
+      "knowledge": {
+        "title": "Where do mulberries grow?",
+        "body": "Mulberries grow on trees. They bloom in spring and ripen in summer, turning from green to red and then dark purple. Only the dark ones are sweet and ready to eat. Green mulberries should not be eaten."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/fruit_mulberry_intro.mp3",
+        "story": "../item-audio/en/fruit_mulberry_story.mp3"
+      }
+    }
+  }
+}

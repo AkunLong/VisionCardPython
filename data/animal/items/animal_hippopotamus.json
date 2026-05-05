@@ -1,0 +1,99 @@
+{
+  "id": "animal_hippopotamus",
+  "sku_id": "card_animal_hippopotamus",
+  "category": "animal",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "animal",
+      "river_animal",
+      "big"
+    ],
+    "secondary": [
+      "can_swim",
+      "has_tail",
+      "color_gray"
+    ]
+  },
+  "attributes": {
+    "object_type": "animal",
+    "animal_type": [
+      "mammal"
+    ],
+    "color": [
+      "gray"
+    ],
+    "size": [
+      "big"
+    ],
+    "body": [
+      "tail",
+      "mouth",
+      "skin"
+    ],
+    "scenes": [
+      "river",
+      "lake",
+      "grassland"
+    ],
+    "actions": [
+      "walk",
+      "run",
+      "swim"
+    ],
+    "sound": [
+      "roar"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "河马",
+      "aloud": "hé mǎ",
+      "words": "hippo",
+      "intro": "河马是一种胖胖的大动物，住在河边和湖里。它有大大的嘴巴、小小的耳朵和短短的小尾巴。河马喜欢在水里泡着，也喜欢在岸上吃草。",
+      "story": {
+        "title": "🦛小河马学游泳",
+        "body": "小河马胖胖最喜欢在水里玩。一天，天气很热，胖胖和妈妈走到小河边。胖胖看着水，有点害怕。妈妈说：“别怕，慢慢来。”胖胖把一只脚伸进水里，凉凉的，真舒服。然后它又伸进另一只脚，慢慢地走到水里。水刚刚没过它的腿，胖胖觉得好凉快。突然，它不小心踩到一块滑滑的石头，扑通一声坐到了水里。胖胖吓了一大跳，可是妈妈在旁边笑着说：“看，你已经在游泳啦！”胖胖发现水很软，自己浮了起来。它高兴地用小短腿划水，还拍起一片小水花。胖胖游来游去，开心极了。太阳下山的时候，胖胖才和妈妈一起慢慢走上岸。"
+      },
+      "knowledge": {
+        "title": "河马为什么喜欢待在水里？",
+        "body": "河马喜欢待在水里，因为水可以帮助它保持身体凉爽，还能支撑它胖胖的身体。河马的皮肤很怕干，长时间离开水会裂开。所以河马白天大多泡在水里，晚上才上岸吃草。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/animal_hippopotamus_intro.mp3",
+        "story": "../item-audio/zh-CN/animal_hippopotamus_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Hippo",
+      "aloud": "/ˈhɪpoʊ/",
+      "words": "",
+      "intro": "A hippo is a big animal that lives near rivers and lakes. It has a huge mouth, small ears, and a short tail. Hippos love to stay in the water and eat grass.",
+      "story": {
+        "title": "🦛The Little Hippo Learns to Swim",
+        "body": "Pangpang the little hippo loved playing in the water. One hot day, Pangpang went to the river with his mom. Pangpang looked at the water and felt a little scared. Mom said, 'Don't be afraid. Take it slow.' Pangpang put one foot in the water. It felt cool and nice. Then he put in the other foot and walked slowly into the river. The water was just up to his legs, and Pangpang felt very cool. Suddenly, he slipped on a smooth stone and plopped down into the water. Pangpang was surprised, but Mom smiled and said, 'Look, you're already swimming!' Pangpang felt the water holding him up. He paddled with his short legs and splashed a little. Pangpang swam here and there, very happy. When the sun went down, Pangpang and Mom walked slowly back onto the bank."
+      },
+      "knowledge": {
+        "title": "Why do hippos like to stay in the water?",
+        "body": "Hippos like to stay in the water because it helps keep their bodies cool and supports their heavy weight. Their skin can get dry and crack if they stay out of water for too long. So hippos spend most of the day in rivers or lakes and come out at night to eat grass."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/animal_hippopotamus_intro.mp3",
+        "story": "../item-audio/en/animal_hippopotamus_story.mp3"
+      }
+    }
+  }
+}

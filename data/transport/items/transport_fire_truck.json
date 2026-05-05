@@ -1,0 +1,95 @@
+{
+  "id": "transport_fire_truck",
+  "sku_id": "card_transport_fire_truck",
+  "category": "transport",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "transport",
+      "special_vehicle",
+      "on_road"
+    ],
+    "secondary": [
+      "has_siren",
+      "can_rescue",
+      "big"
+    ]
+  },
+  "attributes": {
+    "object_type": "transport",
+    "transport_type": [
+      "fire_truck"
+    ],
+    "color": [
+      "red",
+      "white"
+    ],
+    "size": [
+      "big"
+    ],
+    "scenes": [
+      "road",
+      "city",
+      "fire_station"
+    ],
+    "fuel": [
+      "diesel"
+    ],
+    "features": [
+      "siren",
+      "ladder",
+      "wheels"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "消防车",
+      "aloud": "xiāo fáng chē",
+      "words": "fire truck",
+      "intro": "消防车是一种特别的红色大车，车上有长长的梯子和大大的水管。它的叫声很响亮，呜呜呜地响，大家听到都会让路。消防员叔叔开着它去救火，保护大家的安全。",
+      "story": {
+        "title": "🚒红色英雄的一天",
+        "body": "早上，消防车小红在消防站里休息。突然，警报响了！原来是森林里有个大树被闪电击中，着火了。小红和消防员们赶紧穿上装备，呜——呜——地冲出去。路上，所有的车都让开，因为小红要去救人。到了森林，火好大啊！小红伸出长长的梯子，消防员叔叔拿着水管，对准火苗滋滋滋地喷水。小红的水力很大，很快火就小了。突然，一只小猫困在树上不敢下来，小红又把梯子升得高高的，一个消防员爬上去，轻轻地把小猫抱下来。小猫的主人流着泪说谢谢。天快黑的时候，火终于全灭了。小红累得轮子都软了，但心里甜滋滋的。回到消防站，大家给小红洗了澡，夸它真棒。小红说：“保护大家是我最开心的事！”然后，它安静地睡着了，梦里还在跑呢。"
+      },
+      "knowledge": {
+        "title": "消防车为什么是红色的？",
+        "body": "消防车通常是红色的，因为红色很显眼，在很远的地方就能看到，提醒大家注意安全，及时让路。红色也代表紧急和勇敢，就像消防员叔叔一样！"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/transport_fire_truck_intro.mp3",
+        "story": "../item-audio/zh-CN/transport_fire_truck_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Fire Truck",
+      "aloud": "/ˈfaɪər trʌk/",
+      "words": "",
+      "intro": "A fire truck is a special big red truck with a long ladder and a big water hose. It makes a loud siren sound, woo-woo-woo, so everyone moves out of the way. Firefighters drive it to put out fires and keep us safe.",
+      "story": {
+        "title": "🚒The Red Hero's Day",
+        "body": "In the morning, the little red fire truck named Red was resting at the fire station. Suddenly, the alarm rang! A tree in the forest had been struck by lightning and was on fire. Red and the firefighters quickly put on their gear and rushed out with sirens wailing, woo-woo-woo! On the road, all the cars moved aside because Red was on a rescue mission. When they reached the forest, the fire was huge! Red stretched out its long ladder, and the firefighters aimed their hoses at the flames, spraying water with a hiss. Red's water power was strong, and soon the fire got smaller. Just then, a little kitten was stuck high up in a tree, too scared to come down. Red raised its ladder even higher, and a firefighter climbed up and gently carried the kitten down. The kitten's owner thanked them with tears. By dusk, the fire was completely out. Red was so tired its wheels felt wobbly, but its heart was full of joy. Back at the station, everyone washed Red and said it was a hero. Red said, \"Keeping everyone safe is my happiest job!\" Then it fell asleep quietly, dreaming of running again."
+      },
+      "knowledge": {
+        "title": "Why are fire trucks red?",
+        "body": "Fire trucks are usually red because red is very bright and easy to see from far away. It warns people to stay safe and make way quickly. Red also stands for emergency and bravery, just like firefighters!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/transport_fire_truck_intro.mp3",
+        "story": "../item-audio/en/transport_fire_truck_story.mp3"
+      }
+    }
+  }
+}

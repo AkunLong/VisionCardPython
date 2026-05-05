@@ -1,0 +1,100 @@
+{
+  "id": "plant_hypericum",
+  "sku_id": "card_plant_hypericum",
+  "category": "plant",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "plant",
+      "flower",
+      "color_yellow"
+    ],
+    "secondary": [
+      "has_leaf",
+      "small_leaf",
+      "in_garden"
+    ]
+  },
+  "attributes": {
+    "object_type": "plant",
+    "plant_type": [
+      "shrub"
+    ],
+    "color": [
+      "green",
+      "yellow"
+    ],
+    "size": [
+      "small",
+      "medium"
+    ],
+    "parts": [
+      "roots",
+      "stems",
+      "leaves",
+      "flowers",
+      "fruits"
+    ],
+    "scenes": [
+      "garden",
+      "park",
+      "roadside"
+    ],
+    "season": [
+      "spring",
+      "summer",
+      "autumn"
+    ],
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "金丝桃",
+      "aloud": "jīn sī táo",
+      "words": "st. john's wort",
+      "intro": "金丝桃开满了金黄色的花朵，像一个个小太阳。它的叶子小小的，绿绿的，非常可爱。它喜欢住在花园里，给人们带来快乐。",
+      "story": {
+        "title": "🌟金丝桃的小太阳",
+        "body": "春天来了，花园里的金丝桃醒了。它伸伸枝条，长出好多嫩绿的小叶子。没过多久，枝条上冒出许多小花苞，像害羞的小宝宝。夏天到了，花苞一下子全开了！金黄色的花朵像一个个小太阳，闪闪发光。一只小蝴蝶飞过来，停在花朵上，轻轻地说：“金丝桃，你的花真美呀，我可以和你做朋友吗？”金丝桃开心地点点头。小蝴蝶每天在花丛中跳舞，金丝桃也努力开出更多的花。路过的小朋友看见了，高兴地说：“妈妈快看，好多小太阳！”金丝桃听了，心里暖暖的，觉得自己是世界上最幸福的花了。"
+      },
+      "knowledge": {
+        "title": "金丝桃的小秘密",
+        "body": "金丝桃喜欢阳光，花朵像金黄色的星星。它的叶子小小的，绿绿的，还能结出小果子。金丝桃不仅好看，还能吸引蝴蝶和蜜蜂来玩耍。它不怕热，夏天开得最欢快。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/plant_hypericum_intro.mp3",
+        "story": "../item-audio/zh-CN/plant_hypericum_story.mp3"
+      }
+    },
+    "en": {
+      "name": "St. John's Wort",
+      "aloud": "/seɪnt ˈdʒɒnz wɜːrt/",
+      "words": "",
+      "intro": "St. John's Wort has lots of golden-yellow flowers, like little suns. Its leaves are small and green, very cute. It loves living in gardens and brings joy to everyone.",
+      "story": {
+        "title": "🌟Little Suns of St. John's Wort",
+        "body": "Spring came, and the St. John's Wort in the garden woke up. It stretched its branches and grew many tender green leaves. Soon, little flower buds appeared on the branches, like shy babies. When summer arrived, the buds all opened at once! The golden-yellow flowers looked like tiny suns, shining brightly. A little butterfly flew over, landed on a flower, and said softly, \"St. John's Wort, your flowers are so beautiful. Can I be your friend?\" The plant nodded happily. The butterfly danced among the flowers every day, and St. John's Wort bloomed even more. A passing child saw them and said, \"Mom, look, so many little suns!\" The plant felt warm inside, thinking it was the happiest flower in the world."
+      },
+      "knowledge": {
+        "title": "Secrets of St. John's Wort",
+        "body": "St. John's Wort loves sunshine. Its flowers look like golden stars. The leaves are small and green, and it can grow little fruits. It not only looks pretty, but also attracts butterflies and bees. It loves summer and blooms the happiest when it's hot."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/plant_hypericum_intro.mp3",
+        "story": "../item-audio/en/plant_hypericum_story.mp3"
+      }
+    }
+  }
+}

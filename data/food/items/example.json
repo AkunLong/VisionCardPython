@@ -1,0 +1,96 @@
+{
+  "_基本字段配置": "↓",
+  "id": "food_rice",
+  "sku_id": "card_food_rice",
+  "category": "food",
+  "_年龄及难度": "↓",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "_图片链接信息": "↓",
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "_标签信息": "↓",
+  "tags": {
+    "primary": [
+      "staple_food",
+      "color_white",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "at_meal",
+      "hot_food"
+    ]
+  },
+  "_属性信息": "↓",
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "staple"
+    ],
+    "color": [
+      "white"
+    ],
+    "taste": [
+      "mild"
+    ],
+    "temperature": [
+      "hot",
+      "warm"
+    ],
+    "scenes": [
+      "home",
+      "restaurant",
+      "school"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "_核心内容字段": "↓",
+  "content": {
+    "zh-CN": {
+      "name": "米饭",
+      "aloud": "mǐ fàn",
+      "words": "rice",
+      "intro": "米饭是我们每天都会吃的主食，白白的、软软的，闻起来香香的。它是用大米煮出来的，能给我们满满的力气。",
+      "story": {
+        "title": "🍚一粒米的故事",
+        "body": "小明今天吃晚饭的时候，碗里剩了好几粒米饭。奶奶看见了，笑着说：小明，你知道一粒米是怎么来的吗？小明摇摇头。奶奶说：春天的时候，农民伯伯把种子播到田里，然后要灌水、施肥、除草。太阳晒呀晒，雨水浇呀浇，小苗慢慢长高了。等到秋天，稻穗变黄了，农民伯伯才把稻谷收回来，晾干、脱壳，才变成白白的大米。小明听了，赶紧把碗里的米饭吃得干干净净，说：每一粒米都好辛苦呀，我再也不浪费了！"
+      },
+      "knowledge": {
+        "title": "米饭是怎么做出来的？",
+        "body": "把大米洗干净，放到锅里，加上适量的水，煮一段时间后，大米就会吸饱水变得又软又香，这就是我们吃的米饭啦。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_rice_intro.mp3",
+        "story": "../item-audio/zh-CN/food_rice_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Rice",
+      "aloud": "/raɪs/",
+      "words": "",
+      "intro": "Rice is a staple food we eat every day. It's white, soft, and smells wonderful. It's made by cooking rice grains, and it gives us lots of energy.",
+      "story": {
+        "title": "🍚The Story of a Grain of Rice",
+        "body": "At dinner, Xiao Ming left several grains of rice in his bowl. Grandma saw this and smiled, saying, Xiao Ming, do you know how a grain of rice gets here? Xiao Ming shook his head. Grandma said, In spring, farmers plant seeds in the fields, then add water, fertilizer, and pull out weeds. The sun shines, the rain waters, and the little seedlings slowly grow tall. By autumn, the rice stalks turn golden, and farmers harvest the grain, dry it, and remove the husks to turn it into white rice. Xiao Ming listened, then quickly finished every grain in his bowl and said, Every grain of rice takes so much hard work! I'll never waste rice again!"
+      },
+      "knowledge": {
+        "title": "How is cooked rice made?",
+        "body": "Wash the rice, put it in a pot, add the right amount of water, and cook it for a while. The rice grains will soak up the water and become soft and fragrant — that's the cooked rice we eat!"
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_rice_intro.mp3",
+        "story": "../item-audio/en/food_rice_story.mp3"
+      }
+    }
+  }
+}

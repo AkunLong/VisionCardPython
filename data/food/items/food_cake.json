@@ -1,0 +1,90 @@
+{
+  "id": "food_cake",
+  "sku_id": "card_food_cake",
+  "category": "food",
+  "age_range": {
+    "min": 2,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "dessert",
+      "sweet",
+      "edible"
+    ],
+    "secondary": [
+      "soft",
+      "at_party",
+      "at_snack_time"
+    ]
+  },
+  "attributes": {
+    "object_type": "food",
+    "food_type": [
+      "dessert"
+    ],
+    "color": [
+      "yellow"
+    ],
+    "taste": [
+      "sweet"
+    ],
+    "temperature": [
+      "warm",
+      "cold"
+    ],
+    "scenes": [
+      "home",
+      "party",
+      "restaurant"
+    ],
+    "is_edible": true,
+    "is_drinkable": false,
+    "is_playable": false
+  },
+  "content": {
+    "zh-CN": {
+      "name": "蛋糕",
+      "aloud": "dàn gāo",
+      "words": "cake",
+      "intro": "蛋糕是甜甜的、软软的甜点，上面常常有奶油和水果。生日的时候我们会吃蛋糕，点上蜡烛，一起唱生日快乐歌。",
+      "story": {
+        "title": "🎂分享的蛋糕",
+        "body": "小明今天参加好朋友小亮的生日派对。桌上摆着一个漂亮的大蛋糕，上面有白白的奶油和红红的草莓。小亮吹蜡烛的时候，大家都拍手欢呼。妈妈把蛋糕切成一块块的，分给每个小朋友。小明吃了一口，蛋糕软软的、甜甜的，真好吃！可是小云不小心把自己的那块蛋糕弄掉在地上了，她哭了起来。小明看了看自己盘子里的蛋糕，走上前说：“小云，别哭，我把我的蛋糕分给你一半。”说着，他用小叉子把蛋糕分成两半，给了小云一份。小云笑了，两个小朋友一起开心地吃蛋糕。大家说，分享的蛋糕最好吃！"
+      },
+      "knowledge": {
+        "title": "蛋糕是怎么做的？",
+        "body": "蛋糕是用面粉、鸡蛋、糖和牛奶混合在一起，放进烤箱烤出来的。烤好之后，可以在上面抹奶油、放水果，做成各种漂亮的样子。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/food_cake_intro.mp3",
+        "story": "../item-audio/zh-CN/food_cake_story.mp3"
+      }
+    },
+    "en": {
+      "name": "Cake",
+      "aloud": "/keɪk/",
+      "words": "",
+      "intro": "Cake is a sweet, soft dessert, often with cream and fruit on top. We eat cake on birthdays, light candles, and sing the happy birthday song together.",
+      "story": {
+        "title": "🎂Sharing the Cake",
+        "body": "Xiao Ming went to his good friend Xiao Liang's birthday party. On the table was a beautiful big cake, with white cream and red strawberries on top. When Xiao Liang blew out the candles, everyone clapped and cheered. Mom cut the cake into pieces and gave one to each child. Xiao Ming took a bite — the cake was soft and sweet, so delicious! But Xiao Yun accidentally dropped her piece of cake on the floor, and she started to cry. Xiao Ming looked at the cake on his plate, then went up and said, 'Xiao Yun, don't cry. I'll share my cake with you.' He used his little fork to cut his cake in half and gave one half to Xiao Yun. Xiao Yun smiled, and the two children happily ate cake together. Everyone said, 'Shared cake tastes the best!'"
+      },
+      "knowledge": {
+        "title": "How is cake made?",
+        "body": "Cake is made by mixing flour, eggs, sugar, and milk together, then baking it in an oven. After baking, you can spread cream and put fruit on top to make it look beautiful."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/food_cake_intro.mp3",
+        "story": "../item-audio/en/food_cake_story.mp3"
+      }
+    }
+  }
+}

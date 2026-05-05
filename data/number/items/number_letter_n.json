@@ -1,0 +1,76 @@
+{
+  "id": "number_letter_n",
+  "sku_id": "card_number_n",
+  "category": "number",
+  "age_range": {
+    "min": 1,
+    "max": 3
+  },
+  "difficulty": 1,
+  "media": {
+    "main_image": "",
+    "story_image": "",
+    "knowledge_image": "",
+    "thumbnail": ""
+  },
+  "tags": {
+    "primary": [
+      "letter",
+      "uppercase_letter",
+      "consonant_letter"
+    ],
+    "secondary": [
+      "alphabet_order",
+      "easy_level",
+      "first_learning"
+    ]
+  },
+  "attributes": {
+    "object_type": "number",
+    "value": 14,
+    "is_even": true,
+    "is_prime": false,
+    "ordinal": "14th",
+    "is_edible": false,
+    "is_drinkable": false,
+    "is_playable": true
+  },
+  "content": {
+    "zh-CN": {
+      "name": "字母N",
+      "aloud": "ēn",
+      "words": "nest",
+      "intro": "字母N是英语字母表里的第十四个字母。它像一个小滑梯，也像两扇小门。我们经常在数字和单词里看到它！",
+      "story": {
+        "title": "🔤字母N的冒险",
+        "body": "字母N是个爱探险的字母。它长着两条长长的腿，中间连着一道斜斜的滑梯。有一天，N走到花园里，看到小鸟在鸟巢（NEST）里唱歌，鼻子（NOSE）闻到花香。它开心地跳起来，说：“我的名字叫N，发‘嗯’的音！”小朋友们，伸出小手画一画：先写一竖，再写一斜，最后又是一竖。N真有趣，我们一起念：N, N, N！"
+      },
+      "knowledge": {
+        "title": "字母N在字母表中排第几？",
+        "body": "英语字母表有26个字母，N是第14个，正好在中间。它是个辅音字母，很多单词都有它，比如鼻子nose和小网net。"
+      },
+      "audio_url": {
+        "intro": "../item-audio/zh-CN/number_letter_n_intro.mp3",
+        "story": "../item-audio/zh-CN/number_letter_n_story.mp3"
+      }
+    },
+    "en": {
+      "name": "N",
+      "aloud": "/en/",
+      "words": "",
+      "intro": "The letter N is the fourteenth letter in the alphabet. It looks like a little slide or two small doors. We can see it in numbers and words!",
+      "story": {
+        "title": "🔤The Adventure of Letter N",
+        "body": "Letter N is an adventurous letter. It has two long legs with a diagonal slide in the middle. One day, N went to the garden and saw birds singing in a NEST, and its NOSE smelled flowers. It jumped happily and said, 'My name is N, pronounced /en/!' Children, stretch out your little hands and draw: first a vertical line, then a diagonal, then another vertical line. N is so fun! Let's say together: N, N, N!"
+      },
+      "knowledge": {
+        "title": "Where is N in the alphabet?",
+        "body": "The English alphabet has 26 letters, and N is the 14th, right in the middle. It's a consonant, and many words have it, like nose and net."
+      },
+      "audio_url": {
+        "intro": "../item-audio/en/number_letter_n_intro.mp3",
+        "story": "../item-audio/en/number_letter_n_story.mp3"
+      }
+    }
+  }
+}
