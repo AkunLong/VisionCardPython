@@ -5,21 +5,21 @@
   "description": "适合3-6岁儿童的日常物品认知顺序，优先展示生活中高频接触、容易识别、与吃饭喝水、穿戴出行、学习绘画和家庭生活相关的物品。",
   "nav": {
     "id": "object",
-    "name": "日常物品图卡合集",
-    "description": "45种常见日常物品认知卡",
+    "name": {"zh-CN": "日常物品图卡合集", "en": "Objects Cards"},
+    "description": {"zh-CN": "45种常见日常物品认知卡", "en": "45 Object Cards"},
     "available": true,
     "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/object/images/story/object_hair_dryer_story.jpg",
     "title": {
         "zh-CN": "家里的小世界，样样都有趣",
-        "en": "The Wonder of Everyday Things"
+        "en": "My Everyday Things"
       },
       "subtitle": {
         "zh-CN": "找一找身边的宝贝",
-        "en": "Find the Extraordinary in the Ordinary"
+        "en": "Find the Magic"
       },
       "small_title": {
         "zh-CN": "牙刷杯子、画画的铅笔、会转的洗衣机，都有故事",
-        "en": "Toothbrushes, pencils, washing machines — every object has a story"
+        "en": "Pencils, brushes & more"
       },
       "background_color_image":"#E37299",
       "background_color_card":"#E56C97"

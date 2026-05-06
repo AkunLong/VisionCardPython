@@ -5,21 +5,21 @@
   "description": "适合3-6岁儿童的交通工具认知顺序，优先展示生活中常见、易识别、高频出现的交通工具，再逐步扩展到公共交通、特种车辆、工程车辆、水上交通、空中交通和交通安全相关物品。",
   "nav": {
     "id": "transport",
-    "name": "交通工具图卡合集",
-    "description": "45种常见交通工具认知卡",
+    "name": {"zh-CN": "交通工具图卡合集", "en": "Transport Cards"},
+    "description": {"zh-CN": "45种常见交通工具认知卡", "en": "45 Transport Cards"},
     "available": true,
     "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/transport/images/story/transport_excavator_story.jpg",
     "title": {
         "zh-CN": "出发吧，世界那么大",
-        "en": "All Aboard! The World Awaits"
+        "en": "Ready, Let's Go!"
       },
       "subtitle": {
         "zh-CN": "坐上各种车船飞机",
-        "en": "Ride, Sail, and Soar"
+        "en": "Ride & Soar"
       },
       "small_title": {
         "zh-CN": "呜呜的火车，嗡嗡的飞机，轰隆隆的挖掘机出发啦",
-        "en": "Choo-choo trains, zooming planes, rumbling excavators — let's go!"
+        "en": "Trains, planes & more"
       },
       "background_color_image":"#4AA7D2",
       "background_color_card":"#3FA2CE"

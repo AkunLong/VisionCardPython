@@ -5,21 +5,21 @@
   "description": "适合3-6岁儿童的植物认知顺序，优先展示生活中常见、容易观察、形态特征明显的植物，再逐步扩展到家庭绿植、常见树木、粮食作物、香草植物、水生植物和低频植物。",
   "nav": {
     "id": "plant",
-    "name": "植物图卡合集",
-    "description": "45种常见植物认知卡",
+    "name": {"zh-CN": "植物图卡合集", "en": "Plants Cards"},
+    "description": {"zh-CN": "45种常见植物认知卡", "en": "45 Plant Cards"},
     "available": true,
     "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/plant/images/story/plant_money_tree_story.jpg",
     "title": {
         "zh-CN": "一粒种子的奇妙旅程",
-        "en": "The Incredible Journey of a Seed"
+        "en": "Amazing Plant World"
       },
       "subtitle": {
         "zh-CN": "看看绿色怎么长大",
-        "en": "Watch Green Come to Life"
+        "en": "Watch Them Grow"
       },
       "small_title": {
         "zh-CN": "蒲公英随风飞，仙人掌不怕晒，水稻变成白米饭",
-        "en": "Dandelions in the wind, cacti in the sun — plants are amazing"
+        "en": "Dandelions, cacti & more"
       },
       "background_color_image":"#B65E3A",
       "background_color_card":"#B45731"

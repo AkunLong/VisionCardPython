@@ -5,21 +5,21 @@
   "description": "适合3-6岁儿童的数字字母认知顺序，优先展示基础数字0-10，再扩展到11-18，最后按英文字母顺序展示A-Z，帮助儿童建立早期数字和字母认知。",
   "nav": {
     "id": "number",
-    "name": "数字字母图卡合集",
-    "description": "45种常见数字字母认知卡",
+    "name": {"zh-CN": "数字字母图卡合集", "en": "Numbers & Letters"},
+    "description": {"zh-CN": "45种常见数字字母认知卡", "en": "45 Number & Letter Cards"},
     "available": true,
     "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/number/images/story/number_letter_b_story.jpg",
     "title": {
       "zh-CN": "打开知识大门的第一把钥匙",
-      "en": "The First Key to a World of Knowledge"
+      "en": "Learn Numbers & Letters"
     },
     "subtitle": {
       "zh-CN": "数一数，认一认",
-      "en": "Count and Discover"
+      "en": "Count & Discover"
     },
     "small_title": {
       "zh-CN": "数一数1到18，认一认A到Z，和知识做好朋友",
-      "en": "Count 1 to 18, learn A to Z — your first steps into learning"
+      "en": "Count 1–18, Learn A–Z"
     },
     "background_color_image": "#9B5431",
     "background_color_card": "#984F2C"

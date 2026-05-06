@@ -5,21 +5,21 @@
   "description": "适合3-6岁儿童的动物认知顺序，优先展示生活中常见、绘本中高频、形象易识别的动物，再逐步扩展到动物园动物、海洋动物和低频动物。",
   "nav": {
     "id": "animal",
-    "name": "动物图卡合集",
-    "description": "45种常见动物认知卡",
+    "name": {"zh-CN": "动物图卡合集", "en": "Animals Cards"},
+    "description": {"zh-CN": "45种常见动物认知卡", "en": "45 Animal Cards"},
     "available": true,
     "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/animal/images/story/animal_lion_story.jpg",
     "title": {
         "zh-CN": "小小探险家，遇见大世界",
-        "en": "Discover the Animal Kingdom"
+        "en": "Discover Animal Kingdom"
       },
       "subtitle": {
         "zh-CN": "和45种动物交朋友",
-        "en": "Make 45 Animal Friends"
+        "en": "45 Animal Friends"
       },
       "small_title": {
         "zh-CN": "从软绵绵的小猫到威风的老虎，动物世界真奇妙",
-        "en": "Fluffy kittens, roaring tigers — the animal kingdom awaits"
+        "en": "Kittens, tigers & more"
       },
       "background_color_image":"#BE6D2C",
       "background_color_card":"#B4682B"

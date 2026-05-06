@@ -5,21 +5,21 @@
   "description": "适合3-6岁儿童的蔬菜认知顺序，优先展示生活中常见、颜色鲜明、形态容易识别的蔬菜，再逐步扩展到叶菜类、根茎类、豆类、菌菇类和低频蔬菜。",
   "nav": {
     "id": "vegetable",
-    "name": "蔬菜图卡合集",
-    "description": "45种常见蔬菜认知卡",
+    "name": {"zh-CN": "蔬菜图卡合集", "en": "Vegetables Cards"},
+    "description": {"zh-CN": "45种常见蔬菜认知卡", "en": "45 Veggie Cards"},
     "available": true,
     "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/vegetable/images/story/vegetable_bok_choy_story.jpg",
     "title": {
         "zh-CN": "从泥土到餐桌的色彩之旅",
-        "en": "From Soil to Table, a Colorful Journey"
+        "en": "Colorful Veggie World"
       },
       "subtitle": {
         "zh-CN": "看看蔬菜变魔术",
-        "en": "Discover the Magic of Veggies"
+        "en": "Veggie Magic"
       },
       "small_title": {
         "zh-CN": "红番茄，绿西兰花，紫茄子，菜园是个大调色盘",
-        "en": "Red tomatoes, green broccoli, purple eggplant — a garden rainbow"
+        "en": "Tomatoes, broccoli & more"
       },
       "background_color_image":"#269236",
       "background_color_card":"#1D8C2D"

@@ -19,7 +19,7 @@ import sys
 from pathlib import Path
 
 #CATEGORIES = ["animal", "fruit", "flower", "food", "number", "object", "person", "plant", "transport", "vegetable"]
-CATEGORIES = ["flower","object","number","person","plant","transport","vegetable"]
+CATEGORIES = ["transport"]
 
 STEP_NAMES = {
     "1": "items_make",

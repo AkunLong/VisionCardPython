@@ -5,21 +5,21 @@
   "description": "适合3-6岁儿童的水果认知顺序，优先展示常见、易识别、生活高频水果。",
   "nav": {
     "id": "fruit",
-    "name": "水果图卡合集",
-    "description": "45种常见水果认知卡",
+    "name": {"zh-CN": "水果图卡合集", "en": "Fruits Cards"},
+    "description": {"zh-CN": "45种常见水果认知卡", "en": "45 Fruit Cards"},
     "available": true,
     "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/fruit/images/story/fruit_lychee_story.jpg",
     "title": {
         "zh-CN": "大自然的甜蜜礼物",
-        "en": "Nature's Sweetest Gifts"
+        "en": "Nature's Sweet Fruits"
       },
       "subtitle": {
         "zh-CN": "剥一剥，尝一尝",
-        "en": "Peel, Taste, and Explore"
+        "en": "Peel & Taste"
       },
       "small_title": {
         "zh-CN": "红草莓，黄香蕉，圆西瓜，水果的世界甜蜜蜜",
-        "en": "Red strawberries, yellow bananas, round watermelons — nature's candy"
+        "en": "Strawberries, bananas & more"
       },
       "background_color_image":"#FF4354",
       "background_color_card":"#FC3446"
@@ -37,7 +37,7 @@
     { "id": "fruit_citrus", "name": "柑橙", "enName": "Citrus" },
     { "id": "fruit_pineapple", "name": "菠萝", "enName": "Pineapple" },
     { "id": "fruit_mango", "name": "芒果", "enName": "Mango" },
-    { "id": "fruit_honey_peach", "name": "水蜜桃", "enName": "Honey Peach" },
+    { "id": "fruit_honey_peach", "name": "水蜜桃", "enName": "Peach" },
     { "id": "fruit_cherry", "name": "樱桃", "enName": "Cherry" },
     { "id": "fruit_blueberry", "name": "蓝莓", "enName": "Blueberry" },
     { "id": "fruit_lemon", "name": "柠檬", "enName": "Lemon" },

@@ -5,21 +5,21 @@
   "description": "适合3-6岁儿童的花卉认知顺序，优先展示生活中常见、颜色鲜明、形态容易识别的花卉，再逐步扩展到季节性花卉、观赏花卉和低频花卉。",
   "nav": {
     "id": "flower",
-    "name": "花卉图卡合集",
-    "description": "45种常见花卉认知卡",
+    "name": {"zh-CN": "花卉图卡合集", "en": "Flowers Cards"},
+    "description": {"zh-CN": "45种常见花卉认知卡", "en": "45 Flower Cards"},
     "available": true,
     "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/flower/images/story/flower_begonia_story.jpg",
     "title": {
         "zh-CN": "花开四季，五彩缤纷",
-        "en": "A Garden for Every Season"
+        "en": "A Flower Garden"
       },
       "subtitle": {
         "zh-CN": "闻闻花香，看看花色",
-        "en": "Stop and Smell the Flowers"
+        "en": "Smell the Flowers"
       },
       "small_title": {
         "zh-CN": "春天的樱花，夏天的荷花，秋天的桂花，花开四季",
-        "en": "Spring cherry blossoms, summer lotus, autumn osmanthus — flowers all year"
+        "en": "Cherry blossoms, lotus & more"
       },
       "background_color_image":"#FC5767",
       "background_color_card":"#F84F5F"

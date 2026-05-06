@@ -42,25 +42,35 @@ def save_manifest(manifest: dict) -> None:
 
 
 def collect_files(category: str) -> list[tuple[Path, str]]:
-    """收集 data/{category}/ 下所有文件 + data/ 根目录的文件，返回 (本地路径, OSS相对路径) 列表"""
+    """收集需要同步到 OSS 的文件，返回 (本地绝对路径, 项目相对路径字符串)"""
     data_dir = PROJECT_ROOT / "data"
     results = []
 
-    # data/ 根目录的文件（如 registry.json）
-    for f in sorted(data_dir.iterdir()):
-        if f.is_file():
-            rel = f.relative_to(PROJECT_ROOT)
-            results.append((f, str(rel)))
+    # 定义需要扫描的目录及其扫描方式 (False=仅根目录, True=递归)
+    targets = [
+        (data_dir, False),  # data/ 根目录文件 (如 registry.json)
+        (data_dir / category, True),  # data/{category}/ 下所有文件
+        (data_dir / "tag-icons", True)  # 新增：svg 图标文件夹
+    ]
 
-    # data/{category}/ 下所有文件
-    cat_dir = data_dir / category
-    if cat_dir.is_dir():
-        for f in sorted(cat_dir.rglob("*")):
+    for path, recursive in targets:
+        if not path.exists():
+            if path.name == category:  # 仅对必需的 category 目录缺失报错
+                print(f"  ⚠️  目录不存在: {path}")
+            continue
+
+        # 根据是否递归选择匹配模式
+        pattern = "**/*" if recursive else "*"
+
+        # 统一处理文件收集
+        for f in sorted(path.glob(pattern) if not recursive else path.rglob("*")):
             if f.is_file():
+                # 过滤掉隐藏文件 (如 .DS_Store)
+                if f.name.startswith('.'):
+                    continue
+
                 rel = f.relative_to(PROJECT_ROOT)
                 results.append((f, str(rel)))
-    else:
-        print(f"  ⚠️  目录不存在: {cat_dir}")
 
     return results
 

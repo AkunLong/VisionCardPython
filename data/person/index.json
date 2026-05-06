@@ -5,21 +5,21 @@
   "description": "适合3-6岁儿童的人物认知顺序，优先展示家庭中最亲近、生活中高频接触的人物，再逐步扩展到亲属关系、公共服务职业、生活服务职业、劳动职业和兴趣职业。",
   "nav": {
     "id": "person",
-    "name": "人物图卡合集",
-    "description": "45种常见人物认知卡",
+    "name": {"zh-CN": "人物图卡合集", "en": "People Cards"},
+    "description": {"zh-CN": "45种常见人物认知卡", "en": "45 People Cards"},
     "available": true,
     "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/person/images/story/person_younger_sister_story.jpg",
     "title": {
         "zh-CN": "身边的人，温暖的心",
-        "en": "The People Who Make the World Go Round"
+        "en": "People All Around Us"
       },
       "subtitle": {
         "zh-CN": "认识守护你的每一个人",
-        "en": "Meet the Heroes Around You"
+        "en": "Meet the Heroes"
       },
       "small_title": {
         "zh-CN": "最亲的家人，勇敢的消防员，每个角色都了不起",
-        "en": "Loving family, brave firefighters — every role is remarkable"
+        "en": "Family, firefighters & more"
       },
       "background_color_image":"#E6A027",
       "background_color_card":"#E29715"
