@@ -1,17 +1,18 @@
 {
   "packs": [
     {
-      "id": "fruit",
-      "category": "fruit"
+      "id": "number",
+      "category": "number"
     },
     {
       "id": "animal",
       "category": "animal"
     },
     {
-      "id": "number",
-      "category": "number"
+      "id": "fruit",
+      "category": "fruit"
     },
+
     {
       "id": "person",
       "category": "person"

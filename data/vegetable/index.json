@@ -69,6 +69,12 @@
 
     { "id": "vegetable_shiitake", "name": "香菇", "enName": "Shiitake" },
     { "id": "vegetable_seafood_mushroom", "name": "海鲜菇", "enName": "Seafood Mushroom" },
-    { "id": "vegetable_tea_tree_mushroom", "name": "茶树菇", "enName": "Tea Tree Mushroom" }
+    { "id": "vegetable_tea_tree_mushroom", "name": "茶树菇", "enName": "Tea Tree Mushroom" },
+
+    { "id": "vegetable_corn", "name": "玉米", "enName": "Corn" },
+    { "id": "vegetable_crown_daisy", "name": "茼蒿", "enName": "Crown Daisy" },
+    { "id": "vegetable_radish", "name": "萝卜", "enName": "Radish" },
+    { "id": "vegetable_white_radish", "name": "白萝卜", "enName": "White Radish" },
+    { "id": "vegetable_zucchini", "name": "西葫芦", "enName": "Zucchini" }
   ]
 }

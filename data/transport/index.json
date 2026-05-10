@@ -6,7 +6,7 @@
   "nav": {
     "id": "transport",
     "name": {"zh-CN": "交通工具图卡合集", "en": "Transport Cards"},
-    "description": {"zh-CN": "45种常见交通工具认知卡", "en": "45 Transport Cards"},
+    "description": {"zh-CN": "46种常见交通工具认知卡", "en": "46 Transport Cards"},
     "available": true,
     "cover_image": "https://alibaba-download.oss-cn-beijing.aliyuncs.com/weapp/VisionCard/app/src/assets/data/transport/images/story/transport_excavator_story.jpg",
     "title": {
@@ -24,7 +24,7 @@
       "background_color_image":"#4AA7D2",
       "background_color_card":"#3FA2CE"
   },
-  "total": 45,
+  "total": 46,
   "items": [
   { "id": "transport_balance_bike", "name": "平衡车", "enName": "Balance Bike" },
   { "id": "transport_bicycle", "name": "自行车", "enName": "Bicycle" },
@@ -74,6 +74,10 @@
   { "id": "transport_steering_wheel", "name": "方向盘", "enName": "Steering Wheel" },
   { "id": "transport_tire", "name": "轮胎", "enName": "Tire" },
   { "id": "transport_dash_cam", "name": "行车记录仪", "enName": "Dash Cam" },
-  { "id": "transport_traffic_cone", "name": "路障警示锥", "enName": "Traffic Cone" }
+  { "id": "transport_traffic_cone", "name": "路障警示锥", "enName": "Traffic Cone" },
+
+  { "id": "transport_atv", "name": "全地形车", "enName": "ATV" },
+  { "id": "transport_rv", "name": "房车", "enName": "RV" },
+  { "id": "transport_subway", "name": "地铁", "enName": "Subway" }
 ]
 }
